@@ -1,0 +1,189 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, user-scalable=no">
+  <title>Reel Cards</title>
+  <meta name="description" content="Turn French Instagram reels into flashcards.">
+  <meta name="theme-color" content="#f2f2f7" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#000000" media="(prefers-color-scheme: dark)">
+  <meta name="color-scheme" content="light dark">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-title" content="Reel Cards">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+  <link rel="icon" href="icons/icon-192.png">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <!-- ADD -->
+  <section class="view" id="view-add" data-title="Add">
+    <header class="navbar"><div class="navbar-title">Add</div></header>
+    <main class="content">
+      <h1 class="large-title">Add</h1>
+
+      <div id="inbox-banner" class="banner" hidden>
+        <div class="banner-icon">
+          <svg viewBox="0 0 24 24"><path d="M4 13h4l2 3h4l2-3h4M4 13l2.5-7h11L20 13v5a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1z"/></svg>
+        </div>
+        <div class="banner-text"><strong id="inbox-title">New words from your Shortcut</strong><span id="inbox-sub">Tap to review and add them.</span></div>
+        <svg class="chev" viewBox="0 0 24 24"><path d="m9 6 6 6-6 6"/></svg>
+      </div>
+
+      <!-- idle -->
+      <div class="state" id="add-idle">
+        <div class="hero card">
+          <div class="hero-art" aria-hidden="true">
+            <div class="mini-card c1"></div><div class="mini-card c2"></div>
+            <div class="mini-card c3"><span>Bonjour</span></div>
+          </div>
+          <h2>Turn a reel into flashcards</h2>
+          <p>Pick a saved reel or a screenshot. The app reads the French on screen and makes cards from the new words.</p>
+        </div>
+        <label class="btn btn-primary btn-large" for="file-input">
+          <svg viewBox="0 0 24 24"><path d="M12 5v14M5 12h14"/></svg>
+          Choose Video or Screenshot
+        </label>
+        <input id="file-input" type="file" accept="video/*,image/*" hidden>
+        <button class="btn-link" id="open-guide">Share straight from Instagram</button>
+      </div>
+
+      <!-- working -->
+      <div class="state" id="add-working" hidden>
+        <div class="card working-card">
+          <div class="ring"><svg viewBox="0 0 64 64"><circle class="ring-bg" cx="32" cy="32" r="28"/><circle class="ring-fg" id="ring-fg" cx="32" cy="32" r="28"/></svg></div>
+          <h2 id="work-title">Uploading…</h2>
+          <p id="work-sub">This usually takes under a minute.</p>
+        </div>
+        <button class="btn btn-plain" id="cancel-work">Cancel</button>
+      </div>
+
+      <!-- results -->
+      <div class="state" id="add-results" hidden>
+        <p class="section-note" id="results-summary"></p>
+        <div class="list inset" id="results-list"></div>
+        <details class="captions">
+          <summary>Text found on screen</summary>
+          <div id="caption-lines"></div>
+        </details>
+        <button class="btn btn-plain" id="discard-results">Discard</button>
+        <div class="sticky-action">
+          <button class="btn btn-primary btn-large" id="add-cards">Add Cards</button>
+        </div>
+      </div>
+
+      <!-- done -->
+      <div class="state" id="add-done" hidden>
+        <div class="card done-card">
+          <div class="check"><svg viewBox="0 0 52 52"><circle cx="26" cy="26" r="24"/><path d="m15 27 7 7 15-16"/></svg></div>
+          <h2 id="done-title">Cards added</h2>
+          <p>They're saved on this phone and ready to review.</p>
+        </div>
+        <button class="btn btn-primary btn-large" id="go-review">Review Now</button>
+        <button class="btn btn-plain" id="add-another">Add Another</button>
+      </div>
+
+      <!-- error -->
+      <div class="state" id="add-error" hidden>
+        <div class="card done-card">
+          <div class="err-icon">!</div>
+          <h2 id="error-title">That didn't work</h2>
+          <p id="error-sub"></p>
+        </div>
+        <button class="btn btn-primary btn-large" id="error-retry">Try Again</button>
+      </div>
+    </main>
+  </section>
+
+  <!-- REVIEW -->
+  <section class="view" id="view-review" data-title="Review" hidden>
+    <header class="navbar"><div class="navbar-title">Review</div><div class="navbar-right" id="review-count"></div></header>
+    <main class="content review-content">
+      <h1 class="large-title">Review</h1>
+      <div id="review-empty" class="empty" hidden>
+        <div class="empty-icon"><svg viewBox="0 0 24 24"><path d="M20 6 9 17l-5-5"/></svg></div>
+        <h2 id="empty-title">All caught up</h2>
+        <p id="empty-sub">No cards are due right now.</p>
+        <button class="btn btn-primary" id="empty-action" hidden>Add Your First Reel</button>
+      </div>
+      <div id="review-area" hidden>
+        <div class="progress"><div class="progress-bar" id="progress-bar"></div></div>
+        <div class="stage" id="stage">
+          <div class="flashcard" id="flashcard">
+            <div class="face front">
+              <span class="pos" id="fc-pos"></span>
+              <div class="word"><span class="article" id="fc-article"></span><span id="fc-lemma"></span></div>
+              <span class="hint">Tap to flip</span>
+            </div>
+            <div class="face back">
+              <span class="pos" id="fc-pos-back"></span>
+              <div class="word small" id="fc-lemma-back"></div>
+              <div class="meaning" id="fc-meaning"></div>
+              <blockquote class="example" id="fc-example"></blockquote>
+            </div>
+          </div>
+        </div>
+        <div class="grade-area">
+          <button class="btn btn-primary btn-large" id="show-answer">Show Answer</button>
+          <div class="grades" id="grades" hidden>
+            <button class="grade again" data-grade="again"><span>Again</span><small></small></button>
+            <button class="grade hard" data-grade="hard"><span>Hard</span><small></small></button>
+            <button class="grade good" data-grade="good"><span>Good</span><small></small></button>
+            <button class="grade easy" data-grade="easy"><span>Easy</span><small></small></button>
+          </div>
+        </div>
+      </div>
+    </main>
+  </section>
+
+  <!-- LIBRARY -->
+  <section class="view" id="view-library" data-title="Library" hidden>
+    <header class="navbar"><div class="navbar-title">Library</div><button class="navbar-right nav-btn" id="export-btn">Export</button></header>
+    <main class="content">
+      <h1 class="large-title">Library</h1>
+      <div class="search">
+        <svg viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+        <input id="search" type="search" placeholder="Search" autocomplete="off" autocorrect="off" spellcheck="false">
+      </div>
+      <div class="stats" id="stats"></div>
+      <div class="list inset" id="library-list"></div>
+      <div id="library-empty" class="empty small" hidden><p>No cards yet. Add a reel to get started.</p></div>
+      <div class="list inset settings">
+        <button class="row row-button" id="open-guide-2"><span class="row-icon blue"><svg viewBox="0 0 24 24"><path d="M4 12v7a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1v-7M12 3v12M7 8l5-5 5 5"/></svg></span><span class="row-main">Share from Instagram</span><svg class="chev" viewBox="0 0 24 24"><path d="m9 6 6 6-6 6"/></svg></button>
+        <button class="row row-button" id="export-btn-2"><span class="row-icon green"><svg viewBox="0 0 24 24"><path d="M12 3v12M7 10l5 5 5-5M5 21h14"/></svg></span><span class="row-main">Export to Anki (CSV)</span><svg class="chev" viewBox="0 0 24 24"><path d="m9 6 6 6-6 6"/></svg></button>
+      </div>
+      <p class="footnote">Cards are stored only on this phone. Meanings from Wiktionary (CC BY-SA), word forms from the Grammalecte lexicon (MPL 2.0).</p>
+    </main>
+  </section>
+
+  <!-- TAB BAR -->
+  <nav class="tabbar" role="tablist">
+    <button class="tab active" data-view="add" role="tab" aria-label="Add">
+      <svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M12 8v8M8 12h8"/></svg>
+      <span>Add</span><i class="dot" id="add-dot" hidden></i>
+    </button>
+    <button class="tab" data-view="review" role="tab" aria-label="Review">
+      <svg viewBox="0 0 24 24"><rect x="4" y="7" width="16" height="13" rx="2.5"/><path d="M7 4h10"/></svg>
+      <span>Review</span><i class="badge" id="review-badge" hidden></i>
+    </button>
+    <button class="tab" data-view="library" role="tab" aria-label="Library">
+      <svg viewBox="0 0 24 24"><path d="M5 4v16M10 4v16M15 5l4 15"/></svg>
+      <span>Library</span>
+    </button>
+  </nav>
+
+  <!-- SHEET (card detail / shortcut guide) -->
+  <div class="sheet-backdrop" id="sheet-backdrop" hidden></div>
+  <div class="sheet" id="sheet" hidden role="dialog" aria-modal="true">
+    <div class="sheet-grabber"></div>
+    <div class="sheet-header"><button class="nav-btn" id="sheet-close">Done</button><div class="sheet-title" id="sheet-title"></div><span></span></div>
+    <div class="sheet-body" id="sheet-body"></div>
+  </div>
+
+  <div class="toast" id="toast" hidden></div>
+
+  <script type="module" src="app.js"></script>
+</body>
+</html>
