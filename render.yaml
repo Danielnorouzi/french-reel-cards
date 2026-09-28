@@ -1,0 +1,9 @@
+# Render Blueprint — creates one free web service from this repo.
+services:
+  - type: web
+    name: french-reel-cards
+    runtime: docker
+    plan: free
+    dockerfilePath: ./Dockerfile
+    healthCheckPath: /api/health
+    autoDeploy: true

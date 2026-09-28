@@ -1,0 +1,14 @@
+{
+  "name": "french-reel-cards",
+  "version": "1.0.0",
+  "description": "Turn French Instagram reels into flashcards. Free: ffmpeg + Tesseract OCR + open dictionaries, cards stored on your phone.",
+  "type": "module",
+  "private": true,
+  "license": "MIT",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "start": "node server/index.js",
+    "test": "node --test test/*.test.js",
+    "build-data": "node scripts/build-data.mjs"
+  }
+}
