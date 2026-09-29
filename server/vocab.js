@@ -119,3 +119,39 @@ export function extractVocab(lines, { known = [] } = {}) {
   }
   return [...byLemma.values()];
 }
+
+// Import a word list: [{ fr, en?, example? }] → cards. Single words are lemmatized and get a
+// meaning/gender from the dictionary; the user's own meaning always wins. Phrases are kept as-is.
+const ARTICLE = /^(le|la|les|l'|un|une|des|du|de la|de l')\s*/i;
+export function lookupWords(items) {
+  const out = [];
+  const seen = new Set();
+  for (const it of items.slice(0, 2000)) {
+    let fr = normalizeText(String(it.fr || '')).trim().replace(/\s+/g, ' ');
+    if (!fr) continue;
+    const art = (fr.match(ARTICLE)?.[1] || '').toLowerCase();
+    const bare = fr.replace(ARTICLE, '').trim() || fr;
+    const artGender = art === 'la' || art === 'une' ? 'f' : art === 'le' || art === 'un' ? 'm' : '';
+    const single = !/\s/.test(bare);
+    let r = single ? pickReading(bare.toLowerCase(), art ? 'le' : '') : null;
+    if (!r) { // multi-word expression, e.g. "avoir le cafard"
+      const ph = loadLexicon().phrases?.[fr.toLowerCase()] || loadLexicon().phrases?.[bare.toLowerCase()];
+      if (ph) r = { lemma: loadLexicon().phrases[fr.toLowerCase()] ? fr : bare, pos: ph[0], gender: '', meaning: ph[1] };
+    }
+    const lemma = r ? r.lemma : bare;
+    const key = lemma.toLowerCase();
+    if (seen.has(key)) continue;
+    seen.add(key);
+    const pos = r?.pos || (artGender ? 'noun' : single ? '' : 'phrase');
+    out.push({
+      lemma,
+      word: bare,
+      pos,
+      gender: artGender || (pos === 'noun' ? r?.gender || '' : ''),
+      meaning: String(it.en || '').trim() || r?.meaning || '',
+      example: String(it.example || '').trim(),
+      found: !!r
+    });
+  }
+  return out;
+}

@@ -37,7 +37,7 @@
         <div class="hero card mascot-card">
           <div class="mascot m-coffee" aria-hidden="true">
             <span class="steam s1"></span><span class="steam s2"></span><span class="steam s3"></span>
-            <img src="art/coffee.webp" alt="">
+            <img src="art/coffee.webp" alt="" height="150">
             <span class="bubble">Un café, et on apprend&nbsp;?</span>
           </div>
           <h2>Turn a reel into flashcards</h2>
@@ -48,14 +48,18 @@
           Choose Video or Screenshot
         </label>
         <input id="file-input" type="file" accept="video/*,image/*" hidden>
-        <button class="btn-link" id="open-guide">Share straight from Instagram</button>
+        <div class="link-row">
+          <button class="btn-link" id="open-guide">Share from Instagram</button>
+          <span class="link-dot" aria-hidden="true">·</span>
+          <button class="btn-link" id="open-import">Import words</button>
+        </div>
       </div>
 
       <!-- working -->
       <div class="state" id="add-working" hidden>
         <div class="card working-card mascot-card">
           <div class="mascot m-standing" id="work-mascot" aria-hidden="true">
-            <img id="work-art" src="art/standing.webp" alt="">
+            <img id="work-art" src="art/standing.webp" alt="" height="150">
             <span class="bubble" id="work-bubble">J'arrive&nbsp;!</span>
           </div>
           <h2 id="work-title">Uploading…</h2>
@@ -87,7 +91,7 @@
         <div class="card done-card mascot-card">
           <div class="mascot m-cool" aria-hidden="true">
             <span class="twinkle t1">✦</span><span class="twinkle t2">✦</span><span class="twinkle t3">✦</span>
-            <img src="art/cool.webp" alt="">
+            <img src="art/cool.webp" alt="" height="150">
             <span class="bubble">Magnifique&nbsp;!</span>
           </div>
           <h2 id="done-title">Cards added</h2>
@@ -101,7 +105,7 @@
       <div class="state" id="add-error" hidden>
         <div class="card done-card mascot-card">
           <div class="mascot m-belly" aria-hidden="true">
-            <img src="art/belly.webp" alt="">
+            <img src="art/belly.webp" alt="" height="96">
             <span class="bubble">Oups&nbsp;!</span>
           </div>
           <h2 id="error-title">That didn't work</h2>
@@ -175,6 +179,7 @@
       <div id="library-empty" class="empty small" hidden><p>No cards yet. Add a reel to get started.</p></div>
       <div class="list inset settings">
         <button class="row row-button" id="manage-sets"><span class="row-icon indigo"><svg viewBox="0 0 24 24"><rect x="4" y="6" width="16" height="13" rx="2.5"/><path d="M7 3h10"/></svg></span><span class="row-main">Manage Sets</span><svg class="chev" viewBox="0 0 24 24"><path d="m9 6 6 6-6 6"/></svg></button>
+        <button class="row row-button" id="open-import-2"><span class="row-icon orange"><svg viewBox="0 0 24 24"><path d="M12 4v11M7 10l5 5 5-5M5 20h14"/></svg></span><span class="row-main">Import Words</span><svg class="chev" viewBox="0 0 24 24"><path d="m9 6 6 6-6 6"/></svg></button>
         <button class="row row-button" id="open-guide-2"><span class="row-icon blue"><svg viewBox="0 0 24 24"><path d="M4 12v7a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1v-7M12 3v12M7 8l5-5 5 5"/></svg></span><span class="row-main">Share from Instagram</span><svg class="chev" viewBox="0 0 24 24"><path d="m9 6 6 6-6 6"/></svg></button>
         <button class="row row-button" id="export-btn-2"><span class="row-icon green"><svg viewBox="0 0 24 24"><path d="M12 3v12M7 10l5 5 5-5M5 21h14"/></svg></span><span class="row-main">Export to Anki (CSV)</span><svg class="chev" viewBox="0 0 24 24"><path d="m9 6 6 6-6 6"/></svg></button>
       </div>
@@ -193,7 +198,7 @@
         <div class="blob b1"></div><div class="blob b2"></div><div class="blob b3"></div>
         <div class="glass-card">
           <button class="avatar-btn" id="avatar-btn" aria-label="Change profile picture">
-            <img id="profile-avatar" src="avatars/dog.webp" alt="">
+            <img id="profile-avatar" src="avatars/dog.webp" alt="" width="116" height="116">
             <span class="avatar-edit"><svg viewBox="0 0 24 24"><path d="M4 20h4L19 9l-4-4L4 16z"/></svg></span>
           </button>
           <div class="glass-name" id="profile-name">Your name</div>
@@ -270,7 +275,7 @@
       <span>Library</span>
     </button>
     <button class="tab" data-view="profile" role="tab" aria-label="Profile">
-      <img class="tab-avatar" id="tab-avatar" src="avatars/dog.webp" alt="">
+      <img class="tab-avatar" id="tab-avatar" src="avatars/dog.webp" alt="" width="28" height="28">
       <span>Profile</span>
     </button>
   </nav>

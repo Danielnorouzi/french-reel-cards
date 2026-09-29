@@ -200,6 +200,16 @@ for (const [head, e] of heads) {
 console.log('wiktionary-only forms added:', extra);
 console.log('records:', records.length, 'forms:', Object.keys(forms).length);
 
+// Multi-word expressions ("avoir le cafard", "coup de foudre") for the word-list import.
+const phrases = {};
+for (const [head, e] of heads) {
+  if (!/\s/.test(head) || head.length > 40 || head.split(' ').length > 5 || !/^[a-zàâäçéèêëîïôöùûüÿœæ' -]+$/i.test(head)) continue;
+  const pos = ['phrase', 'noun', 'verb', 'adj', 'adv', 'intj', 'prep', 'conj'].find(p => e.pos[p]);
+  if (!pos) continue;
+  phrases[head.toLowerCase()] = [pos, gloss(e.pos[pos])];
+}
+console.log('phrases:', Object.keys(phrases).length);
+
 const json = JSON.stringify({
   v: 1,
   sources: {
@@ -207,7 +217,8 @@ const json = JSON.stringify({
     meanings: 'English Wiktionary via kaikki.org / Vuizur Wiktionary-Dictionaries (CC BY-SA 4.0)'
   },
   records,
-  forms
+  forms,
+  phrases
 });
 fs.writeFileSync(new URL('../data/lexicon.json.gz', import.meta.url), zlib.gzipSync(json, { level: 9 }));
 console.log('wrote data/lexicon.json.gz', (json.length / 1e6).toFixed(1), 'MB raw');

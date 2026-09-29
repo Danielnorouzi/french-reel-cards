@@ -11,7 +11,7 @@ import { pipeline } from 'node:stream/promises';
 import { Readable, Transform } from 'node:stream';
 import { fileURLToPath } from 'node:url';
 import { readText } from './ocr.js';
-import { extractVocab, loadLexicon } from './vocab.js';
+import { extractVocab, loadLexicon, lookupWords } from './vocab.js';
 
 const here = path.dirname(fileURLToPath(import.meta.url));
 const PUBLIC = path.join(here, '..', 'public');
@@ -157,7 +157,7 @@ async function serveStatic(req, res, pathname) {
   try {
     const data = await fsp.readFile(file);
     const ext = path.extname(file);
-    const noCache = ext === '.html' || rel === '/sw.js' || ext === '.webmanifest';
+    const noCache = ['.html', '.js', '.css', '.webmanifest'].includes(ext); // code always revalidates; images may cache
     res.writeHead(200, {
       'Content-Type': TYPES[ext] || 'application/octet-stream',
       'Cache-Control': noCache ? 'no-cache' : 'public, max-age=3600',
@@ -181,6 +181,15 @@ const server = http.createServer(async (req, res) => {
     }
     if (p === '/api/health') return send(res, 200, { ok: true, version: VERSION, queue: queue.length });
 
+    // Import a word list: look up base form, meaning and gender for each word.
+    if (p === '/api/lookup' && req.method === 'POST') {
+      let body = '';
+      for await (const chunk of req) { body += chunk; if (body.length > 2_000_000) throw Object.assign(new Error('List is too long.'), { status: 413 }); }
+      let items;
+      try { items = JSON.parse(body).items; } catch { items = null; }
+      if (!Array.isArray(items)) return send(res, 400, { error: 'Expected { items: [...] }.' });
+      return send(res, 200, { cards: lookupWords(items) });
+    }
     if (p === '/api/jobs' && req.method === 'POST') {
       const job = await createJob(req);
       return send(res, 202, publicJob(job));

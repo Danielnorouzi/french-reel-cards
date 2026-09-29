@@ -103,3 +103,17 @@ test('OCR: stacked one-word lines merge into one caption', () => {
     row(4, 742, 46, 73, 'un'), row(5, 640, 78, 96, 'toujours'), row(6, 1500, 60, 20, 'zz')].join('\n');
   assert.deepEqual(parseTsv(tsv).map(l => l.text), ["le problème c'est", 'toujours un']);
 });
+
+test('word-list import: base forms, gender from article, phrases, own meanings win', async () => {
+  const { lookupWords } = await import('../server/vocab.js');
+  const out = Object.fromEntries(lookupWords([
+    { fr: 'la maison' }, { fr: 'allait' }, { fr: 'chats', en: 'cats!' }, { fr: 'avoir le cafard' }, { fr: 'zzqxw' }, { fr: 'la maison' }
+  ]).map(c => [c.lemma, c]));
+  assert.equal(out.maison.gender, 'f');
+  assert.match(out.maison.meaning, /house/);
+  assert.equal(out.aller.pos, 'verb');
+  assert.equal(out.chat.meaning, 'cats!');
+  assert.match(out['avoir le cafard'].meaning, /blue/);
+  assert.equal(out.zzqxw.meaning, '');
+  assert.equal(Object.keys(out).length, 5); // duplicate removed
+});

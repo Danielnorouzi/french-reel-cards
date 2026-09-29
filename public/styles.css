@@ -55,6 +55,7 @@ body {
   color: var(--label);
   -webkit-font-smoothing: antialiased;
   -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%; /* stop Chrome on Android from inflating text */
   overscroll-behavior-y: none;
   -webkit-user-select: none;
   user-select: none;
@@ -610,3 +611,69 @@ body.selecting .content { padding-bottom: calc(var(--tabbar-h) + 90px); }
 @keyframes slide { from { transform: translateX(-110%); } to { transform: translateX(320%); } }
 .hero.mascot-card { padding-top: 22px; }
 .working-card.mascot-card, .done-card.mascot-card { padding-top: 22px; }
+
+/* ---------- small phones (and Chrome's narrow device sizes) ---------- */
+.segmented button, .stat span, .glass-pill span, .btn { white-space: nowrap; }
+.stat span, .glass-pill span { display: block; overflow: hidden; text-overflow: ellipsis; }
+.pill { flex: 0 1 auto; min-width: 0; }
+.segmented { flex: none; }
+@media (max-width: 374px) {
+  .link-row { flex-direction: column; }
+  .link-row .btn-link { padding: 6px; }
+  .link-dot { display: none; }
+  .content { padding-left: 14px; padding-right: 14px; }
+  .chips { margin-left: -14px; margin-right: -14px; padding-left: 14px; padding-right: 14px; }
+  .sticky-action { margin: 0 -14px; padding-left: 14px; padding-right: 14px; }
+  .large-title { font-size: 30px; line-height: 36px; }
+  .card { padding: 22px 16px; }
+  .hero h2, .done-card h2, .working-card h2 { font-size: 20px; }
+  p { font-size: 16px; }
+  .btn-large { font-size: 16px; }
+  .review-controls { gap: 8px; }
+  .pill { font-size: 14px; padding: 0 10px; }
+  .segmented button { padding: 0 8px; font-size: 13px; }
+  .word { font-size: 34px; }
+  .meaning { font-size: 22px; }
+  .grades { gap: 6px; }
+  .grade { font-size: 15px; min-height: 58px; }
+  .stats { gap: 8px; }
+  .stat { padding: 12px; }
+  .stat b { font-size: 24px; }
+  .stat span { font-size: 12px; }
+  .stat-grid { gap: 8px; }
+  .stat-grid .stat b { font-size: 22px; }
+  .glass-name { font-size: 22px; }
+  .glass-pills { gap: 6px; }
+  .glass-pill b { font-size: 19px; }
+  .glass-pill span { font-size: 11px; }
+  .bubble { font-size: 12.5px; left: calc(50% + 34px); max-width: calc(50% - 36px); padding: 6px 9px; }
+  .avatar-grid { gap: 10px; }
+  .avatar-opt img { width: 76px; height: 76px; }
+}
+@media (max-width: 300px) {
+  .large-title { font-size: 28px; }
+  .btn-large { font-size: 15px; padding: 0 12px; }
+  .segmented button { font-size: 12px; padding: 0 6px; }
+  .pill { font-size: 13px; }
+  .stat { padding: 10px; }
+  .stat b { font-size: 21px; }
+  .stat span { font-size: 11px; }
+  .grade { font-size: 14px; }
+  .grade small { font-size: 11px; }
+  .bubble { font-size: 12px; }
+}
+
+/* ---------- import words ---------- */
+.link-row { display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 0 2px; margin-top: 14px; }
+.link-row .btn-link { margin: 0; padding: 10px 6px; font-size: 15px; white-space: nowrap; }
+.link-dot { color: var(--label-3); }
+.row-icon.orange { background: var(--orange); }
+.import-box { background: var(--card); border-radius: 16px; box-shadow: var(--shadow); padding: 12px 14px; }
+.import-box textarea { width: 100%; min-height: 180px; border: 0; background: none; resize: vertical; outline: none;
+  font: 16px/1.45 ui-monospace, "SF Mono", Menlo, monospace; color: var(--label); }
+.import-box textarea::placeholder { color: var(--label-3); }
+.import-actions { display: flex; gap: 10px; margin: 12px 0 4px; }
+.import-actions .btn { flex: 1; }
+.btn-secondary { background: var(--fill); color: var(--tint); }
+.import-count { font-size: 14px; color: var(--label-2); margin: 10px 4px 0; min-height: 18px; }
+.row-sub.missing { color: var(--orange); font-style: italic; }

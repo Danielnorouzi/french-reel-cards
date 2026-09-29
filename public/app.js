@@ -232,7 +232,7 @@ $('#go-review').addEventListener('click', () => showView('review'));
 
 // ----- results
 let pendingResult = null; // { cards, lines, fromInbox }
-function showResults(results, fromInbox = false) {
+function showResults(results, fromInbox = false, opts = {}) {
   const known = new Set(cards.map(c => c.lemma.toLowerCase()));
   const seen = new Set();
   const found = [];
@@ -245,12 +245,12 @@ function showResults(results, fromInbox = false) {
       if (seen.has(k)) continue;
       seen.add(k);
       if (known.has(k)) { skipped++; continue; }
-      found.push({ ...c, selected: true });
+      found.push({ ...c, selected: c.selected !== false });
     }
   }
   pendingResult = { cards: found, lines, fromInbox };
 
-  const summary = found.length
+  const summary = opts.summary ? opts.summary(found.length, skipped) : found.length
     ? `Found ${found.length} new word${found.length === 1 ? '' : 's'}` + (skipped ? `. Skipped ${skipped} already in your library.` : '.')
     : lines.length
       ? `No new words this time${skipped ? ` (${skipped} already in your library)` : ''}.`
@@ -260,11 +260,11 @@ function showResults(results, fromInbox = false) {
   const list = $('#results-list');
   list.hidden = !found.length;
   list.innerHTML = found.map((c, i) => `
-    <button class="row on" data-i="${i}">
+    <button class="row${c.selected ? ' on' : ''}" data-i="${i}">
       <span class="toggle"><svg viewBox="0 0 24 24"><path d="M5 12.5 10 17l9-10"/></svg></span>
       <span class="row-main">
         <span class="row-title">${article(c) ? `<span class="art">${esc(article(c))} </span>` : ''}${esc(c.lemma)}</span>
-        <span class="row-sub">${esc(c.meaning)}</span>
+        <span class="row-sub${c.meaning ? '' : ' missing'}">${c.meaning ? esc(c.meaning) : 'No meaning found. Add one later in Library.'}</span>
       </span>
       <span class="row-meta">${esc(c.pos)}</span>
     </button>`).join('');
@@ -328,6 +328,117 @@ $('#discard-results').addEventListener('click', async () => {
   pendingResult = null;
   setAddState('idle');
 });
+
+// ----- import a word list (paste or file: plain list, "word - meaning", Quizlet/Anki CSV or TSV)
+function cleanField(s) {
+  return String(s || '').split(/<br\s*\/?>/i)[0]            // Anki backs: keep the first line (the meaning)
+    .replace(/<[^>]+>/g, '').replace(/&nbsp;/g, ' ').replace(/&amp;/g, '&').replace(/&lt;/g, '<').replace(/&gt;/g, '>')
+    .replace(/&quot;/g, '"').replace(/&#39;/g, "'").replace(/\s+/g, ' ').trim();
+}
+function splitCsv(line, sep) {
+  const out = []; let cur = '', q = false;
+  for (let i = 0; i < line.length; i++) {
+    const ch = line[i];
+    if (q) { if (ch === '"' && line[i + 1] === '"') { cur += '"'; i++; } else if (ch === '"') q = false; else cur += ch; }
+    else if (ch === '"') q = true;
+    else if (ch === sep) { out.push(cur); cur = ''; }
+    else cur += ch;
+  }
+  out.push(cur);
+  return out;
+}
+export function parseWordList(text) {
+  const items = [];
+  const lines = text.replace(/\r/g, '').split('\n');
+  // a file where most lines have commas/semicolons outside quotes is a CSV
+  const csvSep = [',', ';'].find(sep => lines.filter(l => l.includes(sep)).length > lines.filter(Boolean).length * 0.6);
+  for (let raw of lines) {
+    const line = raw.trim();
+    if (!line || line.startsWith('#')) continue;
+    let parts;
+    if (line.includes('\t')) parts = line.split('\t');
+    else if (line.startsWith('"') || (csvSep && /^[^"]*$/.test(line) === false)) parts = splitCsv(line, csvSep || ',');
+    else {
+      const m = line.match(/^(.+?)\s+(?:=|-|–|—|:)\s+(.+)$/) || (csvSep ? null : line.match(/^(.+?)\s*[;,]\s*(.+)$/));
+      parts = m ? [m[1], m[2]] : csvSep ? splitCsv(line, csvSep) : [line];
+    }
+    const fr = cleanField(parts[0]).replace(/^\d+[.)]\s*/, '');   // "1. la maison" numbered lists
+    if (!fr || /^(front|french|word|mot|term)$/i.test(fr)) continue;  // header rows
+    items.push({ fr, en: cleanField(parts[1] || '') });
+  }
+  return items;
+}
+
+function openImport() {
+  openSheet('Import Words', `
+    <p class="note" style="margin:4px 4px 14px">Paste words, one per line. Add a meaning after a dash if you want your own. Otherwise the app looks it up and finds the base form and gender.</p>
+    <div class="import-box"><textarea id="import-text" spellcheck="false" autocapitalize="off" placeholder="la maison&#10;connaître - to know (a person)&#10;avoir le cafard = to feel down&#10;allait"></textarea></div>
+    <p class="import-count" id="import-count"></p>
+    <div class="import-actions">
+      <label class="btn btn-secondary" for="import-file">Choose File</label>
+      <button class="btn btn-primary" id="import-go" disabled>Look Up Words</button>
+    </div>
+    <input type="file" id="import-file" accept=".csv,.txt,.tsv,text/plain,text/csv,text/tab-separated-values" hidden>
+    <p class="note">Works with plain lists, “word - meaning”, and CSV or TSV exports from Anki, Quizlet or a spreadsheet (French in the first column, English in the second).</p>`);
+  const ta = $('#import-text'), go = $('#import-go');
+  const update = () => {
+    const n = parseWordList(ta.value).length;
+    go.disabled = !n;
+    go.textContent = n ? `Look Up ${n} Word${n === 1 ? '' : 's'}` : 'Look Up Words';
+    $('#import-count').textContent = n ? `${n} word${n === 1 ? '' : 's'} ready` : '';
+  };
+  ta.addEventListener('input', update);
+  $('#import-file').addEventListener('change', async e => {
+    const f = e.target.files[0];
+    if (!f) return;
+    ta.value = (await f.text()).slice(0, 500_000);
+    update();
+  });
+  go.addEventListener('click', async () => {
+    const items = parseWordList(ta.value);
+    if (!items.length) return;
+    haptic();
+    await closeSheet();
+    importWords(items);
+  });
+}
+$('#open-import').addEventListener('click', openImport);
+$('#open-import-2').addEventListener('click', () => { showView('add'); openImport(); });
+
+async function importWords(items) {
+  const job = { cancelled: false, xhr: null };
+  activeUpload = job;
+  setAddState('working');
+  setWorking('Looking up words…', `${items.length} word${items.length === 1 ? '' : 's'}`, null, 'reading');
+  $('#work-bubble').textContent = 'Je cherche…';
+  const summary = (n, skipped) => n
+    ? `Ready to add ${n} word${n === 1 ? '' : 's'}` + (skipped ? `. Skipped ${skipped} already in your library.` : '.')
+    : `All ${skipped} word${skipped === 1 ? ' is' : 's are'} already in your library.`;
+  let cardsOut;
+  try {
+    const ok = await ensureAwake(
+      () => setWorking('Waking up…', 'The free server takes a quick nap. The first lookup can take up to a minute.', null, 'waking'),
+      () => job.cancelled);
+    if (!ok || job.cancelled) return;
+    setWorking('Looking up words…', `${items.length} word${items.length === 1 ? '' : 's'}`, null, 'reading');
+    const r = await fetchWithTimeout(`${API}/api/lookup`, { method: 'POST', headers: { 'content-type': 'application/json' },
+      body: JSON.stringify({ items }) }, 60_000);
+    const body = await r.json();
+    if (!r.ok) throw new Error(body.error || 'Lookup failed.');
+    cardsOut = body.cards.map(c => ({ ...c, selected: !!c.meaning }));
+  } catch (e) {
+    if (job.cancelled) return;
+    // offline: still import the words that came with a meaning
+    const withMeaning = items.filter(i => i.en);
+    if (!withMeaning.length) { showError(e.message || 'Could not reach the server to look the words up.'); return; }
+    cardsOut = withMeaning.map(i => ({ lemma: i.fr, word: i.fr, pos: '', gender: '', meaning: i.en, example: '' }));
+    toast('Offline: imported words that had a meaning');
+  } finally {
+    if (activeUpload === job) activeUpload = null;
+  }
+  if (job.cancelled) return;
+  showResults([{ lines: [], cards: cardsOut }], false, { summary });
+}
 
 // ----- iOS Shortcut inbox
 async function inboxCode() {
@@ -1072,5 +1183,17 @@ document.addEventListener('visibilitychange', () => {
   showView(new URLSearchParams(location.search).get('tab') || (dueCards().length ? 'review' : 'add'));
   ping(60_000); // start waking the free server right away, in the background
   checkInbox();
-  if ('serviceWorker' in navigator) navigator.serviceWorker.register('sw.js').catch(() => {});
+  if ('serviceWorker' in navigator) {
+    // When a new release has been downloaded in the background, switch to it once, cleanly.
+    const hadController = !!navigator.serviceWorker.controller;
+    let reloaded = false;
+    navigator.serviceWorker.addEventListener('controllerchange', () => {
+      if (!hadController || reloaded) return;
+      reloaded = true;
+      // don't yank the page away mid-upload or mid-review
+      const busy = activeUpload || (currentView === 'review' && current);
+      if (busy) toast('Update ready. It applies next time you open the app.'); else location.reload();
+    });
+    navigator.serviceWorker.register('sw.js', { updateViaCache: 'none' }).then(r => r.update()).catch(() => {});
+  }
 })();
