@@ -12,7 +12,7 @@ test('SM-2: new card intervals for each button', () => {
   const c = newCardState(now);
   assert.equal(schedule(c, 'again', now).due - now, 60_000);
   assert.equal(schedule(c, 'hard', now).interval, 1);
-  assert.equal(schedule(c, 'good', now).interval, 1);
+  assert.equal(schedule(c, 'good', now).interval, 2);
   assert.equal(schedule(c, 'easy', now).interval, 4);
 });
 
@@ -36,14 +36,17 @@ test('SM-2: intervals grow and ease adjusts', () => {
 test('Anki CSV has headers, articles and escaped fields', () => {
   const csv = toAnkiCsv([
     { lemma: 'maison', word: 'maison', pos: 'noun', gender: 'f', meaning: 'house', example: 'à la maison, "chez nous"' },
-    { lemma: 'aller', word: 'allait', pos: 'verb', gender: '', meaning: 'to go', example: 'on allait au cinéma' }
+    { lemma: 'aller', word: 'allait', pos: 'verb', gender: '', meaning: 'to go', example: 'on allait au cinéma', deck: 'Films' }
   ]);
   const lines = csv.trim().split('\n');
   assert.equal(lines[0], '#separator:Comma');
   assert.ok(lines.includes('#html:true'));
-  assert.ok(lines[4].startsWith('"une maison","house<br><i>noun · feminine</i>'));
-  assert.ok(lines[4].includes('""chez nous""'));
-  assert.ok(lines[5].includes('on <b>allait</b> au cinéma'));
+  assert.ok(lines.includes('#deck column:4'));
+  assert.ok(lines[5].startsWith('"une maison","house<br><i>noun · feminine</i>'));
+  assert.ok(lines[5].includes('""chez nous""'));
+  assert.ok(lines[5].endsWith('"Reel Cards"'));
+  assert.ok(lines[6].includes('on <b>allait</b> au cinéma'));
+  assert.ok(lines[6].endsWith('"Reel Cards::Films"'));
   assert.equal(frontText({ lemma: 'chat', pos: 'noun', gender: 'm' }), 'un chat');
 });
 
@@ -99,4 +102,36 @@ test('OCR: stacked one-word lines merge into one caption', () => {
   const tsv = ['header', row(1, 250, 60, 48, 'le'), row(2, 348, 80, 95, 'problème'), row(3, 447, 60, 92, "c'est"),
     row(4, 742, 46, 73, 'un'), row(5, 640, 78, 96, 'toujours'), row(6, 1500, 60, 20, 'zz')].join('\n');
   assert.deepEqual(parseTsv(tsv).map(l => l.text), ["le problème c'est", 'toujours un']);
+});
+
+test('word-list import: base forms, gender from article, phrases, own meanings win', async () => {
+  const { lookupWords } = await import('../server/vocab.js');
+  const out = Object.fromEntries(lookupWords([
+    { fr: 'la maison' }, { fr: 'allait' }, { fr: 'chats', en: 'cats!' }, { fr: 'avoir le cafard' }, { fr: 'zzqxw' }, { fr: 'la maison' }
+  ]).map(c => [c.lemma, c]));
+  assert.equal(out.maison.gender, 'f');
+  assert.match(out.maison.meaning, /house/);
+  assert.equal(out.aller.pos, 'verb');
+  assert.equal(out.chat.meaning, 'cats!');
+  assert.match(out['avoir le cafard'].meaning, /blue/);
+  assert.equal(out.zzqxw.meaning, '');
+  assert.equal(Object.keys(out).length, 5); // duplicate removed
+});
+
+test('conjugation API: any form in, full tables out', async () => {
+  const { conjugate, suggest } = await import('../server/conjugate.js');
+  const aller = conjugate('allait');
+  assert.equal(aller.infinitive, 'aller');
+  assert.equal(aller.auxiliary, 'être');
+  const tense = (v, mood, name) => v.moods.find(m => m.name === mood).tenses.find(t => t.name === name).rows.map(r => r.text);
+  assert.deepEqual(tense(aller, 'Indicatif', 'Présent'), ['je vais', 'tu vas', 'il/elle va', 'nous allons', 'vous allez', 'ils/elles vont']);
+  assert.equal(tense(aller, 'Indicatif', 'Passé composé')[3], 'nous sommes allé(e)s');
+  const lever = conjugate('se lever');
+  assert.equal(tense(lever, 'Indicatif', 'Passé composé')[1], "tu t'es levé(e)");
+  assert.deepEqual(tense(lever, 'Impératif', 'Présent'), ['lève-toi', 'levons-nous', 'levez-vous']);
+  assert.equal(tense(conjugate('aimer'), 'Indicatif', 'Présent')[0], "j'aime");
+  assert.deepEqual(tense(conjugate('falloir'), 'Indicatif', 'Présent'), ['il faut']);
+  assert.equal(tense(conjugate('prendre'), 'Subjonctif', 'Présent')[2], "qu'il/elle prenne");
+  assert.equal(conjugate('blorp'), null);
+  assert.equal(suggest('mang')[0], 'manger');
 });

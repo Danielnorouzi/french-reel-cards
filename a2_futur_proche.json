@@ -1,0 +1,805 @@
+{
+  "texts": [],
+  "questions": [
+    {
+      "id": "a2-gram-0101",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "futur_proche",
+      "question": "Complète au futur proche : Je ___ de ce projet à la pause café demain matin.",
+      "options": [
+        "allons parler",
+        "vais parler",
+        "vas parler",
+        "va parler"
+      ],
+      "answer": 1,
+      "explanation": "The futur proche uses aller in the present tense followed by an infinitive. Aller must agree with the subject.",
+      "textId": null
+    },
+    {
+      "id": "a2-gram-0102",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "futur_proche",
+      "question": "Complète au futur proche : Tu ___ avec les voisins dans l’ascenseur ce soir.",
+      "options": [
+        "va parler",
+        "allons parler",
+        "vais parler",
+        "vas parler"
+      ],
+      "answer": 3,
+      "explanation": "The futur proche uses aller in the present tense followed by an infinitive. Aller must agree with the subject.",
+      "textId": null
+    },
+    {
+      "id": "a2-gram-0103",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "futur_proche",
+      "question": "Complète au futur proche : Elle ___ de ses vacances pendant le déjeuner après le cours.",
+      "options": [
+        "vas parler",
+        "va parler",
+        "allons parler",
+        "vais parler"
+      ],
+      "answer": 1,
+      "explanation": "The futur proche uses aller in the present tense followed by an infinitive. Aller must agree with the subject.",
+      "textId": null
+    },
+    {
+      "id": "a2-gram-0104",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "futur_proche",
+      "question": "Complète au futur proche : Nous ___ de notre week-end en rentrant ce week-end.",
+      "options": [
+        "va parler",
+        "allons parler",
+        "vas parler",
+        "vais parler"
+      ],
+      "answer": 1,
+      "explanation": "The futur proche uses aller in the present tense followed by an infinitive. Aller must agree with the subject.",
+      "textId": null
+    },
+    {
+      "id": "a2-gram-0105",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "futur_proche",
+      "question": "Complète au futur proche : Vous ___ avec les clients au téléphone dans une heure.",
+      "options": [
+        "vais parler",
+        "vas parler",
+        "allez parler",
+        "va parler"
+      ],
+      "answer": 2,
+      "explanation": "The futur proche uses aller in the present tense followed by an infinitive. Aller must agree with the subject.",
+      "textId": null
+    },
+    {
+      "id": "a2-gram-0106",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "futur_proche",
+      "question": "Complète au futur proche : Je ___ le travail avant de sortir demain matin.",
+      "options": [
+        "vas finir",
+        "allons finir",
+        "vais finir",
+        "va finir"
+      ],
+      "answer": 2,
+      "explanation": "The futur proche uses aller in the present tense followed by an infinitive. Aller must agree with the subject.",
+      "textId": null
+    },
+    {
+      "id": "a2-gram-0107",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "futur_proche",
+      "question": "Complète au futur proche : Tu ___ ton exercice dans le bus ce soir.",
+      "options": [
+        "vas finir",
+        "vais finir",
+        "va finir",
+        "allons finir"
+      ],
+      "answer": 0,
+      "explanation": "The futur proche uses aller in the present tense followed by an infinitive. Aller must agree with the subject.",
+      "textId": null
+    },
+    {
+      "id": "a2-gram-0108",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "futur_proche",
+      "question": "Complète au futur proche : Elle ___ son repas sur la terrasse après le cours.",
+      "options": [
+        "va finir",
+        "vais finir",
+        "allons finir",
+        "vas finir"
+      ],
+      "answer": 0,
+      "explanation": "The futur proche uses aller in the present tense followed by an infinitive. Aller must agree with the subject.",
+      "textId": null
+    },
+    {
+      "id": "a2-gram-0109",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "futur_proche",
+      "question": "Complète au futur proche : Nous ___ notre séance à dix-neuf heures ce week-end.",
+      "options": [
+        "vais finir",
+        "allons finir",
+        "va finir",
+        "vas finir"
+      ],
+      "answer": 1,
+      "explanation": "The futur proche uses aller in the present tense followed by an infinitive. Aller must agree with the subject.",
+      "textId": null
+    },
+    {
+      "id": "a2-gram-0110",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "futur_proche",
+      "question": "Complète au futur proche : Vous ___ votre appel dans le couloir dans une heure.",
+      "options": [
+        "vas finir",
+        "allez finir",
+        "vais finir",
+        "va finir"
+      ],
+      "answer": 1,
+      "explanation": "The futur proche uses aller in the present tense followed by an infinitive. Aller must agree with the subject.",
+      "textId": null
+    },
+    {
+      "id": "a2-gram-0111",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "futur_proche",
+      "question": "Complète au futur proche : Je ___ le bus près de la boulangerie demain matin.",
+      "options": [
+        "vais prendre",
+        "vas prendre",
+        "allons prendre",
+        "va prendre"
+      ],
+      "answer": 0,
+      "explanation": "The futur proche uses aller in the present tense followed by an infinitive. Aller must agree with the subject.",
+      "textId": null
+    },
+    {
+      "id": "a2-gram-0112",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "futur_proche",
+      "question": "Complète au futur proche : Tu ___ ton café sans sucre ce soir.",
+      "options": [
+        "vais prendre",
+        "va prendre",
+        "allons prendre",
+        "vas prendre"
+      ],
+      "answer": 3,
+      "explanation": "The futur proche uses aller in the present tense followed by an infinitive. Aller must agree with the subject.",
+      "textId": null
+    },
+    {
+      "id": "a2-gram-0113",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "futur_proche",
+      "question": "Complète au futur proche : Elle ___ son déjeuner à la maison après le cours.",
+      "options": [
+        "allons prendre",
+        "vais prendre",
+        "vas prendre",
+        "va prendre"
+      ],
+      "answer": 3,
+      "explanation": "The futur proche uses aller in the present tense followed by an infinitive. Aller must agree with the subject.",
+      "textId": null
+    },
+    {
+      "id": "a2-gram-0114",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "futur_proche",
+      "question": "Complète au futur proche : Nous ___ le train pour aller en ville ce week-end.",
+      "options": [
+        "va prendre",
+        "allons prendre",
+        "vais prendre",
+        "vas prendre"
+      ],
+      "answer": 1,
+      "explanation": "The futur proche uses aller in the present tense followed by an infinitive. Aller must agree with the subject.",
+      "textId": null
+    },
+    {
+      "id": "a2-gram-0115",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "futur_proche",
+      "question": "Complète au futur proche : Vous ___ vos billets sur votre téléphone dans une heure.",
+      "options": [
+        "va prendre",
+        "vais prendre",
+        "vas prendre",
+        "allez prendre"
+      ],
+      "answer": 3,
+      "explanation": "The futur proche uses aller in the present tense followed by an infinitive. Aller must agree with the subject.",
+      "textId": null
+    },
+    {
+      "id": "a2-gram-0116",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "futur_proche",
+      "question": "Complète au futur proche : Je ___ une pause entre deux cours demain matin.",
+      "options": [
+        "allons faire",
+        "va faire",
+        "vas faire",
+        "vais faire"
+      ],
+      "answer": 3,
+      "explanation": "The futur proche uses aller in the present tense followed by an infinitive. Aller must agree with the subject.",
+      "textId": null
+    },
+    {
+      "id": "a2-gram-0117",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "futur_proche",
+      "question": "Complète au futur proche : Tu ___ la cuisine pour tes amis ce soir.",
+      "options": [
+        "va faire",
+        "allons faire",
+        "vais faire",
+        "vas faire"
+      ],
+      "answer": 3,
+      "explanation": "The futur proche uses aller in the present tense followed by an infinitive. Aller must agree with the subject.",
+      "textId": null
+    },
+    {
+      "id": "a2-gram-0118",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "futur_proche",
+      "question": "Complète au futur proche : Elle ___ du vélo le dimanche après le cours.",
+      "options": [
+        "allons faire",
+        "vais faire",
+        "va faire",
+        "vas faire"
+      ],
+      "answer": 2,
+      "explanation": "The futur proche uses aller in the present tense followed by an infinitive. Aller must agree with the subject.",
+      "textId": null
+    },
+    {
+      "id": "a2-gram-0119",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "futur_proche",
+      "question": "Complète au futur proche : Nous ___ les courses après le travail ce week-end.",
+      "options": [
+        "allons faire",
+        "vas faire",
+        "vais faire",
+        "va faire"
+      ],
+      "answer": 0,
+      "explanation": "The futur proche uses aller in the present tense followed by an infinitive. Aller must agree with the subject.",
+      "textId": null
+    },
+    {
+      "id": "a2-gram-0120",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "futur_proche",
+      "question": "Complète au futur proche : Vous ___ du sport pendant la pause déjeuner dans une heure.",
+      "options": [
+        "vas faire",
+        "allez faire",
+        "va faire",
+        "vais faire"
+      ],
+      "answer": 1,
+      "explanation": "The futur proche uses aller in the present tense followed by an infinitive. Aller must agree with the subject.",
+      "textId": null
+    },
+    {
+      "id": "a2-gram-0121",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "futur_proche",
+      "question": "Complète au futur proche : Je ___ mes amis le vendredi soir demain matin.",
+      "options": [
+        "va voir",
+        "vais voir",
+        "vas voir",
+        "allons voir"
+      ],
+      "answer": 1,
+      "explanation": "The futur proche uses aller in the present tense followed by an infinitive. Aller must agree with the subject.",
+      "textId": null
+    },
+    {
+      "id": "a2-gram-0122",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "futur_proche",
+      "question": "Complète au futur proche : Tu ___ la mer depuis ta fenêtre ce soir.",
+      "options": [
+        "allons voir",
+        "va voir",
+        "vas voir",
+        "vais voir"
+      ],
+      "answer": 2,
+      "explanation": "The futur proche uses aller in the present tense followed by an infinitive. Aller must agree with the subject.",
+      "textId": null
+    },
+    {
+      "id": "a2-gram-0123",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "futur_proche",
+      "question": "Complète au futur proche : Elle ___ sa famille le week-end après le cours.",
+      "options": [
+        "allons voir",
+        "vais voir",
+        "vas voir",
+        "va voir"
+      ],
+      "answer": 3,
+      "explanation": "The futur proche uses aller in the present tense followed by an infinitive. Aller must agree with the subject.",
+      "textId": null
+    },
+    {
+      "id": "a2-gram-0124",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "futur_proche",
+      "question": "Complète au futur proche : Nous ___ le parc depuis notre balcon ce week-end.",
+      "options": [
+        "vas voir",
+        "vais voir",
+        "allons voir",
+        "va voir"
+      ],
+      "answer": 2,
+      "explanation": "The futur proche uses aller in the present tense followed by an infinitive. Aller must agree with the subject.",
+      "textId": null
+    },
+    {
+      "id": "a2-gram-0125",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "futur_proche",
+      "question": "Complète au futur proche : Vous ___ le résultat sur votre écran dans une heure.",
+      "options": [
+        "vas voir",
+        "vais voir",
+        "allez voir",
+        "va voir"
+      ],
+      "answer": 2,
+      "explanation": "The futur proche uses aller in the present tense followed by an infinitive. Aller must agree with the subject.",
+      "textId": null
+    },
+    {
+      "id": "a2-gram-0126",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "futur_proche",
+      "question": "Complète au futur proche : Je ___ les nouvelles le matin demain matin.",
+      "options": [
+        "allons lire",
+        "vais lire",
+        "vas lire",
+        "va lire"
+      ],
+      "answer": 1,
+      "explanation": "The futur proche uses aller in the present tense followed by an infinitive. Aller must agree with the subject.",
+      "textId": null
+    },
+    {
+      "id": "a2-gram-0127",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "futur_proche",
+      "question": "Complète au futur proche : Tu ___ ton roman dans le train ce soir.",
+      "options": [
+        "allons lire",
+        "vais lire",
+        "vas lire",
+        "va lire"
+      ],
+      "answer": 2,
+      "explanation": "The futur proche uses aller in the present tense followed by an infinitive. Aller must agree with the subject.",
+      "textId": null
+    },
+    {
+      "id": "a2-gram-0128",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "futur_proche",
+      "question": "Complète au futur proche : Elle ___ les commentaires sous la vidéo après le cours.",
+      "options": [
+        "va lire",
+        "vais lire",
+        "vas lire",
+        "allons lire"
+      ],
+      "answer": 0,
+      "explanation": "The futur proche uses aller in the present tense followed by an infinitive. Aller must agree with the subject.",
+      "textId": null
+    },
+    {
+      "id": "a2-gram-0129",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "futur_proche",
+      "question": "Complète au futur proche : Nous ___ le menu avant de commander ce week-end.",
+      "options": [
+        "vas lire",
+        "allons lire",
+        "vais lire",
+        "va lire"
+      ],
+      "answer": 1,
+      "explanation": "The futur proche uses aller in the present tense followed by an infinitive. Aller must agree with the subject.",
+      "textId": null
+    },
+    {
+      "id": "a2-gram-0130",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "futur_proche",
+      "question": "Complète au futur proche : Vous ___ vos messages après la réunion dans une heure.",
+      "options": [
+        "va lire",
+        "vas lire",
+        "allez lire",
+        "vais lire"
+      ],
+      "answer": 2,
+      "explanation": "The futur proche uses aller in the present tense followed by an infinitive. Aller must agree with the subject.",
+      "textId": null
+    },
+    {
+      "id": "a2-gram-0131",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "futur_proche",
+      "question": "Complète au futur proche : Je ___ un message à mon frère demain matin.",
+      "options": [
+        "va écrire",
+        "allons écrire",
+        "vas écrire",
+        "vais écrire"
+      ],
+      "answer": 3,
+      "explanation": "The futur proche uses aller in the present tense followed by an infinitive. Aller must agree with the subject.",
+      "textId": null
+    },
+    {
+      "id": "a2-gram-0132",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "futur_proche",
+      "question": "Complète au futur proche : Tu ___ une liste avant les courses ce soir.",
+      "options": [
+        "vas écrire",
+        "va écrire",
+        "allons écrire",
+        "vais écrire"
+      ],
+      "answer": 0,
+      "explanation": "The futur proche uses aller in the present tense followed by an infinitive. Aller must agree with the subject.",
+      "textId": null
+    },
+    {
+      "id": "a2-gram-0133",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "futur_proche",
+      "question": "Complète au futur proche : Elle ___ ses idées dans un carnet après le cours.",
+      "options": [
+        "va écrire",
+        "vas écrire",
+        "allons écrire",
+        "vais écrire"
+      ],
+      "answer": 0,
+      "explanation": "The futur proche uses aller in the present tense followed by an infinitive. Aller must agree with the subject.",
+      "textId": null
+    },
+    {
+      "id": "a2-gram-0134",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "futur_proche",
+      "question": "Complète au futur proche : Nous ___ nos réponses sur la feuille ce week-end.",
+      "options": [
+        "vas écrire",
+        "va écrire",
+        "vais écrire",
+        "allons écrire"
+      ],
+      "answer": 3,
+      "explanation": "The futur proche uses aller in the present tense followed by an infinitive. Aller must agree with the subject.",
+      "textId": null
+    },
+    {
+      "id": "a2-gram-0135",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "futur_proche",
+      "question": "Complète au futur proche : Vous ___ votre nom sur le formulaire dans une heure.",
+      "options": [
+        "vais écrire",
+        "va écrire",
+        "allez écrire",
+        "vas écrire"
+      ],
+      "answer": 2,
+      "explanation": "The futur proche uses aller in the present tense followed by an infinitive. Aller must agree with the subject.",
+      "textId": null
+    },
+    {
+      "id": "a2-gram-0136",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "futur_proche",
+      "question": "Complète au futur proche : Je ___ la réponse depuis ce matin demain matin.",
+      "options": [
+        "vas attendre",
+        "va attendre",
+        "vais attendre",
+        "allons attendre"
+      ],
+      "answer": 2,
+      "explanation": "The futur proche uses aller in the present tense followed by an infinitive. Aller must agree with the subject.",
+      "textId": null
+    },
+    {
+      "id": "a2-gram-0137",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "futur_proche",
+      "question": "Complète au futur proche : Tu ___ le bus devant la gare ce soir.",
+      "options": [
+        "vas attendre",
+        "vais attendre",
+        "va attendre",
+        "allons attendre"
+      ],
+      "answer": 0,
+      "explanation": "The futur proche uses aller in the present tense followed by an infinitive. Aller must agree with the subject.",
+      "textId": null
+    },
+    {
+      "id": "a2-gram-0138",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "futur_proche",
+      "question": "Complète au futur proche : Elle ___ son amie à l’entrée après le cours.",
+      "options": [
+        "va attendre",
+        "allons attendre",
+        "vas attendre",
+        "vais attendre"
+      ],
+      "answer": 0,
+      "explanation": "The futur proche uses aller in the present tense followed by an infinitive. Aller must agree with the subject.",
+      "textId": null
+    },
+    {
+      "id": "a2-gram-0139",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "futur_proche",
+      "question": "Complète au futur proche : Nous ___ notre commande près du comptoir ce week-end.",
+      "options": [
+        "vas attendre",
+        "allons attendre",
+        "vais attendre",
+        "va attendre"
+      ],
+      "answer": 1,
+      "explanation": "The futur proche uses aller in the present tense followed by an infinitive. Aller must agree with the subject.",
+      "textId": null
+    },
+    {
+      "id": "a2-gram-0140",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "futur_proche",
+      "question": "Complète au futur proche : Vous ___ votre tour dans le couloir dans une heure.",
+      "options": [
+        "allez attendre",
+        "vas attendre",
+        "va attendre",
+        "vais attendre"
+      ],
+      "answer": 0,
+      "explanation": "The futur proche uses aller in the present tense followed by an infinitive. Aller must agree with the subject.",
+      "textId": null
+    },
+    {
+      "id": "a2-gram-0141",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "futur_proche",
+      "question": "Complète au futur proche : Je ___ un restaurant près de chez moi demain matin.",
+      "options": [
+        "va choisir",
+        "vas choisir",
+        "vais choisir",
+        "allons choisir"
+      ],
+      "answer": 2,
+      "explanation": "The futur proche uses aller in the present tense followed by an infinitive. Aller must agree with the subject.",
+      "textId": null
+    },
+    {
+      "id": "a2-gram-0142",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "futur_proche",
+      "question": "Complète au futur proche : Tu ___ tes vêtements la veille ce soir.",
+      "options": [
+        "vas choisir",
+        "allons choisir",
+        "va choisir",
+        "vais choisir"
+      ],
+      "answer": 0,
+      "explanation": "The futur proche uses aller in the present tense followed by an infinitive. Aller must agree with the subject.",
+      "textId": null
+    },
+    {
+      "id": "a2-gram-0143",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "futur_proche",
+      "question": "Complète au futur proche : Elle ___ un cadeau pour sa sœur après le cours.",
+      "options": [
+        "allons choisir",
+        "vais choisir",
+        "vas choisir",
+        "va choisir"
+      ],
+      "answer": 3,
+      "explanation": "The futur proche uses aller in the present tense followed by an infinitive. Aller must agree with the subject.",
+      "textId": null
+    },
+    {
+      "id": "a2-gram-0144",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "futur_proche",
+      "question": "Complète au futur proche : Nous ___ notre itinéraire ensemble ce week-end.",
+      "options": [
+        "vas choisir",
+        "va choisir",
+        "vais choisir",
+        "allons choisir"
+      ],
+      "answer": 3,
+      "explanation": "The futur proche uses aller in the present tense followed by an infinitive. Aller must agree with the subject.",
+      "textId": null
+    },
+    {
+      "id": "a2-gram-0145",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "futur_proche",
+      "question": "Complète au futur proche : Vous ___ vos places avant de payer dans une heure.",
+      "options": [
+        "vas choisir",
+        "va choisir",
+        "vais choisir",
+        "allez choisir"
+      ],
+      "answer": 3,
+      "explanation": "The futur proche uses aller in the present tense followed by an infinitive. Aller must agree with the subject.",
+      "textId": null
+    },
+    {
+      "id": "a2-gram-0146",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "futur_proche",
+      "question": "Complète au futur proche : Je ___ la table avant le dîner demain matin.",
+      "options": [
+        "va mettre",
+        "vais mettre",
+        "vas mettre",
+        "allons mettre"
+      ],
+      "answer": 1,
+      "explanation": "The futur proche uses aller in the present tense followed by an infinitive. Aller must agree with the subject.",
+      "textId": null
+    },
+    {
+      "id": "a2-gram-0147",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "futur_proche",
+      "question": "Complète au futur proche : Tu ___ ton téléphone en mode silencieux ce soir.",
+      "options": [
+        "vas mettre",
+        "vais mettre",
+        "allons mettre",
+        "va mettre"
+      ],
+      "answer": 0,
+      "explanation": "The futur proche uses aller in the present tense followed by an infinitive. Aller must agree with the subject.",
+      "textId": null
+    },
+    {
+      "id": "a2-gram-0148",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "futur_proche",
+      "question": "Complète au futur proche : Elle ___ sa veste avant de sortir après le cours.",
+      "options": [
+        "vas mettre",
+        "va mettre",
+        "vais mettre",
+        "allons mettre"
+      ],
+      "answer": 1,
+      "explanation": "The futur proche uses aller in the present tense followed by an infinitive. Aller must agree with the subject.",
+      "textId": null
+    },
+    {
+      "id": "a2-gram-0149",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "futur_proche",
+      "question": "Complète au futur proche : Nous ___ nos sacs dans le coffre ce week-end.",
+      "options": [
+        "vas mettre",
+        "vais mettre",
+        "allons mettre",
+        "va mettre"
+      ],
+      "answer": 2,
+      "explanation": "The futur proche uses aller in the present tense followed by an infinitive. Aller must agree with the subject.",
+      "textId": null
+    },
+    {
+      "id": "a2-gram-0150",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "futur_proche",
+      "question": "Complète au futur proche : Vous ___ vos clés dans ce tiroir dans une heure.",
+      "options": [
+        "allez mettre",
+        "va mettre",
+        "vas mettre",
+        "vais mettre"
+      ],
+      "answer": 0,
+      "explanation": "The futur proche uses aller in the present tense followed by an infinitive. Aller must agree with the subject.",
+      "textId": null
+    }
+  ]
+}

@@ -1,0 +1,805 @@
+{
+  "texts": [],
+  "questions": [
+    {
+      "id": "b2-gram-0301",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "connectors",
+      "question": "___ la pluie, la terrasse est restée ouverte.",
+      "options": [
+        "Malgré",
+        "Bien que",
+        "Même si",
+        "Pourtant"
+      ],
+      "answer": 0,
+      "explanation": "Malgré is followed by a noun phrase and expresses concession.",
+      "textId": null
+    },
+    {
+      "id": "b2-gram-0302",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "connectors",
+      "question": "___ sa fatigue, elle a terminé le montage.",
+      "options": [
+        "Même si",
+        "Cependant",
+        "Malgré",
+        "Bien que"
+      ],
+      "answer": 2,
+      "explanation": "Malgré introduces a noun phrase expressing an obstacle.",
+      "textId": null
+    },
+    {
+      "id": "b2-gram-0303",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "connectors",
+      "question": "___ le bruit, nous avons réussi à nous concentrer.",
+      "options": [
+        "Malgré",
+        "Même si",
+        "Pourtant",
+        "Bien que"
+      ],
+      "answer": 0,
+      "explanation": "Malgré takes a noun phrase, unlike bien que or même si.",
+      "textId": null
+    },
+    {
+      "id": "b2-gram-0304",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "connectors",
+      "question": "___ son prix élevé, ce téléphone se vend bien.",
+      "options": [
+        "Malgré",
+        "Même si",
+        "Bien que",
+        "Toutefois"
+      ],
+      "answer": 0,
+      "explanation": "Malgré introduces a noun phrase expressing concession.",
+      "textId": null
+    },
+    {
+      "id": "b2-gram-0305",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "connectors",
+      "question": "___ les travaux, le magasin accueille encore des clients.",
+      "options": [
+        "Malgré",
+        "Bien que",
+        "Néanmoins",
+        "Même si"
+      ],
+      "answer": 0,
+      "explanation": "Malgré is followed directly by the noun phrase les travaux.",
+      "textId": null
+    },
+    {
+      "id": "b2-gram-0306",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "connectors",
+      "question": "___ tu sois pressé, prends le temps de vérifier.",
+      "options": [
+        "Bien que",
+        "Malgré",
+        "Pourtant",
+        "Même si"
+      ],
+      "answer": 0,
+      "explanation": "Bien que introduces a concessive clause in the subjunctive.",
+      "textId": null
+    },
+    {
+      "id": "b2-gram-0307",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "connectors",
+      "question": "___ elle soit loin, nous nous parlons tous les jours.",
+      "options": [
+        "Malgré",
+        "Cependant",
+        "Bien que",
+        "Même si"
+      ],
+      "answer": 2,
+      "explanation": "Bien que takes the subjunctive, here soit.",
+      "textId": null
+    },
+    {
+      "id": "b2-gram-0308",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "connectors",
+      "question": "___ nous ayons peu de place, nous recevons souvent des amis.",
+      "options": [
+        "Malgré",
+        "Même si",
+        "Bien que",
+        "Toutefois"
+      ],
+      "answer": 2,
+      "explanation": "Bien que is followed by the subjunctive, here ayons.",
+      "textId": null
+    },
+    {
+      "id": "b2-gram-0309",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "connectors",
+      "question": "___ vous soyez débutants, vous pouvez participer.",
+      "options": [
+        "Même si",
+        "Néanmoins",
+        "Bien que",
+        "Malgré"
+      ],
+      "answer": 2,
+      "explanation": "Bien que takes the subjunctive, matching soyez.",
+      "textId": null
+    },
+    {
+      "id": "b2-gram-0310",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "connectors",
+      "question": "___ il fasse froid, on peut manger dehors.",
+      "options": [
+        "Malgré",
+        "Bien que",
+        "Pourtant",
+        "Même si"
+      ],
+      "answer": 1,
+      "explanation": "Bien que introduces concession and takes fasse in the subjunctive.",
+      "textId": null
+    },
+    {
+      "id": "b2-gram-0311",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "connectors",
+      "question": "___ tu es déjà inscrit, inutile de remplir ce formulaire.",
+      "options": [
+        "Afin que",
+        "Puisque",
+        "Malgré",
+        "Bien que"
+      ],
+      "answer": 1,
+      "explanation": "Puisque introduces an established reason and takes the indicative.",
+      "textId": null
+    },
+    {
+      "id": "b2-gram-0312",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "connectors",
+      "question": "___ le café est fermé, retrouvons-nous à la bibliothèque.",
+      "options": [
+        "Malgré",
+        "Puisque",
+        "Bien que",
+        "Pour que"
+      ],
+      "answer": 1,
+      "explanation": "Puisque introduces the known reason for the suggestion.",
+      "textId": null
+    },
+    {
+      "id": "b2-gram-0313",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "connectors",
+      "question": "___ vous avez les clés, vous pouvez entrer avant nous.",
+      "options": [
+        "Bien que",
+        "Puisque",
+        "Malgré",
+        "Afin que"
+      ],
+      "answer": 1,
+      "explanation": "Puisque introduces a reason and works with the indicative avez.",
+      "textId": null
+    },
+    {
+      "id": "b2-gram-0314",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "connectors",
+      "question": "___ elle connaît déjà le quartier, elle peut nous guider.",
+      "options": [
+        "Malgré",
+        "Pour que",
+        "Bien que",
+        "Puisque"
+      ],
+      "answer": 3,
+      "explanation": "Puisque introduces a reason accepted as known.",
+      "textId": null
+    },
+    {
+      "id": "b2-gram-0315",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "connectors",
+      "question": "___ nous sommes tous là, commençons la réunion.",
+      "options": [
+        "Malgré",
+        "Afin que",
+        "Bien que",
+        "Puisque"
+      ],
+      "answer": 3,
+      "explanation": "Puisque introduces the established reason for starting.",
+      "textId": null
+    },
+    {
+      "id": "b2-gram-0316",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "connectors",
+      "question": "Je te laisse le code ___ tu puisses entrer sans moi.",
+      "options": [
+        "pour que",
+        "donc",
+        "malgré",
+        "parce que"
+      ],
+      "answer": 0,
+      "explanation": "Pour que expresses purpose and takes the subjunctive puisses.",
+      "textId": null
+    },
+    {
+      "id": "b2-gram-0317",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "connectors",
+      "question": "On a agrandi le texte ___ tout le monde puisse le lire.",
+      "options": [
+        "malgré",
+        "pour que",
+        "pourtant",
+        "parce que"
+      ],
+      "answer": 1,
+      "explanation": "Pour que introduces the intended result and takes the subjunctive.",
+      "textId": null
+    },
+    {
+      "id": "b2-gram-0318",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "connectors",
+      "question": "Elle parle moins vite ___ nous comprenions les instructions.",
+      "options": [
+        "parce que",
+        "cependant",
+        "pour que",
+        "malgré"
+      ],
+      "answer": 2,
+      "explanation": "Pour que expresses purpose and takes comprenions in the subjunctive.",
+      "textId": null
+    },
+    {
+      "id": "b2-gram-0319",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "connectors",
+      "question": "Je t’envoie une capture ___ tu voies le problème.",
+      "options": [
+        "pour que",
+        "donc",
+        "parce que",
+        "malgré"
+      ],
+      "answer": 0,
+      "explanation": "Pour que expresses purpose and takes the subjunctive voies.",
+      "textId": null
+    },
+    {
+      "id": "b2-gram-0320",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "connectors",
+      "question": "Nous avons réservé tôt ___ vous ayez de bonnes places.",
+      "options": [
+        "pour que",
+        "pourtant",
+        "malgré",
+        "parce que"
+      ],
+      "answer": 0,
+      "explanation": "Pour que introduces purpose and requires ayez in the subjunctive.",
+      "textId": null
+    },
+    {
+      "id": "b2-gram-0321",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "connectors",
+      "question": "___ réserver, vérifie les horaires du dernier train.",
+      "options": [
+        "Pendant que",
+        "Depuis que",
+        "Après avoir",
+        "Avant de"
+      ],
+      "answer": 3,
+      "explanation": "Avant de is followed by an infinitive and indicates the action to do first.",
+      "textId": null
+    },
+    {
+      "id": "b2-gram-0322",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "connectors",
+      "question": "___ sortir, ferme toutes les fenêtres.",
+      "options": [
+        "Pendant que",
+        "Après avoir",
+        "Avant de",
+        "Depuis que"
+      ],
+      "answer": 2,
+      "explanation": "Avant de + infinitive means before doing something.",
+      "textId": null
+    },
+    {
+      "id": "b2-gram-0323",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "connectors",
+      "question": "___ payer, regarde si la livraison est incluse.",
+      "options": [
+        "Avant de",
+        "Pendant que",
+        "Depuis que",
+        "Après avoir"
+      ],
+      "answer": 0,
+      "explanation": "Avant de takes the infinitive payer.",
+      "textId": null
+    },
+    {
+      "id": "b2-gram-0324",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "connectors",
+      "question": "___ publier, relis ton message.",
+      "options": [
+        "Depuis que",
+        "Après avoir",
+        "Pendant que",
+        "Avant de"
+      ],
+      "answer": 3,
+      "explanation": "Avant de introduces an action that follows the instruction.",
+      "textId": null
+    },
+    {
+      "id": "b2-gram-0325",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "connectors",
+      "question": "___ commencer, prépare ton matériel.",
+      "options": [
+        "Avant de",
+        "Pendant que",
+        "Après avoir",
+        "Depuis que"
+      ],
+      "answer": 0,
+      "explanation": "Avant de is followed by the infinitive commencer.",
+      "textId": null
+    },
+    {
+      "id": "b2-gram-0326",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "connectors",
+      "question": "___ terminé la réunion, nous avons déjeuné ensemble.",
+      "options": [
+        "Depuis que",
+        "Avant de",
+        "Pendant que",
+        "Après avoir"
+      ],
+      "answer": 3,
+      "explanation": "Après avoir + past participle places the completed action before the next one.",
+      "textId": null
+    },
+    {
+      "id": "b2-gram-0327",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "connectors",
+      "question": "___ réservé nos places, nous avons choisi un restaurant.",
+      "options": [
+        "Pendant que",
+        "Depuis que",
+        "Après avoir",
+        "Avant de"
+      ],
+      "answer": 2,
+      "explanation": "Après avoir is followed by the past participle réservé.",
+      "textId": null
+    },
+    {
+      "id": "b2-gram-0328",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "connectors",
+      "question": "___ vérifié l’adresse, j’ai appelé un taxi.",
+      "options": [
+        "Pendant que",
+        "Après avoir",
+        "Depuis que",
+        "Avant de"
+      ],
+      "answer": 1,
+      "explanation": "Après avoir + past participle expresses an earlier completed action.",
+      "textId": null
+    },
+    {
+      "id": "b2-gram-0329",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "connectors",
+      "question": "___ reçu le colis, elle a contacté le vendeur.",
+      "options": [
+        "Avant de",
+        "Pendant que",
+        "Depuis que",
+        "Après avoir"
+      ],
+      "answer": 3,
+      "explanation": "Après avoir takes the past participle reçu.",
+      "textId": null
+    },
+    {
+      "id": "b2-gram-0330",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "connectors",
+      "question": "___ lu les avis, nous avons changé de modèle.",
+      "options": [
+        "Avant de",
+        "Après avoir",
+        "Depuis que",
+        "Pendant que"
+      ],
+      "answer": 1,
+      "explanation": "Après avoir is followed by the past participle lu.",
+      "textId": null
+    },
+    {
+      "id": "b2-gram-0331",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "connectors",
+      "question": "___ tu veuilles rester ou partir, préviens-moi.",
+      "options": [
+        "Quand",
+        "Que",
+        "Puisque",
+        "Si"
+      ],
+      "answer": 1,
+      "explanation": "Que followed by the subjunctive can introduce alternatives: whether you want to stay or leave.",
+      "textId": null
+    },
+    {
+      "id": "b2-gram-0332",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "connectors",
+      "question": "___ ce soit aujourd’hui ou demain, je serai disponible.",
+      "options": [
+        "Si",
+        "Que",
+        "Puisque",
+        "Quand"
+      ],
+      "answer": 1,
+      "explanation": "Que ce soit… ou… presents alternatives and uses the subjunctive.",
+      "textId": null
+    },
+    {
+      "id": "b2-gram-0333",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "connectors",
+      "question": "___elle soit d’accord ou non, nous respecterons son choix.",
+      "options": [
+        "Quand",
+        "Qu’",
+        "Si",
+        "Puisque"
+      ],
+      "answer": 1,
+      "explanation": "Qu’elle… ou… introduces alternatives and takes the subjunctive soit.",
+      "textId": null
+    },
+    {
+      "id": "b2-gram-0334",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "connectors",
+      "question": "___ vous soyez seuls ou accompagnés, réservez une place.",
+      "options": [
+        "Si",
+        "Puisque",
+        "Que",
+        "Quand"
+      ],
+      "answer": 2,
+      "explanation": "Que… ou… presents alternatives and takes the subjunctive soyez.",
+      "textId": null
+    },
+    {
+      "id": "b2-gram-0335",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "connectors",
+      "question": "___ nous ayons deux ou trois jours, nous trouverons une solution.",
+      "options": [
+        "Si",
+        "Que",
+        "Puisque",
+        "Quand"
+      ],
+      "answer": 1,
+      "explanation": "Que… ou… introduces alternative possibilities with the subjunctive.",
+      "textId": null
+    },
+    {
+      "id": "b2-gram-0336",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "connectors",
+      "question": "___ de modifier le document, fais une copie.",
+      "options": [
+        "Depuis",
+        "Pendant",
+        "Malgré",
+        "Avant"
+      ],
+      "answer": 3,
+      "explanation": "Avant de + infinitive introduces an action that should happen before another.",
+      "textId": null
+    },
+    {
+      "id": "b2-gram-0337",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "connectors",
+      "question": "___ de répondre, prends le temps de réfléchir.",
+      "options": [
+        "Malgré",
+        "Pendant",
+        "Depuis",
+        "Avant"
+      ],
+      "answer": 3,
+      "explanation": "Avant combines with de + infinitive.",
+      "textId": null
+    },
+    {
+      "id": "b2-gram-0338",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "connectors",
+      "question": "___ de commander, compare les tailles.",
+      "options": [
+        "Pendant",
+        "Depuis",
+        "Malgré",
+        "Avant"
+      ],
+      "answer": 3,
+      "explanation": "Avant de takes the infinitive commander.",
+      "textId": null
+    },
+    {
+      "id": "b2-gram-0339",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "connectors",
+      "question": "___ de partir, note le numéro de la réservation.",
+      "options": [
+        "Depuis",
+        "Malgré",
+        "Avant",
+        "Pendant"
+      ],
+      "answer": 2,
+      "explanation": "Avant de introduces the action that follows the instruction.",
+      "textId": null
+    },
+    {
+      "id": "b2-gram-0340",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "connectors",
+      "question": "___ de signer, lis toutes les conditions.",
+      "options": [
+        "Avant",
+        "Pendant",
+        "Malgré",
+        "Depuis"
+      ],
+      "answer": 0,
+      "explanation": "Avant de is the correct expression before the infinitive signer.",
+      "textId": null
+    },
+    {
+      "id": "b2-gram-0341",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "connectors",
+      "question": "Il a économisé ___ pouvoir déménager.",
+      "options": [
+        "malgré",
+        "pour",
+        "depuis",
+        "pendant"
+      ],
+      "answer": 1,
+      "explanation": "Pour + infinitive expresses purpose.",
+      "textId": null
+    },
+    {
+      "id": "b2-gram-0342",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "connectors",
+      "question": "Elle a baissé la musique ___ entendre le téléphone.",
+      "options": [
+        "malgré",
+        "pendant",
+        "pour",
+        "depuis"
+      ],
+      "answer": 2,
+      "explanation": "Pour introduces the purpose of lowering the music.",
+      "textId": null
+    },
+    {
+      "id": "b2-gram-0343",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "connectors",
+      "question": "On a pris un taxi ___ arriver à l’heure.",
+      "options": [
+        "pendant",
+        "depuis",
+        "malgré",
+        "pour"
+      ],
+      "answer": 3,
+      "explanation": "Pour + infinitive explains the intended goal.",
+      "textId": null
+    },
+    {
+      "id": "b2-gram-0344",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "connectors",
+      "question": "Je garde cette boîte ___ ranger mes câbles.",
+      "options": [
+        "depuis",
+        "pendant",
+        "malgré",
+        "pour"
+      ],
+      "answer": 3,
+      "explanation": "Pour is followed by an infinitive expressing purpose.",
+      "textId": null
+    },
+    {
+      "id": "b2-gram-0345",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "connectors",
+      "question": "Nous avons changé de place ___ mieux voir la scène.",
+      "options": [
+        "malgré",
+        "pendant",
+        "pour",
+        "depuis"
+      ],
+      "answer": 2,
+      "explanation": "Pour introduces the purpose of changing seats.",
+      "textId": null
+    },
+    {
+      "id": "b2-gram-0346",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "connectors",
+      "question": "On peut manger dehors ___ le vent ne soit pas trop fort.",
+      "options": [
+        "à condition que",
+        "donc",
+        "parce que",
+        "malgré"
+      ],
+      "answer": 0,
+      "explanation": "À condition que expresses a condition and takes the subjunctive.",
+      "textId": null
+    },
+    {
+      "id": "b2-gram-0347",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "connectors",
+      "question": "Tu peux emprunter mon vélo ___ tu le rendes ce soir.",
+      "options": [
+        "parce que",
+        "à condition que",
+        "malgré",
+        "cependant"
+      ],
+      "answer": 1,
+      "explanation": "À condition que introduces a requirement and takes the subjunctive rendes.",
+      "textId": null
+    },
+    {
+      "id": "b2-gram-0348",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "connectors",
+      "question": "Vous pouvez entrer ___ vous ayez votre badge.",
+      "options": [
+        "parce que",
+        "pourtant",
+        "malgré",
+        "à condition que"
+      ],
+      "answer": 3,
+      "explanation": "À condition que takes the subjunctive, here ayez.",
+      "textId": null
+    },
+    {
+      "id": "b2-gram-0349",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "connectors",
+      "question": "Nous partirons ensemble ___ chacun soit prêt à huit heures.",
+      "options": [
+        "donc",
+        "parce que",
+        "à condition que",
+        "malgré"
+      ],
+      "answer": 2,
+      "explanation": "À condition que introduces a condition and requires soit in the subjunctive.",
+      "textId": null
+    },
+    {
+      "id": "b2-gram-0350",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "connectors",
+      "question": "Elle accepte de venir ___ nous puissions repartir tôt.",
+      "options": [
+        "à condition que",
+        "cependant",
+        "malgré",
+        "parce que"
+      ],
+      "answer": 0,
+      "explanation": "À condition que introduces a requirement and takes puissions in the subjunctive.",
+      "textId": null
+    }
+  ]
+}

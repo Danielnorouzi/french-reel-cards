@@ -9,6 +9,7 @@
   "scripts": {
     "start": "node server/index.js",
     "test": "node --test test/*.test.js",
-    "build-data": "node scripts/build-data.mjs"
+    "build-data": "node scripts/build-data.mjs",
+    "build-grammar": "node scripts/build-grammar.mjs"
   }
 }

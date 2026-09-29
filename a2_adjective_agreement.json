@@ -1,0 +1,805 @@
+{
+  "texts": [],
+  "questions": [
+    {
+      "id": "a2-gram-0201",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "adjective_agreement",
+      "question": "Mon balcon est ___, mais pratique.",
+      "options": [
+        "petit",
+        "petite",
+        "petites",
+        "petits"
+      ],
+      "answer": 0,
+      "explanation": "The adjective agrees with the noun, which is masculine singular. Use petit.",
+      "textId": null
+    },
+    {
+      "id": "a2-gram-0202",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "adjective_agreement",
+      "question": "Ma chambre est ___, mais bien rangée.",
+      "options": [
+        "petite",
+        "petits",
+        "petit",
+        "petites"
+      ],
+      "answer": 0,
+      "explanation": "The adjective agrees with the noun, which is feminine singular. Use petite.",
+      "textId": null
+    },
+    {
+      "id": "a2-gram-0203",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "adjective_agreement",
+      "question": "Ces cafés sont ___ et calmes.",
+      "options": [
+        "petit",
+        "petite",
+        "petits",
+        "petites"
+      ],
+      "answer": 2,
+      "explanation": "The adjective agrees with the noun, which is masculine plural. Use petits.",
+      "textId": null
+    },
+    {
+      "id": "a2-gram-0204",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "adjective_agreement",
+      "question": "Ces tables sont ___, on peut les déplacer.",
+      "options": [
+        "petites",
+        "petit",
+        "petits",
+        "petite"
+      ],
+      "answer": 0,
+      "explanation": "The adjective agrees with the noun, which is feminine plural. Use petites.",
+      "textId": null
+    },
+    {
+      "id": "a2-gram-0205",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "adjective_agreement",
+      "question": "La salle de bains est vraiment ___.",
+      "options": [
+        "petit",
+        "petite",
+        "petits",
+        "petites"
+      ],
+      "answer": 1,
+      "explanation": "The adjective agrees with the noun, which is feminine singular. Use petite.",
+      "textId": null
+    },
+    {
+      "id": "a2-gram-0206",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "adjective_agreement",
+      "question": "Le salon est assez ___ pour recevoir nos amis.",
+      "options": [
+        "grand",
+        "grande",
+        "grandes",
+        "grands"
+      ],
+      "answer": 0,
+      "explanation": "The adjective agrees with the noun, which is masculine singular. Use grand.",
+      "textId": null
+    },
+    {
+      "id": "a2-gram-0207",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "adjective_agreement",
+      "question": "La cuisine est ___ et lumineuse.",
+      "options": [
+        "grands",
+        "grande",
+        "grand",
+        "grandes"
+      ],
+      "answer": 1,
+      "explanation": "The adjective agrees with the noun, which is feminine singular. Use grande.",
+      "textId": null
+    },
+    {
+      "id": "a2-gram-0208",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "adjective_agreement",
+      "question": "Ces sacs sont trop ___ pour le coffre.",
+      "options": [
+        "grandes",
+        "grand",
+        "grande",
+        "grands"
+      ],
+      "answer": 3,
+      "explanation": "The adjective agrees with the noun, which is masculine plural. Use grands.",
+      "textId": null
+    },
+    {
+      "id": "a2-gram-0209",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "adjective_agreement",
+      "question": "Ces fenêtres sont vraiment ___.",
+      "options": [
+        "grande",
+        "grandes",
+        "grand",
+        "grands"
+      ],
+      "answer": 1,
+      "explanation": "The adjective agrees with the noun, which is feminine plural. Use grandes.",
+      "textId": null
+    },
+    {
+      "id": "a2-gram-0210",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "adjective_agreement",
+      "question": "Notre terrasse est très ___.",
+      "options": [
+        "grands",
+        "grande",
+        "grand",
+        "grandes"
+      ],
+      "answer": 1,
+      "explanation": "The adjective agrees with the noun, which is feminine singular. Use grande.",
+      "textId": null
+    },
+    {
+      "id": "a2-gram-0211",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "adjective_agreement",
+      "question": "Ce téléphone est trop ___ pour moi.",
+      "options": [
+        "chères",
+        "chers",
+        "chère",
+        "cher"
+      ],
+      "answer": 3,
+      "explanation": "The adjective agrees with the noun, which is masculine singular. Use cher.",
+      "textId": null
+    },
+    {
+      "id": "a2-gram-0212",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "adjective_agreement",
+      "question": "Cette veste est assez ___.",
+      "options": [
+        "chers",
+        "chère",
+        "cher",
+        "chères"
+      ],
+      "answer": 1,
+      "explanation": "The adjective agrees with the noun, which is feminine singular. Use chère.",
+      "textId": null
+    },
+    {
+      "id": "a2-gram-0213",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "adjective_agreement",
+      "question": "Ces billets sont vraiment ___.",
+      "options": [
+        "chère",
+        "chères",
+        "chers",
+        "cher"
+      ],
+      "answer": 2,
+      "explanation": "The adjective agrees with the noun, which is masculine plural. Use chers.",
+      "textId": null
+    },
+    {
+      "id": "a2-gram-0214",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "adjective_agreement",
+      "question": "Ces chaussures sont trop ___.",
+      "options": [
+        "cher",
+        "chers",
+        "chère",
+        "chères"
+      ],
+      "answer": 3,
+      "explanation": "The adjective agrees with the noun, which is feminine plural. Use chères.",
+      "textId": null
+    },
+    {
+      "id": "a2-gram-0215",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "adjective_agreement",
+      "question": "La livraison est un peu ___.",
+      "options": [
+        "cher",
+        "chère",
+        "chères",
+        "chers"
+      ],
+      "answer": 1,
+      "explanation": "The adjective agrees with the noun, which is feminine singular. Use chère.",
+      "textId": null
+    },
+    {
+      "id": "a2-gram-0216",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "adjective_agreement",
+      "question": "Mon ___ voisin vient de Lyon.",
+      "options": [
+        "nouvelle",
+        "nouveaux",
+        "nouveau",
+        "nouvelles"
+      ],
+      "answer": 2,
+      "explanation": "The adjective agrees with the noun, which is masculine singular. Use nouveau.",
+      "textId": null
+    },
+    {
+      "id": "a2-gram-0217",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "adjective_agreement",
+      "question": "Sa ___ collègue commence lundi.",
+      "options": [
+        "nouveaux",
+        "nouvelles",
+        "nouveau",
+        "nouvelle"
+      ],
+      "answer": 3,
+      "explanation": "The adjective agrees with the noun, which is feminine singular. Use nouvelle.",
+      "textId": null
+    },
+    {
+      "id": "a2-gram-0218",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "adjective_agreement",
+      "question": "Ces ___ écouteurs fonctionnent bien.",
+      "options": [
+        "nouvelles",
+        "nouvelle",
+        "nouveau",
+        "nouveaux"
+      ],
+      "answer": 3,
+      "explanation": "The adjective agrees with the noun, which is masculine plural. Use nouveaux.",
+      "textId": null
+    },
+    {
+      "id": "a2-gram-0219",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "adjective_agreement",
+      "question": "Les ___ photos sont dans ce dossier.",
+      "options": [
+        "nouvelles",
+        "nouveaux",
+        "nouvelle",
+        "nouveau"
+      ],
+      "answer": 0,
+      "explanation": "The adjective agrees with the noun, which is feminine plural. Use nouvelles.",
+      "textId": null
+    },
+    {
+      "id": "a2-gram-0220",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "adjective_agreement",
+      "question": "La ___ boutique ouvre demain.",
+      "options": [
+        "nouvelles",
+        "nouveaux",
+        "nouvelle",
+        "nouveau"
+      ],
+      "answer": 2,
+      "explanation": "The adjective agrees with the noun, which is feminine singular. Use nouvelle.",
+      "textId": null
+    },
+    {
+      "id": "a2-gram-0221",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "adjective_agreement",
+      "question": "Le canapé est ___.",
+      "options": [
+        "blanche",
+        "blancs",
+        "blanc",
+        "blanches"
+      ],
+      "answer": 2,
+      "explanation": "The adjective agrees with the noun, which is masculine singular. Use blanc.",
+      "textId": null
+    },
+    {
+      "id": "a2-gram-0222",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "adjective_agreement",
+      "question": "La chemise est ___.",
+      "options": [
+        "blanc",
+        "blanche",
+        "blanches",
+        "blancs"
+      ],
+      "answer": 1,
+      "explanation": "The adjective agrees with the noun, which is feminine singular. Use blanche.",
+      "textId": null
+    },
+    {
+      "id": "a2-gram-0223",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "adjective_agreement",
+      "question": "Les murs du salon sont ___.",
+      "options": [
+        "blanches",
+        "blanc",
+        "blancs",
+        "blanche"
+      ],
+      "answer": 2,
+      "explanation": "The adjective agrees with the noun, which is masculine plural. Use blancs.",
+      "textId": null
+    },
+    {
+      "id": "a2-gram-0224",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "adjective_agreement",
+      "question": "Les serviettes sont ___.",
+      "options": [
+        "blanche",
+        "blanches",
+        "blancs",
+        "blanc"
+      ],
+      "answer": 1,
+      "explanation": "The adjective agrees with the noun, which is feminine plural. Use blanches.",
+      "textId": null
+    },
+    {
+      "id": "a2-gram-0225",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "adjective_agreement",
+      "question": "Cette tasse est ___.",
+      "options": [
+        "blancs",
+        "blanches",
+        "blanc",
+        "blanche"
+      ],
+      "answer": 3,
+      "explanation": "The adjective agrees with the noun, which is feminine singular. Use blanche.",
+      "textId": null
+    },
+    {
+      "id": "a2-gram-0226",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "adjective_agreement",
+      "question": "Ce sac est vraiment ___.",
+      "options": [
+        "légers",
+        "légères",
+        "léger",
+        "légère"
+      ],
+      "answer": 2,
+      "explanation": "The adjective agrees with the noun, which is masculine singular. Use léger.",
+      "textId": null
+    },
+    {
+      "id": "a2-gram-0227",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "adjective_agreement",
+      "question": "Cette valise est assez ___.",
+      "options": [
+        "légère",
+        "léger",
+        "légers",
+        "légères"
+      ],
+      "answer": 0,
+      "explanation": "The adjective agrees with the noun, which is feminine singular. Use légère.",
+      "textId": null
+    },
+    {
+      "id": "a2-gram-0228",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "adjective_agreement",
+      "question": "Ces manteaux sont très ___.",
+      "options": [
+        "léger",
+        "légère",
+        "légers",
+        "légères"
+      ],
+      "answer": 2,
+      "explanation": "The adjective agrees with the noun, which is masculine plural. Use légers.",
+      "textId": null
+    },
+    {
+      "id": "a2-gram-0229",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "adjective_agreement",
+      "question": "Ces chaussures sont ___.",
+      "options": [
+        "légère",
+        "léger",
+        "légers",
+        "légères"
+      ],
+      "answer": 3,
+      "explanation": "The adjective agrees with the noun, which is feminine plural. Use légères.",
+      "textId": null
+    },
+    {
+      "id": "a2-gram-0230",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "adjective_agreement",
+      "question": "Cette couverture est ___.",
+      "options": [
+        "légers",
+        "légères",
+        "léger",
+        "légère"
+      ],
+      "answer": 3,
+      "explanation": "The adjective agrees with the noun, which is feminine singular. Use légère.",
+      "textId": null
+    },
+    {
+      "id": "a2-gram-0231",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "adjective_agreement",
+      "question": "Le vélo de Sam est ___.",
+      "options": [
+        "verts",
+        "vertes",
+        "vert",
+        "verte"
+      ],
+      "answer": 2,
+      "explanation": "The adjective agrees with the noun, which is masculine singular. Use vert.",
+      "textId": null
+    },
+    {
+      "id": "a2-gram-0232",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "adjective_agreement",
+      "question": "La porte d’entrée est ___.",
+      "options": [
+        "verts",
+        "vert",
+        "verte",
+        "vertes"
+      ],
+      "answer": 2,
+      "explanation": "The adjective agrees with the noun, which is feminine singular. Use verte.",
+      "textId": null
+    },
+    {
+      "id": "a2-gram-0233",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "adjective_agreement",
+      "question": "Les rideaux sont ___.",
+      "options": [
+        "vertes",
+        "verte",
+        "vert",
+        "verts"
+      ],
+      "answer": 3,
+      "explanation": "The adjective agrees with the noun, which is masculine plural. Use verts.",
+      "textId": null
+    },
+    {
+      "id": "a2-gram-0234",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "adjective_agreement",
+      "question": "Les chaises de la terrasse sont ___.",
+      "options": [
+        "vert",
+        "vertes",
+        "verte",
+        "verts"
+      ],
+      "answer": 1,
+      "explanation": "The adjective agrees with the noun, which is feminine plural. Use vertes.",
+      "textId": null
+    },
+    {
+      "id": "a2-gram-0235",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "adjective_agreement",
+      "question": "Sa veste est ___.",
+      "options": [
+        "vert",
+        "verte",
+        "verts",
+        "vertes"
+      ],
+      "answer": 1,
+      "explanation": "The adjective agrees with the noun, which is feminine singular. Use verte.",
+      "textId": null
+    },
+    {
+      "id": "a2-gram-0236",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "adjective_agreement",
+      "question": "Ce gâteau est vraiment ___.",
+      "options": [
+        "bon",
+        "bonnes",
+        "bonne",
+        "bons"
+      ],
+      "answer": 0,
+      "explanation": "The adjective agrees with the noun, which is masculine singular. Use bon.",
+      "textId": null
+    },
+    {
+      "id": "a2-gram-0237",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "adjective_agreement",
+      "question": "Cette soupe est très ___.",
+      "options": [
+        "bonne",
+        "bon",
+        "bonnes",
+        "bons"
+      ],
+      "answer": 0,
+      "explanation": "The adjective agrees with the noun, which is feminine singular. Use bonne.",
+      "textId": null
+    },
+    {
+      "id": "a2-gram-0238",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "adjective_agreement",
+      "question": "Ces biscuits sont ___.",
+      "options": [
+        "bonne",
+        "bons",
+        "bon",
+        "bonnes"
+      ],
+      "answer": 1,
+      "explanation": "The adjective agrees with the noun, which is masculine plural. Use bons.",
+      "textId": null
+    },
+    {
+      "id": "a2-gram-0239",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "adjective_agreement",
+      "question": "Ces fraises sont très ___.",
+      "options": [
+        "bonnes",
+        "bonne",
+        "bon",
+        "bons"
+      ],
+      "answer": 0,
+      "explanation": "The adjective agrees with the noun, which is feminine plural. Use bonnes.",
+      "textId": null
+    },
+    {
+      "id": "a2-gram-0240",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "adjective_agreement",
+      "question": "La sauce est ___.",
+      "options": [
+        "bonne",
+        "bonnes",
+        "bon",
+        "bons"
+      ],
+      "answer": 0,
+      "explanation": "The adjective agrees with the noun, which is feminine singular. Use bonne.",
+      "textId": null
+    },
+    {
+      "id": "a2-gram-0241",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "adjective_agreement",
+      "question": "Le trajet est assez ___.",
+      "options": [
+        "longue",
+        "longs",
+        "long",
+        "longues"
+      ],
+      "answer": 2,
+      "explanation": "The adjective agrees with the noun, which is masculine singular. Use long.",
+      "textId": null
+    },
+    {
+      "id": "a2-gram-0242",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "adjective_agreement",
+      "question": "La réunion est trop ___.",
+      "options": [
+        "longue",
+        "longues",
+        "longs",
+        "long"
+      ],
+      "answer": 0,
+      "explanation": "The adjective agrees with the noun, which is feminine singular. Use longue.",
+      "textId": null
+    },
+    {
+      "id": "a2-gram-0243",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "adjective_agreement",
+      "question": "Ces messages sont vraiment ___.",
+      "options": [
+        "longue",
+        "longs",
+        "long",
+        "longues"
+      ],
+      "answer": 1,
+      "explanation": "The adjective agrees with the noun, which is masculine plural. Use longs.",
+      "textId": null
+    },
+    {
+      "id": "a2-gram-0244",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "adjective_agreement",
+      "question": "Ces journées sont ___.",
+      "options": [
+        "longue",
+        "long",
+        "longs",
+        "longues"
+      ],
+      "answer": 3,
+      "explanation": "The adjective agrees with the noun, which is feminine plural. Use longues.",
+      "textId": null
+    },
+    {
+      "id": "a2-gram-0245",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "adjective_agreement",
+      "question": "La file d’attente est ___.",
+      "options": [
+        "longues",
+        "longs",
+        "long",
+        "longue"
+      ],
+      "answer": 3,
+      "explanation": "The adjective agrees with the noun, which is feminine singular. Use longue.",
+      "textId": null
+    },
+    {
+      "id": "a2-gram-0246",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "adjective_agreement",
+      "question": "Ce quartier est vraiment ___.",
+      "options": [
+        "joli",
+        "jolies",
+        "jolis",
+        "jolie"
+      ],
+      "answer": 0,
+      "explanation": "The adjective agrees with the noun, which is masculine singular. Use joli.",
+      "textId": null
+    },
+    {
+      "id": "a2-gram-0247",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "adjective_agreement",
+      "question": "Cette place est très ___.",
+      "options": [
+        "jolies",
+        "jolie",
+        "joli",
+        "jolis"
+      ],
+      "answer": 1,
+      "explanation": "The adjective agrees with the noun, which is feminine singular. Use jolie.",
+      "textId": null
+    },
+    {
+      "id": "a2-gram-0248",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "adjective_agreement",
+      "question": "Ces dessins sont ___.",
+      "options": [
+        "jolis",
+        "jolie",
+        "jolies",
+        "joli"
+      ],
+      "answer": 0,
+      "explanation": "The adjective agrees with the noun, which is masculine plural. Use jolis.",
+      "textId": null
+    },
+    {
+      "id": "a2-gram-0249",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "adjective_agreement",
+      "question": "Ces fleurs sont ___.",
+      "options": [
+        "jolis",
+        "joli",
+        "jolie",
+        "jolies"
+      ],
+      "answer": 3,
+      "explanation": "The adjective agrees with the noun, which is feminine plural. Use jolies.",
+      "textId": null
+    },
+    {
+      "id": "a2-gram-0250",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "adjective_agreement",
+      "question": "Ta photo est vraiment ___.",
+      "options": [
+        "joli",
+        "jolies",
+        "jolie",
+        "jolis"
+      ],
+      "answer": 2,
+      "explanation": "The adjective agrees with the noun, which is feminine singular. Use jolie.",
+      "textId": null
+    }
+  ]
+}

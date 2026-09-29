@@ -1,0 +1,392 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, user-scalable=no">
+  <title>Reel Cards</title>
+  <meta name="description" content="Turn French Instagram reels into flashcards.">
+  <meta name="theme-color" content="#f2f2f7" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#000000" media="(prefers-color-scheme: dark)">
+  <meta name="color-scheme" content="light dark">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-title" content="Reel Cards">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+  <link rel="icon" href="icons/icon-192.png">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <!-- ADD -->
+  <section class="view" id="view-add" data-title="Add">
+    <header class="navbar"><div class="navbar-title">Add</div></header>
+    <main class="content">
+      <h1 class="large-title">Add</h1>
+
+      <div id="inbox-banner" class="banner" hidden>
+        <div class="banner-icon">
+          <svg viewBox="0 0 24 24"><path d="M4 13h4l2 3h4l2-3h4M4 13l2.5-7h11L20 13v5a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1z"/></svg>
+        </div>
+        <div class="banner-text"><strong id="inbox-title">New words from your Shortcut</strong><span id="inbox-sub">Tap to review and add them.</span></div>
+        <svg class="chev" viewBox="0 0 24 24"><path d="m9 6 6 6-6 6"/></svg>
+      </div>
+
+      <!-- idle -->
+      <div class="state" id="add-idle">
+        <div class="hero card mascot-card">
+          <div class="mascot m-coffee" aria-hidden="true">
+            <span class="steam s1"></span><span class="steam s2"></span><span class="steam s3"></span>
+            <img src="art/coffee.webp" alt="" height="150">
+            <span class="bubble">Un café, et on apprend&nbsp;?</span>
+          </div>
+          <h2>Turn a reel into flashcards</h2>
+          <p>Pick a saved reel or a screenshot. The app reads the French on screen and makes cards from the new words.</p>
+        </div>
+        <label class="btn btn-primary btn-large" for="file-input">
+          <svg viewBox="0 0 24 24"><path d="M12 5v14M5 12h14"/></svg>
+          Choose Video or Screenshot
+        </label>
+        <input id="file-input" type="file" accept="video/*,image/*" hidden>
+        <div class="link-row">
+          <button class="btn-link" id="open-guide">Share from Instagram</button>
+          <span class="link-dot" aria-hidden="true">·</span>
+          <button class="btn-link" id="open-import">Import words</button>
+        </div>
+      </div>
+
+      <!-- working -->
+      <div class="state" id="add-working" hidden>
+        <div class="card working-card mascot-card">
+          <div class="mascot m-standing" id="work-mascot" aria-hidden="true">
+            <img id="work-art" src="art/standing.webp" alt="" height="150">
+            <span class="bubble" id="work-bubble">J'arrive&nbsp;!</span>
+          </div>
+          <h2 id="work-title">Uploading…</h2>
+          <p id="work-sub">This usually takes under a minute.</p>
+          <div class="work-bar" id="work-bar"><div class="work-fill" id="work-fill"></div></div>
+        </div>
+        <button class="btn btn-plain" id="cancel-work">Cancel</button>
+      </div>
+
+      <!-- results -->
+      <div class="state" id="add-results" hidden>
+        <p class="section-note" id="results-summary"></p>
+        <div class="list inset" id="results-set-wrap">
+          <button class="row row-button" id="results-set"><span class="row-icon indigo"><svg viewBox="0 0 24 24"><rect x="4" y="6" width="16" height="13" rx="2.5"/><path d="M7 3h10"/></svg></span><span class="row-main">Save to</span><span class="row-value" id="results-set-name">No set</span><svg class="chev" viewBox="0 0 24 24"><path d="m9 6 6 6-6 6"/></svg></button>
+        </div>
+        <div class="list inset" id="results-list"></div>
+        <details class="captions">
+          <summary>Text found on screen</summary>
+          <div id="caption-lines"></div>
+        </details>
+        <button class="btn btn-plain" id="discard-results">Discard</button>
+        <div class="sticky-action">
+          <button class="btn btn-primary btn-large" id="add-cards">Add Cards</button>
+        </div>
+      </div>
+
+      <!-- done -->
+      <div class="state" id="add-done" hidden>
+        <div class="card done-card mascot-card">
+          <div class="mascot m-cool" aria-hidden="true">
+            <span class="twinkle t1">✦</span><span class="twinkle t2">✦</span><span class="twinkle t3">✦</span>
+            <img src="art/cool.webp" alt="" height="150">
+            <span class="bubble">Magnifique&nbsp;!</span>
+          </div>
+          <h2 id="done-title">Cards added</h2>
+          <p>They're saved on this phone and ready to review.</p>
+        </div>
+        <button class="btn btn-primary btn-large" id="go-review">Review Now</button>
+        <button class="btn btn-plain" id="add-another">Add Another</button>
+      </div>
+
+      <!-- error -->
+      <div class="state" id="add-error" hidden>
+        <div class="card done-card mascot-card">
+          <div class="mascot m-belly" aria-hidden="true">
+            <img src="art/belly.webp" alt="" height="96">
+            <span class="bubble">Oups&nbsp;!</span>
+          </div>
+          <h2 id="error-title">That didn't work</h2>
+          <p id="error-sub"></p>
+        </div>
+        <button class="btn btn-primary btn-large" id="error-retry">Try Again</button>
+      </div>
+    </main>
+  </section>
+
+  <!-- REVIEW -->
+  <section class="view" id="view-review" data-title="Review" hidden>
+    <header class="navbar"><div class="navbar-title">Review</div><div class="navbar-right" id="review-count"></div></header>
+    <main class="content review-content">
+      <h1 class="large-title">Review</h1>
+      <div class="review-controls">
+        <button class="pill" id="review-set"><span id="review-set-name">All Cards</span><svg viewBox="0 0 24 24"><path d="m7 10 5 5 5-5"/></svg></button>
+        <div class="segmented" id="dir-toggle" role="radiogroup" aria-label="Card direction">
+          <button data-dir="fr-en" role="radio">FR → EN</button>
+          <button data-dir="en-fr" role="radio">EN → FR</button>
+        </div>
+      </div>
+      <div id="review-empty" class="empty" hidden>
+        <div class="empty-icon"><svg viewBox="0 0 24 24"><path d="M20 6 9 17l-5-5"/></svg></div>
+        <h2 id="empty-title">All caught up</h2>
+        <p id="empty-sub">No cards are due right now.</p>
+        <button class="btn btn-primary" id="empty-action" hidden>Add Your First Reel</button>
+      </div>
+      <div id="review-area" hidden>
+        <div class="progress"><div class="progress-bar" id="progress-bar"></div></div>
+        <div class="stage" id="stage">
+          <div class="flashcard" id="flashcard">
+            <div class="face front">
+              <span class="pos" id="fc-pos"></span>
+              <div class="word"><span class="article" id="fc-article"></span><span id="fc-lemma"></span></div>
+              <span class="hint">Tap to flip</span>
+            </div>
+            <div class="face back">
+              <span class="pos" id="fc-pos-back"></span>
+              <div class="word small" id="fc-lemma-back"></div>
+              <div class="meaning" id="fc-meaning"></div>
+              <blockquote class="example" id="fc-example"></blockquote>
+            </div>
+          </div>
+        </div>
+        <div class="grade-area">
+          <button class="btn btn-primary btn-large" id="show-answer">Show Answer</button>
+          <div class="grades" id="grades" hidden>
+            <button class="grade again" data-grade="again"><span>Again</span><small></small></button>
+            <button class="grade hard" data-grade="hard"><span>Hard</span><small></small></button>
+            <button class="grade good" data-grade="good"><span>Good</span><small></small></button>
+            <button class="grade easy" data-grade="easy"><span>Easy</span><small></small></button>
+          </div>
+        </div>
+      </div>
+    </main>
+  </section>
+
+  <!-- LIBRARY -->
+  <section class="view" id="view-library" data-title="Library" hidden>
+    <header class="navbar"><button class="navbar-left nav-btn" id="select-btn">Select</button><div class="navbar-title">Library</div><button class="navbar-right nav-btn" id="export-btn">Export</button></header>
+    <main class="content">
+      <h1 class="large-title">Library</h1>
+      <div class="search">
+        <svg viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+        <input id="search" type="search" placeholder="Search" autocomplete="off" autocorrect="off" spellcheck="false">
+      </div>
+      <div class="chips" id="set-chips"></div>
+      <div class="stats" id="stats"></div>
+      <div class="list inset" id="library-list"></div>
+      <div id="library-empty" class="empty small" hidden><p>No cards yet. Add a reel to get started.</p></div>
+      <div class="list inset settings">
+        <button class="row row-button" id="manage-sets"><span class="row-icon indigo"><svg viewBox="0 0 24 24"><rect x="4" y="6" width="16" height="13" rx="2.5"/><path d="M7 3h10"/></svg></span><span class="row-main">Manage Sets</span><svg class="chev" viewBox="0 0 24 24"><path d="m9 6 6 6-6 6"/></svg></button>
+        <button class="row row-button" id="open-import-2"><span class="row-icon orange"><svg viewBox="0 0 24 24"><path d="M12 4v11M7 10l5 5 5-5M5 20h14"/></svg></span><span class="row-main">Import Words</span><svg class="chev" viewBox="0 0 24 24"><path d="m9 6 6 6-6 6"/></svg></button>
+        <button class="row row-button" id="open-guide-2"><span class="row-icon blue"><svg viewBox="0 0 24 24"><path d="M4 12v7a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1v-7M12 3v12M7 8l5-5 5 5"/></svg></span><span class="row-main">Share from Instagram</span><svg class="chev" viewBox="0 0 24 24"><path d="m9 6 6 6-6 6"/></svg></button>
+        <button class="row row-button" id="export-btn-2"><span class="row-icon green"><svg viewBox="0 0 24 24"><path d="M12 3v12M7 10l5 5 5-5M5 21h14"/></svg></span><span class="row-main">Export to Anki (CSV)</span><svg class="chev" viewBox="0 0 24 24"><path d="m9 6 6 6-6 6"/></svg></button>
+      </div>
+      <p class="footnote">Cards are stored only on this phone. Meanings from Wiktionary (CC BY-SA), word forms from the Grammalecte lexicon (MPL 2.0).</p>
+    </main>
+  </section>
+
+  <!-- VERBS (conjugation) -->
+  <section class="view" id="view-grammar" data-title="Grammar" hidden>
+    <header class="navbar"><div class="navbar-title" id="grammar-nav-title">Grammar</div></header>
+    <main class="content">
+      <h1 class="large-title gram-chrome">Grammar</h1>
+      <div class="segmented gram-seg gram-chrome" id="gram-seg" role="tablist" aria-label="Grammar section">
+        <button data-pane="practice" role="tab">Practice</button>
+        <button data-pane="verbs" role="tab">Verbs</button>
+      </div>
+
+      <!-- PRACTICE -->
+      <div id="pane-practice">
+        <div id="gram-home">
+          <div class="card rec-card" id="rec-card">
+            <div class="rec-top"><span class="rec-label">Recommended for you</span><span class="lvl-badge" id="rec-level"></span></div>
+            <h2 class="rec-title" id="rec-title">Loading…</h2>
+            <p class="rec-hint" id="rec-hint"></p>
+            <div class="meter"><i id="rec-bar"></i></div>
+            <div class="rec-meta"><span id="rec-count"></span><span id="rec-acc"></span></div>
+            <p class="rec-reason" id="rec-reason"></p>
+            <button class="btn btn-primary btn-large" id="rec-start" disabled>Start · 10 questions</button>
+          </div>
+          <div class="topics-head">
+            <h3 class="section-title">Topics</h3>
+            <div class="segmented lvl-seg" id="gram-levels" role="radiogroup" aria-label="Level"></div>
+          </div>
+          <div class="list inset gram-topics" id="gram-topics"></div>
+          <p class="footnote">A topic is mastered when 80% of its questions were last answered right. Works offline.</p>
+        </div>
+
+        <div id="gram-quiz" hidden>
+          <div class="quiz-top">
+            <button class="nav-btn" id="quiz-end">End</button>
+            <div class="meter quiz-meter"><i id="quiz-bar"></i></div>
+            <span class="quiz-count" id="quiz-count"></span>
+          </div>
+          <div class="quiz-topic" id="quiz-topic"></div>
+          <div class="card quiz-q" id="quiz-q"></div>
+          <div class="quiz-options" id="quiz-options"></div>
+          <div class="quiz-feedback" id="quiz-feedback" hidden><b id="quiz-verdict"></b><p id="quiz-expl"></p></div>
+          <button class="btn btn-primary btn-large quiz-next" id="quiz-next" hidden>Continue</button>
+        </div>
+
+        <div id="gram-done" hidden>
+          <div class="card mascot-card done-card gram-done-card">
+            <div class="mascot" id="gram-done-mascot" aria-hidden="true"></div>
+            <div class="gram-score" id="gram-score"></div>
+            <p id="gram-done-text"></p>
+            <button class="btn btn-primary btn-large" id="gram-again">Practice Again</button>
+            <button class="btn btn-secondary" id="gram-next-topic" hidden></button>
+            <button class="btn-link" id="gram-back">All Topics</button>
+          </div>
+        </div>
+      </div>
+
+      <!-- VERBS -->
+      <div id="pane-verbs" hidden>
+      <form class="search verb-search" id="verb-form" autocomplete="off">
+        <svg viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+        <input id="verb-q" type="search" placeholder="Any verb: aller, se lever, allait…" autocapitalize="off" autocorrect="off" spellcheck="false" enterkeyhint="search">
+      </form>
+      <div class="list inset verb-suggest" id="verb-suggest" hidden></div>
+      <div class="chips verb-recent" id="verb-recent"></div>
+
+      <div id="verb-empty" class="verb-empty">
+        <div class="mascot m-standing" aria-hidden="true"><img src="art/standing.webp" alt="" height="150"><span class="bubble">Quel verbe&nbsp;?</span></div>
+        <p>Type any verb, even a conjugated form like <b>allait</b> or <b>fûmes</b>, and see every tense.</p>
+      </div>
+      <div id="verb-loading" class="verb-empty" hidden>
+        <div class="mascot m-sleeping" aria-hidden="true"><img src="art/sleeping.webp" alt="" height="104"><span class="bubble">Chut… il fait la sieste.</span></div>
+        <p id="verb-loading-text">Waking up the free server…</p>
+      </div>
+
+      <div id="verb-result" hidden>
+        <div class="card verb-head">
+          <div class="verb-inf" id="verb-inf"></div>
+          <div class="verb-meaning" id="verb-meaning"></div>
+          <div class="verb-tags" id="verb-tags"></div>
+          <div class="verb-parts" id="verb-parts"></div>
+          <p class="verb-note" id="verb-note" hidden></p>
+          <div class="verb-actions">
+            <button class="btn btn-primary" id="verb-add">Add to Cards</button>
+            <button class="btn btn-secondary" id="verb-reflexive" hidden>se …</button>
+          </div>
+        </div>
+        <div class="mood-tabs" id="mood-tabs" role="tablist"></div>
+        <div class="tense-list" id="tense-list"></div>
+        <p class="footnote">Conjugations from the Grammalecte French lexicon (MPL 2.0), served free by this app’s own server.</p>
+      </div>
+      </div>
+    </main>
+  </section>
+
+  <!-- PROFILE -->
+  <section class="view" id="view-profile" data-title="Profile" hidden>
+    <header class="navbar"><div class="navbar-title">Profile</div></header>
+    <main class="content">
+      <h1 class="large-title">Profile</h1>
+
+      <!-- glass profile card -->
+      <div class="glass-stage">
+        <div class="blob b1"></div><div class="blob b2"></div><div class="blob b3"></div>
+        <div class="glass-card">
+          <button class="avatar-btn" id="avatar-btn" aria-label="Change profile picture">
+            <img id="profile-avatar" src="avatars/dog.webp" alt="" width="116" height="116">
+            <span class="avatar-edit"><svg viewBox="0 0 24 24"><path d="M4 20h4L19 9l-4-4L4 16z"/></svg></span>
+          </button>
+          <div class="glass-name" id="profile-name">Your name</div>
+          <div class="glass-sub" id="profile-sub"></div>
+          <div class="glass-pills">
+            <div class="glass-pill"><b id="pill-streak">0</b><span>day streak</span></div>
+            <div class="glass-pill"><b id="pill-cards">0</b><span>words</span></div>
+            <div class="glass-pill"><b id="pill-mastered">0</b><span>mastered</span></div>
+          </div>
+          <div class="goal">
+            <div class="goal-top"><span>Today</span><span id="goal-text">0 / 20 cards</span></div>
+            <div class="goal-bar"><div class="goal-fill" id="goal-fill"></div></div>
+          </div>
+        </div>
+      </div>
+
+      <!-- activity heatmap -->
+      <h3 class="section-title">Activity</h3>
+      <div class="card activity-card">
+        <p class="activity-head" id="activity-head"></p>
+        <div class="heatmap-wrap" id="heatmap-wrap">
+          <div class="heatmap-days" aria-hidden="true"><span></span><span>Mon</span><span></span><span>Wed</span><span></span><span>Fri</span><span></span></div>
+          <div class="heatmap-scroll">
+            <div class="heatmap-months" id="heatmap-months"></div>
+            <div class="heatmap" id="heatmap" role="grid" aria-label="Daily reviews"></div>
+          </div>
+        </div>
+        <div class="heatmap-foot">
+          <span id="heat-tip" class="heat-tip">Tap a square to see that day.</span>
+          <span class="legend">Less <i class="l0"></i><i class="l1"></i><i class="l2"></i><i class="l3"></i><i class="l4"></i> More</span>
+        </div>
+      </div>
+
+      <!-- stats -->
+      <h3 class="section-title">All time</h3>
+      <div class="stat-grid" id="stat-grid"></div>
+
+      <!-- about -->
+      <h3 class="section-title">About me</h3>
+      <div class="list inset about">
+        <label class="row field-row"><span class="row-main">Name</span><input id="pf-name" maxlength="40" placeholder="Add name" autocomplete="name"></label>
+        <label class="row field-row"><span class="row-main">Age</span><input id="pf-age" type="number" inputmode="numeric" min="5" max="120" placeholder="Add age"></label>
+        <label class="row field-row"><span class="row-main">Native language</span><input id="pf-native" maxlength="30" placeholder="e.g. English"></label>
+        <label class="row field-row"><span class="row-main">French level</span>
+          <select id="pf-level"><option value="">Choose</option><option>A1 · Beginner</option><option>A2 · Elementary</option><option>B1 · Intermediate</option><option>B2 · Upper intermediate</option><option>C1 · Advanced</option><option>C2 · Fluent</option></select></label>
+        <label class="row field-row"><span class="row-main">Daily goal</span>
+          <select id="pf-goal"><option value="10">10 cards</option><option value="20">20 cards</option><option value="30">30 cards</option><option value="50">50 cards</option><option value="100">100 cards</option></select></label>
+        <label class="row field-row"><span class="row-main">Location</span><input id="pf-location" maxlength="40" placeholder="Add city"></label>
+        <div class="row field-row col"><span class="row-main">Why I'm learning French</span><textarea id="pf-why" rows="2" maxlength="200" placeholder="Travel, family, a crush, Paris…"></textarea></div>
+      </div>
+      <p class="footnote">Your profile and stats are stored only on this phone.</p>
+    </main>
+  </section>
+
+  <!-- selection toolbar (Library → Select) -->
+  <div class="select-bar" id="select-bar" hidden>
+    <button class="nav-btn" id="sel-move">Move to Set</button>
+    <span id="sel-count">0 selected</span>
+    <button class="nav-btn danger" id="sel-delete">Delete</button>
+  </div>
+
+  <!-- TAB BAR -->
+  <nav class="tabbar" role="tablist">
+    <button class="tab active" data-view="add" role="tab" aria-label="Add">
+      <svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M12 8v8M8 12h8"/></svg>
+      <span>Add</span><i class="dot" id="add-dot" hidden></i>
+    </button>
+    <button class="tab" data-view="review" role="tab" aria-label="Review">
+      <svg viewBox="0 0 24 24"><rect x="4" y="7" width="16" height="13" rx="2.5"/><path d="M7 4h10"/></svg>
+      <span>Review</span><i class="badge" id="review-badge" hidden></i>
+    </button>
+    <button class="tab" data-view="library" role="tab" aria-label="Library">
+      <svg viewBox="0 0 24 24"><path d="M5 4v16M10 4v16M15 5l4 15"/></svg>
+      <span>Library</span>
+    </button>
+    <button class="tab" data-view="grammar" role="tab" aria-label="Grammar">
+      <svg viewBox="0 0 24 24"><path d="M4 5.5A1.5 1.5 0 0 1 5.5 4H11v16H5.5A1.5 1.5 0 0 1 4 18.5zM20 5.5A1.5 1.5 0 0 0 18.5 4H13v16h5.5a1.5 1.5 0 0 0 1.5-1.5z"/><path d="M6.5 8h2.5M6.5 11h2.5M15 8h2.5M15 11h2.5"/></svg>
+      <span>Grammar</span>
+    </button>
+    <button class="tab" data-view="profile" role="tab" aria-label="Profile">
+      <img class="tab-avatar" id="tab-avatar" src="avatars/dog.webp" alt="" width="28" height="28">
+      <span>Profile</span>
+    </button>
+  </nav>
+
+  <!-- SHEET (card detail / shortcut guide) -->
+  <div class="sheet-backdrop" id="sheet-backdrop" hidden></div>
+  <div class="sheet" id="sheet" hidden role="dialog" aria-modal="true">
+    <div class="sheet-grabber"></div>
+    <div class="sheet-header"><button class="nav-btn" id="sheet-close">Done</button><div class="sheet-title" id="sheet-title"></div><span></span></div>
+    <div class="sheet-body" id="sheet-body"></div>
+  </div>
+
+  <div class="toast" id="toast" hidden></div>
+
+  <script type="module" src="app.js"></script>
+</body>
+</html>
