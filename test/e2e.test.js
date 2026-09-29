@@ -35,10 +35,20 @@ test('video reel → caption lines → flashcards', { skip: !hasTools && 'ffmpeg
   const j = await runJob(new URL('./fixtures/reel.mp4', import.meta.url), 'video/mp4');
   assert.equal(j.status, 'done', j.error);
   assert.deepEqual(j.result.lines, [
-    'Hier soir, on allait au cinéma', 'mais ma copine était fatiguée',
-    'Alors on a mangé une pizza', 'à la maison avec nos voisins']);
+    'Hier soir, on allait au cinéma mais ma copine était fatiguée',
+    'Alors on a mangé une pizza à la maison avec nos voisins']);
   const lemmas = j.result.cards.map(c => c.lemma);
   for (const w of ['aller', 'cinéma', 'copine', 'manger', 'maison', 'voisin']) assert.ok(lemmas.includes(w), w);
+});
+
+test('coloured one-word-per-line caption is read as one sentence', { skip: !hasTools && 'ffmpeg/tesseract-fra not installed' }, async () => {
+  const j = await runJob(new URL('./fixtures/cyan.jpg', import.meta.url), 'image/jpeg');
+  assert.equal(j.status, 'done', j.error);
+  assert.equal(j.result.lines.length, 1);
+  assert.match(j.result.lines[0], /^le problème c'est que y'a toujours un nouveau vêtement que je veux acheter$/i);
+  const cards = Object.fromEntries(j.result.cards.map(c => [c.lemma, c]));
+  for (const w of ['problème', 'nouveau', 'vêtement', 'vouloir', 'acheter']) assert.ok(cards[w], w);
+  assert.equal(cards.nouveau.pos, 'adj');
 });
 
 test('screenshot upload (multipart) works too', { skip: !hasTools && 'ffmpeg/tesseract-fra not installed' }, async () => {

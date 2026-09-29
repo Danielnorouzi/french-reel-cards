@@ -11,6 +11,17 @@ const haptic = () => { try { navigator.vibrate?.(8); } catch {} };
 
 let cards = [];
 let currentView = 'add';
+let sets = [];              // [{ id, name, createdAt }]
+let libFilter = 'all';      // 'all' | 'none' | setId
+let reviewSet = 'all';      // same shape
+let direction = 'fr-en';    // 'fr-en' | 'en-fr'
+let saveToSet = null;       // set chosen on the results screen
+
+const setName = id => sets.find(s => s.id === id)?.name;
+const inFilter = (c, f) => f === 'all' || (f === 'none' ? !setName(c.setId) : c.setId === f);
+const filterLabel = f => f === 'all' ? 'All Cards' : f === 'none' ? 'No Set' : (setName(f) || 'All Cards');
+async function loadSets() { sets = (await db.getMeta('sets')) || []; }
+async function saveSets() { await db.setMeta('sets', sets); }
 
 // ---------------------------------------------------------------- utilities
 async function fetchWithTimeout(url, opts = {}, ms = 8000) {
@@ -39,8 +50,8 @@ async function reloadCards() {
   updateBadges();
 }
 
-function dueCards(now = Date.now()) {
-  return cards.filter(c => c.due <= now).sort((a, b) => a.due - b.due);
+function dueCards(now = Date.now(), filter = 'all') {
+  return cards.filter(c => c.due <= now && inFilter(c, filter)).sort((a, b) => a.due - b.due);
 }
 
 function updateBadges() {
@@ -60,6 +71,7 @@ function showView(name) {
   onScroll();
   if (name === 'review') startReview();
   if (name === 'library') renderLibrary();
+  if (name !== 'library' && selecting) setSelecting(false);
 }
 $$('.tab').forEach(t => t.addEventListener('click', () => { haptic(); showView(t.dataset.view); }));
 
@@ -228,9 +240,23 @@ function showResults(results, fromInbox = false) {
     </button>`).join('');
   $('#caption-lines').innerHTML = lines.map(l => `<p>${esc(l)}</p>`).join('') || '<p>No text found.</p>';
   $('.captions').open = !found.length && lines.length > 0;
+  $('#results-set-wrap').hidden = !found.length;
+  renderSaveTo();
   updateAddButton();
   setAddState('results');
 }
+
+function renderSaveTo() {
+  if (saveToSet && !setName(saveToSet)) saveToSet = null;
+  $('#results-set-name').textContent = setName(saveToSet) || 'No set';
+}
+$('#results-set').addEventListener('click', async () => {
+  const picked = await pickSet({ title: 'Save to Set', current: saveToSet ?? 'none', allowNone: true });
+  if (picked === undefined) return;
+  saveToSet = picked === 'none' ? null : picked;
+  await db.setMeta('lastSetId', saveToSet);
+  renderSaveTo();
+});
 
 $('#results-list').addEventListener('click', e => {
   const row = e.target.closest('.row');
@@ -256,14 +282,14 @@ $('#add-cards').addEventListener('click', async () => {
   const now = Date.now();
   const chosen = pendingResult.cards.filter(c => c.selected).map((c, i) => ({
     id: uid(), lemma: c.lemma, word: c.word, pos: c.pos, gender: c.gender, meaning: c.meaning,
-    example: c.example, createdAt: now + i, ...newCardState(now)
+    example: c.example, createdAt: now + i, setId: saveToSet || null, ...newCardState(now)
   }));
   const added = await db.addCards(chosen);
   if (pendingResult.fromInbox) await clearInboxResults();
   pendingResult = null;
   await reloadCards();
   haptic();
-  $('#done-title').textContent = `${added} card${added === 1 ? '' : 's'} added`;
+  $('#done-title').textContent = `${added} card${added === 1 ? '' : 's'} added` + (setName(saveToSet) ? ` to ${setName(saveToSet)}` : '');
   setAddState('done');
 });
 $('#discard-results').addEventListener('click', async () => {
@@ -340,22 +366,54 @@ let current = null;
 let flipped = false;
 
 function startReview() {
-  queue = dueCards();
+  if (reviewSet !== 'all' && reviewSet !== 'none' && !setName(reviewSet)) reviewSet = 'all';
+  $('#review-set-name').textContent = filterLabel(reviewSet);
+  for (const b of $$('#dir-toggle button')) {
+    b.classList.toggle('on', b.dataset.dir === direction);
+    b.setAttribute('aria-checked', b.dataset.dir === direction);
+  }
+  queue = dueCards(Date.now(), reviewSet);
   reviewed = 0;
   nextCard();
 }
+
+$('#dir-toggle').addEventListener('click', async e => {
+  const b = e.target.closest('button');
+  if (!b || b.dataset.dir === direction) return;
+  haptic();
+  direction = b.dataset.dir;
+  await db.setMeta('direction', direction);
+  for (const x of $$('#dir-toggle button')) {
+    x.classList.toggle('on', x === b);
+    x.setAttribute('aria-checked', x === b);
+  }
+  if (current) { queue.unshift(current); current = null; nextCard(); } // redraw the current card
+});
+
+$('#review-set').addEventListener('click', async () => {
+  const picked = await pickSet({ title: 'Review', current: reviewSet, allowAll: true, allowNone: true, showDue: true });
+  if (picked === undefined) return;
+  reviewSet = picked;
+  await db.setMeta('reviewSet', reviewSet);
+  startReview();
+});
 
 function renderEmpty() {
   $('#review-area').hidden = true;
   $('#review-empty').hidden = false;
   $('#review-count').textContent = '';
   const btn = $('#empty-action');
-  if (!cards.length) {
+  const pool = cards.filter(c => inFilter(c, reviewSet));
+  if (cards.length && !pool.length) {
+    $('#empty-title').textContent = 'This set is empty';
+    $('#empty-sub').textContent = 'Move cards into it from the Library, or pick another set above.';
+    btn.hidden = true;
+  } else if (!cards.length) {
     $('#empty-title').textContent = 'No cards yet';
     $('#empty-sub').textContent = 'Add a reel and your new words will show up here.';
     btn.hidden = false;
   } else {
-    const next = Math.min(...cards.map(c => c.due));
+    const next = Math.min(...pool.map(c => c.due));
     $('#empty-title').textContent = reviewed ? 'Nice work!' : 'All caught up';
     $('#empty-sub').textContent = reviewed
       ? `You reviewed ${reviewed} card${reviewed === 1 ? '' : 's'}. Next review in ${formatInterval(next - Date.now())}.`
@@ -380,13 +438,16 @@ function nextCard() {
   void fc.offsetWidth;
   fc.classList.add('enter');
   const a = article(current);
+  const enFirst = direction === 'en-fr';
   $('#fc-pos').textContent = posLabel(current);
   $('#fc-pos-back').textContent = posLabel(current);
-  $('#fc-article').textContent = a;
-  $('#fc-article').hidden = !a;
-  $('#fc-lemma').textContent = current.lemma;
-  $('#fc-lemma-back').textContent = frontText(current);
-  $('#fc-meaning').textContent = current.meaning;
+  // FR → EN: French word on the front. EN → FR: English meaning on the front, French on the back.
+  $('#fc-article').textContent = enFirst ? '' : a;
+  $('#fc-article').hidden = enFirst || !a;
+  $('#fc-lemma').textContent = enFirst ? current.meaning : current.lemma;
+  $('#fc-lemma').parentElement.classList.toggle('en', enFirst);
+  $('#fc-lemma-back').textContent = enFirst ? current.meaning : frontText(current);
+  $('#fc-meaning').textContent = enFirst ? frontText(current) : current.meaning;
   const ex = $('#fc-example');
   ex.hidden = !current.example;
   ex.innerHTML = highlightExample(current.example || '', current.word);
@@ -487,25 +548,53 @@ $('#grades').addEventListener('click', e => {
 })();
 
 // ---------------------------------------------------------------- LIBRARY
+let selecting = false;
+const picked = new Set();
+
+function renderChips() {
+  if (libFilter !== 'all' && libFilter !== 'none' && !setName(libFilter)) libFilter = 'all';
+  const count = f => cards.filter(c => inFilter(c, f)).length;
+  const chips = [['all', 'All'], ...sets.map(s => [s.id, s.name])];
+  if (sets.length && count('none')) chips.push(['none', 'No Set']);
+  $('#set-chips').innerHTML = chips.map(([id, name]) =>
+    `<button class="chip${libFilter === id ? ' on' : ''}" data-f="${esc(id)}">${esc(name)} <small>${count(id)}</small></button>`).join('') +
+    `<button class="chip add" data-new="1">+ New Set</button>`;
+}
+$('#set-chips').addEventListener('click', async e => {
+  const b = e.target.closest('.chip');
+  if (!b) return;
+  haptic();
+  if (b.dataset.new) {
+    const id = await pickSet({ title: 'New Set', current: null, onlyCreate: true });
+    if (id && id !== 'none') { libFilter = id; }
+  } else libFilter = b.dataset.f;
+  renderLibrary();
+});
+
 function renderLibrary() {
+  renderChips();
   const q = $('#search').value.trim().toLowerCase();
-  const sorted = [...cards].sort((a, b) => b.createdAt - a.createdAt);
+  const inSet = cards.filter(c => inFilter(c, libFilter));
+  const sorted = [...inSet].sort((a, b) => b.createdAt - a.createdAt);
   const list = q ? sorted.filter(c => c.lemma.toLowerCase().includes(q) || c.meaning.toLowerCase().includes(q) || (c.word || '').includes(q)) : sorted;
   const now = Date.now();
-  const due = cards.filter(c => c.due <= now).length;
-  const learned = cards.filter(c => c.interval >= 21).length;
+  const due = inSet.filter(c => c.due <= now).length;
+  const learned = inSet.filter(c => c.interval >= 21).length;
   $('#stats').innerHTML = `
-    <div class="stat"><b>${cards.length}</b><span>Cards</span></div>
+    <div class="stat"><b>${inSet.length}</b><span>Cards</span></div>
     <div class="stat"><b>${due}</b><span>Due now</span></div>
     <div class="stat"><b>${learned}</b><span>Mastered</span></div>`;
   $('#library-empty').hidden = cards.length > 0;
   const el = $('#library-list');
   el.hidden = !list.length;
+  el.classList.toggle('selecting', selecting);
+  const tick = '<span class="toggle sel"><svg viewBox="0 0 24 24"><path d="M5 12.5 10 17l9-10"/></svg></span>';
   el.innerHTML = list.slice(0, 400).map(c => `
-    <button class="row tappable" data-id="${c.id}">
+    <button class="row tappable${picked.has(c.id) ? ' picked' : ''}" data-id="${c.id}">
+      ${selecting ? tick : ''}
       <span class="row-main">
         <span class="row-title">${article(c) ? `<span class="art">${esc(article(c))} </span>` : ''}${esc(c.lemma)}</span>
-        <span class="row-sub">${esc(c.meaning)}</span>
+        <span class="row-sub">${esc(c.meaning)}${libFilter === 'all' && setName(c.setId) ? ` · ${esc(setName(c.setId))}` : ''}</span>
       </span>
       <span class="row-meta">${c.due <= now ? 'due' : formatInterval(c.due - now)}</span>
       <svg class="chev" viewBox="0 0 24 24"><path d="m9 6 6 6-6 6"/></svg>
@@ -514,11 +603,61 @@ function renderLibrary() {
 $('#search').addEventListener('input', renderLibrary);
 $('#library-list').addEventListener('click', e => {
   const row = e.target.closest('.row');
-  if (row) openCardSheet(cards.find(c => c.id === row.dataset.id));
+  if (!row) return;
+  if (selecting) {
+    haptic();
+    const id = row.dataset.id;
+    picked.has(id) ? picked.delete(id) : picked.add(id);
+    row.classList.toggle('picked', picked.has(id));
+    renderSelectBar();
+    return;
+  }
+  openCardSheet(cards.find(c => c.id === row.dataset.id));
+});
+
+function setSelecting(on) {
+  selecting = on;
+  picked.clear();
+  $('#select-btn').textContent = on ? 'Done' : 'Select';
+  $('#select-bar').hidden = !on;
+  document.body.classList.toggle('selecting', on);
+  renderSelectBar();
+  renderLibrary();
+}
+function renderSelectBar() {
+  $('#sel-count').textContent = `${picked.size} selected`;
+  $('#sel-move').disabled = $('#sel-delete').disabled = !picked.size;
+}
+$('#select-btn').addEventListener('click', () => { haptic(); setSelecting(!selecting); });
+$('#sel-move').addEventListener('click', async () => {
+  if (!picked.size) return;
+  const target = await pickSet({ title: `Move ${picked.size} Card${picked.size === 1 ? '' : 's'}`, current: null, allowNone: true });
+  if (target === undefined) return;
+  const n = picked.size;
+  for (const c of cards) if (picked.has(c.id)) { c.setId = target === 'none' ? null : target; await db.putCard(stripTransient(c)); }
+  setSelecting(false);
+  toast(`Moved ${n} card${n === 1 ? '' : 's'} to ${target === 'none' ? 'No Set' : setName(target)}`);
+});
+$('#sel-delete').addEventListener('click', async () => {
+  const b = $('#sel-delete');
+  if (!picked.size) return;
+  if (!b.dataset.confirm) {
+    b.dataset.confirm = '1'; b.textContent = `Delete ${picked.size}?`; haptic();
+    setTimeout(() => { delete b.dataset.confirm; b.textContent = 'Delete'; }, 3000);
+    return;
+  }
+  delete b.dataset.confirm; b.textContent = 'Delete';
+  const n = picked.size;
+  for (const id of picked) await db.deleteCard(id);
+  await reloadCards();
+  setSelecting(false);
+  toast(`Deleted ${n} card${n === 1 ? '' : 's'}`);
 });
 
 // ---------------------------------------------------------------- sheets
 function openSheet(title, html) {
+  sheetOnClose = null;
+  sheetToken++;
   $('#sheet-title').textContent = title;
   $('#sheet-body').innerHTML = html;
   $('#sheet-body').scrollTop = 0;
@@ -527,11 +666,16 @@ function openSheet(title, html) {
   s.hidden = b.hidden = false;
   document.body.style.overflow = 'hidden';
 }
+let sheetOnClose = null;
+let sheetToken = 0;
 async function closeSheet() {
   const s = $('#sheet'), b = $('#sheet-backdrop');
   if (s.hidden) return;
+  if (sheetOnClose) { const f = sheetOnClose; sheetOnClose = null; f(); return; }
+  const token = ++sheetToken;
   s.classList.add('out'); b.classList.add('out');
   await sleep(260);
+  if (token !== sheetToken) return; // another sheet opened meanwhile
   s.hidden = b.hidden = true;
   document.body.style.overflow = '';
 }
@@ -545,6 +689,9 @@ function openCardSheet(c) {
     <div class="detail-word">
       <div class="word">${article(c) ? `<span class="article">${esc(article(c))}</span>` : ''}${esc(c.lemma)}</div>
       <p>${esc(posLabel(c))}${c.word && c.word !== c.lemma ? ` · seen as “${esc(c.word)}”` : ''}</p>
+    </div>
+    <div class="list inset" style="margin-top:14px">
+      <button class="row row-button" id="card-set"><span class="row-main">Set</span><span class="row-value">${esc(setName(c.setId) || 'No set')}</span><svg class="chev" viewBox="0 0 24 24"><path d="m9 6 6 6-6 6"/></svg></button>
     </div>
     <h3>Meaning</h3>
     <div class="list inset"><div class="field"><textarea id="edit-meaning" rows="2">${esc(c.meaning)}</textarea></div></div>
@@ -562,6 +709,16 @@ function openCardSheet(c) {
     c.example = $('#edit-example').value.trim();
     await db.putCard(stripTransient(c));
   };
+  $('#card-set').addEventListener('click', async () => {
+    await save();
+    const target = await pickSet({ title: 'Move to Set', current: c.setId || 'none', allowNone: true });
+    if (target !== undefined) {
+      c.setId = target === 'none' ? null : target;
+      await db.putCard(stripTransient(c));
+      if (currentView === 'library') renderLibrary();
+    }
+    openCardSheet(c);
+  });
   $('#edit-meaning').addEventListener('change', save);
   $('#edit-example').addEventListener('change', save);
   const del = $('#delete-card');
@@ -574,6 +731,84 @@ function openCardSheet(c) {
     toast('Card deleted');
   });
 }
+
+// Pick a set in a sheet. Resolves to a set id, 'none', 'all', or undefined if dismissed.
+// Also lets you create a new set on the spot.
+function pickSet({ title, current, allowNone = false, allowAll = false, showDue = false, onlyCreate = false }) {
+  return new Promise(resolve => {
+    let done = false;
+    const finish = v => { if (done) return; done = true; sheetOnClose = null; closeSheet(); resolve(v); };
+    const now = Date.now();
+    const meta = f => showDue
+      ? `${cards.filter(c => inFilter(c, f) && c.due <= now).length} due`
+      : `${cards.filter(c => inFilter(c, f)).length}`;
+    const check = '<svg class="tick" viewBox="0 0 24 24"><path d="M5 12.5 10 17l9-10"/></svg>';
+    const row = (id, name) => `<button class="row row-button" data-pick="${esc(id)}"><span class="row-main">${esc(name)}</span>
+      <span class="count">${meta(id)}</span>${current === id ? check : '<span style="width:22px"></span>'}</button>`;
+    const rows = [
+      ...(allowAll ? [row('all', 'All Cards')] : []),
+      ...sets.map(s => row(s.id, s.name)),
+      ...(allowNone ? [row('none', 'No Set')] : [])
+    ];
+    openSheet(title, `
+      ${onlyCreate ? '' : `<div class="list inset set-list" style="margin-top:8px">${rows.join('')}</div>`}
+      <h3>${onlyCreate ? 'Name' : 'New Set'}</h3>
+      <form class="new-set" id="new-set-form"><input id="new-set-name" maxlength="40" placeholder="e.g. Clothes, Food, Reel slang" autocomplete="off">
+        <button id="new-set-btn" disabled>Create</button></form>`);
+    sheetOnClose = () => finish(undefined);
+    const input = $('#new-set-name'), btn = $('#new-set-btn');
+    input.addEventListener('input', () => { btn.disabled = !input.value.trim(); });
+    if (onlyCreate || !sets.length) setTimeout(() => input.focus(), 350);
+    $('#new-set-form').addEventListener('submit', async e => {
+      e.preventDefault();
+      const name = input.value.trim();
+      if (!name) return;
+      const existing = sets.find(s => s.name.toLowerCase() === name.toLowerCase());
+      const s = existing || { id: uid(), name, createdAt: Date.now() };
+      if (!existing) { sets.push(s); await saveSets(); }
+      haptic();
+      finish(s.id);
+    });
+    for (const b of $$('#sheet-body [data-pick]')) b.addEventListener('click', () => { haptic(); finish(b.dataset.pick); });
+  });
+}
+
+function openSetManager() {
+  const count = id => cards.filter(c => c.setId === id).length;
+  openSheet('Sets', `
+    <p class="note" style="margin-top:4px">Tap a name to rename it. Deleting a set keeps its cards; they move to “No Set”.</p>
+    ${sets.length ? `<div class="list inset" style="margin-top:14px">${sets.map(s => `
+      <div class="row set-edit" data-id="${s.id}"><input value="${esc(s.name)}" maxlength="40" aria-label="Set name">
+        <span class="count" style="color:var(--label-2)">${count(s.id)}</span><button class="del">Delete</button></div>`).join('')}</div>`
+      : '<p class="note">No sets yet. Create one below.</p>'}
+    <h3>New Set</h3>
+    <form class="new-set" id="mgr-new"><input id="mgr-name" maxlength="40" placeholder="Set name" autocomplete="off"><button>Create</button></form>`);
+  for (const r of $$('#sheet-body .set-edit')) {
+    const s = sets.find(x => x.id === r.dataset.id);
+    r.querySelector('input').addEventListener('change', async e => {
+      const v = e.target.value.trim();
+      if (v) { s.name = v; await saveSets(); toast('Renamed'); } else e.target.value = s.name;
+    });
+    const del = r.querySelector('.del');
+    del.addEventListener('click', async () => {
+      if (!del.dataset.confirm) { del.dataset.confirm = '1'; del.textContent = 'Sure?'; haptic(); return; }
+      sets = sets.filter(x => x.id !== s.id);
+      await saveSets();
+      for (const c of cards) if (c.setId === s.id) { c.setId = null; await db.putCard(stripTransient(c)); }
+      openSetManager();
+      toast(`Deleted “${s.name}”`);
+    });
+  }
+  $('#mgr-new').addEventListener('submit', async e => {
+    e.preventDefault();
+    const name = $('#mgr-name').value.trim();
+    if (!name || sets.some(s => s.name.toLowerCase() === name.toLowerCase())) return;
+    sets.push({ id: uid(), name, createdAt: Date.now() });
+    await saveSets();
+    openSetManager();
+  });
+}
+$('#manage-sets').addEventListener('click', openSetManager);
 
 async function openGuide() {
   const code = await inboxCode();
@@ -614,7 +849,8 @@ $('#open-guide-2').addEventListener('click', openGuide);
 // ---------------------------------------------------------------- export
 async function exportCsv() {
   if (!cards.length) { toast('No cards to export yet'); return; }
-  const csv = toAnkiCsv([...cards].sort((a, b) => a.createdAt - b.createdAt));
+  const list = [...cards].sort((a, b) => a.createdAt - b.createdAt).map(c => ({ ...c, deck: setName(c.setId) }));
+  const csv = toAnkiCsv(list);
   const name = `french-reel-cards-${new Date().toISOString().slice(0, 10)}.csv`;
   const file = new File([csv], name, { type: 'text/csv' });
   if (navigator.canShare?.({ files: [file] })) {
@@ -632,13 +868,16 @@ $('#export-btn-2').addEventListener('click', exportCsv);
 // ---------------------------------------------------------------- boot
 document.addEventListener('visibilitychange', () => {
   if (document.visibilityState === 'visible') {
-    reloadCards().then(() => { if (currentView === 'library') renderLibrary(); });
+    Promise.all([reloadCards(), loadSets()]).then(() => { if (currentView === 'library') renderLibrary(); });
     checkInbox();
   }
 });
 
 (async function boot() {
-  await reloadCards();
+  await Promise.all([reloadCards(), loadSets()]);
+  direction = (await db.getMeta('direction')) || 'fr-en';
+  reviewSet = (await db.getMeta('reviewSet')) || 'all';
+  saveToSet = (await db.getMeta('lastSetId')) || null;
   await renderInboxBanner();
   showView(new URLSearchParams(location.search).get('tab') || (dueCards().length ? 'review' : 'add'));
   ping(60_000); // start waking the free server right away, in the background

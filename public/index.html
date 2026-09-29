@@ -63,6 +63,9 @@
       <!-- results -->
       <div class="state" id="add-results" hidden>
         <p class="section-note" id="results-summary"></p>
+        <div class="list inset" id="results-set-wrap">
+          <button class="row row-button" id="results-set"><span class="row-icon indigo"><svg viewBox="0 0 24 24"><rect x="4" y="6" width="16" height="13" rx="2.5"/><path d="M7 3h10"/></svg></span><span class="row-main">Save to</span><span class="row-value" id="results-set-name">No set</span><svg class="chev" viewBox="0 0 24 24"><path d="m9 6 6 6-6 6"/></svg></button>
+        </div>
         <div class="list inset" id="results-list"></div>
         <details class="captions">
           <summary>Text found on screen</summary>
@@ -102,6 +105,13 @@
     <header class="navbar"><div class="navbar-title">Review</div><div class="navbar-right" id="review-count"></div></header>
     <main class="content review-content">
       <h1 class="large-title">Review</h1>
+      <div class="review-controls">
+        <button class="pill" id="review-set"><span id="review-set-name">All Cards</span><svg viewBox="0 0 24 24"><path d="m7 10 5 5 5-5"/></svg></button>
+        <div class="segmented" id="dir-toggle" role="radiogroup" aria-label="Card direction">
+          <button data-dir="fr-en" role="radio">FR → EN</button>
+          <button data-dir="en-fr" role="radio">EN → FR</button>
+        </div>
+      </div>
       <div id="review-empty" class="empty" hidden>
         <div class="empty-icon"><svg viewBox="0 0 24 24"><path d="M20 6 9 17l-5-5"/></svg></div>
         <h2 id="empty-title">All caught up</h2>
@@ -140,23 +150,32 @@
 
   <!-- LIBRARY -->
   <section class="view" id="view-library" data-title="Library" hidden>
-    <header class="navbar"><div class="navbar-title">Library</div><button class="navbar-right nav-btn" id="export-btn">Export</button></header>
+    <header class="navbar"><button class="navbar-left nav-btn" id="select-btn">Select</button><div class="navbar-title">Library</div><button class="navbar-right nav-btn" id="export-btn">Export</button></header>
     <main class="content">
       <h1 class="large-title">Library</h1>
       <div class="search">
         <svg viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
         <input id="search" type="search" placeholder="Search" autocomplete="off" autocorrect="off" spellcheck="false">
       </div>
+      <div class="chips" id="set-chips"></div>
       <div class="stats" id="stats"></div>
       <div class="list inset" id="library-list"></div>
       <div id="library-empty" class="empty small" hidden><p>No cards yet. Add a reel to get started.</p></div>
       <div class="list inset settings">
+        <button class="row row-button" id="manage-sets"><span class="row-icon indigo"><svg viewBox="0 0 24 24"><rect x="4" y="6" width="16" height="13" rx="2.5"/><path d="M7 3h10"/></svg></span><span class="row-main">Manage Sets</span><svg class="chev" viewBox="0 0 24 24"><path d="m9 6 6 6-6 6"/></svg></button>
         <button class="row row-button" id="open-guide-2"><span class="row-icon blue"><svg viewBox="0 0 24 24"><path d="M4 12v7a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1v-7M12 3v12M7 8l5-5 5 5"/></svg></span><span class="row-main">Share from Instagram</span><svg class="chev" viewBox="0 0 24 24"><path d="m9 6 6 6-6 6"/></svg></button>
         <button class="row row-button" id="export-btn-2"><span class="row-icon green"><svg viewBox="0 0 24 24"><path d="M12 3v12M7 10l5 5 5-5M5 21h14"/></svg></span><span class="row-main">Export to Anki (CSV)</span><svg class="chev" viewBox="0 0 24 24"><path d="m9 6 6 6-6 6"/></svg></button>
       </div>
       <p class="footnote">Cards are stored only on this phone. Meanings from Wiktionary (CC BY-SA), word forms from the Grammalecte lexicon (MPL 2.0).</p>
     </main>
   </section>
+
+  <!-- selection toolbar (Library → Select) -->
+  <div class="select-bar" id="select-bar" hidden>
+    <button class="nav-btn" id="sel-move">Move to Set</button>
+    <span id="sel-count">0 selected</span>
+    <button class="nav-btn danger" id="sel-delete">Delete</button>
+  </div>
 
   <!-- TAB BAR -->
   <nav class="tabbar" role="tablist">

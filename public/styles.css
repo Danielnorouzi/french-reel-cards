@@ -391,3 +391,63 @@ p { font-size: 17px; line-height: 1.4; color: var(--label-2); margin: 0; }
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after { animation-duration: 0.01ms !important; transition-duration: 0.01ms !important; }
 }
+
+/* ---------- sets & direction ---------- */
+.navbar-left { position: absolute; left: 16px; bottom: 0; height: 44px; display: flex; align-items: center; }
+.row-icon.indigo { background: var(--indigo); }
+.row-value { color: var(--label-2); font-size: 17px; max-width: 45%; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+#results-set-wrap .row-main { flex: 1; }
+
+.review-controls { display: flex; align-items: center; justify-content: space-between; gap: 10px; margin: -8px 0 18px; }
+.pill {
+  display: inline-flex; align-items: center; gap: 4px; min-height: 36px; padding: 0 12px 0 14px;
+  border-radius: 18px; background: var(--fill); font-size: 15px; font-weight: 600; max-width: 48%;
+  transition: transform 0.15s var(--ease);
+}
+.pill span { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.pill svg { width: 18px; height: 18px; flex: none; color: var(--label-2); }
+.pill:active { transform: scale(0.96); }
+.segmented { display: flex; background: var(--fill); border-radius: 10px; padding: 2px; position: relative; }
+.segmented button {
+  min-height: 32px; padding: 0 12px; border-radius: 8px; font-size: 14px; font-weight: 600; color: var(--label-2);
+  transition: background 0.25s var(--ease), color 0.25s, box-shadow 0.25s;
+}
+.segmented button.on { background: var(--card); color: var(--label); box-shadow: 0 2px 6px rgba(0, 0, 0, 0.12); }
+.word.en { font-size: 30px; line-height: 1.25; }
+
+.chips { display: flex; gap: 8px; overflow-x: auto; margin: 0 -20px 16px; padding: 2px 20px; scrollbar-width: none; }
+.chips::-webkit-scrollbar { display: none; }
+.chip {
+  flex: none; min-height: 34px; padding: 0 14px; border-radius: 17px; background: var(--card);
+  box-shadow: var(--shadow); font-size: 15px; font-weight: 600; color: var(--label);
+  display: inline-flex; align-items: center; gap: 6px; transition: background 0.2s, color 0.2s, transform 0.15s var(--ease);
+}
+.chip small { font-weight: 500; opacity: 0.6; font-size: 13px; }
+.chip.on { background: var(--tint); color: #fff; }
+.chip.add { color: var(--tint); }
+.chip:active { transform: scale(0.95); }
+
+#library-list.selecting .row .chev, #library-list.selecting .row-meta { display: none; }
+.row .toggle.sel { margin-right: 2px; }
+.row.picked .toggle { background: var(--tint); border-color: var(--tint); }
+.row.picked .toggle svg { opacity: 1; transform: none; }
+.select-bar {
+  position: fixed; left: 0; right: 0; bottom: var(--tabbar-h); z-index: 31;
+  display: flex; align-items: center; justify-content: space-between; padding: 12px 20px;
+  background: var(--bar); -webkit-backdrop-filter: saturate(180%) blur(20px); backdrop-filter: saturate(180%) blur(20px);
+  border-top: 0.5px solid var(--separator); font-size: 15px; color: var(--label-2);
+  animation: pop 0.25s var(--ease);
+}
+.nav-btn.danger { color: var(--red); }
+.nav-btn:disabled { opacity: 0.35; }
+
+.set-list .row .tick { width: 22px; height: 22px; color: var(--tint); stroke-width: 2.6; flex: none; }
+body.selecting .content { padding-bottom: calc(var(--tabbar-h) + 90px); }
+.set-list .row .count { color: var(--label-2); font-size: 15px; }
+.new-set { display: flex; gap: 8px; align-items: center; background: var(--card); border-radius: 14px; padding: 6px 6px 6px 16px; box-shadow: var(--shadow); }
+.new-set input { flex: 1; border: 0; background: none; font: inherit; font-size: 17px; color: var(--label); outline: none; min-width: 0; height: 40px; }
+.new-set button { background: var(--tint); color: #fff; font-weight: 600; font-size: 15px; border-radius: 10px; padding: 0 14px; height: 38px; }
+.new-set button:disabled { opacity: 0.4; }
+.set-edit { display: flex; align-items: center; gap: 10px; }
+.set-edit input { flex: 1; border: 0; background: none; font: inherit; font-size: 17px; color: var(--label); outline: none; min-width: 0; }
+.set-edit .del { color: var(--red); font-size: 15px; font-weight: 500; }

@@ -36,14 +36,17 @@ test('SM-2: intervals grow and ease adjusts', () => {
 test('Anki CSV has headers, articles and escaped fields', () => {
   const csv = toAnkiCsv([
     { lemma: 'maison', word: 'maison', pos: 'noun', gender: 'f', meaning: 'house', example: 'à la maison, "chez nous"' },
-    { lemma: 'aller', word: 'allait', pos: 'verb', gender: '', meaning: 'to go', example: 'on allait au cinéma' }
+    { lemma: 'aller', word: 'allait', pos: 'verb', gender: '', meaning: 'to go', example: 'on allait au cinéma', deck: 'Films' }
   ]);
   const lines = csv.trim().split('\n');
   assert.equal(lines[0], '#separator:Comma');
   assert.ok(lines.includes('#html:true'));
-  assert.ok(lines[4].startsWith('"une maison","house<br><i>noun · feminine</i>'));
-  assert.ok(lines[4].includes('""chez nous""'));
-  assert.ok(lines[5].includes('on <b>allait</b> au cinéma'));
+  assert.ok(lines.includes('#deck column:4'));
+  assert.ok(lines[5].startsWith('"une maison","house<br><i>noun · feminine</i>'));
+  assert.ok(lines[5].includes('""chez nous""'));
+  assert.ok(lines[5].endsWith('"Reel Cards"'));
+  assert.ok(lines[6].includes('on <b>allait</b> au cinéma'));
+  assert.ok(lines[6].endsWith('"Reel Cards::Films"'));
   assert.equal(frontText({ lemma: 'chat', pos: 'noun', gender: 'm' }), 'un chat');
 });
 
@@ -89,4 +92,14 @@ test('OCR helpers: TSV parsing, noise filter, dedupe', () => {
     { text: 'Alors on mangé une pizza', conf: 96 }, { text: 'Alors on a mangé une pizza', conf: 94 },
     { text: 'Alors on a mangé une pizza', conf: 95 }, { text: 'Alors on a mangé une p une pizza', conf: 95 }]);
   assert.deepEqual(d, ['On allait au cinéma ce soir', 'Mais ma copine', 'Alors on a mangé une pizza']);
+  // short lines are not swallowed by longer ones, fragments whose words are all in a caption are
+  assert.deepEqual(dedupeLines([{ text: 'le problème', conf: 90 }, { text: 'que je veux', conf: 90 }, { text: 'est que', conf: 80 },
+    { text: "c'est que je veux", conf: 90 }]), ['le problème', "c'est que je veux"]);
+});
+
+test('OCR: stacked one-word lines merge into one caption', () => {
+  const row = (block, y, h, conf, text) => `5\t1\t${block}\t1\t1\t1\t100\t${y}\t200\t${h}\t${conf}\t${text}`;
+  const tsv = ['header', row(1, 250, 60, 48, 'le'), row(2, 348, 80, 95, 'problème'), row(3, 447, 60, 92, "c'est"),
+    row(4, 742, 46, 73, 'un'), row(5, 640, 78, 96, 'toujours'), row(6, 1500, 60, 20, 'zz')].join('\n');
+  assert.deepEqual(parseTsv(tsv).map(l => l.text), ["le problème c'est", 'toujours un']);
 });

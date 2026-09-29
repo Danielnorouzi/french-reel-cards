@@ -81,10 +81,15 @@ function readings(token) {
 
 // Pick a reading using the previous word as a light context hint:
 // "le fait" → noun, "il fait" → verb.
-export function pickReading(token, prev) {
+export function pickReading(token, prev, next = '') {
   const rs = readings(token);
   if (!rs.length) return null;
-  if (DETERMINERS.has(prev)) return rs.find(r => r.pos === 'noun') || rs.find(r => r.pos === 'adj') || rs[0];
+  if (DETERMINERS.has(prev)) {
+    // "un nouveau vêtement": an adjective sitting between a determiner and a noun
+    const adj = rs.find(r => r.pos === 'adj');
+    if (adj && next && readings(next).some(r => r.pos === 'noun')) return adj;
+    return rs.find(r => r.pos === 'noun') || adj || rs[0];
+  }
   if (SUBJECTS.has(prev)) return rs.find(r => r.pos === 'verb') || rs[0];
   return rs[0];
 }
@@ -94,9 +99,11 @@ export function extractVocab(lines, { known = [] } = {}) {
   const knownSet = new Set(known.map(k => k.toLowerCase()));
   const byLemma = new Map();
   for (const line of lines) {
-    for (const { token, prev } of tokenize(line)) {
+    const toks = tokenize(line);
+    for (let i = 0; i < toks.length; i++) {
+      const { token, prev } = toks[i];
       if (token.length < 3 || STOPWORDS.has(token) || token.endsWith("'")) continue;
-      const r = pickReading(token, prev);
+      const r = pickReading(token, prev, toks[i + 1]?.token);
       if (!r || STOP_LEMMAS.has(r.lemma) || STOPWORDS.has(r.lemma)) continue;
       if (knownSet.has(r.lemma.toLowerCase())) continue;
       if (byLemma.has(r.lemma)) continue;

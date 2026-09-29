@@ -33,12 +33,14 @@ function highlight(example, word) {
 }
 
 export function toAnkiCsv(cards) {
-  const lines = ['#separator:Comma', '#html:true', '#columns:Front,Back,Tags', '#tags column:3'];
+  // cards in a set go into a sub-deck, e.g. "Reel Cards::Clothes"
+  const lines = ['#separator:Comma', '#html:true', '#columns:Front,Back,Tags,Deck', '#tags column:3', '#deck column:4'];
   for (const c of cards) {
     const back = [esc(c.meaning), `<i>${esc(posLabel(c))}</i>`, c.example ? `<br>${highlight(c.example, c.word)}` : '']
       .filter(Boolean).join('<br>');
     const tags = ['french', 'reel-cards', c.pos].filter(Boolean).join(' ');
-    lines.push([csvField(frontText(c)), csvField(back), csvField(tags)].join(','));
+    const deck = c.deck ? `Reel Cards::${c.deck.replace(/::/g, ':')}` : 'Reel Cards';
+    lines.push([csvField(frontText(c)), csvField(back), csvField(tags), csvField(deck)].join(','));
   }
   return lines.join('\n') + '\n';
 }

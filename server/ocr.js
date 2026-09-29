@@ -23,18 +23,22 @@ function run(cmd, args, { timeoutMs = 10 * 60_000, env } = {}) {
   });
 }
 
-// Caption text in reels is almost always either white (with a dark outline/shadow) or dark text
-// on a light box. For each frame we build three panels stacked vertically and OCR them in one go:
-//   1. near-white pixels → black-on-white   (white captions over busy video)
-//   2. near-black pixels → black-on-white   (dark text on light boxes)
-//   3. plain grayscale                       (anything else, e.g. coloured text)
-const WHITE = "if(gt(min(min(r(X,Y),g(X,Y)),b(X,Y)),195),0,255)";
-const BLACK = "if(lt(max(max(r(X,Y),g(X,Y)),b(X,Y)),70),0,255)";
+// Caption text in reels is usually white (often with a dark outline/shadow), dark text on a light
+// box, or a bright colour (cyan, yellow, pink…). For each frame we build three black-on-white
+// "masks" stacked vertically and OCR them in one go:
+//   1. near-white pixels            (white captions over busy video)
+//   2. near-black pixels            (dark text on light boxes)
+//   3. bright, saturated pixels     (coloured captions — skies and skin are not saturated enough)
+const MAX = 'max(max(r(X,Y),g(X,Y)),b(X,Y))';
+const MIN = 'min(min(r(X,Y),g(X,Y)),b(X,Y))';
+const WHITE = `if(gt(${MIN},195),0,255)`;
+const BLACK = `if(lt(${MAX},70),0,255)`;
+const VIVID = `if(gt(${MAX},185)*gt(${MAX}-${MIN},60),0,255)`;
 function panelsFilter(pre) {
   return `[0]${pre}scale='if(gt(iw,900),900,if(lt(iw,600),iw*1.5,iw))':-2,format=gbrp,split=3[a][b][c];` +
     `[a]geq=r='${WHITE}':g='${WHITE}':b='${WHITE}'[wa];` +
     `[b]geq=r='${BLACK}':g='${BLACK}':b='${BLACK}'[wb];` +
-    `[c]format=gray,format=gbrp[wc];` +
+    `[c]geq=r='${VIVID}':g='${VIVID}':b='${VIVID}'[wc];` +
     `[wa][wb][wc]vstack=inputs=3,format=gray`;
 }
 
@@ -49,7 +53,8 @@ export async function extractFrames(inputPath, workDir, { isImage }) {
   return files.map(f => path.join(workDir, f));
 }
 
-// Parse Tesseract TSV into lines with average confidence, dropping low-confidence words.
+// Parse Tesseract TSV into caption lines, dropping low-confidence words, then join lines that sit
+// right on top of each other into one caption (reels often show one or two words per line).
 export function parseTsv(tsv, minWordConf = 65, minLineConf = 75) {
   const lines = new Map();
   for (const row of tsv.split('\n').slice(1)) {
@@ -59,18 +64,49 @@ export function parseTsv(tsv, minWordConf = 65, minLineConf = 75) {
     const text = c[11].trim();
     if (!text) continue;
     const key = `${c[1]}-${c[2]}-${c[3]}-${c[4]}`; // page-block-par-line
-    if (!lines.has(key)) lines.set(key, { words: [], confs: [], total: 0 });
-    const l = lines.get(key);
-    l.total++;
-    if (conf < minWordConf) continue;
-    l.words.push(text);
-    l.confs.push(conf);
+    if (!lines.has(key)) lines.set(key, []);
+    const [x, y, w, h] = [c[6], c[7], c[8], c[9]].map(Number);
+    lines.get(key).push({ text, conf, box: { x0: x, y0: y, x1: x + w, y1: y + h } });
   }
-  return [...lines.values()]
-    // a line where most words were unreadable is background noise, not a caption
-    .filter(l => l.words.length && l.words.length / l.total >= 0.6)
-    .map(l => ({ text: l.words.join(' '), conf: l.confs.reduce((a, b) => a + b, 0) / l.confs.length }))
-    .filter(l => l.conf >= minLineConf);
+  // join lines into captions first (short lines like "le" or "un" often have low confidence on
+  // their own), then judge each caption as a whole
+  const raw = [...lines.values()].map(words => ({
+    words,
+    box: words.reduce((b, w) => ({ x0: Math.min(b.x0, w.box.x0), y0: Math.min(b.y0, w.box.y0),
+      x1: Math.max(b.x1, w.box.x1), y1: Math.max(b.y1, w.box.y1) }), words[0].box)
+  }));
+  const out = [];
+  for (const para of mergeParagraphs(raw)) {
+    const all = para.words;
+    // a clearly read caption keeps its short low-confidence words ("le", "a"); otherwise drop weak words
+    const strong = avg(all.map(w => w.conf)) >= minLineConf;
+    const words = all.filter(w => w.conf >= minWordConf || (strong && w.conf >= 35 && w.text.length <= 3));
+    // a caption where most words were unreadable is background noise
+    if (!words.length || words.length / all.length < 0.6) continue;
+    const conf = avg(words.map(w => w.conf));
+    if (conf < minLineConf) continue;
+    out.push({ text: words.map(w => w.text).join(' '), conf });
+  }
+  return out;
+}
+const avg = a => a.reduce((x, y) => x + y, 0) / a.length;
+
+export function mergeParagraphs(lines) {
+  const sorted = [...lines].sort((a, b) => a.box.y0 - b.box.y0);
+  const paras = [];
+  for (const l of sorted) {
+    const h = l.box.y1 - l.box.y0;
+    const p = paras.find(p => {
+      const ph = p.maxH; // tallest line so far (lines like "un" have no ascenders, so they look short)
+      const gap = l.box.y0 - p.last.y1;
+      const overlap = Math.min(p.last.x1, l.box.x1) - Math.max(p.last.x0, l.box.x0);
+      const sizeOk = Math.max(h, ph) / Math.max(1, Math.min(h, ph)) < 2.5; // similar font size
+      return gap > -0.3 * h && gap < 1.0 * Math.max(h, ph) && overlap > 0 && sizeOk;
+    });
+    if (p) { p.words.push(...l.words); p.last = l.box; p.maxH = Math.max(p.maxH, h); }
+    else paras.push({ words: [...l.words], last: l.box, maxH: h });
+  }
+  return paras;
 }
 
 export async function ocrFrame(file) {
@@ -84,7 +120,9 @@ export async function ocrFrame(file) {
 // Is this line plausibly a caption and not OCR noise from the video background?
 export function looksLikeText(s) {
   const letters = (s.match(/[A-Za-zÀ-ÿœŒæÆ]/g) || []).length;
-  if (letters < 3) return false;
+  // a lone short fragment ("LUS", "nl E") is almost always background noise
+  if (letters < 4 && !/\s/.test(s.trim())) return false;
+  if (letters < 4) return false;
   const nonSpace = s.replace(/\s/g, '').length;
   if (letters / nonSpace < 0.7) return false;
   // at least one real-looking word of 2+ letters
@@ -138,13 +176,19 @@ export function dedupeLines(lines, threshold = 0.75) {
     }
     return [...byNorm.values()].sort((a, b) => b.count - a.count || b.conf - a.conf || b.norm.length - a.norm.length)[0];
   });
-  // a line fully contained in a longer one (caption revealed word by word) is dropped;
-  // the longer version takes the earlier position
+  // Fragments whose words all appear in a longer caption ("Hier on", or a caption revealed word
+  // by word) are dropped, and the longer caption takes the fragment's earlier position.
+  const bag = r => new Set(r.norm.split(/[ ']/).filter(Boolean));
+  const coverOf = r => {
+    const words = [...bag(r)];
+    const covers = reps.filter(o => o !== r && o.norm.length > r.norm.length && words.every(w => bag(o).has(w)));
+    return covers.sort((a, b) => b.norm.length - a.norm.length)[0] || r;
+  };
   const out = [];
   for (const r of reps) {
-    const i = out.findIndex(o => o.norm.includes(r.norm) || r.norm.includes(o.norm));
-    if (i === -1) out.push(r);
-    else if (r.norm.length > out[i].norm.length) out[i] = r;
+    let best = r;
+    for (let c = coverOf(r); c !== best; c = coverOf(c)) best = c; // follow to the longest caption
+    if (!out.includes(best)) out.push(best);
   }
   return out.map(r => r.text);
 }
