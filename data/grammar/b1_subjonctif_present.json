@@ -1,0 +1,805 @@
+{
+  "texts": [],
+  "questions": [
+    {
+      "id": "b1-gram-0301",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "subjonctif_present",
+      "question": "Il faut que je ___ une pause.",
+      "options": [
+        "fais",
+        "ferai",
+        "ferais",
+        "fasse"
+      ],
+      "answer": 3,
+      "explanation": "Il faut que introduces a requirement, preference, or wish and takes the subjunctive. The correct form of faire is fasse.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0302",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "subjonctif_present",
+      "question": "Je voudrais que tu ___ une pause.",
+      "options": [
+        "fasses",
+        "fais",
+        "ferais",
+        "feras"
+      ],
+      "answer": 0,
+      "explanation": "Je voudrais que introduces a requirement, preference, or wish and takes the subjunctive. The correct form of faire is fasses.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0303",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "subjonctif_present",
+      "question": "Il vaut mieux qu’elle ___ une pause.",
+      "options": [
+        "fasse",
+        "fera",
+        "ferait",
+        "fait"
+      ],
+      "answer": 0,
+      "explanation": "Il vaut mieux que introduces a requirement, preference, or wish and takes the subjunctive. The correct form of faire is fasse.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0304",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "subjonctif_present",
+      "question": "Il est important que nous ___ une pause.",
+      "options": [
+        "ferons",
+        "faisons",
+        "fassions",
+        "ferions"
+      ],
+      "answer": 2,
+      "explanation": "Il est important que introduces a requirement, preference, or wish and takes the subjunctive. The correct form of faire is fassions.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0305",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "subjonctif_present",
+      "question": "Le responsable préfère que vous ___ une pause.",
+      "options": [
+        "ferez",
+        "faites",
+        "feriez",
+        "fassiez"
+      ],
+      "answer": 3,
+      "explanation": "Le responsable préfère que introduces a requirement, preference, or wish and takes the subjunctive. The correct form of faire is fassiez.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0306",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "subjonctif_present",
+      "question": "Il faut que je ___ le bus.",
+      "options": [
+        "prenne",
+        "prends",
+        "prendrai",
+        "prendrais"
+      ],
+      "answer": 0,
+      "explanation": "Il faut que introduces a requirement, preference, or wish and takes the subjunctive. The correct form of prendre is prenne.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0307",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "subjonctif_present",
+      "question": "Je voudrais que tu ___ le bus.",
+      "options": [
+        "prendrais",
+        "prendras",
+        "prends",
+        "prennes"
+      ],
+      "answer": 3,
+      "explanation": "Je voudrais que introduces a requirement, preference, or wish and takes the subjunctive. The correct form of prendre is prennes.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0308",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "subjonctif_present",
+      "question": "Il vaut mieux qu’elle ___ le bus.",
+      "options": [
+        "prendrait",
+        "prend",
+        "prenne",
+        "prendra"
+      ],
+      "answer": 2,
+      "explanation": "Il vaut mieux que introduces a requirement, preference, or wish and takes the subjunctive. The correct form of prendre is prenne.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0309",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "subjonctif_present",
+      "question": "Il est important que nous ___ le bus.",
+      "options": [
+        "prendrions",
+        "prenions",
+        "prendrons",
+        "prenons"
+      ],
+      "answer": 1,
+      "explanation": "Il est important que introduces a requirement, preference, or wish and takes the subjunctive. The correct form of prendre is prenions.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0310",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "subjonctif_present",
+      "question": "Le responsable préfère que vous ___ le bus.",
+      "options": [
+        "prendriez",
+        "prenez",
+        "preniez",
+        "prendrez"
+      ],
+      "answer": 2,
+      "explanation": "Le responsable préfère que introduces a requirement, preference, or wish and takes the subjunctive. The correct form of prendre is preniez.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0311",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "subjonctif_present",
+      "question": "Il faut que je ___ le nouveau film.",
+      "options": [
+        "verrai",
+        "verrais",
+        "voie",
+        "vois"
+      ],
+      "answer": 2,
+      "explanation": "Il faut que introduces a requirement, preference, or wish and takes the subjunctive. The correct form of voir is voie.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0312",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "subjonctif_present",
+      "question": "Je voudrais que tu ___ le nouveau film.",
+      "options": [
+        "verrais",
+        "voies",
+        "verras",
+        "vois"
+      ],
+      "answer": 1,
+      "explanation": "Je voudrais que introduces a requirement, preference, or wish and takes the subjunctive. The correct form of voir is voies.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0313",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "subjonctif_present",
+      "question": "Il vaut mieux qu’elle ___ le nouveau film.",
+      "options": [
+        "voit",
+        "verra",
+        "verrait",
+        "voie"
+      ],
+      "answer": 3,
+      "explanation": "Il vaut mieux que introduces a requirement, preference, or wish and takes the subjunctive. The correct form of voir is voie.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0314",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "subjonctif_present",
+      "question": "Il est important que nous ___ le nouveau film.",
+      "options": [
+        "voyions",
+        "voyons",
+        "verrons",
+        "verrions"
+      ],
+      "answer": 0,
+      "explanation": "Il est important que introduces a requirement, preference, or wish and takes the subjunctive. The correct form of voir is voyions.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0315",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "subjonctif_present",
+      "question": "Le responsable préfère que vous ___ le nouveau film.",
+      "options": [
+        "verriez",
+        "verrez",
+        "voyiez",
+        "voyez"
+      ],
+      "answer": 2,
+      "explanation": "Le responsable préfère que introduces a requirement, preference, or wish and takes the subjunctive. The correct form of voir is voyiez.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0316",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "subjonctif_present",
+      "question": "Il faut que j’___ un message.",
+      "options": [
+        "écrirais",
+        "écrirai",
+        "écris",
+        "écrive"
+      ],
+      "answer": 3,
+      "explanation": "Il faut que introduces a requirement, preference, or wish and takes the subjunctive. The correct form of écrire is écrive.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0317",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "subjonctif_present",
+      "question": "Je voudrais que tu ___ un message.",
+      "options": [
+        "écrives",
+        "écriras",
+        "écris",
+        "écrirais"
+      ],
+      "answer": 0,
+      "explanation": "Je voudrais que introduces a requirement, preference, or wish and takes the subjunctive. The correct form of écrire is écrives.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0318",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "subjonctif_present",
+      "question": "Il vaut mieux qu’elle ___ un message.",
+      "options": [
+        "écrira",
+        "écrit",
+        "écrive",
+        "écrirait"
+      ],
+      "answer": 2,
+      "explanation": "Il vaut mieux que introduces a requirement, preference, or wish and takes the subjunctive. The correct form of écrire is écrive.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0319",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "subjonctif_present",
+      "question": "Il est important que nous ___ un message.",
+      "options": [
+        "écrivions",
+        "écrivons",
+        "écrirons",
+        "écririons"
+      ],
+      "answer": 0,
+      "explanation": "Il est important que introduces a requirement, preference, or wish and takes the subjunctive. The correct form of écrire is écrivions.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0320",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "subjonctif_present",
+      "question": "Le responsable préfère que vous ___ un message.",
+      "options": [
+        "écrivez",
+        "écriviez",
+        "écrirez",
+        "écririez"
+      ],
+      "answer": 1,
+      "explanation": "Le responsable préfère que introduces a requirement, preference, or wish and takes the subjunctive. The correct form of écrire is écriviez.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0321",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "subjonctif_present",
+      "question": "Il faut que je ___ la table.",
+      "options": [
+        "mettrai",
+        "mette",
+        "mettrais",
+        "mets"
+      ],
+      "answer": 1,
+      "explanation": "Il faut que introduces a requirement, preference, or wish and takes the subjunctive. The correct form of mettre is mette.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0322",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "subjonctif_present",
+      "question": "Je voudrais que tu ___ la table.",
+      "options": [
+        "mettes",
+        "mets",
+        "mettras",
+        "mettrais"
+      ],
+      "answer": 0,
+      "explanation": "Je voudrais que introduces a requirement, preference, or wish and takes the subjunctive. The correct form of mettre is mettes.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0323",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "subjonctif_present",
+      "question": "Il vaut mieux qu’elle ___ la table.",
+      "options": [
+        "met",
+        "mette",
+        "mettrait",
+        "mettra"
+      ],
+      "answer": 1,
+      "explanation": "Il vaut mieux que introduces a requirement, preference, or wish and takes the subjunctive. The correct form of mettre is mette.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0324",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "subjonctif_present",
+      "question": "Il est important que nous ___ la table.",
+      "options": [
+        "mettons",
+        "mettrons",
+        "mettrions",
+        "mettions"
+      ],
+      "answer": 3,
+      "explanation": "Il est important que introduces a requirement, preference, or wish and takes the subjunctive. The correct form of mettre is mettions.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0325",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "subjonctif_present",
+      "question": "Le responsable préfère que vous ___ la table.",
+      "options": [
+        "mettrez",
+        "mettiez",
+        "mettez",
+        "mettriez"
+      ],
+      "answer": 1,
+      "explanation": "Le responsable préfère que introduces a requirement, preference, or wish and takes the subjunctive. The correct form of mettre is mettiez.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0326",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "subjonctif_present",
+      "question": "Il faut que je ___ à la soirée.",
+      "options": [
+        "viendrai",
+        "viendrais",
+        "viens",
+        "vienne"
+      ],
+      "answer": 3,
+      "explanation": "Il faut que introduces a requirement, preference, or wish and takes the subjunctive. The correct form of venir is vienne.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0327",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "subjonctif_present",
+      "question": "Je voudrais que tu ___ à la soirée.",
+      "options": [
+        "viens",
+        "viennes",
+        "viendras",
+        "viendrais"
+      ],
+      "answer": 1,
+      "explanation": "Je voudrais que introduces a requirement, preference, or wish and takes the subjunctive. The correct form of venir is viennes.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0328",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "subjonctif_present",
+      "question": "Il vaut mieux qu’elle ___ à la soirée.",
+      "options": [
+        "vienne",
+        "vient",
+        "viendra",
+        "viendrait"
+      ],
+      "answer": 0,
+      "explanation": "Il vaut mieux que introduces a requirement, preference, or wish and takes the subjunctive. The correct form of venir is vienne.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0329",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "subjonctif_present",
+      "question": "Il est important que nous ___ à la soirée.",
+      "options": [
+        "venions",
+        "venons",
+        "viendrions",
+        "viendrons"
+      ],
+      "answer": 0,
+      "explanation": "Il est important que introduces a requirement, preference, or wish and takes the subjunctive. The correct form of venir is venions.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0330",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "subjonctif_present",
+      "question": "Le responsable préfère que vous ___ à la soirée.",
+      "options": [
+        "viendriez",
+        "veniez",
+        "viendrez",
+        "venez"
+      ],
+      "answer": 1,
+      "explanation": "Le responsable préfère que introduces a requirement, preference, or wish and takes the subjunctive. The correct form of venir is veniez.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0331",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "subjonctif_present",
+      "question": "Il faut que je ___ prendre une pause.",
+      "options": [
+        "pourrai",
+        "peux",
+        "puisse",
+        "pourrais"
+      ],
+      "answer": 2,
+      "explanation": "Il faut que introduces a requirement, preference, or wish and takes the subjunctive. The correct form of pouvoir is puisse.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0332",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "subjonctif_present",
+      "question": "Je voudrais que tu ___ prendre une pause.",
+      "options": [
+        "pourrais",
+        "peux",
+        "pourras",
+        "puisses"
+      ],
+      "answer": 3,
+      "explanation": "Je voudrais que introduces a requirement, preference, or wish and takes the subjunctive. The correct form of pouvoir is puisses.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0333",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "subjonctif_present",
+      "question": "Il vaut mieux qu’elle ___ prendre une pause.",
+      "options": [
+        "puisse",
+        "pourra",
+        "pourrait",
+        "peut"
+      ],
+      "answer": 0,
+      "explanation": "Il vaut mieux que introduces a requirement, preference, or wish and takes the subjunctive. The correct form of pouvoir is puisse.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0334",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "subjonctif_present",
+      "question": "Il est important que nous ___ prendre une pause.",
+      "options": [
+        "pourrons",
+        "puissions",
+        "pourrions",
+        "pouvons"
+      ],
+      "answer": 1,
+      "explanation": "Il est important que introduces a requirement, preference, or wish and takes the subjunctive. The correct form of pouvoir is puissions.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0335",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "subjonctif_present",
+      "question": "Le responsable préfère que vous ___ prendre une pause.",
+      "options": [
+        "pouvez",
+        "pourrez",
+        "pourriez",
+        "puissiez"
+      ],
+      "answer": 3,
+      "explanation": "Le responsable préfère que introduces a requirement, preference, or wish and takes the subjunctive. The correct form of pouvoir is puissiez.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0336",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "subjonctif_present",
+      "question": "Il faut que je ___ où aller.",
+      "options": [
+        "sais",
+        "saurais",
+        "saurai",
+        "sache"
+      ],
+      "answer": 3,
+      "explanation": "Il faut que introduces a requirement, preference, or wish and takes the subjunctive. The correct form of savoir is sache.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0337",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "subjonctif_present",
+      "question": "Je voudrais que tu ___ où aller.",
+      "options": [
+        "sais",
+        "sauras",
+        "saches",
+        "saurais"
+      ],
+      "answer": 2,
+      "explanation": "Je voudrais que introduces a requirement, preference, or wish and takes the subjunctive. The correct form of savoir is saches.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0338",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "subjonctif_present",
+      "question": "Il vaut mieux qu’elle ___ où aller.",
+      "options": [
+        "saura",
+        "saurait",
+        "sache",
+        "sait"
+      ],
+      "answer": 2,
+      "explanation": "Il vaut mieux que introduces a requirement, preference, or wish and takes the subjunctive. The correct form of savoir is sache.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0339",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "subjonctif_present",
+      "question": "Il est important que nous ___ où aller.",
+      "options": [
+        "savons",
+        "saurons",
+        "sachions",
+        "saurions"
+      ],
+      "answer": 2,
+      "explanation": "Il est important que introduces a requirement, preference, or wish and takes the subjunctive. The correct form of savoir is sachions.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0340",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "subjonctif_present",
+      "question": "Le responsable préfère que vous ___ où aller.",
+      "options": [
+        "sachiez",
+        "saurez",
+        "savez",
+        "sauriez"
+      ],
+      "answer": 0,
+      "explanation": "Le responsable préfère que introduces a requirement, preference, or wish and takes the subjunctive. The correct form of savoir is sachiez.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0341",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "subjonctif_present",
+      "question": "Il faut que je ___ à l’heure.",
+      "options": [
+        "suis",
+        "sois",
+        "serais",
+        "serai"
+      ],
+      "answer": 1,
+      "explanation": "Il faut que introduces a requirement, preference, or wish and takes the subjunctive. The correct form of être is sois.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0342",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "subjonctif_present",
+      "question": "Je voudrais que tu ___ à l’heure.",
+      "options": [
+        "sois",
+        "seras",
+        "es",
+        "serais"
+      ],
+      "answer": 0,
+      "explanation": "Je voudrais que introduces a requirement, preference, or wish and takes the subjunctive. The correct form of être is sois.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0343",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "subjonctif_present",
+      "question": "Il vaut mieux qu’elle ___ à l’heure.",
+      "options": [
+        "sera",
+        "soit",
+        "serait",
+        "est"
+      ],
+      "answer": 1,
+      "explanation": "Il vaut mieux que introduces a requirement, preference, or wish and takes the subjunctive. The correct form of être is soit.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0344",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "subjonctif_present",
+      "question": "Il est important que nous ___ à l’heure.",
+      "options": [
+        "sommes",
+        "soyons",
+        "serons",
+        "serions"
+      ],
+      "answer": 1,
+      "explanation": "Il est important que introduces a requirement, preference, or wish and takes the subjunctive. The correct form of être is soyons.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0345",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "subjonctif_present",
+      "question": "Le responsable préfère que vous ___ à l’heure.",
+      "options": [
+        "êtes",
+        "serez",
+        "seriez",
+        "soyez"
+      ],
+      "answer": 3,
+      "explanation": "Le responsable préfère que introduces a requirement, preference, or wish and takes the subjunctive. The correct form of être is soyez.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0346",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "subjonctif_present",
+      "question": "Il faut que j’___ le code de la porte.",
+      "options": [
+        "ai",
+        "aurais",
+        "aie",
+        "aurai"
+      ],
+      "answer": 2,
+      "explanation": "Il faut que introduces a requirement, preference, or wish and takes the subjunctive. The correct form of avoir is aie.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0347",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "subjonctif_present",
+      "question": "Je voudrais que tu ___ le code de la porte.",
+      "options": [
+        "aurais",
+        "as",
+        "auras",
+        "aies"
+      ],
+      "answer": 3,
+      "explanation": "Je voudrais que introduces a requirement, preference, or wish and takes the subjunctive. The correct form of avoir is aies.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0348",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "subjonctif_present",
+      "question": "Il vaut mieux qu’elle ___ le code de la porte.",
+      "options": [
+        "aura",
+        "ait",
+        "aurait",
+        "a"
+      ],
+      "answer": 1,
+      "explanation": "Il vaut mieux que introduces a requirement, preference, or wish and takes the subjunctive. The correct form of avoir is ait.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0349",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "subjonctif_present",
+      "question": "Il est important que nous ___ le code de la porte.",
+      "options": [
+        "aurons",
+        "aurions",
+        "ayons",
+        "avons"
+      ],
+      "answer": 2,
+      "explanation": "Il est important que introduces a requirement, preference, or wish and takes the subjunctive. The correct form of avoir is ayons.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0350",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "subjonctif_present",
+      "question": "Le responsable préfère que vous ___ le code de la porte.",
+      "options": [
+        "ayez",
+        "aurez",
+        "avez",
+        "auriez"
+      ],
+      "answer": 0,
+      "explanation": "Le responsable préfère que introduces a requirement, preference, or wish and takes the subjunctive. The correct form of avoir is ayez.",
+      "textId": null
+    }
+  ]
+}

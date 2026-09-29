@@ -1,0 +1,805 @@
+{
+  "texts": [],
+  "questions": [
+    {
+      "id": "b1-gram-0251",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pronoun_en",
+      "question": "Remplace « de ce projet » par un pronom : Je parle de ce projet. → J’___ parle.",
+      "options": [
+        "le",
+        "y",
+        "en",
+        "lui"
+      ],
+      "answer": 2,
+      "explanation": "En replaces the complement introduced by de in parler de. With a reflexive verb, the reflexive pronoun comes before en.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0252",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pronoun_en",
+      "question": "Remplace « de ce projet » par un pronom : Tu parles de ce projet. → Tu ___ parles.",
+      "options": [
+        "y",
+        "lui",
+        "le",
+        "en"
+      ],
+      "answer": 3,
+      "explanation": "En replaces the complement introduced by de in parler de. With a reflexive verb, the reflexive pronoun comes before en.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0253",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pronoun_en",
+      "question": "Remplace « de ce projet » par un pronom : Elle parle de ce projet. → Elle ___ parle.",
+      "options": [
+        "le",
+        "lui",
+        "en",
+        "y"
+      ],
+      "answer": 2,
+      "explanation": "En replaces the complement introduced by de in parler de. With a reflexive verb, the reflexive pronoun comes before en.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0254",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pronoun_en",
+      "question": "Remplace « de ce projet » par un pronom : Nous parlons de ce projet. → Nous ___ parlons.",
+      "options": [
+        "le",
+        "y",
+        "lui",
+        "en"
+      ],
+      "answer": 3,
+      "explanation": "En replaces the complement introduced by de in parler de. With a reflexive verb, the reflexive pronoun comes before en.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0255",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pronoun_en",
+      "question": "Remplace « de ce projet » par un pronom : Vous parlez de ce projet. → Vous ___ parlez.",
+      "options": [
+        "y",
+        "en",
+        "le",
+        "lui"
+      ],
+      "answer": 1,
+      "explanation": "En replaces the complement introduced by de in parler de. With a reflexive verb, the reflexive pronoun comes before en.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0256",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pronoun_en",
+      "question": "Remplace « de cette adresse » par un pronom : J’ai besoin de cette adresse. → J’___ ai besoin.",
+      "options": [
+        "le",
+        "en",
+        "lui",
+        "y"
+      ],
+      "answer": 1,
+      "explanation": "En replaces the complement introduced by de in avoir besoin de. With a reflexive verb, the reflexive pronoun comes before en.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0257",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pronoun_en",
+      "question": "Remplace « de cette adresse » par un pronom : Tu as besoin de cette adresse. → Tu ___ as besoin.",
+      "options": [
+        "y",
+        "lui",
+        "en",
+        "le"
+      ],
+      "answer": 2,
+      "explanation": "En replaces the complement introduced by de in avoir besoin de. With a reflexive verb, the reflexive pronoun comes before en.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0258",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pronoun_en",
+      "question": "Remplace « de cette adresse » par un pronom : Elle a besoin de cette adresse. → Elle ___ a besoin.",
+      "options": [
+        "le",
+        "y",
+        "en",
+        "lui"
+      ],
+      "answer": 2,
+      "explanation": "En replaces the complement introduced by de in avoir besoin de. With a reflexive verb, the reflexive pronoun comes before en.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0259",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pronoun_en",
+      "question": "Remplace « de cette adresse » par un pronom : Nous avons besoin de cette adresse. → Nous ___ avons besoin.",
+      "options": [
+        "le",
+        "lui",
+        "y",
+        "en"
+      ],
+      "answer": 3,
+      "explanation": "En replaces the complement introduced by de in avoir besoin de. With a reflexive verb, the reflexive pronoun comes before en.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0260",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pronoun_en",
+      "question": "Remplace « de cette adresse » par un pronom : Vous avez besoin de cette adresse. → Vous ___ avez besoin.",
+      "options": [
+        "le",
+        "lui",
+        "en",
+        "y"
+      ],
+      "answer": 2,
+      "explanation": "En replaces the complement introduced by de in avoir besoin de. With a reflexive verb, the reflexive pronoun comes before en.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0261",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pronoun_en",
+      "question": "Remplace « de cette vidéo » par un pronom : Je me souviens de cette vidéo. → Je m’___ souviens.",
+      "options": [
+        "le",
+        "en",
+        "lui",
+        "y"
+      ],
+      "answer": 1,
+      "explanation": "En replaces the complement introduced by de in se souvenir de. With a reflexive verb, the reflexive pronoun comes before en.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0262",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pronoun_en",
+      "question": "Remplace « de cette vidéo » par un pronom : Tu te souviens de cette vidéo. → Tu t’___ souviens.",
+      "options": [
+        "en",
+        "lui",
+        "le",
+        "y"
+      ],
+      "answer": 0,
+      "explanation": "En replaces the complement introduced by de in se souvenir de. With a reflexive verb, the reflexive pronoun comes before en.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0263",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pronoun_en",
+      "question": "Remplace « de cette vidéo » par un pronom : Elle se souvient de cette vidéo. → Elle s’___ souvient.",
+      "options": [
+        "y",
+        "en",
+        "le",
+        "lui"
+      ],
+      "answer": 1,
+      "explanation": "En replaces the complement introduced by de in se souvenir de. With a reflexive verb, the reflexive pronoun comes before en.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0264",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pronoun_en",
+      "question": "Remplace « de cette vidéo » par un pronom : Nous nous souvenons de cette vidéo. → Nous nous ___ souvenons.",
+      "options": [
+        "en",
+        "le",
+        "y",
+        "lui"
+      ],
+      "answer": 0,
+      "explanation": "En replaces the complement introduced by de in se souvenir de. With a reflexive verb, the reflexive pronoun comes before en.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0265",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pronoun_en",
+      "question": "Remplace « de cette vidéo » par un pronom : Vous vous souvenez de cette vidéo. → Vous vous ___ souvenez.",
+      "options": [
+        "en",
+        "lui",
+        "y",
+        "le"
+      ],
+      "answer": 0,
+      "explanation": "En replaces the complement introduced by de in se souvenir de. With a reflexive verb, the reflexive pronoun comes before en.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0266",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pronoun_en",
+      "question": "Remplace « de ce résultat » par un pronom : Je suis satisfait de ce résultat. → J’___ suis satisfait.",
+      "options": [
+        "y",
+        "en",
+        "lui",
+        "le"
+      ],
+      "answer": 1,
+      "explanation": "En replaces the complement introduced by de in être satisfait de. With a reflexive verb, the reflexive pronoun comes before en.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0267",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pronoun_en",
+      "question": "Remplace « de ce résultat » par un pronom : Tu es satisfait de ce résultat. → Tu ___ es satisfait.",
+      "options": [
+        "en",
+        "y",
+        "le",
+        "lui"
+      ],
+      "answer": 0,
+      "explanation": "En replaces the complement introduced by de in être satisfait de. With a reflexive verb, the reflexive pronoun comes before en.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0268",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pronoun_en",
+      "question": "Remplace « de ce résultat » par un pronom : Elle est satisfaite de ce résultat. → Elle ___ est satisfaite.",
+      "options": [
+        "y",
+        "le",
+        "en",
+        "lui"
+      ],
+      "answer": 2,
+      "explanation": "En replaces the complement introduced by de in être satisfait de. With a reflexive verb, the reflexive pronoun comes before en.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0269",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pronoun_en",
+      "question": "Remplace « de ce résultat » par un pronom : Nous sommes satisfaits de ce résultat. → Nous ___ sommes satisfaits.",
+      "options": [
+        "y",
+        "en",
+        "lui",
+        "le"
+      ],
+      "answer": 1,
+      "explanation": "En replaces the complement introduced by de in être satisfait de. With a reflexive verb, the reflexive pronoun comes before en.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0270",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pronoun_en",
+      "question": "Remplace « de ce résultat » par un pronom : Vous êtes satisfaits de ce résultat. → Vous ___ êtes satisfaits.",
+      "options": [
+        "en",
+        "le",
+        "y",
+        "lui"
+      ],
+      "answer": 0,
+      "explanation": "En replaces the complement introduced by de in être satisfait de. With a reflexive verb, the reflexive pronoun comes before en.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0271",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pronoun_en",
+      "question": "Remplace « de cette réussite » par un pronom : Je suis fier de cette réussite. → J’___ suis fier.",
+      "options": [
+        "en",
+        "lui",
+        "le",
+        "y"
+      ],
+      "answer": 0,
+      "explanation": "En replaces the complement introduced by de in être fier de. With a reflexive verb, the reflexive pronoun comes before en.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0272",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pronoun_en",
+      "question": "Remplace « de cette réussite » par un pronom : Tu es fier de cette réussite. → Tu ___ es fier.",
+      "options": [
+        "en",
+        "lui",
+        "le",
+        "y"
+      ],
+      "answer": 0,
+      "explanation": "En replaces the complement introduced by de in être fier de. With a reflexive verb, the reflexive pronoun comes before en.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0273",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pronoun_en",
+      "question": "Remplace « de cette réussite » par un pronom : Elle est fière de cette réussite. → Elle ___ est fière.",
+      "options": [
+        "lui",
+        "le",
+        "y",
+        "en"
+      ],
+      "answer": 3,
+      "explanation": "En replaces the complement introduced by de in être fier de. With a reflexive verb, the reflexive pronoun comes before en.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0274",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pronoun_en",
+      "question": "Remplace « de cette réussite » par un pronom : Nous sommes fiers de cette réussite. → Nous ___ sommes fiers.",
+      "options": [
+        "y",
+        "en",
+        "le",
+        "lui"
+      ],
+      "answer": 1,
+      "explanation": "En replaces the complement introduced by de in être fier de. With a reflexive verb, the reflexive pronoun comes before en.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0275",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pronoun_en",
+      "question": "Remplace « de cette réussite » par un pronom : Vous êtes fiers de cette réussite. → Vous ___ êtes fiers.",
+      "options": [
+        "en",
+        "y",
+        "le",
+        "lui"
+      ],
+      "answer": 0,
+      "explanation": "En replaces the complement introduced by de in être fier de. With a reflexive verb, the reflexive pronoun comes before en.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0276",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pronoun_en",
+      "question": "Remplace « de ce dossier » par un pronom : Je m’occupe de ce dossier. → Je m’___ occupe.",
+      "options": [
+        "le",
+        "en",
+        "y",
+        "lui"
+      ],
+      "answer": 1,
+      "explanation": "En replaces the complement introduced by de in s’occuper de. With a reflexive verb, the reflexive pronoun comes before en.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0277",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pronoun_en",
+      "question": "Remplace « de ce dossier » par un pronom : Tu t’occupes de ce dossier. → Tu t’___ occupes.",
+      "options": [
+        "lui",
+        "en",
+        "y",
+        "le"
+      ],
+      "answer": 1,
+      "explanation": "En replaces the complement introduced by de in s’occuper de. With a reflexive verb, the reflexive pronoun comes before en.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0278",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pronoun_en",
+      "question": "Remplace « de ce dossier » par un pronom : Elle s’occupe de ce dossier. → Elle s’___ occupe.",
+      "options": [
+        "lui",
+        "en",
+        "le",
+        "y"
+      ],
+      "answer": 1,
+      "explanation": "En replaces the complement introduced by de in s’occuper de. With a reflexive verb, the reflexive pronoun comes before en.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0279",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pronoun_en",
+      "question": "Remplace « de ce dossier » par un pronom : Nous nous occupons de ce dossier. → Nous nous ___ occupons.",
+      "options": [
+        "lui",
+        "en",
+        "y",
+        "le"
+      ],
+      "answer": 1,
+      "explanation": "En replaces the complement introduced by de in s’occuper de. With a reflexive verb, the reflexive pronoun comes before en.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0280",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pronoun_en",
+      "question": "Remplace « de ce dossier » par un pronom : Vous vous occupez de ce dossier. → Vous vous ___ occupez.",
+      "options": [
+        "en",
+        "lui",
+        "y",
+        "le"
+      ],
+      "answer": 0,
+      "explanation": "En replaces the complement introduced by de in s’occuper de. With a reflexive verb, the reflexive pronoun comes before en.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0281",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pronoun_en",
+      "question": "Remplace « de ce retard » par un pronom : Je me plains de ce retard. → Je m’___ plains.",
+      "options": [
+        "lui",
+        "y",
+        "le",
+        "en"
+      ],
+      "answer": 3,
+      "explanation": "En replaces the complement introduced by de in se plaindre de. With a reflexive verb, the reflexive pronoun comes before en.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0282",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pronoun_en",
+      "question": "Remplace « de ce retard » par un pronom : Tu te plains de ce retard. → Tu t’___ plains.",
+      "options": [
+        "y",
+        "le",
+        "en",
+        "lui"
+      ],
+      "answer": 2,
+      "explanation": "En replaces the complement introduced by de in se plaindre de. With a reflexive verb, the reflexive pronoun comes before en.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0283",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pronoun_en",
+      "question": "Remplace « de ce retard » par un pronom : Elle se plaint de ce retard. → Elle s’___ plaint.",
+      "options": [
+        "le",
+        "lui",
+        "en",
+        "y"
+      ],
+      "answer": 2,
+      "explanation": "En replaces the complement introduced by de in se plaindre de. With a reflexive verb, the reflexive pronoun comes before en.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0284",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pronoun_en",
+      "question": "Remplace « de ce retard » par un pronom : Nous nous plaignons de ce retard. → Nous nous ___ plaignons.",
+      "options": [
+        "lui",
+        "le",
+        "y",
+        "en"
+      ],
+      "answer": 3,
+      "explanation": "En replaces the complement introduced by de in se plaindre de. With a reflexive verb, the reflexive pronoun comes before en.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0285",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pronoun_en",
+      "question": "Remplace « de ce retard » par un pronom : Vous vous plaignez de ce retard. → Vous vous ___ plaignez.",
+      "options": [
+        "en",
+        "lui",
+        "y",
+        "le"
+      ],
+      "answer": 0,
+      "explanation": "En replaces the complement introduced by de in se plaindre de. With a reflexive verb, the reflexive pronoun comes before en.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0286",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pronoun_en",
+      "question": "Remplace « de ce voyage » par un pronom : Je rêve de ce voyage. → J’___ rêve.",
+      "options": [
+        "en",
+        "y",
+        "lui",
+        "le"
+      ],
+      "answer": 0,
+      "explanation": "En replaces the complement introduced by de in rêver de. With a reflexive verb, the reflexive pronoun comes before en.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0287",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pronoun_en",
+      "question": "Remplace « de ce voyage » par un pronom : Tu rêves de ce voyage. → Tu ___ rêves.",
+      "options": [
+        "y",
+        "lui",
+        "le",
+        "en"
+      ],
+      "answer": 3,
+      "explanation": "En replaces the complement introduced by de in rêver de. With a reflexive verb, the reflexive pronoun comes before en.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0288",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pronoun_en",
+      "question": "Remplace « de ce voyage » par un pronom : Elle rêve de ce voyage. → Elle ___ rêve.",
+      "options": [
+        "le",
+        "y",
+        "en",
+        "lui"
+      ],
+      "answer": 2,
+      "explanation": "En replaces the complement introduced by de in rêver de. With a reflexive verb, the reflexive pronoun comes before en.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0289",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pronoun_en",
+      "question": "Remplace « de ce voyage » par un pronom : Nous rêvons de ce voyage. → Nous ___ rêvons.",
+      "options": [
+        "le",
+        "y",
+        "en",
+        "lui"
+      ],
+      "answer": 2,
+      "explanation": "En replaces the complement introduced by de in rêver de. With a reflexive verb, the reflexive pronoun comes before en.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0290",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pronoun_en",
+      "question": "Remplace « de ce voyage » par un pronom : Vous rêvez de ce voyage. → Vous ___ rêvez.",
+      "options": [
+        "y",
+        "le",
+        "lui",
+        "en"
+      ],
+      "answer": 3,
+      "explanation": "En replaces the complement introduced by de in rêver de. With a reflexive verb, the reflexive pronoun comes before en.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0291",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pronoun_en",
+      "question": "Remplace « du marché » par un pronom : Je reviens du marché. → J’___ reviens.",
+      "options": [
+        "y",
+        "le",
+        "lui",
+        "en"
+      ],
+      "answer": 3,
+      "explanation": "En replaces the complement introduced by de in revenir de. With a reflexive verb, the reflexive pronoun comes before en.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0292",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pronoun_en",
+      "question": "Remplace « du marché » par un pronom : Tu reviens du marché. → Tu ___ reviens.",
+      "options": [
+        "lui",
+        "le",
+        "en",
+        "y"
+      ],
+      "answer": 2,
+      "explanation": "En replaces the complement introduced by de in revenir de. With a reflexive verb, the reflexive pronoun comes before en.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0293",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pronoun_en",
+      "question": "Remplace « du marché » par un pronom : Elle revient du marché. → Elle ___ revient.",
+      "options": [
+        "y",
+        "lui",
+        "le",
+        "en"
+      ],
+      "answer": 3,
+      "explanation": "En replaces the complement introduced by de in revenir de. With a reflexive verb, the reflexive pronoun comes before en.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0294",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pronoun_en",
+      "question": "Remplace « du marché » par un pronom : Nous revenons du marché. → Nous ___ revenons.",
+      "options": [
+        "en",
+        "y",
+        "lui",
+        "le"
+      ],
+      "answer": 0,
+      "explanation": "En replaces the complement introduced by de in revenir de. With a reflexive verb, the reflexive pronoun comes before en.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0295",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pronoun_en",
+      "question": "Remplace « du marché » par un pronom : Vous revenez du marché. → Vous ___ revenez.",
+      "options": [
+        "y",
+        "en",
+        "le",
+        "lui"
+      ],
+      "answer": 1,
+      "explanation": "En replaces the complement introduced by de in revenir de. With a reflexive verb, the reflexive pronoun comes before en.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0296",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pronoun_en",
+      "question": "Remplace « de ce quartier » par un pronom : Je viens de ce quartier. → J’___ viens.",
+      "options": [
+        "lui",
+        "en",
+        "y",
+        "le"
+      ],
+      "answer": 1,
+      "explanation": "En replaces the complement introduced by de in venir de. With a reflexive verb, the reflexive pronoun comes before en.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0297",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pronoun_en",
+      "question": "Remplace « de ce quartier » par un pronom : Tu viens de ce quartier. → Tu ___ viens.",
+      "options": [
+        "en",
+        "lui",
+        "y",
+        "le"
+      ],
+      "answer": 0,
+      "explanation": "En replaces the complement introduced by de in venir de. With a reflexive verb, the reflexive pronoun comes before en.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0298",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pronoun_en",
+      "question": "Remplace « de ce quartier » par un pronom : Elle vient de ce quartier. → Elle ___ vient.",
+      "options": [
+        "le",
+        "lui",
+        "y",
+        "en"
+      ],
+      "answer": 3,
+      "explanation": "En replaces the complement introduced by de in venir de. With a reflexive verb, the reflexive pronoun comes before en.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0299",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pronoun_en",
+      "question": "Remplace « de ce quartier » par un pronom : Nous venons de ce quartier. → Nous ___ venons.",
+      "options": [
+        "lui",
+        "le",
+        "en",
+        "y"
+      ],
+      "answer": 2,
+      "explanation": "En replaces the complement introduced by de in venir de. With a reflexive verb, the reflexive pronoun comes before en.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0300",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pronoun_en",
+      "question": "Remplace « de ce quartier » par un pronom : Vous venez de ce quartier. → Vous ___ venez.",
+      "options": [
+        "lui",
+        "y",
+        "le",
+        "en"
+      ],
+      "answer": 3,
+      "explanation": "En replaces the complement introduced by de in venir de. With a reflexive verb, the reflexive pronoun comes before en.",
+      "textId": null
+    }
+  ]
+}

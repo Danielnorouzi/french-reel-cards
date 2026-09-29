@@ -1,0 +1,805 @@
+{
+  "texts": [],
+  "questions": [
+    {
+      "id": "b1-gram-0151",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "relative_pronouns",
+      "question": "La personne ___ a livré mon colis était très sympa.",
+      "options": [
+        "où",
+        "dont",
+        "que",
+        "qui"
+      ],
+      "answer": 3,
+      "explanation": "Qui is the subject of a livré.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0152",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "relative_pronouns",
+      "question": "Le sac ___ tu as laissé ici est dans le couloir.",
+      "options": [
+        "où",
+        "qui",
+        "que",
+        "dont"
+      ],
+      "answer": 2,
+      "explanation": "Que replaces the direct object of as laissé.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0153",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "relative_pronouns",
+      "question": "Le magasin ___ je travaille ferme à vingt heures.",
+      "options": [
+        "dont",
+        "que",
+        "où",
+        "qui"
+      ],
+      "answer": 2,
+      "explanation": "Où refers to the place where the speaker works.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0154",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "relative_pronouns",
+      "question": "Le vélo ___ je rêve coûte trop cher.",
+      "options": [
+        "dont",
+        "qui",
+        "où",
+        "que"
+      ],
+      "answer": 0,
+      "explanation": "Rêver de takes de; dont replaces de + the bicycle.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0155",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "relative_pronouns",
+      "question": "La vidéo ___ tourne partout est vraiment drôle.",
+      "options": [
+        "qui",
+        "où",
+        "dont",
+        "que"
+      ],
+      "answer": 0,
+      "explanation": "Qui is the subject of tourne.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0156",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "relative_pronouns",
+      "question": "Le plat ___ tu prépares sent super bon.",
+      "options": [
+        "qui",
+        "dont",
+        "que",
+        "où"
+      ],
+      "answer": 2,
+      "explanation": "Que is the direct object of prépares.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0157",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "relative_pronouns",
+      "question": "Le quartier ___ elle habite est assez calme.",
+      "options": [
+        "que",
+        "dont",
+        "où",
+        "qui"
+      ],
+      "answer": 2,
+      "explanation": "Où introduces the place where she lives.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0158",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "relative_pronouns",
+      "question": "Le sujet ___ on discute est important.",
+      "options": [
+        "qui",
+        "dont",
+        "que",
+        "où"
+      ],
+      "answer": 1,
+      "explanation": "Discuter de takes de; use dont.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0159",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "relative_pronouns",
+      "question": "Le collègue ___ partage mon bureau est en vacances.",
+      "options": [
+        "que",
+        "où",
+        "qui",
+        "dont"
+      ],
+      "answer": 2,
+      "explanation": "Qui is the subject of partage.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0160",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "relative_pronouns",
+      "question": "La veste ___ tu portes te va bien.",
+      "options": [
+        "que",
+        "dont",
+        "qui",
+        "où"
+      ],
+      "answer": 0,
+      "explanation": "Que is the direct object of portes.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0161",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "relative_pronouns",
+      "question": "Le jour ___ nous avons adopté notre chat, il pleuvait.",
+      "options": [
+        "où",
+        "que",
+        "qui",
+        "dont"
+      ],
+      "answer": 0,
+      "explanation": "Où can refer to a time: the day when.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0162",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "relative_pronouns",
+      "question": "Le livre ___ tu parles est sur mon étagère.",
+      "options": [
+        "qui",
+        "où",
+        "dont",
+        "que"
+      ],
+      "answer": 2,
+      "explanation": "Parler de takes de; use dont.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0163",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "relative_pronouns",
+      "question": "Les amis ___ viennent ce soir aiment cuisiner.",
+      "options": [
+        "dont",
+        "que",
+        "qui",
+        "où"
+      ],
+      "answer": 2,
+      "explanation": "Qui is the subject of viennent.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0164",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "relative_pronouns",
+      "question": "Les photos ___ nous avons prises sont floues.",
+      "options": [
+        "que",
+        "où",
+        "qui",
+        "dont"
+      ],
+      "answer": 0,
+      "explanation": "Que replaces the direct object of avons prises.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0165",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "relative_pronouns",
+      "question": "La ville ___ j’ai étudié est près de la mer.",
+      "options": [
+        "où",
+        "que",
+        "dont",
+        "qui"
+      ],
+      "answer": 0,
+      "explanation": "Où refers to the location of the studies.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0166",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "relative_pronouns",
+      "question": "La somme ___ nous avons besoin est assez petite.",
+      "options": [
+        "où",
+        "qui",
+        "que",
+        "dont"
+      ],
+      "answer": 3,
+      "explanation": "Avoir besoin de requires dont in this relative clause.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0167",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "relative_pronouns",
+      "question": "Le téléphone ___ sonne est celui de ma sœur.",
+      "options": [
+        "que",
+        "dont",
+        "qui",
+        "où"
+      ],
+      "answer": 2,
+      "explanation": "Qui is the subject of sonne.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0168",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "relative_pronouns",
+      "question": "La playlist ___ tu écoutes est géniale.",
+      "options": [
+        "dont",
+        "qui",
+        "où",
+        "que"
+      ],
+      "answer": 3,
+      "explanation": "Que is the direct object of écoutes.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0169",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "relative_pronouns",
+      "question": "La terrasse ___ nous avons déjeuné était à l’ombre.",
+      "options": [
+        "où",
+        "que",
+        "dont",
+        "qui"
+      ],
+      "answer": 0,
+      "explanation": "Où identifies the place where they had lunch.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0170",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "relative_pronouns",
+      "question": "La chanteuse ___ j’admire la voix sort un album.",
+      "options": [
+        "qui",
+        "où",
+        "que",
+        "dont"
+      ],
+      "answer": 3,
+      "explanation": "Dont expresses possession: the singer whose voice I admire.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0171",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "relative_pronouns",
+      "question": "Le voisin ___ nous aide a beaucoup d’outils.",
+      "options": [
+        "que",
+        "où",
+        "dont",
+        "qui"
+      ],
+      "answer": 3,
+      "explanation": "Qui is the subject of aide.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0172",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "relative_pronouns",
+      "question": "Le message ___ elle a envoyé était très clair.",
+      "options": [
+        "où",
+        "dont",
+        "qui",
+        "que"
+      ],
+      "answer": 3,
+      "explanation": "Que is the direct object of a envoyé.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0173",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "relative_pronouns",
+      "question": "Le dimanche ___ tu es venu, nous avons fait des crêpes.",
+      "options": [
+        "dont",
+        "qui",
+        "que",
+        "où"
+      ],
+      "answer": 3,
+      "explanation": "Où introduces the time when the visit happened.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0174",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "relative_pronouns",
+      "question": "Le problème ___ tu te plains revient souvent.",
+      "options": [
+        "qui",
+        "dont",
+        "où",
+        "que"
+      ],
+      "answer": 1,
+      "explanation": "Se plaindre de takes de; use dont.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0175",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "relative_pronouns",
+      "question": "La boutique ___ vient d’ouvrir vend des vêtements d’occasion.",
+      "options": [
+        "que",
+        "qui",
+        "dont",
+        "où"
+      ],
+      "answer": 1,
+      "explanation": "Qui is the subject of vient d’ouvrir.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0176",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "relative_pronouns",
+      "question": "Le cadeau ___ nous avons choisi est tout simple.",
+      "options": [
+        "que",
+        "qui",
+        "où",
+        "dont"
+      ],
+      "answer": 0,
+      "explanation": "Que is the direct object of avons choisi.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0177",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "relative_pronouns",
+      "question": "La maison ___ nous avons grandi a été vendue.",
+      "options": [
+        "dont",
+        "qui",
+        "que",
+        "où"
+      ],
+      "answer": 3,
+      "explanation": "Où refers to the place where they grew up.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0178",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "relative_pronouns",
+      "question": "Le projet ___ elle est fière avance bien.",
+      "options": [
+        "dont",
+        "où",
+        "qui",
+        "que"
+      ],
+      "answer": 0,
+      "explanation": "Être fier de takes de; use dont.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0179",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "relative_pronouns",
+      "question": "Le bus ___ passe devant chez moi va à la gare.",
+      "options": [
+        "où",
+        "qui",
+        "dont",
+        "que"
+      ],
+      "answer": 1,
+      "explanation": "Qui is the subject of passe.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0180",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "relative_pronouns",
+      "question": "La recette ___ tu proposes a l’air facile.",
+      "options": [
+        "où",
+        "dont",
+        "qui",
+        "que"
+      ],
+      "answer": 3,
+      "explanation": "Que is the direct object of proposes.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0181",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "relative_pronouns",
+      "question": "Le parc ___ on se retrouve est fermé aujourd’hui.",
+      "options": [
+        "que",
+        "où",
+        "dont",
+        "qui"
+      ],
+      "answer": 1,
+      "explanation": "Où refers to the meeting place.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0182",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "relative_pronouns",
+      "question": "Le résultat ___ il est satisfait est affiché ici.",
+      "options": [
+        "que",
+        "qui",
+        "où",
+        "dont"
+      ],
+      "answer": 3,
+      "explanation": "Être satisfait de takes de; use dont.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0183",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "relative_pronouns",
+      "question": "La fille ___ organise la soirée est ma cousine.",
+      "options": [
+        "où",
+        "qui",
+        "que",
+        "dont"
+      ],
+      "answer": 1,
+      "explanation": "Qui is the subject of organise.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0184",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "relative_pronouns",
+      "question": "Le film ___ vous regardez dure deux heures.",
+      "options": [
+        "que",
+        "dont",
+        "où",
+        "qui"
+      ],
+      "answer": 0,
+      "explanation": "Que is the direct object of regardez.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0185",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "relative_pronouns",
+      "question": "L’année ___ nous avons déménagé, j’ai changé de travail.",
+      "options": [
+        "que",
+        "où",
+        "qui",
+        "dont"
+      ],
+      "answer": 1,
+      "explanation": "Où refers to the year when the move happened.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0186",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "relative_pronouns",
+      "question": "Le détail ___ je me souviens est son sourire.",
+      "options": [
+        "dont",
+        "où",
+        "qui",
+        "que"
+      ],
+      "answer": 0,
+      "explanation": "Se souvenir de takes de; use dont.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0187",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "relative_pronouns",
+      "question": "Les baskets ___ sont dans l’entrée sont à moi.",
+      "options": [
+        "dont",
+        "où",
+        "que",
+        "qui"
+      ],
+      "answer": 3,
+      "explanation": "Qui is the subject of sont.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0188",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "relative_pronouns",
+      "question": "La table ___ j’ai achetée est déjà montée.",
+      "options": [
+        "dont",
+        "que",
+        "où",
+        "qui"
+      ],
+      "answer": 1,
+      "explanation": "Que is the direct object of ai achetée.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0189",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "relative_pronouns",
+      "question": "Le restaurant ___ vous avez dîné est près d’ici.",
+      "options": [
+        "qui",
+        "que",
+        "où",
+        "dont"
+      ],
+      "answer": 2,
+      "explanation": "Où refers to the location of the dinner.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0190",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "relative_pronouns",
+      "question": "Le dossier ___ il s’occupe est presque terminé.",
+      "options": [
+        "dont",
+        "que",
+        "où",
+        "qui"
+      ],
+      "answer": 0,
+      "explanation": "S’occuper de takes de; use dont.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0191",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "relative_pronouns",
+      "question": "Le chat ___ dort sur le canapé est très vieux.",
+      "options": [
+        "où",
+        "dont",
+        "qui",
+        "que"
+      ],
+      "answer": 2,
+      "explanation": "Qui is the subject of dort.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0192",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "relative_pronouns",
+      "question": "La question ___ tu poses est intéressante.",
+      "options": [
+        "qui",
+        "que",
+        "dont",
+        "où"
+      ],
+      "answer": 1,
+      "explanation": "Que is the direct object of poses.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0193",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "relative_pronouns",
+      "question": "L’endroit ___ tu as garé la voiture est interdit.",
+      "options": [
+        "dont",
+        "où",
+        "qui",
+        "que"
+      ],
+      "answer": 1,
+      "explanation": "Où refers to the parking location.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0194",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "relative_pronouns",
+      "question": "L’appartement ___ les fenêtres donnent sur le parc est libre.",
+      "options": [
+        "qui",
+        "dont",
+        "que",
+        "où"
+      ],
+      "answer": 1,
+      "explanation": "Dont expresses possession: the apartment whose windows face the park.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0195",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "relative_pronouns",
+      "question": "Les gens ___ attendent dehors ont une réservation.",
+      "options": [
+        "que",
+        "où",
+        "qui",
+        "dont"
+      ],
+      "answer": 2,
+      "explanation": "Qui is the subject of attendent.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0196",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "relative_pronouns",
+      "question": "Les tickets ___ tu cherches sont dans mon sac.",
+      "options": [
+        "que",
+        "qui",
+        "dont",
+        "où"
+      ],
+      "answer": 0,
+      "explanation": "Que is the direct object of cherches.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0197",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "relative_pronouns",
+      "question": "Le moment ___ j’ai compris mon erreur était gênant.",
+      "options": [
+        "dont",
+        "où",
+        "qui",
+        "que"
+      ],
+      "answer": 1,
+      "explanation": "Où refers to the moment when something happened.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0198",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "relative_pronouns",
+      "question": "La décision ___ nous sommes contents a été prise hier.",
+      "options": [
+        "où",
+        "qui",
+        "dont",
+        "que"
+      ],
+      "answer": 2,
+      "explanation": "Être content de takes de; use dont.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0199",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "relative_pronouns",
+      "question": "Le meuble ___ bloque la porte est trop grand.",
+      "options": [
+        "dont",
+        "qui",
+        "que",
+        "où"
+      ],
+      "answer": 1,
+      "explanation": "Qui is the subject of bloque.",
+      "textId": null
+    },
+    {
+      "id": "b1-gram-0200",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "relative_pronouns",
+      "question": "La chanson ___ elle chante me reste dans la tête.",
+      "options": [
+        "où",
+        "qui",
+        "dont",
+        "que"
+      ],
+      "answer": 3,
+      "explanation": "Que is the direct object of chante.",
+      "textId": null
+    }
+  ]
+}
