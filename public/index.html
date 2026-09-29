@@ -170,6 +170,72 @@
     </main>
   </section>
 
+  <!-- PROFILE -->
+  <section class="view" id="view-profile" data-title="Profile" hidden>
+    <header class="navbar"><div class="navbar-title">Profile</div></header>
+    <main class="content">
+      <h1 class="large-title">Profile</h1>
+
+      <!-- glass profile card -->
+      <div class="glass-stage">
+        <div class="blob b1"></div><div class="blob b2"></div><div class="blob b3"></div>
+        <div class="glass-card">
+          <button class="avatar-btn" id="avatar-btn" aria-label="Change profile picture">
+            <img id="profile-avatar" src="avatars/dog.webp" alt="">
+            <span class="avatar-edit"><svg viewBox="0 0 24 24"><path d="M4 20h4L19 9l-4-4L4 16z"/></svg></span>
+          </button>
+          <div class="glass-name" id="profile-name">Your name</div>
+          <div class="glass-sub" id="profile-sub"></div>
+          <div class="glass-pills">
+            <div class="glass-pill"><b id="pill-streak">0</b><span>day streak</span></div>
+            <div class="glass-pill"><b id="pill-cards">0</b><span>words</span></div>
+            <div class="glass-pill"><b id="pill-mastered">0</b><span>mastered</span></div>
+          </div>
+          <div class="goal">
+            <div class="goal-top"><span>Today</span><span id="goal-text">0 / 20 cards</span></div>
+            <div class="goal-bar"><div class="goal-fill" id="goal-fill"></div></div>
+          </div>
+        </div>
+      </div>
+
+      <!-- activity heatmap -->
+      <h3 class="section-title">Activity</h3>
+      <div class="card activity-card">
+        <p class="activity-head" id="activity-head"></p>
+        <div class="heatmap-wrap" id="heatmap-wrap">
+          <div class="heatmap-days" aria-hidden="true"><span></span><span>Mon</span><span></span><span>Wed</span><span></span><span>Fri</span><span></span></div>
+          <div class="heatmap-scroll">
+            <div class="heatmap-months" id="heatmap-months"></div>
+            <div class="heatmap" id="heatmap" role="grid" aria-label="Daily reviews"></div>
+          </div>
+        </div>
+        <div class="heatmap-foot">
+          <span id="heat-tip" class="heat-tip">Tap a square to see that day.</span>
+          <span class="legend">Less <i class="l0"></i><i class="l1"></i><i class="l2"></i><i class="l3"></i><i class="l4"></i> More</span>
+        </div>
+      </div>
+
+      <!-- stats -->
+      <h3 class="section-title">All time</h3>
+      <div class="stat-grid" id="stat-grid"></div>
+
+      <!-- about -->
+      <h3 class="section-title">About me</h3>
+      <div class="list inset about">
+        <label class="row field-row"><span class="row-main">Name</span><input id="pf-name" maxlength="40" placeholder="Add name" autocomplete="name"></label>
+        <label class="row field-row"><span class="row-main">Age</span><input id="pf-age" type="number" inputmode="numeric" min="5" max="120" placeholder="Add age"></label>
+        <label class="row field-row"><span class="row-main">Native language</span><input id="pf-native" maxlength="30" placeholder="e.g. English"></label>
+        <label class="row field-row"><span class="row-main">French level</span>
+          <select id="pf-level"><option value="">Choose</option><option>A1 · Beginner</option><option>A2 · Elementary</option><option>B1 · Intermediate</option><option>B2 · Upper intermediate</option><option>C1 · Advanced</option><option>C2 · Fluent</option></select></label>
+        <label class="row field-row"><span class="row-main">Daily goal</span>
+          <select id="pf-goal"><option value="10">10 cards</option><option value="20">20 cards</option><option value="30">30 cards</option><option value="50">50 cards</option><option value="100">100 cards</option></select></label>
+        <label class="row field-row"><span class="row-main">Location</span><input id="pf-location" maxlength="40" placeholder="Add city"></label>
+        <div class="row field-row col"><span class="row-main">Why I'm learning French</span><textarea id="pf-why" rows="2" maxlength="200" placeholder="Travel, family, a crush, Paris…"></textarea></div>
+      </div>
+      <p class="footnote">Your profile and stats are stored only on this phone.</p>
+    </main>
+  </section>
+
   <!-- selection toolbar (Library → Select) -->
   <div class="select-bar" id="select-bar" hidden>
     <button class="nav-btn" id="sel-move">Move to Set</button>
@@ -190,6 +256,10 @@
     <button class="tab" data-view="library" role="tab" aria-label="Library">
       <svg viewBox="0 0 24 24"><path d="M5 4v16M10 4v16M15 5l4 15"/></svg>
       <span>Library</span>
+    </button>
+    <button class="tab" data-view="profile" role="tab" aria-label="Profile">
+      <img class="tab-avatar" id="tab-avatar" src="avatars/dog.webp" alt="">
+      <span>Profile</span>
     </button>
   </nav>
 

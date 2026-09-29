@@ -20,6 +20,25 @@ let saveToSet = null;       // set chosen on the results screen
 const setName = id => sets.find(s => s.id === id)?.name;
 const inFilter = (c, f) => f === 'all' || (f === 'none' ? !setName(c.setId) : c.setId === f);
 const filterLabel = f => f === 'all' ? 'All Cards' : f === 'none' ? 'No Set' : (setName(f) || 'All Cards');
+// ---- activity log: { 'YYYY-MM-DD': { r: reviews, a: again, n: added } } ----
+let activity = {};
+const dayKey = (t = Date.now()) => { const d = new Date(t); return `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}`; };
+async function loadActivity() {
+  activity = await db.getMeta('activity');
+  if (!activity) { // first run after this update: rebuild what we can from the cards themselves
+    activity = {};
+    for (const c of cards) {
+      const k = dayKey(c.createdAt); (activity[k] ||= { r: 0, a: 0, n: 0 }).n++;
+      if (c.lastReview) { const r = dayKey(c.lastReview); (activity[r] ||= { r: 0, a: 0, n: 0 }).r++; }
+    }
+    await db.setMeta('activity', activity);
+  }
+}
+async function logActivity(field, n = 1) {
+  const k = dayKey();
+  (activity[k] ||= { r: 0, a: 0, n: 0 })[field] += n;
+  await db.setMeta('activity', activity);
+}
 async function loadSets() { sets = (await db.getMeta('sets')) || []; }
 async function saveSets() { await db.setMeta('sets', sets); }
 
@@ -71,6 +90,7 @@ function showView(name) {
   onScroll();
   if (name === 'review') startReview();
   if (name === 'library') renderLibrary();
+  if (name === 'profile') renderProfile();
   if (name !== 'library' && selecting) setSelecting(false);
 }
 $$('.tab').forEach(t => t.addEventListener('click', () => { haptic(); showView(t.dataset.view); }));
@@ -285,6 +305,7 @@ $('#add-cards').addEventListener('click', async () => {
     example: c.example, createdAt: now + i, setId: saveToSet || null, ...newCardState(now)
   }));
   const added = await db.addCards(chosen);
+  if (added) await logActivity('n', added);
   if (pendingResult.fromInbox) await clearInboxResults();
   pendingResult = null;
   await reloadCards();
@@ -483,6 +504,8 @@ async function grade(g, dir) {
   haptic();
   const card = current;
   const upd = schedule(card, g);
+  logActivity('r');
+  if (g === 'again') logActivity('a');
   Object.assign(card, upd, { relearning: g === 'again' });
   current = null;
   await db.putCard(stripTransient(card));
@@ -846,6 +869,161 @@ async function onCopy(e) {
 $('#open-guide').addEventListener('click', openGuide);
 $('#open-guide-2').addEventListener('click', openGuide);
 
+// ---------------------------------------------------------------- PROFILE
+const AVATARS = [
+  ['dog', 'Le Teckel'], ['penguin', 'Le Pingouin'], ['seal', 'Le Phoque'],
+  ['bunny', 'Le Lapin'], ['panda', 'Le Panda roux'], ['duck', 'Le Canard']
+];
+let profile = { avatar: 'dog', name: '', age: '', native: '', level: '', goal: 20, location: '', why: '', since: Date.now() };
+async function loadProfile() {
+  const saved = await db.getMeta('profile');
+  if (saved) profile = { ...profile, ...saved };
+  else {
+    const first = cards.reduce((m, c) => Math.min(m, c.createdAt || m), Date.now());
+    profile.since = first;
+    await db.setMeta('profile', profile);
+  }
+  applyAvatar();
+}
+const saveProfile = () => db.setMeta('profile', profile);
+function applyAvatar() {
+  const src = `avatars/${AVATARS.some(a => a[0] === profile.avatar) ? profile.avatar : 'dog'}.webp`;
+  $('#tab-avatar').src = src;
+  $('#profile-avatar').src = src;
+}
+
+function streaks() {
+  const active = k => (activity[k]?.r || 0) > 0;
+  const d = new Date(); d.setHours(12, 0, 0, 0);
+  if (!active(dayKey(d))) d.setDate(d.getDate() - 1); // today not studied yet: streak can still continue
+  let current = 0;
+  while (active(dayKey(d))) { current++; d.setDate(d.getDate() - 1); }
+  const days = Object.keys(activity).filter(active).sort();
+  let longest = 0, run = 0, prev = null;
+  for (const k of days) {
+    const t = new Date(k + 'T12:00:00');
+    run = prev && Math.round((t - prev) / 86_400_000) === 1 ? run + 1 : 1;
+    longest = Math.max(longest, run); prev = t;
+  }
+  return { current, longest, activeDays: days.length };
+}
+
+function renderProfile() {
+  const p = profile;
+  $('#profile-name').textContent = p.name || 'Add your name';
+  $('#profile-name').style.opacity = p.name ? '' : '0.75';
+  const since = new Date(p.since).toLocaleDateString(undefined, { month: 'short', year: 'numeric' });
+  $('#profile-sub').textContent = [p.level && p.level.split(' · ')[0], p.age && `${p.age} yrs`, p.location, `Learning since ${since}`]
+    .filter(Boolean).join(' · ');
+  const st = streaks();
+  const mastered = cards.filter(c => c.interval >= 21).length;
+  $('#pill-streak').textContent = st.current;
+  $('#pill-cards').textContent = cards.length;
+  $('#pill-mastered').textContent = mastered;
+  const today = activity[dayKey()]?.r || 0;
+  const goal = Number(p.goal) || 20;
+  $('#goal-text').textContent = today >= goal ? `${today} / ${goal} cards · goal met!` : `${today} / ${goal} cards`;
+  requestAnimationFrame(() => { $('#goal-fill').style.width = `${Math.min(100, (today / goal) * 100)}%`; });
+
+  // all-time stats
+  const vals = Object.values(activity);
+  const reviews = vals.reduce((n, d) => n + (d.r || 0), 0);
+  const again = vals.reduce((n, d) => n + (d.a || 0), 0);
+  const added = vals.reduce((n, d) => n + (d.n || 0), 0);
+  const studied = cards.filter(c => c.lastReview).length;
+  const acc = reviews ? Math.round(((reviews - again) / reviews) * 100) : null;
+  const tile = (v, label, note = '') => `<div class="stat"><b>${v}</b><span>${label}</span>${note ? `<em>${note}</em>` : ''}</div>`;
+  $('#stat-grid').innerHTML = [
+    tile(reviews.toLocaleString(), 'Cards reviewed', 'every flip you graded'),
+    tile(studied.toLocaleString(), 'Words studied', `of ${cards.length} in your library`),
+    tile(added.toLocaleString(), 'Words added', 'from reels & screenshots'),
+    tile(acc === null ? '–' : `${acc}%`, 'Recall rate', 'answers not marked Again'),
+    tile(st.longest, 'Longest streak', st.longest === 1 ? 'day' : 'days'),
+    tile(st.activeDays, 'Active days', 'days with a review')
+  ].join('');
+
+  // form
+  $('#pf-name').value = p.name; $('#pf-age').value = p.age; $('#pf-native').value = p.native;
+  $('#pf-level').value = p.level; $('#pf-goal').value = String(goal); $('#pf-location').value = p.location; $('#pf-why').value = p.why;
+  renderHeatmap();
+}
+
+// GitHub-style grid: one column per week (Sun→Sat), newest week on the right, sized to fit the phone.
+function renderHeatmap() {
+  const wrap = $('#heatmap-wrap');
+  const gap = 3;
+  const avail = wrap.clientWidth - 30; // minus the weekday labels
+  const cell = 13;
+  const weeks = Math.max(8, Math.min(53, Math.floor((avail + gap) / (cell + gap))));
+  const size = Math.floor((avail - gap * (weeks - 1)) / weeks);
+  wrap.style.setProperty('--cell', `${size}px`);
+  wrap.style.setProperty('--gap', `${gap}px`);
+
+  const goal = Number(profile.goal) || 20;
+  const level = r => !r ? 0 : r >= goal ? 4 : r >= goal / 2 ? 3 : r >= goal / 4 ? 2 : 1;
+  const today = new Date(); today.setHours(12, 0, 0, 0);
+  const start = new Date(today); start.setDate(start.getDate() - today.getDay() - (weeks - 1) * 7);
+  const todayKey = dayKey(today);
+  let html = '', months = '', lastMonth = -1, total = 0;
+  for (let w = 0; w < weeks; w++) {
+    for (let d = 0; d < 7; d++) {
+      const day = new Date(start); day.setDate(start.getDate() + w * 7 + d);
+      const k = dayKey(day);
+      const r = activity[k]?.r || 0;
+      total += day <= today ? r : 0;
+      const cls = [`l${level(r)}`, k === todayKey ? 'today' : '', day > today ? 'future' : ''].filter(Boolean).join(' ');
+      html += `<i class="${cls}" data-k="${k}" data-r="${r}" role="gridcell" aria-label="${r} reviews on ${k}"></i>`;
+      if (d === 0 && day.getMonth() !== lastMonth && day.getDate() <= 7 && w < weeks - 1) {
+        lastMonth = day.getMonth();
+        months += `<span style="left:${w * (size + gap)}px">${day.toLocaleDateString(undefined, { month: 'short' })}</span>`;
+      }
+    }
+  }
+  $('#heatmap').innerHTML = html;
+  $('#heatmap-months').innerHTML = months;
+  const span = weeks >= 52 ? 'the last year' : `the last ${Math.round(weeks / 4.35)} months`;
+  $('#activity-head').innerHTML = `<b>${total.toLocaleString()}</b> card${total === 1 ? '' : 's'} reviewed in ${span}`;
+  $('#heat-tip').textContent = 'Tap a square to see that day.';
+}
+$('#heatmap').addEventListener('click', e => {
+  const c = e.target.closest('i');
+  if (!c || c.classList.contains('future')) return;
+  for (const x of $$('#heatmap i.sel')) x.classList.remove('sel');
+  c.classList.add('sel');
+  const r = Number(c.dataset.r);
+  const n = activity[c.dataset.k]?.n || 0;
+  const date = new Date(c.dataset.k + 'T12:00:00').toLocaleDateString(undefined, { weekday: 'short', month: 'short', day: 'numeric' });
+  $('#heat-tip').textContent = `${date}: ${r} review${r === 1 ? '' : 's'}${n ? `, ${n} added` : ''}`;
+});
+window.addEventListener('resize', () => { if (currentView === 'profile') renderHeatmap(); });
+
+function bindProfileField(id, key, transform = v => v) {
+  const el = $(id);
+  const handler = async () => { profile[key] = transform(el.value.trim()); await saveProfile(); renderProfile(); };
+  el.addEventListener('change', handler);
+}
+bindProfileField('#pf-name', 'name');
+bindProfileField('#pf-age', 'age', v => (v && Number(v) > 0 && Number(v) < 121 ? String(Math.round(Number(v))) : ''));
+bindProfileField('#pf-native', 'native');
+bindProfileField('#pf-level', 'level');
+bindProfileField('#pf-goal', 'goal', v => Number(v) || 20);
+bindProfileField('#pf-location', 'location');
+bindProfileField('#pf-why', 'why');
+
+$('#avatar-btn').addEventListener('click', () => {
+  haptic();
+  openSheet('Profile Picture', `<div class="avatar-grid">${AVATARS.map(([id, name]) => `
+    <button class="avatar-opt${profile.avatar === id ? ' on' : ''}" data-av="${id}"><img src="avatars/${id}.webp" alt="">${esc(name)}</button>`).join('')}</div>`);
+  for (const b of $$('#sheet-body [data-av]')) b.addEventListener('click', async () => {
+    haptic();
+    profile.avatar = b.dataset.av;
+    await saveProfile();
+    applyAvatar();
+    for (const x of $$('#sheet-body .avatar-opt')) x.classList.toggle('on', x === b);
+    setTimeout(closeSheet, 250);
+  });
+});
+
 // ---------------------------------------------------------------- export
 async function exportCsv() {
   if (!cards.length) { toast('No cards to export yet'); return; }
@@ -875,6 +1053,8 @@ document.addEventListener('visibilitychange', () => {
 
 (async function boot() {
   await Promise.all([reloadCards(), loadSets()]);
+  await loadActivity();
+  await loadProfile();
   direction = (await db.getMeta('direction')) || 'fr-en';
   reviewSet = (await db.getMeta('reviewSet')) || 'all';
   saveToSet = (await db.getMeta('lastSetId')) || null;
