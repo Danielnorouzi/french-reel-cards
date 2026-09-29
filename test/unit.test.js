@@ -117,3 +117,21 @@ test('word-list import: base forms, gender from article, phrases, own meanings w
   assert.equal(out.zzqxw.meaning, '');
   assert.equal(Object.keys(out).length, 5); // duplicate removed
 });
+
+test('conjugation API: any form in, full tables out', async () => {
+  const { conjugate, suggest } = await import('../server/conjugate.js');
+  const aller = conjugate('allait');
+  assert.equal(aller.infinitive, 'aller');
+  assert.equal(aller.auxiliary, 'être');
+  const tense = (v, mood, name) => v.moods.find(m => m.name === mood).tenses.find(t => t.name === name).rows.map(r => r.text);
+  assert.deepEqual(tense(aller, 'Indicatif', 'Présent'), ['je vais', 'tu vas', 'il/elle va', 'nous allons', 'vous allez', 'ils/elles vont']);
+  assert.equal(tense(aller, 'Indicatif', 'Passé composé')[3], 'nous sommes allé(e)s');
+  const lever = conjugate('se lever');
+  assert.equal(tense(lever, 'Indicatif', 'Passé composé')[1], "tu t'es levé(e)");
+  assert.deepEqual(tense(lever, 'Impératif', 'Présent'), ['lève-toi', 'levons-nous', 'levez-vous']);
+  assert.equal(tense(conjugate('aimer'), 'Indicatif', 'Présent')[0], "j'aime");
+  assert.deepEqual(tense(conjugate('falloir'), 'Indicatif', 'Présent'), ['il faut']);
+  assert.equal(tense(conjugate('prendre'), 'Subjonctif', 'Présent')[2], "qu'il/elle prenne");
+  assert.equal(conjugate('blorp'), null);
+  assert.equal(suggest('mang')[0], 'manger');
+});
