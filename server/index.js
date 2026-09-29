@@ -7,11 +7,13 @@ import fsp from 'node:fs/promises';
 import os from 'node:os';
 import path from 'node:path';
 import crypto from 'node:crypto';
+import zlib from 'node:zlib';
 import { pipeline } from 'node:stream/promises';
 import { Readable, Transform } from 'node:stream';
 import { fileURLToPath } from 'node:url';
 import { readText } from './ocr.js';
 import { extractVocab, loadLexicon, lookupWords } from './vocab.js';
+import { conjugate, suggest } from './conjugate.js';
 
 const here = path.dirname(fileURLToPath(import.meta.url));
 const PUBLIC = path.join(here, '..', 'public');
@@ -149,6 +151,7 @@ setInterval(() => {
 const TYPES = { '.html': 'text/html; charset=utf-8', '.js': 'text/javascript; charset=utf-8', '.css': 'text/css; charset=utf-8',
   '.json': 'application/json', '.webmanifest': 'application/manifest+json', '.png': 'image/png', '.webp': 'image/webp', '.jpg': 'image/jpeg', '.svg': 'image/svg+xml', '.ico': 'image/x-icon' };
 
+const gzCache = new Map(); // files are fixed per deploy, so compress each once
 async function serveStatic(req, res, pathname) {
   let rel = decodeURIComponent(pathname);
   if (rel === '/' || !path.extname(rel)) rel = '/index.html';
@@ -157,13 +160,23 @@ async function serveStatic(req, res, pathname) {
   try {
     const data = await fsp.readFile(file);
     const ext = path.extname(file);
-    const noCache = ['.html', '.js', '.css', '.webmanifest'].includes(ext); // code always revalidates; images may cache
-    res.writeHead(200, {
+    const noCache = ['.html', '.js', '.css', '.webmanifest', '.json'].includes(ext); // code/data always revalidate; images may cache
+    const headers = {
       'Content-Type': TYPES[ext] || 'application/octet-stream',
       'Cache-Control': noCache ? 'no-cache' : 'public, max-age=3600',
-      'X-Content-Type-Options': 'nosniff'
-    });
-    res.end(req.method === 'HEAD' ? undefined : data);
+      'X-Content-Type-Options': 'nosniff',
+      'Vary': 'Accept-Encoding'
+    };
+    let body = data;
+    // text files shrink ~5–10× with gzip (grammar.json: 290 KB → 31 KB), which matters on mobile data
+    if (noCache && data.length > 1024 && /\bgzip\b/.test(req.headers['accept-encoding'] || '')) {
+      if (!gzCache.has(file) || gzCache.get(file).raw !== data.length) gzCache.set(file, { raw: data.length, gz: zlib.gzipSync(data, { level: 6 }) });
+      body = gzCache.get(file).gz;
+      headers['Content-Encoding'] = 'gzip';
+    }
+    headers['Content-Length'] = body.length;
+    res.writeHead(200, headers);
+    res.end(req.method === 'HEAD' ? undefined : body);
   } catch {
     send(res, 404, 'Not found');
   }
@@ -181,6 +194,16 @@ const server = http.createServer(async (req, res) => {
     }
     if (p === '/api/health') return send(res, 200, { ok: true, version: VERSION, queue: queue.length });
 
+    // Free conjugation API (built on open data — no third-party service)
+    if (p === '/api/conjugate' && req.method === 'GET') {
+      const q = (url.searchParams.get('v') || '').slice(0, 60);
+      const result = q ? conjugate(q) : null;
+      if (!result) return send(res, 404, { error: `No French verb found for “${q}”.`, suggestions: suggest(q, 5) });
+      return send(res, 200, result, { 'Cache-Control': 'public, max-age=86400' });
+    }
+    if (p === '/api/verbs' && req.method === 'GET') {
+      return send(res, 200, { verbs: suggest(url.searchParams.get('q') || '', 8) });
+    }
     // Import a word list: look up base form, meaning and gender for each word.
     if (p === '/api/lookup' && req.method === 'POST') {
       let body = '';
