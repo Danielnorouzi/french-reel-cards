@@ -1,6 +1,7 @@
 import { db } from './db.js';
 import { schedule, preview, newCardState, formatInterval } from './sm2.js';
 import { toAnkiCsv, article, frontText, posLabel } from './anki.js';
+import { recommend, topicProgress, pickQuestions, shuffleOptions, record, MASTERED } from './grammar.js';
 
 const $ = sel => document.querySelector(sel);
 const $$ = sel => [...document.querySelectorAll(sel)];
@@ -36,7 +37,8 @@ async function loadActivity() {
 }
 async function logActivity(field, n = 1) {
   const k = dayKey();
-  (activity[k] ||= { r: 0, a: 0, n: 0 })[field] += n;
+  const day = (activity[k] ||= { r: 0, a: 0, n: 0 });
+  day[field] = (day[field] || 0) + n;
   await db.setMeta('activity', activity);
 }
 async function loadSets() { sets = (await db.getMeta('sets')) || []; }
@@ -91,6 +93,7 @@ function showView(name) {
   if (name === 'review') startReview();
   if (name === 'library') renderLibrary();
   if (name === 'profile') renderProfile();
+  if (name === 'grammar') renderGrammar();
   if (name !== 'library' && selecting) setSelecting(false);
 }
 $$('.tab').forEach(t => t.addEventListener('click', () => { haptic(); showView(t.dataset.view); }));
@@ -990,6 +993,332 @@ async function onCopy(e) {
 $('#open-guide').addEventListener('click', openGuide);
 $('#open-guide-2').addEventListener('click', openGuide);
 
+// ---------------------------------------------------------------- VERBS (conjugation)
+// Uses this app's own free /api/conjugate endpoint (open Grammalecte data, no third-party API).
+// Every verb you look up is kept on the phone, so it still works offline later.
+let verbData = null;
+let verbMood = 0;
+const VERB_CACHE_MAX = 80;
+
+async function renderVerbHome() {
+  const recent = (await db.getMeta('verbRecent')) || [];
+  $('#verb-recent').innerHTML = recent.slice(0, 12).map(v => `<button class="chip" data-verb="${esc(v)}">${esc(v)}</button>`).join('');
+  if (!verbData) { $('#verb-empty').hidden = false; $('#verb-result').hidden = true; }
+}
+$('#verb-recent').addEventListener('click', e => { const b = e.target.closest('[data-verb]'); if (b) { haptic(); lookupVerb(b.dataset.verb); } });
+
+let suggestTimer = null, suggestSeq = 0;
+$('#verb-q').addEventListener('input', () => {
+  clearTimeout(suggestTimer);
+  const q = $('#verb-q').value.trim();
+  if (q.length < 2) { $('#verb-suggest').hidden = true; return; }
+  suggestTimer = setTimeout(async () => {
+    const seq = ++suggestSeq;
+    try {
+      const r = await fetchWithTimeout(`${API}/api/verbs?q=${encodeURIComponent(q)}`, {}, 6000);
+      const { verbs } = await r.json();
+      if (seq !== suggestSeq || $('#verb-q').value.trim() !== q) return;
+      const box = $('#verb-suggest');
+      box.hidden = !verbs.length;
+      box.innerHTML = verbs.map(v => `<button class="row row-button" type="button" data-verb="${esc(v)}"><span class="row-main"><span><b>${esc(v.slice(0, q.length))}</b>${esc(v.slice(q.length))}</span></span></button>`).join('');
+    } catch { /* offline or asleep: suggestions are optional */ }
+  }, 180);
+});
+$('#verb-suggest').addEventListener('click', e => { const b = e.target.closest('[data-verb]'); if (b) lookupVerb(b.dataset.verb); });
+$('#verb-form').addEventListener('submit', e => { e.preventDefault(); const q = $('#verb-q').value.trim(); if (q) lookupVerb(q); });
+
+async function lookupVerb(q) {
+  clearTimeout(suggestTimer); suggestSeq++; // drop any suggestion request still in flight
+  verbMood = 0;
+  $('#verb-q').value = q;
+  $('#verb-q').blur();
+  $('#verb-suggest').hidden = true;
+  const key = q.toLowerCase().trim();
+  const cache = (await db.getMeta('conjCache')) || {};
+  if (cache[key]) return showVerb(cache[key]);
+  $('#verb-empty').hidden = true; $('#verb-result').hidden = true;
+  const loading = $('#verb-loading');
+  let result = null, error = '';
+  try {
+    const quick = await fetchWithTimeout(`${API}/api/conjugate?v=${encodeURIComponent(q)}`, {}, 4000).catch(() => null);
+    let r = quick;
+    if (!r) { // probably the free server is asleep
+      loading.hidden = false;
+      $('#verb-loading-text').textContent = 'Waking up the free server… this can take up to a minute.';
+      await ensureAwake(() => {}, () => false);
+      r = await fetchWithTimeout(`${API}/api/conjugate?v=${encodeURIComponent(q)}`, {}, 20000);
+    }
+    const body = await r.json();
+    if (r.ok) result = body;
+    else error = body.error + (body.suggestions?.length ? ` Did you mean ${body.suggestions.slice(0, 3).join(', ')}?` : '');
+  } catch { error = "Couldn't reach the server. Verbs you've looked up before still work offline."; }
+  loading.hidden = true;
+  if (!result) { $('#verb-empty').hidden = false; $('#verb-empty p').textContent = error; return; }
+  cache[key] = result; cache[result.infinitive.toLowerCase()] = result;
+  const keys = Object.keys(cache);
+  if (keys.length > VERB_CACHE_MAX) for (const k of keys.slice(0, keys.length - VERB_CACHE_MAX)) delete cache[k];
+  await db.setMeta('conjCache', cache);
+  showVerb(result);
+}
+
+async function showVerb(v) {
+  verbData = v;
+  const recent = ((await db.getMeta('verbRecent')) || []).filter(x => x !== v.infinitive);
+  recent.unshift(v.infinitive);
+  await db.setMeta('verbRecent', recent.slice(0, 20));
+  renderVerbHome();
+  $('#verb-empty').hidden = true;
+  $('#verb-result').hidden = false;
+  $('#verb-inf').textContent = v.infinitive;
+  $('#verb-meaning').textContent = v.meaning || '';
+  $('#verb-tags').innerHTML = [`<span>${esc(v.group)}</span>`, `<span class="aux">with ${esc(v.auxiliary)}</span>`, v.reflexive ? '<span>reflexive</span>' : '']
+    .join('');
+  $('#verb-parts').innerHTML = `<div>Present participle: <b>${esc(v.participles.present || '–')}</b></div><div>Past participle: <b>${esc(v.participles.past || '–')}</b></div>`;
+  $('#verb-note').hidden = !v.auxNote; $('#verb-note').textContent = v.auxNote;
+  const refl = $('#verb-reflexive');
+  refl.hidden = !(v.canBeReflexive || (v.reflexive && v.infinitive !== v.base));
+  refl.textContent = v.reflexive ? v.base : (/^[aeiouyâàéèêh]/i.test(v.base) ? `s'${v.base}` : `se ${v.base}`);
+  const exists = cards.some(c => c.lemma.toLowerCase() === v.infinitive.toLowerCase() || c.lemma.toLowerCase() === v.base);
+  $('#verb-add').textContent = exists ? 'In Your Cards ✓' : 'Add to Cards';
+  $('#verb-add').disabled = exists;
+  $('#verb-add').style.opacity = exists ? '0.6' : '';
+  verbMood = Math.min(verbMood, v.moods.length - 1);
+  renderMoods();
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+}
+
+const PRONOUN_BITS = new Set(['je', "j'", 'tu', 'il/elle', 'il', 'nous', 'vous', 'ils/elles', 'que', "qu'", 'me', "m'", 'te', "t'", 'se', "s'"]);
+function formatConj(text) {
+  // mute the pronouns, bold the verb itself
+  const parts = text.match(/[^\s']+'|[^\s]+/g) || [];
+  let html = '', done = false;
+  for (const p of parts) {
+    const isPron = !done && PRONOUN_BITS.has(p.toLowerCase());
+    if (!isPron) done = true;
+    html += `<span class="${isPron ? 'pr' : 'vb'}">${esc(p)}</span>${p.endsWith("'") ? '' : ' '}`;
+  }
+  return html.trim();
+}
+function renderMoods() {
+  const v = verbData;
+  $('#mood-tabs').innerHTML = v.moods.map((m, i) => `<button role="tab" class="${i === verbMood ? 'on' : ''}" data-mood="${i}">${esc(m.name)}</button>`).join('');
+  $('#tense-list').innerHTML = v.moods[verbMood].tenses.map((t, ti) => `
+    <div class="tense" style="animation-delay:${ti * 40}ms">
+      <h4>${esc(t.name)} <small>${esc(t.en)}</small></h4>
+      <ul>${t.rows.map(r => `<li>${formatConj(r.text)}${r.alt?.length ? `<span class="alt">or ${esc(r.alt.map(a => a.split(' ').pop()).join(', '))}</span>` : ''}</li>`).join('')}</ul>
+    </div>`).join('');
+}
+$('#mood-tabs').addEventListener('click', e => {
+  const b = e.target.closest('[data-mood]');
+  if (!b) return;
+  haptic();
+  verbMood = +b.dataset.mood;
+  renderMoods();
+});
+$('#verb-reflexive').addEventListener('click', () => {
+  if (!verbData) return;
+  haptic();
+  lookupVerb(verbData.reflexive ? verbData.base : $('#verb-reflexive').textContent);
+});
+$('#verb-add').addEventListener('click', async () => {
+  const v = verbData;
+  if (!v) return;
+  const now = Date.now();
+  const present = v.moods[0].tenses[0].rows.map(r => r.text).join(', ');
+  const added = await db.addCards([{ id: uid(), lemma: v.infinitive, word: v.infinitive, pos: 'verb', gender: '', meaning: v.meaning || '',
+    example: present, createdAt: now, setId: saveToSet || null, ...newCardState(now) }]);
+  if (added) await logActivity('n', added);
+  await reloadCards();
+  haptic();
+  toast(added ? `Added “${v.infinitive}” to your cards` : 'Already in your cards');
+  showVerb(v);
+});
+
+// ---------------------------------------------------------------- GRAMMAR (practice + verbs)
+// 1,000 multiple-choice questions in public/grammar.json (built from data/grammar/*.json).
+// Everything runs on the phone: the file is cached offline and your answers live in IndexedDB.
+let grammarPane = 'practice';
+let gramData = null;
+let gramStats = {};
+let gramLevel = null;   // level shown in the topic list
+let gramLevelFor = null; // profile level it was chosen for
+let quiz = null;        // { topic, items, i, right, answered, missed }
+const QUIZ_LEN = 10;
+
+async function loadGrammar() {
+  if (gramData) return gramData;
+  const r = await fetch('grammar.json');
+  if (!r.ok) throw new Error('grammar.json');
+  gramData = await r.json();
+  gramData.byId = new Map(gramData.topics.map(t => [t.id, t]));
+  return gramData;
+}
+
+function setGrammarPane(pane, save = true) {
+  grammarPane = pane;
+  for (const b of $$('#gram-seg button')) { const on = b.dataset.pane === pane; b.classList.toggle('on', on); b.setAttribute('aria-selected', on); }
+  $('#pane-practice').hidden = pane !== 'practice';
+  $('#pane-verbs').hidden = pane !== 'verbs';
+  if (save) db.setMeta('grammarPane', pane);
+  if (pane === 'verbs') renderVerbHome(); else renderPractice();
+}
+$$('#gram-seg button').forEach(b => b.addEventListener('click', () => { if (b.dataset.pane !== grammarPane) { haptic(); setGrammarPane(b.dataset.pane); } }));
+
+function renderGrammar() { setGrammarPane(grammarPane, false); }
+
+const pct = x => `${Math.round(x * 100)}%`;
+const blankHtml = (text, fill = '', cls = '') => esc(text).replace(/_{2,}/, `<span class="blank ${cls}">${fill ? esc(fill) : '&nbsp;'}</span>`);
+
+async function renderPractice() {
+  if (quiz) return; // mid-quiz: leave it as it is
+  showGramStage('home');
+  try { await loadGrammar(); }
+  catch {
+    $('#rec-title').textContent = 'Couldn’t load the questions';
+    $('#rec-reason').textContent = 'Open the app once while online and they’ll be saved for offline use.';
+    return;
+  }
+  gramStats = (await db.getMeta('grammar')) || {};
+  const rec = recommend(gramData, gramStats, profile.level);
+  const levels = [...new Set(gramData.topics.map(t => t.level))];
+  if (gramLevelFor !== profile.level || !levels.includes(gramLevel)) { gramLevel = rec.level; gramLevelFor = profile.level; }
+
+  // recommended card
+  const p = rec.progress;
+  $('#rec-level').textContent = rec.topic.level;
+  $('#rec-title').textContent = rec.topic.title;
+  $('#rec-hint').textContent = rec.topic.hint;
+  $('#rec-count').textContent = `${p.mastered} / ${p.count} mastered`;
+  $('#rec-acc').textContent = p.accuracy === null ? 'New' : `${pct(p.accuracy)} correct`;
+  $('#rec-reason').textContent = rec.reason;
+  requestAnimationFrame(() => { $('#rec-bar').style.width = pct(p.share); });
+  const start = $('#rec-start');
+  start.disabled = false;
+  start.textContent = p.seen ? 'Continue · 10 questions' : 'Start · 10 questions';
+  start.onclick = () => { haptic(); startQuiz(rec.topic.id); };
+
+  // level picker + topic list
+  $('#gram-levels').innerHTML = levels.map(l => `<button role="radio" data-lvl="${l}" class="${l === gramLevel ? 'on' : ''}" aria-checked="${l === gramLevel}">${l}</button>`).join('');
+  $('#gram-topics').innerHTML = gramData.topics.filter(t => t.level === gramLevel).map(t => {
+    const tp = topicProgress(t, gramData.questions, gramStats);
+    const done = tp.share >= MASTERED;
+    const sub = tp.seen ? `${tp.mastered}/${tp.count} mastered · ${pct(tp.accuracy)} correct` : t.hint;
+    return `<button class="row row-button topic-row${t.id === rec.topic.id ? ' is-rec' : ''}" data-topic="${esc(t.id)}">
+      <span class="row-main"><span class="row-title">${esc(t.title)}</span><span class="row-sub">${esc(sub)}</span></span>
+      <span class="topic-ring${done ? ' done' : ''}" style="--p:${Math.round(tp.share * 100)}">${done ? '<svg viewBox="0 0 24 24"><path d="M6 12.5l4 4 8-9"/></svg>' : ''}</span>
+    </button>`;
+  }).join('');
+}
+$('#gram-levels').addEventListener('click', e => {
+  const b = e.target.closest('[data-lvl]');
+  if (!b || b.dataset.lvl === gramLevel) return;
+  haptic(); gramLevel = b.dataset.lvl; renderPractice();
+});
+$('#gram-topics').addEventListener('click', e => { const b = e.target.closest('[data-topic]'); if (b) { haptic(); startQuiz(b.dataset.topic); } });
+
+function showGramStage(stage) {
+  $('#gram-home').hidden = stage !== 'home';
+  $('#gram-quiz').hidden = stage !== 'quiz';
+  $('#gram-done').hidden = stage !== 'done';
+  $('#view-grammar').classList.toggle('quizzing', stage !== 'home');
+  window.scrollTo(0, 0);
+}
+
+function startQuiz(topicId) {
+  const topic = gramData.byId.get(topicId);
+  const items = pickQuestions(topicId, gramData.questions, gramStats, QUIZ_LEN).map(q => ({ q, ...shuffleOptions(q) }));
+  quiz = { topic, items, i: 0, right: 0, answered: false, missed: [] };
+  $('#grammar-nav-title').textContent = topic.title;
+  showGramStage('quiz');
+  showQuestion();
+}
+
+function showQuestion() {
+  const { topic, items, i } = quiz;
+  const it = items[i];
+  quiz.answered = false;
+  $('#quiz-topic').textContent = `${topic.level} · ${topic.title}`;
+  $('#quiz-count').textContent = `${i + 1} / ${items.length}`;
+  $('#quiz-bar').style.width = pct(i / items.length);
+  $('#quiz-q').innerHTML = blankHtml(it.q.q);
+  $('#quiz-q').classList.remove('pop');
+  $('#quiz-options').innerHTML = it.options.map((o, k) =>
+    `<button class="opt" data-k="${k}"><span class="opt-key">${'ABCD'[k] || k + 1}</span><span class="opt-text">${esc(o)}</span></button>`).join('');
+  $('#quiz-feedback').hidden = true;
+  $('#quiz-next').hidden = true;
+  window.scrollTo(0, 0);
+}
+
+$('#quiz-options').addEventListener('click', async e => {
+  const b = e.target.closest('.opt');
+  if (!b || !quiz || quiz.answered) return;
+  quiz.answered = true;
+  const it = quiz.items[quiz.i];
+  const k = Number(b.dataset.k);
+  const ok = k === it.answer;
+  try { navigator.vibrate?.(ok ? 10 : [12, 60, 12]); } catch {}
+  for (const x of $$('#quiz-options .opt')) {
+    const xk = Number(x.dataset.k);
+    x.disabled = true;
+    x.classList.toggle('right', xk === it.answer);
+    x.classList.toggle('wrong', xk === k && !ok);
+    x.classList.toggle('dim', xk !== it.answer && xk !== k);
+  }
+  const answerText = it.options[it.answer];
+  // short answers slot into the sentence; whole-sentence answers (negation) just get highlighted below
+  if (answerText.length <= 30) $('#quiz-q').innerHTML = blankHtml(it.q.q, answerText, 'filled');
+  $('#quiz-q').classList.add('pop');
+  if (ok) quiz.right++; else quiz.missed.push(it.q.id);
+  $('#quiz-verdict').textContent = ok ? 'Correct!' : `Answer: ${answerText}`;
+  $('#quiz-feedback').className = `quiz-feedback ${ok ? 'good' : 'bad'}`;
+  $('#quiz-expl').textContent = it.q.e;
+  $('#quiz-feedback').hidden = !(it.q.e || !ok);
+  $('#quiz-next').hidden = false;
+  $('#quiz-next').textContent = quiz.i + 1 < quiz.items.length ? 'Continue' : 'See Results';
+  requestAnimationFrame(() => $('#quiz-next').scrollIntoView({ behavior: 'smooth', block: 'nearest' }));
+  record(gramStats, it.q.id, ok);
+  await db.setMeta('grammar', gramStats);
+  logActivity('g');
+});
+
+$('#quiz-next').addEventListener('click', () => {
+  haptic();
+  if (!quiz) return;
+  quiz.i++;
+  if (quiz.i < quiz.items.length) showQuestion(); else finishQuiz();
+});
+
+function finishQuiz() {
+  const { topic, right, items } = quiz;
+  const n = items.length, share = n ? right / n : 0;
+  const [art, cls, h, line] = share >= 0.8 ? ['cool', 'm-cool', 150, 'Très bien !']
+    : share >= 0.5 ? ['coffee', 'm-coffee', 150, 'Pas mal !'] : ['belly', 'm-belly', 96, 'On continue !'];
+  $('#gram-done-mascot').className = `mascot ${cls}`;
+  $('#gram-done-mascot').innerHTML = `<img src="art/${art}.webp" alt="" height="${h}"><span class="bubble">${line}</span>`;
+  $('#gram-score').innerHTML = `<b>${right}</b><span>/ ${n}</span>`;
+  const tp = topicProgress(topic, gramData.questions, gramStats);
+  $('#gram-done-text').textContent = tp.share >= MASTERED
+    ? `${topic.title} is mastered: ${tp.mastered} of ${tp.count} questions right.`
+    : `${topic.title}: ${tp.mastered} of ${tp.count} mastered. ${share < 0.8 ? 'The ones you missed come back first next time.' : 'Keep going!'}`;
+  const rec = recommend(gramData, gramStats, profile.level);
+  const next = $('#gram-next-topic');
+  next.hidden = !rec || rec.topic.id === topic.id;
+  if (rec) { next.textContent = `Next: ${rec.topic.title}`; next.onclick = () => { haptic(); startQuiz(rec.topic.id); }; }
+  $('#grammar-nav-title').textContent = 'Grammar';
+  $('#quiz-bar').style.width = '100%';
+  quiz = null;
+  showGramStage('done');
+  $('#gram-again').onclick = () => { haptic(); startQuiz(topic.id); };
+}
+
+function endQuiz() {
+  quiz = null;
+  $('#grammar-nav-title').textContent = 'Grammar';
+  renderPractice();
+}
+$('#quiz-end').addEventListener('click', () => { haptic(); endQuiz(); });
+$('#gram-back').addEventListener('click', () => { haptic(); renderPractice(); });
+
 // ---------------------------------------------------------------- PROFILE
 const AVATARS = [
   ['dog', 'Le Teckel'], ['penguin', 'Le Pingouin'], ['seal', 'Le Phoque'],
@@ -1053,6 +1382,9 @@ function renderProfile() {
   const added = vals.reduce((n, d) => n + (d.n || 0), 0);
   const studied = cards.filter(c => c.lastReview).length;
   const acc = reviews ? Math.round(((reviews - again) / reviews) * 100) : null;
+  const gStats = Object.values(gramStats);
+  const grammarDone = gStats.reduce((n, x) => n + x.c + x.w, 0);
+  const grammarAcc = grammarDone ? Math.round((gStats.reduce((n, x) => n + x.c, 0) / grammarDone) * 100) : null;
   const tile = (v, label, note = '') => `<div class="stat"><b>${v}</b><span>${label}</span>${note ? `<em>${note}</em>` : ''}</div>`;
   $('#stat-grid').innerHTML = [
     tile(reviews.toLocaleString(), 'Cards reviewed', 'every flip you graded'),
@@ -1060,7 +1392,9 @@ function renderProfile() {
     tile(added.toLocaleString(), 'Words added', 'from reels & screenshots'),
     tile(acc === null ? '–' : `${acc}%`, 'Recall rate', 'answers not marked Again'),
     tile(st.longest, 'Longest streak', st.longest === 1 ? 'day' : 'days'),
-    tile(st.activeDays, 'Active days', 'days with a review')
+    tile(st.activeDays, 'Active days', 'days with a review'),
+    tile(grammarDone.toLocaleString(), 'Grammar answers', 'practice questions'),
+    tile(grammarAcc === null ? '–' : `${grammarAcc}%`, 'Grammar accuracy', 'answers you got right')
   ].join('');
 
   // form
@@ -1180,7 +1514,11 @@ document.addEventListener('visibilitychange', () => {
   reviewSet = (await db.getMeta('reviewSet')) || 'all';
   saveToSet = (await db.getMeta('lastSetId')) || null;
   await renderInboxBanner();
-  showView(new URLSearchParams(location.search).get('tab') || (dueCards().length ? 'review' : 'add'));
+  grammarPane = (await db.getMeta('grammarPane')) || 'practice';
+  gramStats = (await db.getMeta('grammar')) || {};
+  let tab = new URLSearchParams(location.search).get('tab');
+  if (tab === 'verbs' || tab === 'practice') { grammarPane = tab; tab = 'grammar'; }
+  showView(tab || (dueCards().length ? 'review' : 'add'));
   ping(60_000); // start waking the free server right away, in the background
   checkInbox();
   if ('serviceWorker' in navigator) {
@@ -1191,7 +1529,7 @@ document.addEventListener('visibilitychange', () => {
       if (!hadController || reloaded) return;
       reloaded = true;
       // don't yank the page away mid-upload or mid-review
-      const busy = activeUpload || (currentView === 'review' && current);
+      const busy = activeUpload || (currentView === 'review' && current) || quiz;
       if (busy) toast('Update ready. It applies next time you open the app.'); else location.reload();
     });
     navigator.serviceWorker.register('sw.js', { updateViaCache: 'none' }).then(r => r.update()).catch(() => {});

@@ -187,6 +187,99 @@
     </main>
   </section>
 
+  <!-- VERBS (conjugation) -->
+  <section class="view" id="view-grammar" data-title="Grammar" hidden>
+    <header class="navbar"><div class="navbar-title" id="grammar-nav-title">Grammar</div></header>
+    <main class="content">
+      <h1 class="large-title gram-chrome">Grammar</h1>
+      <div class="segmented gram-seg gram-chrome" id="gram-seg" role="tablist" aria-label="Grammar section">
+        <button data-pane="practice" role="tab">Practice</button>
+        <button data-pane="verbs" role="tab">Verbs</button>
+      </div>
+
+      <!-- PRACTICE -->
+      <div id="pane-practice">
+        <div id="gram-home">
+          <div class="card rec-card" id="rec-card">
+            <div class="rec-top"><span class="rec-label">Recommended for you</span><span class="lvl-badge" id="rec-level"></span></div>
+            <h2 class="rec-title" id="rec-title">Loading…</h2>
+            <p class="rec-hint" id="rec-hint"></p>
+            <div class="meter"><i id="rec-bar"></i></div>
+            <div class="rec-meta"><span id="rec-count"></span><span id="rec-acc"></span></div>
+            <p class="rec-reason" id="rec-reason"></p>
+            <button class="btn btn-primary btn-large" id="rec-start" disabled>Start · 10 questions</button>
+          </div>
+          <div class="topics-head">
+            <h3 class="section-title">Topics</h3>
+            <div class="segmented lvl-seg" id="gram-levels" role="radiogroup" aria-label="Level"></div>
+          </div>
+          <div class="list inset gram-topics" id="gram-topics"></div>
+          <p class="footnote">A topic is mastered when 80% of its questions were last answered right. Works offline.</p>
+        </div>
+
+        <div id="gram-quiz" hidden>
+          <div class="quiz-top">
+            <button class="nav-btn" id="quiz-end">End</button>
+            <div class="meter quiz-meter"><i id="quiz-bar"></i></div>
+            <span class="quiz-count" id="quiz-count"></span>
+          </div>
+          <div class="quiz-topic" id="quiz-topic"></div>
+          <div class="card quiz-q" id="quiz-q"></div>
+          <div class="quiz-options" id="quiz-options"></div>
+          <div class="quiz-feedback" id="quiz-feedback" hidden><b id="quiz-verdict"></b><p id="quiz-expl"></p></div>
+          <button class="btn btn-primary btn-large quiz-next" id="quiz-next" hidden>Continue</button>
+        </div>
+
+        <div id="gram-done" hidden>
+          <div class="card mascot-card done-card gram-done-card">
+            <div class="mascot" id="gram-done-mascot" aria-hidden="true"></div>
+            <div class="gram-score" id="gram-score"></div>
+            <p id="gram-done-text"></p>
+            <button class="btn btn-primary btn-large" id="gram-again">Practice Again</button>
+            <button class="btn btn-secondary" id="gram-next-topic" hidden></button>
+            <button class="btn-link" id="gram-back">All Topics</button>
+          </div>
+        </div>
+      </div>
+
+      <!-- VERBS -->
+      <div id="pane-verbs" hidden>
+      <form class="search verb-search" id="verb-form" autocomplete="off">
+        <svg viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+        <input id="verb-q" type="search" placeholder="Any verb: aller, se lever, allait…" autocapitalize="off" autocorrect="off" spellcheck="false" enterkeyhint="search">
+      </form>
+      <div class="list inset verb-suggest" id="verb-suggest" hidden></div>
+      <div class="chips verb-recent" id="verb-recent"></div>
+
+      <div id="verb-empty" class="verb-empty">
+        <div class="mascot m-standing" aria-hidden="true"><img src="art/standing.webp" alt="" height="150"><span class="bubble">Quel verbe&nbsp;?</span></div>
+        <p>Type any verb, even a conjugated form like <b>allait</b> or <b>fûmes</b>, and see every tense.</p>
+      </div>
+      <div id="verb-loading" class="verb-empty" hidden>
+        <div class="mascot m-sleeping" aria-hidden="true"><img src="art/sleeping.webp" alt="" height="104"><span class="bubble">Chut… il fait la sieste.</span></div>
+        <p id="verb-loading-text">Waking up the free server…</p>
+      </div>
+
+      <div id="verb-result" hidden>
+        <div class="card verb-head">
+          <div class="verb-inf" id="verb-inf"></div>
+          <div class="verb-meaning" id="verb-meaning"></div>
+          <div class="verb-tags" id="verb-tags"></div>
+          <div class="verb-parts" id="verb-parts"></div>
+          <p class="verb-note" id="verb-note" hidden></p>
+          <div class="verb-actions">
+            <button class="btn btn-primary" id="verb-add">Add to Cards</button>
+            <button class="btn btn-secondary" id="verb-reflexive" hidden>se …</button>
+          </div>
+        </div>
+        <div class="mood-tabs" id="mood-tabs" role="tablist"></div>
+        <div class="tense-list" id="tense-list"></div>
+        <p class="footnote">Conjugations from the Grammalecte French lexicon (MPL 2.0), served free by this app’s own server.</p>
+      </div>
+      </div>
+    </main>
+  </section>
+
   <!-- PROFILE -->
   <section class="view" id="view-profile" data-title="Profile" hidden>
     <header class="navbar"><div class="navbar-title">Profile</div></header>
@@ -273,6 +366,10 @@
     <button class="tab" data-view="library" role="tab" aria-label="Library">
       <svg viewBox="0 0 24 24"><path d="M5 4v16M10 4v16M15 5l4 15"/></svg>
       <span>Library</span>
+    </button>
+    <button class="tab" data-view="grammar" role="tab" aria-label="Grammar">
+      <svg viewBox="0 0 24 24"><path d="M4 5.5A1.5 1.5 0 0 1 5.5 4H11v16H5.5A1.5 1.5 0 0 1 4 18.5zM20 5.5A1.5 1.5 0 0 0 18.5 4H13v16h5.5a1.5 1.5 0 0 0 1.5-1.5z"/><path d="M6.5 8h2.5M6.5 11h2.5M15 8h2.5M15 11h2.5"/></svg>
+      <span>Grammar</span>
     </button>
     <button class="tab" data-view="profile" role="tab" aria-label="Profile">
       <img class="tab-avatar" id="tab-avatar" src="avatars/dog.webp" alt="" width="28" height="28">
