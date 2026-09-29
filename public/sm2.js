@@ -22,7 +22,7 @@ export function schedule(card, grade, now = Date.now()) {
   ease = Math.max(1.3, +(ease + (0.1 - (5 - q) * (0.08 + (5 - q) * 0.02))).toFixed(2));
 
   let next;
-  if (reps === 0) next = q === 5 ? 4 : 1;
+  if (reps === 0) next = q === 5 ? 4 : q === 4 ? 2 : 1; // new card: Hard 1 day, Good 2 days, Easy 4 days
   else if (reps === 1) next = q === 3 ? 3 : q === 4 ? 6 : 8;
   else if (q === 3) next = Math.max(interval + 1, Math.round(interval * 1.2));
   else if (q === 4) next = Math.max(interval + 1, Math.round(interval * ease));

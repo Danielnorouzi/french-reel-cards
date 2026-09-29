@@ -134,15 +134,25 @@ function setAddState(s) {
 let activeUpload = null; // { xhr, cancelled }
 let lastFile = null;
 
-function setWorking(title, sub, progress /* 0..1 or null for spinner */) {
+// The dachshund acts out each step: asleep while the free server wakes, hopping while it reads.
+const MOODS = {
+  connect: ['standing', 'On y va\u00a0!'], waking: ['sleeping', 'Chut… il fait la sieste.'],
+  upload: ['standing', 'J\u2019arrive\u00a0!'], queued: ['coffee', 'Patience…'], reading: ['standing', 'Je lis…']
+};
+function setWorking(title, sub, progress /* 0..1 or null for spinner */, mood = 'reading') {
   $('#work-title').textContent = title;
   $('#work-sub').textContent = sub;
-  const ring = $('.ring');
-  if (progress == null) { ring.classList.add('spin'); }
-  else {
-    ring.classList.remove('spin');
-    $('#ring-fg').style.strokeDashoffset = String(176 - 176 * Math.max(0.03, Math.min(1, progress)));
+  const [art, line] = MOODS[mood] || MOODS.reading;
+  const m = $('#work-mascot');
+  if (!m.classList.contains(`m-${art}`)) {
+    m.className = `mascot m-${art}`;
+    $('#work-art').src = `art/${art}.webp`;
+    const b = $('#work-bubble'); b.style.animation = 'none'; void b.offsetWidth; b.style.animation = '';
   }
+  $('#work-bubble').textContent = line;
+  const bar = $('#work-bar');
+  bar.classList.toggle('indeterminate', progress == null);
+  $('#work-fill').style.width = progress == null ? '' : `${Math.max(3, Math.min(100, progress * 100))}%`;
 }
 
 function upload(file, onProgress) {
@@ -169,16 +179,16 @@ async function processFile(file) {
   const job = { cancelled: false, xhr: null };
   activeUpload = job;
   setAddState('working');
-  setWorking('Connecting…', 'Getting things ready.', null);
+  setWorking('Connecting…', 'Getting things ready.', null, 'connect');
   try {
     const ok = await ensureAwake(
-      () => setWorking('Waking up…', 'The free server takes a quick nap when nobody is using it. The first upload can take up to a minute.', null),
+      () => setWorking('Waking up…', 'The free server takes a quick nap when nobody is using it. The first upload can take up to a minute.', null, 'waking'),
       () => job.cancelled
     );
     if (!ok || job.cancelled) return;
     const isVideo = file.type.startsWith('video') || /\.(mov|mp4|m4v|webm)$/i.test(file.name);
-    setWorking('Uploading…', isVideo ? 'Sending your reel.' : 'Sending your screenshot.', 0);
-    const created = await upload(file, p => setWorking('Uploading…', `${Math.round(p * 100)}%`, p));
+    setWorking('Uploading…', isVideo ? 'Sending your reel.' : 'Sending your screenshot.', 0, 'upload');
+    const created = await upload(file, p => setWorking('Uploading…', `${Math.round(p * 100)}%`, p, 'upload'));
     let res;
     while (!job.cancelled) {
       await sleep(1200);
@@ -188,8 +198,8 @@ async function processFile(file) {
       if (!r.ok) throw new Error(res.error || 'Lost track of the upload.');
       if (res.status === 'done' || res.status === 'error') break;
       const { done, total } = res.progress || {};
-      if (res.status === 'queued') setWorking('Waiting…', 'Another reel is being read first.', null);
-      else setWorking('Reading the text…', res.stage || '', total ? done / total : null);
+      if (res.status === 'queued') setWorking('Waiting…', 'Another reel is being read first.', null, 'queued');
+      else setWorking('Reading the text…', res.stage || '', total ? done / total : null, 'reading');
     }
     if (job.cancelled) return;
     if (res.status === 'error') throw new Error(res.error);

@@ -12,7 +12,7 @@ test('SM-2: new card intervals for each button', () => {
   const c = newCardState(now);
   assert.equal(schedule(c, 'again', now).due - now, 60_000);
   assert.equal(schedule(c, 'hard', now).interval, 1);
-  assert.equal(schedule(c, 'good', now).interval, 1);
+  assert.equal(schedule(c, 'good', now).interval, 2);
   assert.equal(schedule(c, 'easy', now).interval, 4);
 });
 

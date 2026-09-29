@@ -1,8 +1,9 @@
 // Offline support: the app shell is cached so reviewing works with no connection.
-const CACHE = 'reel-cards-v3';
+const CACHE = 'reel-cards-v5';
 const SHELL = ['./', 'index.html', 'styles.css', 'app.js', 'db.js', 'sm2.js', 'anki.js', 'manifest.webmanifest',
   'icons/apple-touch-icon.png', 'icons/icon-192.png', 'icons/icon-512.png',
-  'avatars/dog.webp', 'avatars/penguin.webp', 'avatars/seal.webp', 'avatars/bunny.webp', 'avatars/panda.webp', 'avatars/duck.webp'];
+  'avatars/dog.webp', 'avatars/penguin.webp', 'avatars/seal.webp', 'avatars/bunny.webp', 'avatars/panda.webp', 'avatars/duck.webp',
+  'art/coffee.webp', 'art/standing.webp', 'art/sleeping.webp', 'art/cool.webp', 'art/belly.webp'];
 
 self.addEventListener('install', e => {
   e.waitUntil(caches.open(CACHE).then(c => c.addAll(SHELL)).then(() => self.skipWaiting()));

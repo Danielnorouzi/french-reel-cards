@@ -34,10 +34,11 @@
 
       <!-- idle -->
       <div class="state" id="add-idle">
-        <div class="hero card">
-          <div class="hero-art" aria-hidden="true">
-            <div class="mini-card c1"></div><div class="mini-card c2"></div>
-            <div class="mini-card c3"><span>Bonjour</span></div>
+        <div class="hero card mascot-card">
+          <div class="mascot m-coffee" aria-hidden="true">
+            <span class="steam s1"></span><span class="steam s2"></span><span class="steam s3"></span>
+            <img src="art/coffee.webp" alt="">
+            <span class="bubble">Un café, et on apprend&nbsp;?</span>
           </div>
           <h2>Turn a reel into flashcards</h2>
           <p>Pick a saved reel or a screenshot. The app reads the French on screen and makes cards from the new words.</p>
@@ -52,10 +53,14 @@
 
       <!-- working -->
       <div class="state" id="add-working" hidden>
-        <div class="card working-card">
-          <div class="ring"><svg viewBox="0 0 64 64"><circle class="ring-bg" cx="32" cy="32" r="28"/><circle class="ring-fg" id="ring-fg" cx="32" cy="32" r="28"/></svg></div>
+        <div class="card working-card mascot-card">
+          <div class="mascot m-standing" id="work-mascot" aria-hidden="true">
+            <img id="work-art" src="art/standing.webp" alt="">
+            <span class="bubble" id="work-bubble">J'arrive&nbsp;!</span>
+          </div>
           <h2 id="work-title">Uploading…</h2>
           <p id="work-sub">This usually takes under a minute.</p>
+          <div class="work-bar" id="work-bar"><div class="work-fill" id="work-fill"></div></div>
         </div>
         <button class="btn btn-plain" id="cancel-work">Cancel</button>
       </div>
@@ -79,8 +84,12 @@
 
       <!-- done -->
       <div class="state" id="add-done" hidden>
-        <div class="card done-card">
-          <div class="check"><svg viewBox="0 0 52 52"><circle cx="26" cy="26" r="24"/><path d="m15 27 7 7 15-16"/></svg></div>
+        <div class="card done-card mascot-card">
+          <div class="mascot m-cool" aria-hidden="true">
+            <span class="twinkle t1">✦</span><span class="twinkle t2">✦</span><span class="twinkle t3">✦</span>
+            <img src="art/cool.webp" alt="">
+            <span class="bubble">Magnifique&nbsp;!</span>
+          </div>
           <h2 id="done-title">Cards added</h2>
           <p>They're saved on this phone and ready to review.</p>
         </div>
@@ -90,8 +99,11 @@
 
       <!-- error -->
       <div class="state" id="add-error" hidden>
-        <div class="card done-card">
-          <div class="err-icon">!</div>
+        <div class="card done-card mascot-card">
+          <div class="mascot m-belly" aria-hidden="true">
+            <img src="art/belly.webp" alt="">
+            <span class="bubble">Oups&nbsp;!</span>
+          </div>
           <h2 id="error-title">That didn't work</h2>
           <p id="error-sub"></p>
         </div>
