@@ -1,0 +1,1285 @@
+{
+  "texts": [],
+  "questions": [
+    {
+      "id": "a1-basic_articles-001",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "basic_articles",
+      "question": "___ soleil brille aujourd’hui.",
+      "options": [
+        "Le",
+        "La",
+        "L’",
+        "Les"
+      ],
+      "answer": 0,
+      "explanation": "Le = \"the\" before a masculine singular noun starting with a consonant.",
+      "textId": null
+    },
+    {
+      "id": "a1-basic_articles-002",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "basic_articles",
+      "question": "___ lune est belle ce soir.",
+      "options": [
+        "Le",
+        "La",
+        "L’",
+        "Les"
+      ],
+      "answer": 1,
+      "explanation": "La = \"the\" before a feminine singular noun starting with a consonant.",
+      "textId": null
+    },
+    {
+      "id": "a1-basic_articles-003",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "basic_articles",
+      "question": "___ école est près de chez moi.",
+      "options": [
+        "Le",
+        "La",
+        "L’",
+        "Les"
+      ],
+      "answer": 2,
+      "explanation": "L’ = \"the\" before any singular noun starting with a vowel or silent h.",
+      "textId": null
+    },
+    {
+      "id": "a1-basic_articles-004",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "basic_articles",
+      "question": "___ enfants jouent dehors.",
+      "options": [
+        "Le",
+        "La",
+        "L’",
+        "Les"
+      ],
+      "answer": 3,
+      "explanation": "Les = \"the\" before every plural noun, masculine or feminine.",
+      "textId": null
+    },
+    {
+      "id": "a1-basic_articles-005",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "basic_articles",
+      "question": "___ hôtel est au centre-ville.",
+      "options": [
+        "L’",
+        "Le",
+        "La",
+        "Les"
+      ],
+      "answer": 0,
+      "explanation": "L’ = \"the\" before any singular noun starting with a vowel or silent h.",
+      "textId": null
+    },
+    {
+      "id": "a1-basic_articles-006",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "basic_articles",
+      "question": "___ professeur arrive à neuf heures.",
+      "options": [
+        "La",
+        "Le",
+        "L’",
+        "Les"
+      ],
+      "answer": 1,
+      "explanation": "Le = \"the\" before a masculine singular noun starting with a consonant.",
+      "textId": null
+    },
+    {
+      "id": "a1-basic_articles-007",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "basic_articles",
+      "question": "___ voiture de Paul est rouge.",
+      "options": [
+        "Le",
+        "L’",
+        "La",
+        "Les"
+      ],
+      "answer": 2,
+      "explanation": "La = \"the\" before a feminine singular noun starting with a consonant.",
+      "textId": null
+    },
+    {
+      "id": "a1-basic_articles-008",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "basic_articles",
+      "question": "___ magasins ferment à dix-neuf heures.",
+      "options": [
+        "Le",
+        "La",
+        "L’",
+        "Les"
+      ],
+      "answer": 3,
+      "explanation": "Les = \"the\" before every plural noun, masculine or feminine.",
+      "textId": null
+    },
+    {
+      "id": "a1-basic_articles-009",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "basic_articles",
+      "question": "___ train part dans dix minutes.",
+      "options": [
+        "Le",
+        "La",
+        "L’",
+        "Les"
+      ],
+      "answer": 0,
+      "explanation": "Le = \"the\" before a masculine singular noun starting with a consonant.",
+      "textId": null
+    },
+    {
+      "id": "a1-basic_articles-010",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "basic_articles",
+      "question": "___ université est très grande.",
+      "options": [
+        "Le",
+        "L’",
+        "La",
+        "Les"
+      ],
+      "answer": 1,
+      "explanation": "L’ = \"the\" before any singular noun starting with a vowel or silent h.",
+      "textId": null
+    },
+    {
+      "id": "a1-basic_articles-011",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "basic_articles",
+      "question": "___ cuisine est petite mais pratique.",
+      "options": [
+        "Le",
+        "L’",
+        "La",
+        "Les"
+      ],
+      "answer": 2,
+      "explanation": "La = \"the\" before a feminine singular noun starting with a consonant.",
+      "textId": null
+    },
+    {
+      "id": "a1-basic_articles-012",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "basic_articles",
+      "question": "___ ordinateur ne marche pas.",
+      "options": [
+        "Le",
+        "La",
+        "Les",
+        "L’"
+      ],
+      "answer": 3,
+      "explanation": "L’ = \"the\" before any singular noun starting with a vowel or silent h.",
+      "textId": null
+    },
+    {
+      "id": "a1-basic_articles-013",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "basic_articles",
+      "question": "___ fenêtres sont ouvertes.",
+      "options": [
+        "Les",
+        "Le",
+        "La",
+        "L’"
+      ],
+      "answer": 0,
+      "explanation": "Les = \"the\" before every plural noun, masculine or feminine.",
+      "textId": null
+    },
+    {
+      "id": "a1-basic_articles-014",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "basic_articles",
+      "question": "___ bus est en retard.",
+      "options": [
+        "La",
+        "Le",
+        "L’",
+        "Les"
+      ],
+      "answer": 1,
+      "explanation": "Le = \"the\" before a masculine singular noun starting with a consonant.",
+      "textId": null
+    },
+    {
+      "id": "a1-basic_articles-015",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "basic_articles",
+      "question": "___ gare est à dix minutes à pied.",
+      "options": [
+        "Le",
+        "L’",
+        "La",
+        "Les"
+      ],
+      "answer": 2,
+      "explanation": "La = \"the\" before a feminine singular noun starting with a consonant.",
+      "textId": null
+    },
+    {
+      "id": "a1-basic_articles-016",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "basic_articles",
+      "question": "___ eau est très froide.",
+      "options": [
+        "Le",
+        "La",
+        "Les",
+        "L’"
+      ],
+      "answer": 3,
+      "explanation": "L’ = \"the\" before any singular noun starting with a vowel or silent h.",
+      "textId": null
+    },
+    {
+      "id": "a1-basic_articles-017",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "basic_articles",
+      "question": "___ chat dort sur le canapé.",
+      "options": [
+        "Le",
+        "La",
+        "L’",
+        "Les"
+      ],
+      "answer": 0,
+      "explanation": "Le = \"the\" before a masculine singular noun starting with a consonant.",
+      "textId": null
+    },
+    {
+      "id": "a1-basic_articles-018",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "basic_articles",
+      "question": "___ plage est magnifique.",
+      "options": [
+        "Le",
+        "La",
+        "L’",
+        "Les"
+      ],
+      "answer": 1,
+      "explanation": "La = \"the\" before a feminine singular noun starting with a consonant.",
+      "textId": null
+    },
+    {
+      "id": "a1-basic_articles-019",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "basic_articles",
+      "question": "___ amis de Léa sont sympas.",
+      "options": [
+        "Le",
+        "La",
+        "Les",
+        "L’"
+      ],
+      "answer": 2,
+      "explanation": "Les = \"the\" before every plural noun, masculine or feminine.",
+      "textId": null
+    },
+    {
+      "id": "a1-basic_articles-020",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "basic_articles",
+      "question": "___ homme là-bas est mon voisin.",
+      "options": [
+        "Le",
+        "La",
+        "Les",
+        "L’"
+      ],
+      "answer": 3,
+      "explanation": "L’ = \"the\" before any singular noun starting with a vowel or silent h.",
+      "textId": null
+    },
+    {
+      "id": "a1-basic_articles-021",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "basic_articles",
+      "question": "___ musée ouvre à dix heures.",
+      "options": [
+        "Le",
+        "La",
+        "L’",
+        "Les"
+      ],
+      "answer": 0,
+      "explanation": "Le = \"the\" before a masculine singular noun starting with a consonant.",
+      "textId": null
+    },
+    {
+      "id": "a1-basic_articles-022",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "basic_articles",
+      "question": "___ boulangerie est fermée le lundi.",
+      "options": [
+        "Le",
+        "La",
+        "L’",
+        "Les"
+      ],
+      "answer": 1,
+      "explanation": "La = \"the\" before a feminine singular noun starting with a consonant.",
+      "textId": null
+    },
+    {
+      "id": "a1-basic_articles-023",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "basic_articles",
+      "question": "___ avion décolle à midi.",
+      "options": [
+        "Le",
+        "La",
+        "L’",
+        "Les"
+      ],
+      "answer": 2,
+      "explanation": "L’ = \"the\" before any singular noun starting with a vowel or silent h.",
+      "textId": null
+    },
+    {
+      "id": "a1-basic_articles-024",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "basic_articles",
+      "question": "___ chaussures sont sous le lit.",
+      "options": [
+        "Le",
+        "La",
+        "L’",
+        "Les"
+      ],
+      "answer": 3,
+      "explanation": "Les = \"the\" before every plural noun, masculine or feminine.",
+      "textId": null
+    },
+    {
+      "id": "a1-basic_articles-025",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "basic_articles",
+      "question": "___ histoire est très intéressante.",
+      "options": [
+        "L’",
+        "Le",
+        "La",
+        "Les"
+      ],
+      "answer": 0,
+      "explanation": "L’ = \"the\" before any singular noun starting with a vowel or silent h.",
+      "textId": null
+    },
+    {
+      "id": "a1-basic_articles-026",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "basic_articles",
+      "question": "J’ai ___ frère et deux sœurs.",
+      "options": [
+        "une",
+        "un",
+        "des",
+        "les"
+      ],
+      "answer": 1,
+      "explanation": "Un = \"a / an\" before a masculine singular noun.",
+      "textId": null
+    },
+    {
+      "id": "a1-basic_articles-027",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "basic_articles",
+      "question": "Elle a ___ sœur à Paris.",
+      "options": [
+        "un",
+        "des",
+        "une",
+        "le"
+      ],
+      "answer": 2,
+      "explanation": "Une = \"a / an\" before a feminine singular noun.",
+      "textId": null
+    },
+    {
+      "id": "a1-basic_articles-028",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "basic_articles",
+      "question": "Nous avons ___ amis au Québec.",
+      "options": [
+        "un",
+        "une",
+        "les",
+        "des"
+      ],
+      "answer": 3,
+      "explanation": "Des = \"some\" before a plural noun. English often leaves it out, French does not.",
+      "textId": null
+    },
+    {
+      "id": "a1-basic_articles-029",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "basic_articles",
+      "question": "C’est ___ bonne idée.",
+      "options": [
+        "une",
+        "un",
+        "des",
+        "le"
+      ],
+      "answer": 0,
+      "explanation": "Une = \"a / an\" before a feminine singular noun.",
+      "textId": null
+    },
+    {
+      "id": "a1-basic_articles-030",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "basic_articles",
+      "question": "Il y a ___ parc près d’ici.",
+      "options": [
+        "une",
+        "un",
+        "des",
+        "les"
+      ],
+      "answer": 1,
+      "explanation": "Un = \"a / an\" before a masculine singular noun.",
+      "textId": null
+    },
+    {
+      "id": "a1-basic_articles-031",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "basic_articles",
+      "question": "Tu as ___ stylo ?",
+      "options": [
+        "une",
+        "des",
+        "un",
+        "les"
+      ],
+      "answer": 2,
+      "explanation": "Un = \"a / an\" before a masculine singular noun.",
+      "textId": null
+    },
+    {
+      "id": "a1-basic_articles-032",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "basic_articles",
+      "question": "Je cherche ___ pharmacie.",
+      "options": [
+        "un",
+        "des",
+        "le",
+        "une"
+      ],
+      "answer": 3,
+      "explanation": "Une = \"a / an\" before a feminine singular noun.",
+      "textId": null
+    },
+    {
+      "id": "a1-basic_articles-033",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "basic_articles",
+      "question": "Il y a ___ livres sur la table.",
+      "options": [
+        "des",
+        "un",
+        "une",
+        "le"
+      ],
+      "answer": 0,
+      "explanation": "Des = \"some\" before a plural noun. English often leaves it out, French does not.",
+      "textId": null
+    },
+    {
+      "id": "a1-basic_articles-034",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "basic_articles",
+      "question": "C’est ___ ami de mon frère.",
+      "options": [
+        "une",
+        "un",
+        "des",
+        "le"
+      ],
+      "answer": 1,
+      "explanation": "Un = \"a / an\" before a masculine singular noun.",
+      "textId": null
+    },
+    {
+      "id": "a1-basic_articles-035",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "basic_articles",
+      "question": "Vous avez ___ questions ?",
+      "options": [
+        "un",
+        "une",
+        "des",
+        "la"
+      ],
+      "answer": 2,
+      "explanation": "Des = \"some\" before a plural noun. English often leaves it out, French does not.",
+      "textId": null
+    },
+    {
+      "id": "a1-basic_articles-036",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "basic_articles",
+      "question": "Elle porte ___ robe bleue.",
+      "options": [
+        "un",
+        "des",
+        "le",
+        "une"
+      ],
+      "answer": 3,
+      "explanation": "Une = \"a / an\" before a feminine singular noun.",
+      "textId": null
+    },
+    {
+      "id": "a1-basic_articles-037",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "basic_articles",
+      "question": "J’habite dans ___ appartement.",
+      "options": [
+        "un",
+        "une",
+        "des",
+        "le"
+      ],
+      "answer": 0,
+      "explanation": "Un = \"a / an\" before a masculine singular noun.",
+      "textId": null
+    },
+    {
+      "id": "a1-basic_articles-038",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "basic_articles",
+      "question": "Il mange ___ pomme.",
+      "options": [
+        "un",
+        "une",
+        "des",
+        "le"
+      ],
+      "answer": 1,
+      "explanation": "Une = \"a / an\" before a feminine singular noun.",
+      "textId": null
+    },
+    {
+      "id": "a1-basic_articles-039",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "basic_articles",
+      "question": "Ils ont ___ enfants.",
+      "options": [
+        "un",
+        "une",
+        "des",
+        "les"
+      ],
+      "answer": 2,
+      "explanation": "Des = \"some\" before a plural noun. English often leaves it out, French does not.",
+      "textId": null
+    },
+    {
+      "id": "a1-basic_articles-040",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "basic_articles",
+      "question": "Je voudrais ___ café, s’il vous plaît.",
+      "options": [
+        "une",
+        "des",
+        "les",
+        "un"
+      ],
+      "answer": 3,
+      "explanation": "Un = \"a / an\" before a masculine singular noun.",
+      "textId": null
+    },
+    {
+      "id": "a1-basic_articles-041",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "basic_articles",
+      "question": "C’est ___ ville magnifique.",
+      "options": [
+        "une",
+        "un",
+        "des",
+        "le"
+      ],
+      "answer": 0,
+      "explanation": "Une = \"a / an\" before a feminine singular noun.",
+      "textId": null
+    },
+    {
+      "id": "a1-basic_articles-042",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "basic_articles",
+      "question": "Tu veux ___ sandwich ?",
+      "options": [
+        "une",
+        "un",
+        "des",
+        "les"
+      ],
+      "answer": 1,
+      "explanation": "Un = \"a / an\" before a masculine singular noun.",
+      "textId": null
+    },
+    {
+      "id": "a1-basic_articles-043",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "basic_articles",
+      "question": "Il y a ___ banque dans cette rue ?",
+      "options": [
+        "un",
+        "des",
+        "une",
+        "le"
+      ],
+      "answer": 2,
+      "explanation": "Une = \"a / an\" before a feminine singular noun.",
+      "textId": null
+    },
+    {
+      "id": "a1-basic_articles-044",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "basic_articles",
+      "question": "J’ai ___ chien et un chat.",
+      "options": [
+        "une",
+        "des",
+        "le",
+        "un"
+      ],
+      "answer": 3,
+      "explanation": "Un = \"a / an\" before a masculine singular noun.",
+      "textId": null
+    },
+    {
+      "id": "a1-basic_articles-045",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "basic_articles",
+      "question": "Elle achète ___ fleurs pour sa mère.",
+      "options": [
+        "des",
+        "un",
+        "une",
+        "la"
+      ],
+      "answer": 0,
+      "explanation": "Des = \"some\" before a plural noun. English often leaves it out, French does not.",
+      "textId": null
+    },
+    {
+      "id": "a1-basic_articles-046",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "basic_articles",
+      "question": "Nous cherchons ___ hôtel pas cher.",
+      "options": [
+        "une",
+        "un",
+        "des",
+        "le"
+      ],
+      "answer": 1,
+      "explanation": "Un = \"a / an\" before a masculine singular noun.",
+      "textId": null
+    },
+    {
+      "id": "a1-basic_articles-047",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "basic_articles",
+      "question": "C’est ___ histoire vraie.",
+      "options": [
+        "un",
+        "des",
+        "une",
+        "le"
+      ],
+      "answer": 2,
+      "explanation": "Une = \"a / an\" before a feminine singular noun.",
+      "textId": null
+    },
+    {
+      "id": "a1-basic_articles-048",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "basic_articles",
+      "question": "Il a ___ idée.",
+      "options": [
+        "un",
+        "des",
+        "le",
+        "une"
+      ],
+      "answer": 3,
+      "explanation": "Une = \"a / an\" before a feminine singular noun.",
+      "textId": null
+    },
+    {
+      "id": "a1-basic_articles-049",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "basic_articles",
+      "question": "Je prends ___ taxi.",
+      "options": [
+        "un",
+        "une",
+        "des",
+        "les"
+      ],
+      "answer": 0,
+      "explanation": "Un = \"a / an\" before a masculine singular noun.",
+      "textId": null
+    },
+    {
+      "id": "a1-basic_articles-050",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "basic_articles",
+      "question": "On regarde ___ film ce soir ?",
+      "options": [
+        "une",
+        "un",
+        "des",
+        "la"
+      ],
+      "answer": 1,
+      "explanation": "Un = \"a / an\" before a masculine singular noun.",
+      "textId": null
+    },
+    {
+      "id": "a1-basic_articles-051",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "basic_articles",
+      "question": "J’aime ___ chocolat.",
+      "options": [
+        "un",
+        "des",
+        "le",
+        "la"
+      ],
+      "answer": 2,
+      "explanation": "To talk about likes and dislikes in general (aimer, adorer, détester, préférer), French uses the definite article: le.",
+      "textId": null
+    },
+    {
+      "id": "a1-basic_articles-052",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "basic_articles",
+      "question": "Elle adore ___ musique.",
+      "options": [
+        "une",
+        "des",
+        "le",
+        "la"
+      ],
+      "answer": 3,
+      "explanation": "To talk about likes and dislikes in general (aimer, adorer, détester, préférer), French uses the definite article: la.",
+      "textId": null
+    },
+    {
+      "id": "a1-basic_articles-053",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "basic_articles",
+      "question": "Je déteste ___ épinards.",
+      "options": [
+        "les",
+        "des",
+        "un",
+        "le"
+      ],
+      "answer": 0,
+      "explanation": "To talk about likes and dislikes in general (aimer, adorer, détester, préférer), French uses the definite article: les.",
+      "textId": null
+    },
+    {
+      "id": "a1-basic_articles-054",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "basic_articles",
+      "question": "Tu aimes ___ sport ?",
+      "options": [
+        "un",
+        "le",
+        "la",
+        "des"
+      ],
+      "answer": 1,
+      "explanation": "To talk about likes and dislikes in general (aimer, adorer, détester, préférer), French uses the definite article: le.",
+      "textId": null
+    },
+    {
+      "id": "a1-basic_articles-055",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "basic_articles",
+      "question": "Nous préférons ___ thé.",
+      "options": [
+        "un",
+        "la",
+        "le",
+        "des"
+      ],
+      "answer": 2,
+      "explanation": "To talk about likes and dislikes in general (aimer, adorer, détester, préférer), French uses the definite article: le.",
+      "textId": null
+    },
+    {
+      "id": "a1-basic_articles-056",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "basic_articles",
+      "question": "Il n’aime pas ___ pluie.",
+      "options": [
+        "une",
+        "le",
+        "des",
+        "la"
+      ],
+      "answer": 3,
+      "explanation": "To talk about likes and dislikes in general (aimer, adorer, détester, préférer), French uses the definite article: la.",
+      "textId": null
+    },
+    {
+      "id": "a1-basic_articles-057",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "basic_articles",
+      "question": "J’adore ___ chats.",
+      "options": [
+        "les",
+        "des",
+        "le",
+        "un"
+      ],
+      "answer": 0,
+      "explanation": "To talk about likes and dislikes in general (aimer, adorer, détester, préférer), French uses the definite article: les.",
+      "textId": null
+    },
+    {
+      "id": "a1-basic_articles-058",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "basic_articles",
+      "question": "Vous aimez ___ cuisine française ?",
+      "options": [
+        "une",
+        "la",
+        "le",
+        "des"
+      ],
+      "answer": 1,
+      "explanation": "To talk about likes and dislikes in general (aimer, adorer, détester, préférer), French uses the definite article: la.",
+      "textId": null
+    },
+    {
+      "id": "a1-basic_articles-059",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "basic_articles",
+      "question": "Elle déteste ___ hiver.",
+      "options": [
+        "un",
+        "la",
+        "l’",
+        "des"
+      ],
+      "answer": 2,
+      "explanation": "To talk about likes and dislikes in general (aimer, adorer, détester, préférer), French uses the definite article: l’.",
+      "textId": null
+    },
+    {
+      "id": "a1-basic_articles-060",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "basic_articles",
+      "question": "Ils adorent ___ plage.",
+      "options": [
+        "une",
+        "le",
+        "des",
+        "la"
+      ],
+      "answer": 3,
+      "explanation": "To talk about likes and dislikes in general (aimer, adorer, détester, préférer), French uses the definite article: la.",
+      "textId": null
+    },
+    {
+      "id": "a1-basic_articles-061",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "basic_articles",
+      "question": "J’ai un chat. ___ chat s’appelle Milo.",
+      "options": [
+        "Le",
+        "Un",
+        "La",
+        "Des"
+      ],
+      "answer": 0,
+      "explanation": "Use un / une / des the first time you mention something, and le / la / les when it is specific or already known. Here: Le.",
+      "textId": null
+    },
+    {
+      "id": "a1-basic_articles-062",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "basic_articles",
+      "question": "Il y a une boulangerie ici. ___ boulangerie est très bonne.",
+      "options": [
+        "Une",
+        "La",
+        "Le",
+        "Des"
+      ],
+      "answer": 1,
+      "explanation": "Use un / une / des the first time you mention something, and le / la / les when it is specific or already known. Here: La.",
+      "textId": null
+    },
+    {
+      "id": "a1-basic_articles-063",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "basic_articles",
+      "question": "Elle a des enfants. ___ enfants sont à l’école.",
+      "options": [
+        "Des",
+        "Un",
+        "Les",
+        "Le"
+      ],
+      "answer": 2,
+      "explanation": "Use un / une / des the first time you mention something, and le / la / les when it is specific or already known. Here: Les.",
+      "textId": null
+    },
+    {
+      "id": "a1-basic_articles-064",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "basic_articles",
+      "question": "Je regarde un film. ___ film est drôle.",
+      "options": [
+        "Un",
+        "La",
+        "Des",
+        "Le"
+      ],
+      "answer": 3,
+      "explanation": "Use un / une / des the first time you mention something, and le / la / les when it is specific or already known. Here: Le.",
+      "textId": null
+    },
+    {
+      "id": "a1-basic_articles-065",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "basic_articles",
+      "question": "Voici ___ maison de mes parents.",
+      "options": [
+        "la",
+        "une",
+        "le",
+        "des"
+      ],
+      "answer": 0,
+      "explanation": "Use un / une / des the first time you mention something, and le / la / les when it is specific or already known. Here: la.",
+      "textId": null
+    },
+    {
+      "id": "a1-basic_articles-066",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "basic_articles",
+      "question": "C’est ___ père de Julie.",
+      "options": [
+        "un",
+        "le",
+        "la",
+        "des"
+      ],
+      "answer": 1,
+      "explanation": "Use un / une / des the first time you mention something, and le / la / les when it is specific or already known. Here: le.",
+      "textId": null
+    },
+    {
+      "id": "a1-basic_articles-067",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "basic_articles",
+      "question": "Ferme ___ porte, s’il te plaît.",
+      "options": [
+        "une",
+        "le",
+        "la",
+        "des"
+      ],
+      "answer": 2,
+      "explanation": "Use un / une / des the first time you mention something, and le / la / les when it is specific or already known. Here: la.",
+      "textId": null
+    },
+    {
+      "id": "a1-basic_articles-068",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "basic_articles",
+      "question": "Où sont ___ toilettes ?",
+      "options": [
+        "des",
+        "la",
+        "le",
+        "les"
+      ],
+      "answer": 3,
+      "explanation": "Use un / une / des the first time you mention something, and le / la / les when it is specific or already known. Here: les.",
+      "textId": null
+    },
+    {
+      "id": "a1-basic_articles-069",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "basic_articles",
+      "question": "Quelle est ___ capitale du Canada ?",
+      "options": [
+        "la",
+        "une",
+        "le",
+        "les"
+      ],
+      "answer": 0,
+      "explanation": "Use un / une / des the first time you mention something, and le / la / les when it is specific or already known. Here: la.",
+      "textId": null
+    },
+    {
+      "id": "a1-basic_articles-070",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "basic_articles",
+      "question": "Je ne connais pas ___ adresse de Paul.",
+      "options": [
+        "une",
+        "l’",
+        "le",
+        "les"
+      ],
+      "answer": 1,
+      "explanation": "Use un / une / des the first time you mention something, and le / la / les when it is specific or already known. Here: l’.",
+      "textId": null
+    },
+    {
+      "id": "a1-basic_articles-071",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "basic_articles",
+      "question": "Passe-moi ___ sel, s’il te plaît.",
+      "options": [
+        "un",
+        "la",
+        "le",
+        "des"
+      ],
+      "answer": 2,
+      "explanation": "Use un / une / des the first time you mention something, and le / la / les when it is specific or already known. Here: le.",
+      "textId": null
+    },
+    {
+      "id": "a1-basic_articles-072",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "basic_articles",
+      "question": "___ lundi, je vais à la piscine.",
+      "options": [
+        "Un",
+        "La",
+        "Les",
+        "Le"
+      ],
+      "answer": 3,
+      "explanation": "Le + day of the week means \"every\" that day: le lundi = on Mondays.",
+      "textId": null
+    },
+    {
+      "id": "a1-basic_articles-073",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "basic_articles",
+      "question": "Le cours est ___ mardi et le jeudi.",
+      "options": [
+        "le",
+        "un",
+        "la",
+        "des"
+      ],
+      "answer": 0,
+      "explanation": "Le + day of the week means \"every\" that day: le mardi = on Tuesdays.",
+      "textId": null
+    },
+    {
+      "id": "a1-basic_articles-074",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "basic_articles",
+      "question": "Il parle ___ français et l’anglais.",
+      "options": [
+        "un",
+        "le",
+        "la",
+        "les"
+      ],
+      "answer": 1,
+      "explanation": "Names of languages are masculine and take le: le français.",
+      "textId": null
+    },
+    {
+      "id": "a1-basic_articles-075",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "basic_articles",
+      "question": "___ France est un beau pays.",
+      "options": [
+        "Le",
+        "L’",
+        "La",
+        "Les"
+      ],
+      "answer": 2,
+      "explanation": "Most countries take an article. France is feminine: la France.",
+      "textId": null
+    },
+    {
+      "id": "a1-basic_articles-076",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "basic_articles",
+      "question": "___ Canada est très grand.",
+      "options": [
+        "La",
+        "L’",
+        "Les",
+        "Le"
+      ],
+      "answer": 3,
+      "explanation": "Most countries take an article. Canada is masculine: le Canada.",
+      "textId": null
+    },
+    {
+      "id": "a1-basic_articles-077",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "basic_articles",
+      "question": "___ États-Unis sont au sud du Canada.",
+      "options": [
+        "Les",
+        "Le",
+        "La",
+        "L’"
+      ],
+      "answer": 0,
+      "explanation": "Plural country names take les: les États-Unis.",
+      "textId": null
+    },
+    {
+      "id": "a1-basic_articles-078",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "basic_articles",
+      "question": "J’ai mal à ___ tête.",
+      "options": [
+        "une",
+        "la",
+        "le",
+        "ma"
+      ],
+      "answer": 1,
+      "explanation": "With parts of the body, French uses le / la / les, not a possessive: mal à la tête.",
+      "textId": null
+    },
+    {
+      "id": "a1-basic_articles-079",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "basic_articles",
+      "question": "Elle se lave ___ mains.",
+      "options": [
+        "des",
+        "ses",
+        "les",
+        "la"
+      ],
+      "answer": 2,
+      "explanation": "With parts of the body after a reflexive verb, French uses le / la / les: se laver les mains.",
+      "textId": null
+    },
+    {
+      "id": "a1-basic_articles-080",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "basic_articles",
+      "question": "Il est ___ heure de l’après-midi.",
+      "options": [
+        "un",
+        "la",
+        "des",
+        "une"
+      ],
+      "answer": 3,
+      "explanation": "Une heure = one o’clock. Heure is feminine.",
+      "textId": null
+    }
+  ]
+}

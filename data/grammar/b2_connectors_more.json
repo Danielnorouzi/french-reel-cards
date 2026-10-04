@@ -1,0 +1,485 @@
+{
+  "texts": [],
+  "questions": [
+    {
+      "id": "b2-connectors-051",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "connectors",
+      "question": "___ ton aide, j’ai réussi mon examen.",
+      "options": [
+        "Grâce à",
+        "À cause de",
+        "Malgré",
+        "Bien que"
+      ],
+      "answer": 0,
+      "explanation": "Grâce à introduces a positive cause (thanks to); à cause de introduces a negative or neutral cause (because of). Both are followed by a noun.",
+      "textId": null
+    },
+    {
+      "id": "b2-connectors-052",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "connectors",
+      "question": "___ la grève, il n’y a pas de trains aujourd’hui.",
+      "options": [
+        "Grâce à",
+        "À cause de",
+        "Bien que",
+        "Afin de"
+      ],
+      "answer": 1,
+      "explanation": "Grâce à introduces a positive cause (thanks to); à cause de introduces a negative or neutral cause (because of). Both are followed by a noun.",
+      "textId": null
+    },
+    {
+      "id": "b2-connectors-053",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "connectors",
+      "question": "___ son courage, il a sauvé l’enfant.",
+      "options": [
+        "À cause de",
+        "Pourtant",
+        "Grâce à",
+        "Parce que"
+      ],
+      "answer": 2,
+      "explanation": "Grâce à introduces a positive cause (thanks to); à cause de introduces a negative or neutral cause (because of). Both are followed by a noun.",
+      "textId": null
+    },
+    {
+      "id": "b2-connectors-054",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "connectors",
+      "question": "Le match a été annulé ___ mauvais temps.",
+      "options": [
+        "grâce au",
+        "malgré le",
+        "parce que",
+        "à cause du"
+      ],
+      "answer": 3,
+      "explanation": "Grâce à introduces a positive cause (thanks to); à cause de introduces a negative or neutral cause (because of). Both are followed by a noun.",
+      "textId": null
+    },
+    {
+      "id": "b2-connectors-055",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "connectors",
+      "question": "___ il pleuvait, nous sommes restés à la maison.",
+      "options": [
+        "Comme",
+        "Car",
+        "Donc",
+        "Pourtant"
+      ],
+      "answer": 0,
+      "explanation": "Comme (at the start of the sentence), puisque, étant donné que and vu que introduce a cause and take the indicative.",
+      "textId": null
+    },
+    {
+      "id": "b2-connectors-056",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "connectors",
+      "question": "___ tu es là, aide-moi à porter ces sacs.",
+      "options": [
+        "Donc",
+        "Puisque",
+        "Pourtant",
+        "Bien que"
+      ],
+      "answer": 1,
+      "explanation": "Comme (at the start of the sentence), puisque, étant donné que and vu que introduce a cause and take the indicative.",
+      "textId": null
+    },
+    {
+      "id": "b2-connectors-057",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "connectors",
+      "question": "___ les prix augmentent, les gens achètent moins.",
+      "options": [
+        "Bien que",
+        "Pour que",
+        "Étant donné que",
+        "Afin que"
+      ],
+      "answer": 2,
+      "explanation": "Comme (at the start of the sentence), puisque, étant donné que and vu que introduce a cause and take the indicative.",
+      "textId": null
+    },
+    {
+      "id": "b2-connectors-058",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "connectors",
+      "question": "Il n’est pas venu ___ il était malade.",
+      "options": [
+        "donc",
+        "pourtant",
+        "bien qu’",
+        "car"
+      ],
+      "answer": 3,
+      "explanation": "Car (for, because) introduces an explanation and is never placed at the start of the sentence.",
+      "textId": null
+    },
+    {
+      "id": "b2-connectors-059",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "connectors",
+      "question": "Il a beaucoup travaillé, ___ il a réussi.",
+      "options": [
+        "donc",
+        "car",
+        "pourtant",
+        "bien qu’"
+      ],
+      "answer": 0,
+      "explanation": "Donc, alors, c’est pourquoi, par conséquent introduce a consequence. Si bien que and de sorte que + indicative introduce a result.",
+      "textId": null
+    },
+    {
+      "id": "b2-connectors-060",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "connectors",
+      "question": "Je n’avais plus d’argent, ___ je suis rentré à pied.",
+      "options": [
+        "parce que",
+        "c’est pourquoi",
+        "pourtant",
+        "bien que"
+      ],
+      "answer": 1,
+      "explanation": "Donc, alors, c’est pourquoi, par conséquent introduce a consequence. Si bien que and de sorte que + indicative introduce a result.",
+      "textId": null
+    },
+    {
+      "id": "b2-connectors-061",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "connectors",
+      "question": "Il a plu toute la nuit, ___ les routes sont inondées.",
+      "options": [
+        "bien que",
+        "pour que",
+        "si bien que",
+        "parce que"
+      ],
+      "answer": 2,
+      "explanation": "Donc, alors, c’est pourquoi, par conséquent introduce a consequence. Si bien que and de sorte que + indicative introduce a result.",
+      "textId": null
+    },
+    {
+      "id": "b2-connectors-062",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "connectors",
+      "question": "Elle a raté son train ; ___, elle est arrivée en retard.",
+      "options": [
+        "pourtant",
+        "en revanche",
+        "car",
+        "par conséquent"
+      ],
+      "answer": 3,
+      "explanation": "Donc, alors, c’est pourquoi, par conséquent introduce a consequence. Si bien que and de sorte que + indicative introduce a result.",
+      "textId": null
+    },
+    {
+      "id": "b2-connectors-063",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "connectors",
+      "question": "Il était ___ fatigué qu’il s’est endormi dans le métro.",
+      "options": [
+        "tellement",
+        "très",
+        "beaucoup",
+        "autant"
+      ],
+      "answer": 0,
+      "explanation": "Tellement / si + adjective + que, and tellement de / tant de + noun + que, express a consequence of intensity.",
+      "textId": null
+    },
+    {
+      "id": "b2-connectors-064",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "connectors",
+      "question": "Il y avait ___ monde que nous n’avons pas pu entrer.",
+      "options": [
+        "tellement",
+        "tellement de",
+        "si",
+        "très"
+      ],
+      "answer": 1,
+      "explanation": "Tellement / si + adjective + que, and tellement de / tant de + noun + que, express a consequence of intensity.",
+      "textId": null
+    },
+    {
+      "id": "b2-connectors-065",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "connectors",
+      "question": "Elle parle ___ vite que je ne comprends rien.",
+      "options": [
+        "très",
+        "beaucoup",
+        "si",
+        "tant de"
+      ],
+      "answer": 2,
+      "explanation": "Tellement / si + adjective + que, and tellement de / tant de + noun + que, express a consequence of intensity.",
+      "textId": null
+    },
+    {
+      "id": "b2-connectors-066",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "connectors",
+      "question": "J’ai ___ travail que je ne sors plus.",
+      "options": [
+        "si",
+        "tellement",
+        "très",
+        "tant de"
+      ],
+      "answer": 3,
+      "explanation": "Tellement / si + adjective + que, and tellement de / tant de + noun + que, express a consequence of intensity.",
+      "textId": null
+    },
+    {
+      "id": "b2-connectors-067",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "connectors",
+      "question": "Mon frère adore le sport, ___ moi, je déteste ça.",
+      "options": [
+        "alors que",
+        "donc",
+        "puisque",
+        "pour que"
+      ],
+      "answer": 0,
+      "explanation": "Alors que and tandis que (+ indicative) contrast two facts. En revanche and par contre mean \"on the other hand\".",
+      "textId": null
+    },
+    {
+      "id": "b2-connectors-068",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "connectors",
+      "question": "Il fait froid ici, ___ dans le sud il fait très chaud.",
+      "options": [
+        "parce que",
+        "tandis que",
+        "pour que",
+        "à moins que"
+      ],
+      "answer": 1,
+      "explanation": "Alors que and tandis que (+ indicative) contrast two facts. En revanche and par contre mean \"on the other hand\".",
+      "textId": null
+    },
+    {
+      "id": "b2-connectors-069",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "connectors",
+      "question": "Je n’aime pas le café. ___, j’adore le thé.",
+      "options": [
+        "Donc",
+        "Par conséquent",
+        "En revanche",
+        "Puisque"
+      ],
+      "answer": 2,
+      "explanation": "Alors que and tandis que (+ indicative) contrast two facts. En revanche and par contre mean \"on the other hand\".",
+      "textId": null
+    },
+    {
+      "id": "b2-connectors-070",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "connectors",
+      "question": "Il est riche ; ___, il n’est pas heureux.",
+      "options": [
+        "donc",
+        "en outre",
+        "car",
+        "pourtant"
+      ],
+      "answer": 3,
+      "explanation": "Pourtant, cependant, néanmoins, quand même mark a concession (however, still). Bien que and quoique take the subjunctive.",
+      "textId": null
+    },
+    {
+      "id": "b2-connectors-071",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "connectors",
+      "question": "Il pleuvait, mais nous sommes sortis ___.",
+      "options": [
+        "quand même",
+        "donc",
+        "en revanche",
+        "par conséquent"
+      ],
+      "answer": 0,
+      "explanation": "Pourtant, cependant, néanmoins, quand même mark a concession (however, still). Bien que and quoique take the subjunctive.",
+      "textId": null
+    },
+    {
+      "id": "b2-connectors-072",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "connectors",
+      "question": "___ il soit très jeune, il a beaucoup d’expérience.",
+      "options": [
+        "Parce qu’",
+        "Bien qu’",
+        "Alors qu’",
+        "Puisqu’"
+      ],
+      "answer": 1,
+      "explanation": "Pourtant, cependant, néanmoins, quand même mark a concession (however, still). Bien que and quoique take the subjunctive.",
+      "textId": null
+    },
+    {
+      "id": "b2-connectors-073",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "connectors",
+      "question": "Le projet est intéressant ; ___, il coûte trop cher.",
+      "options": [
+        "donc",
+        "par conséquent",
+        "cependant",
+        "en outre"
+      ],
+      "answer": 2,
+      "explanation": "Pourtant, cependant, néanmoins, quand même mark a concession (however, still). Bien que and quoique take the subjunctive.",
+      "textId": null
+    },
+    {
+      "id": "b2-connectors-074",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "connectors",
+      "question": "Je parle lentement ___ tout le monde comprenne.",
+      "options": [
+        "parce que",
+        "pour",
+        "puisque",
+        "pour que"
+      ],
+      "answer": 3,
+      "explanation": "Pour que and afin que + subjunctive express a goal with two different subjects; pour and afin de + infinitive with the same subject.",
+      "textId": null
+    },
+    {
+      "id": "b2-connectors-075",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "connectors",
+      "question": "Elle se lève tôt ___ arriver à l’heure.",
+      "options": [
+        "afin d’",
+        "afin qu’",
+        "pour qu’",
+        "parce qu’"
+      ],
+      "answer": 0,
+      "explanation": "Pour que and afin que + subjunctive express a goal with two different subjects; pour and afin de + infinitive with the same subject.",
+      "textId": null
+    },
+    {
+      "id": "b2-connectors-076",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "connectors",
+      "question": "Parle plus fort ___ je t’entende.",
+      "options": [
+        "afin de",
+        "afin que",
+        "parce que",
+        "puisque"
+      ],
+      "answer": 1,
+      "explanation": "Pour que and afin que + subjunctive express a goal with two different subjects; pour and afin de + infinitive with the same subject.",
+      "textId": null
+    },
+    {
+      "id": "b2-connectors-077",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "connectors",
+      "question": "Nous irons à la plage ___ il ne pleuve.",
+      "options": [
+        "au cas où",
+        "parce qu’",
+        "à moins qu’",
+        "puisqu’"
+      ],
+      "answer": 2,
+      "explanation": "À moins que, pourvu que, à condition que take the subjunctive. Au cas où takes the conditional.",
+      "textId": null
+    },
+    {
+      "id": "b2-connectors-078",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "connectors",
+      "question": "Prends un parapluie ___ il pleuvrait.",
+      "options": [
+        "à moins qu’",
+        "pourvu qu’",
+        "bien qu’",
+        "au cas où"
+      ],
+      "answer": 3,
+      "explanation": "À moins que, pourvu que, à condition que take the subjunctive. Au cas où takes the conditional.",
+      "textId": null
+    },
+    {
+      "id": "b2-connectors-079",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "connectors",
+      "question": "___ il fasse beau demain !",
+      "options": [
+        "Pourvu qu’",
+        "Au cas où",
+        "Puisqu’",
+        "Parce qu’"
+      ],
+      "answer": 0,
+      "explanation": "À moins que, pourvu que, à condition que take the subjunctive. Au cas où takes the conditional.",
+      "textId": null
+    },
+    {
+      "id": "b2-connectors-080",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "connectors",
+      "question": "Ce logement est cher ; ___, il est loin du centre.",
+      "options": [
+        "pourtant",
+        "de plus",
+        "donc",
+        "en revanche"
+      ],
+      "answer": 1,
+      "explanation": "En outre, de plus, par ailleurs add an argument. D’une part … d’autre part organise two points.",
+      "textId": null
+    }
+  ]
+}

@@ -1,0 +1,1285 @@
+{
+  "texts": [],
+  "questions": [
+    {
+      "id": "b1-pp_agreement-001",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pp_agreement",
+      "question": "Elle est ___ à huit heures.",
+      "options": [
+        "arrivée",
+        "arrivé",
+        "arrivés",
+        "arrivées"
+      ],
+      "answer": 0,
+      "explanation": "With être, the past participle agrees with the subject: add -e for feminine, -s for plural, -es for feminine plural. Here: arrivée.",
+      "textId": null
+    },
+    {
+      "id": "b1-pp_agreement-002",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pp_agreement",
+      "question": "Ils sont ___ en vacances.",
+      "options": [
+        "parti",
+        "partis",
+        "partie",
+        "parties"
+      ],
+      "answer": 1,
+      "explanation": "With être, the past participle agrees with the subject: add -e for feminine, -s for plural, -es for feminine plural. Here: partis.",
+      "textId": null
+    },
+    {
+      "id": "b1-pp_agreement-003",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pp_agreement",
+      "question": "Mes sœurs sont ___ hier soir.",
+      "options": [
+        "sorti",
+        "sortis",
+        "sorties",
+        "sortie"
+      ],
+      "answer": 2,
+      "explanation": "With être, the past participle agrees with the subject: add -e for feminine, -s for plural, -es for feminine plural. Here: sorties.",
+      "textId": null
+    },
+    {
+      "id": "b1-pp_agreement-004",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pp_agreement",
+      "question": "Marie est ___ en 2001.",
+      "options": [
+        "né",
+        "nés",
+        "nées",
+        "née"
+      ],
+      "answer": 3,
+      "explanation": "With être, the past participle agrees with the subject: add -e for feminine, -s for plural, -es for feminine plural. Here: née.",
+      "textId": null
+    },
+    {
+      "id": "b1-pp_agreement-005",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pp_agreement",
+      "question": "Nous sommes ___ à pied, mon frère et moi.",
+      "options": [
+        "venus",
+        "venu",
+        "venue",
+        "venues"
+      ],
+      "answer": 0,
+      "explanation": "With être, the past participle agrees with the subject: add -e for feminine, -s for plural, -es for feminine plural. Here: venus.",
+      "textId": null
+    },
+    {
+      "id": "b1-pp_agreement-006",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pp_agreement",
+      "question": "Les filles sont ___ très tard.",
+      "options": [
+        "rentré",
+        "rentrées",
+        "rentrés",
+        "rentrée"
+      ],
+      "answer": 1,
+      "explanation": "With être, the past participle agrees with the subject: add -e for feminine, -s for plural, -es for feminine plural. Here: rentrées.",
+      "textId": null
+    },
+    {
+      "id": "b1-pp_agreement-007",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pp_agreement",
+      "question": "Ma grand-mère est ___ l’an dernier.",
+      "options": [
+        "mort",
+        "morts",
+        "morte",
+        "mortes"
+      ],
+      "answer": 2,
+      "explanation": "With être, the past participle agrees with the subject: add -e for feminine, -s for plural, -es for feminine plural. Here: morte.",
+      "textId": null
+    },
+    {
+      "id": "b1-pp_agreement-008",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pp_agreement",
+      "question": "Paul est ___ dans l’escalier.",
+      "options": [
+        "tombée",
+        "tombés",
+        "tombées",
+        "tombé"
+      ],
+      "answer": 3,
+      "explanation": "With être, the past participle agrees with the subject: add -e for feminine, -s for plural, -es for feminine plural. Here: tombé.",
+      "textId": null
+    },
+    {
+      "id": "b1-pp_agreement-009",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pp_agreement",
+      "question": "Elles sont ___ à la maison.",
+      "options": [
+        "restées",
+        "resté",
+        "restés",
+        "restée"
+      ],
+      "answer": 0,
+      "explanation": "With être, the past participle agrees with the subject: add -e for feminine, -s for plural, -es for feminine plural. Here: restées.",
+      "textId": null
+    },
+    {
+      "id": "b1-pp_agreement-010",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pp_agreement",
+      "question": "Vous êtes ___ à quelle heure, madame ?",
+      "options": [
+        "arrivé",
+        "arrivée",
+        "arrivés",
+        "arrivées"
+      ],
+      "answer": 1,
+      "explanation": "Vous for one woman: the participle is feminine singular, arrivée.",
+      "textId": null
+    },
+    {
+      "id": "b1-pp_agreement-011",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pp_agreement",
+      "question": "Tu es ___ où, Julie ?",
+      "options": [
+        "allé",
+        "allés",
+        "allée",
+        "allées"
+      ],
+      "answer": 2,
+      "explanation": "With être, the past participle agrees with the subject: add -e for feminine, -s for plural, -es for feminine plural. Here: allée.",
+      "textId": null
+    },
+    {
+      "id": "b1-pp_agreement-012",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pp_agreement",
+      "question": "Mes parents sont ___ au Canada en 1998.",
+      "options": [
+        "arrivé",
+        "arrivée",
+        "arrivées",
+        "arrivés"
+      ],
+      "answer": 3,
+      "explanation": "With être, the past participle agrees with the subject: add -e for feminine, -s for plural, -es for feminine plural. Here: arrivés.",
+      "textId": null
+    },
+    {
+      "id": "b1-pp_agreement-013",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pp_agreement",
+      "question": "Léa et Paul sont ___ ensemble.",
+      "options": [
+        "partis",
+        "parti",
+        "parties",
+        "partie"
+      ],
+      "answer": 0,
+      "explanation": "A mixed group is masculine plural: partis.",
+      "textId": null
+    },
+    {
+      "id": "b1-pp_agreement-014",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pp_agreement",
+      "question": "La lettre est ___ ce matin.",
+      "options": [
+        "arrivé",
+        "arrivée",
+        "arrivés",
+        "arrivées"
+      ],
+      "answer": 1,
+      "explanation": "With être, the past participle agrees with the subject: add -e for feminine, -s for plural, -es for feminine plural. Here: arrivée.",
+      "textId": null
+    },
+    {
+      "id": "b1-pp_agreement-015",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pp_agreement",
+      "question": "Elle a ___ toute la soirée.",
+      "options": [
+        "dansée",
+        "dansés",
+        "dansé",
+        "dansées"
+      ],
+      "answer": 2,
+      "explanation": "With avoir, the past participle does not agree with the subject. Here: dansé.",
+      "textId": null
+    },
+    {
+      "id": "b1-pp_agreement-016",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pp_agreement",
+      "question": "Elles ont ___ une pizza.",
+      "options": [
+        "mangée",
+        "mangés",
+        "mangées",
+        "mangé"
+      ],
+      "answer": 3,
+      "explanation": "With avoir, when the direct object comes after the verb, the past participle does not change. Here: mangé.",
+      "textId": null
+    },
+    {
+      "id": "b1-pp_agreement-017",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pp_agreement",
+      "question": "Nous avons ___ nos amis au café.",
+      "options": [
+        "retrouvé",
+        "retrouvés",
+        "retrouvée",
+        "retrouvées"
+      ],
+      "answer": 0,
+      "explanation": "With avoir, when the direct object comes after the verb, the past participle does not change. Here: retrouvé.",
+      "textId": null
+    },
+    {
+      "id": "b1-pp_agreement-018",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pp_agreement",
+      "question": "Marie a ___ ses clés.",
+      "options": [
+        "perdue",
+        "perdu",
+        "perdus",
+        "perdues"
+      ],
+      "answer": 1,
+      "explanation": "With avoir, when the direct object comes after the verb, the past participle does not change. Here: perdu.",
+      "textId": null
+    },
+    {
+      "id": "b1-pp_agreement-019",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pp_agreement",
+      "question": "Ils ont ___ la télévision.",
+      "options": [
+        "regardée",
+        "regardés",
+        "regardé",
+        "regardées"
+      ],
+      "answer": 2,
+      "explanation": "With avoir, when the direct object comes after the verb, the past participle does not change. Here: regardé.",
+      "textId": null
+    },
+    {
+      "id": "b1-pp_agreement-020",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pp_agreement",
+      "question": "Mes sœurs ont ___ à Lyon pendant deux ans.",
+      "options": [
+        "habitée",
+        "habités",
+        "habitées",
+        "habité"
+      ],
+      "answer": 3,
+      "explanation": "With avoir, the past participle does not agree with the subject. Here: habité.",
+      "textId": null
+    },
+    {
+      "id": "b1-pp_agreement-021",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pp_agreement",
+      "question": "Elle a ___ trois langues à l’école.",
+      "options": [
+        "appris",
+        "apprise",
+        "apprises",
+        "apprisent"
+      ],
+      "answer": 0,
+      "explanation": "With avoir, when the direct object comes after the verb, the past participle does not change. Here: appris.",
+      "textId": null
+    },
+    {
+      "id": "b1-pp_agreement-022",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pp_agreement",
+      "question": "Les enfants ont bien ___.",
+      "options": [
+        "dormis",
+        "dormi",
+        "dormie",
+        "dormies"
+      ],
+      "answer": 1,
+      "explanation": "With avoir, the past participle does not agree with the subject. Here: dormi.",
+      "textId": null
+    },
+    {
+      "id": "b1-pp_agreement-023",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pp_agreement",
+      "question": "J’ai ___ des fleurs pour ma mère.",
+      "options": [
+        "achetés",
+        "achetée",
+        "acheté",
+        "achetées"
+      ],
+      "answer": 2,
+      "explanation": "With avoir, when the direct object comes after the verb, the past participle does not change. Here: acheté.",
+      "textId": null
+    },
+    {
+      "id": "b1-pp_agreement-024",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pp_agreement",
+      "question": "Elle a ___ la porte.",
+      "options": [
+        "fermée",
+        "fermés",
+        "fermées",
+        "fermé"
+      ],
+      "answer": 3,
+      "explanation": "With avoir, when the direct object comes after the verb, the past participle does not change. Here: fermé.",
+      "textId": null
+    },
+    {
+      "id": "b1-pp_agreement-025",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pp_agreement",
+      "question": "Cette robe, je l’ai ___ hier.",
+      "options": [
+        "achetée",
+        "acheté",
+        "achetés",
+        "achetées"
+      ],
+      "answer": 0,
+      "explanation": "With avoir, the past participle agrees with the direct object only when that object comes before the verb (la, les, que, quelle…). Here: achetée.",
+      "textId": null
+    },
+    {
+      "id": "b1-pp_agreement-026",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pp_agreement",
+      "question": "Mes clés ? Je les ai ___.",
+      "options": [
+        "perdu",
+        "perdues",
+        "perdus",
+        "perdue"
+      ],
+      "answer": 1,
+      "explanation": "With avoir, the past participle agrees with the direct object only when that object comes before the verb (la, les, que, quelle…). Here: perdues.",
+      "textId": null
+    },
+    {
+      "id": "b1-pp_agreement-027",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pp_agreement",
+      "question": "Ton frère ? Je l’ai ___ ce matin.",
+      "options": [
+        "vue",
+        "vus",
+        "vu",
+        "vues"
+      ],
+      "answer": 2,
+      "explanation": "With avoir, the past participle agrees with the direct object only when that object comes before the verb (la, les, que, quelle…). Here: vu.",
+      "textId": null
+    },
+    {
+      "id": "b1-pp_agreement-028",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pp_agreement",
+      "question": "Les photos que tu as ___ sont magnifiques.",
+      "options": [
+        "pris",
+        "prise",
+        "prit",
+        "prises"
+      ],
+      "answer": 3,
+      "explanation": "With avoir, the past participle agrees with the direct object only when that object comes before the verb (la, les, que, quelle…). Here: prises.",
+      "textId": null
+    },
+    {
+      "id": "b1-pp_agreement-029",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pp_agreement",
+      "question": "La lettre que j’ai ___ est sur la table.",
+      "options": [
+        "écrite",
+        "écrit",
+        "écrits",
+        "écrites"
+      ],
+      "answer": 0,
+      "explanation": "With avoir, the past participle agrees with the direct object only when that object comes before the verb (la, les, que, quelle…). Here: écrite.",
+      "textId": null
+    },
+    {
+      "id": "b1-pp_agreement-030",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pp_agreement",
+      "question": "Les livres que j’ai ___ étaient passionnants.",
+      "options": [
+        "lu",
+        "lus",
+        "lue",
+        "lues"
+      ],
+      "answer": 1,
+      "explanation": "With avoir, the past participle agrees with the direct object only when that object comes before the verb (la, les, que, quelle…). Here: lus.",
+      "textId": null
+    },
+    {
+      "id": "b1-pp_agreement-031",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pp_agreement",
+      "question": "Voici la tarte que j’ai ___.",
+      "options": [
+        "fait",
+        "faits",
+        "faite",
+        "faites"
+      ],
+      "answer": 2,
+      "explanation": "With avoir, the past participle agrees with the direct object only when that object comes before the verb (la, les, que, quelle…). Here: faite.",
+      "textId": null
+    },
+    {
+      "id": "b1-pp_agreement-032",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pp_agreement",
+      "question": "Ces chaussures, où les as-tu ___ ?",
+      "options": [
+        "trouvé",
+        "trouvés",
+        "trouvée",
+        "trouvées"
+      ],
+      "answer": 3,
+      "explanation": "With avoir, the past participle agrees with the direct object only when that object comes before the verb (la, les, que, quelle…). Here: trouvées.",
+      "textId": null
+    },
+    {
+      "id": "b1-pp_agreement-033",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pp_agreement",
+      "question": "La voiture qu’il a ___ est rouge.",
+      "options": [
+        "choisie",
+        "choisi",
+        "choisis",
+        "choisies"
+      ],
+      "answer": 0,
+      "explanation": "With avoir, the past participle agrees with the direct object only when that object comes before the verb (la, les, que, quelle…). Here: choisie.",
+      "textId": null
+    },
+    {
+      "id": "b1-pp_agreement-034",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pp_agreement",
+      "question": "Les erreurs qu’elle a ___ sont graves.",
+      "options": [
+        "commis",
+        "commises",
+        "commise",
+        "commit"
+      ],
+      "answer": 1,
+      "explanation": "With avoir, the past participle agrees with the direct object only when that object comes before the verb (la, les, que, quelle…). Here: commises.",
+      "textId": null
+    },
+    {
+      "id": "b1-pp_agreement-035",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pp_agreement",
+      "question": "Sa valise ? Il l’a ___ dans le train.",
+      "options": [
+        "oublié",
+        "oubliés",
+        "oubliée",
+        "oubliées"
+      ],
+      "answer": 2,
+      "explanation": "With avoir, the past participle agrees with the direct object only when that object comes before the verb (la, les, que, quelle…). Here: oubliée.",
+      "textId": null
+    },
+    {
+      "id": "b1-pp_agreement-036",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pp_agreement",
+      "question": "Tes parents ? Je les ai ___ au marché.",
+      "options": [
+        "rencontré",
+        "rencontrée",
+        "rencontrées",
+        "rencontrés"
+      ],
+      "answer": 3,
+      "explanation": "With avoir, the past participle agrees with the direct object only when that object comes before the verb (la, les, que, quelle…). Here: rencontrés.",
+      "textId": null
+    },
+    {
+      "id": "b1-pp_agreement-037",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pp_agreement",
+      "question": "Marie ? Je l’ai ___ hier.",
+      "options": [
+        "appelée",
+        "appelé",
+        "appelés",
+        "appelées"
+      ],
+      "answer": 0,
+      "explanation": "With avoir, the past participle agrees with the direct object only when that object comes before the verb (la, les, que, quelle…). Here: appelée.",
+      "textId": null
+    },
+    {
+      "id": "b1-pp_agreement-038",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pp_agreement",
+      "question": "Les exercices ? Nous les avons ___.",
+      "options": [
+        "fini",
+        "finis",
+        "finie",
+        "finies"
+      ],
+      "answer": 1,
+      "explanation": "With avoir, the past participle agrees with the direct object only when that object comes before the verb (la, les, que, quelle…). Here: finis.",
+      "textId": null
+    },
+    {
+      "id": "b1-pp_agreement-039",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pp_agreement",
+      "question": "Quelle robe as-tu ___ ?",
+      "options": [
+        "mis",
+        "mises",
+        "mise",
+        "mit"
+      ],
+      "answer": 2,
+      "explanation": "With avoir, the past participle agrees with the direct object only when that object comes before the verb (la, les, que, quelle…). Here: mise.",
+      "textId": null
+    },
+    {
+      "id": "b1-pp_agreement-040",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pp_agreement",
+      "question": "Quels films avez-vous ___ ?",
+      "options": [
+        "vu",
+        "vue",
+        "vues",
+        "vus"
+      ],
+      "answer": 3,
+      "explanation": "With avoir, the past participle agrees with the direct object only when that object comes before the verb (la, les, que, quelle…). Here: vus.",
+      "textId": null
+    },
+    {
+      "id": "b1-pp_agreement-041",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pp_agreement",
+      "question": "Quelles chansons a-t-elle ___ ?",
+      "options": [
+        "chantées",
+        "chanté",
+        "chantés",
+        "chantée"
+      ],
+      "answer": 0,
+      "explanation": "With avoir, the past participle agrees with the direct object only when that object comes before the verb (la, les, que, quelle…). Here: chantées.",
+      "textId": null
+    },
+    {
+      "id": "b1-pp_agreement-042",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pp_agreement",
+      "question": "Combien de pages as-tu ___ ?",
+      "options": [
+        "lu",
+        "lues",
+        "lus",
+        "lue"
+      ],
+      "answer": 1,
+      "explanation": "With avoir, the past participle agrees with the direct object only when that object comes before the verb (la, les, que, quelle…). Here: lues.",
+      "textId": null
+    },
+    {
+      "id": "b1-pp_agreement-043",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pp_agreement",
+      "question": "La décision qu’ils ont ___ est difficile.",
+      "options": [
+        "pris",
+        "prises",
+        "prise",
+        "prit"
+      ],
+      "answer": 2,
+      "explanation": "With avoir, the past participle agrees with the direct object only when that object comes before the verb (la, les, que, quelle…). Here: prise.",
+      "textId": null
+    },
+    {
+      "id": "b1-pp_agreement-044",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pp_agreement",
+      "question": "Il m’a ___, dit Julie.",
+      "options": [
+        "vu",
+        "vus",
+        "vues",
+        "vue"
+      ],
+      "answer": 3,
+      "explanation": "Me refers to Julie and is the direct object before the verb, so the participle is feminine: vue.",
+      "textId": null
+    },
+    {
+      "id": "b1-pp_agreement-045",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pp_agreement",
+      "question": "Il nous a ___ à la fête, dit Anne à sa sœur.",
+      "options": [
+        "invitées",
+        "invité",
+        "invités",
+        "invitée"
+      ],
+      "answer": 0,
+      "explanation": "Nous refers to two women and is the direct object before the verb: invitées.",
+      "textId": null
+    },
+    {
+      "id": "b1-pp_agreement-046",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pp_agreement",
+      "question": "Des pommes ? J’en ai ___ trois.",
+      "options": [
+        "mangées",
+        "mangé",
+        "mangés",
+        "mangée"
+      ],
+      "answer": 1,
+      "explanation": "The past participle never agrees with en. Here: mangé.",
+      "textId": null
+    },
+    {
+      "id": "b1-pp_agreement-047",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pp_agreement",
+      "question": "Des films français ? J’en ai ___ beaucoup.",
+      "options": [
+        "vus",
+        "vue",
+        "vu",
+        "vues"
+      ],
+      "answer": 2,
+      "explanation": "The past participle never agrees with en. Here: vu.",
+      "textId": null
+    },
+    {
+      "id": "b1-pp_agreement-048",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pp_agreement",
+      "question": "De la soupe ? Elle en a ___.",
+      "options": [
+        "préparée",
+        "préparés",
+        "préparées",
+        "préparé"
+      ],
+      "answer": 3,
+      "explanation": "The past participle never agrees with en. Here: préparé.",
+      "textId": null
+    },
+    {
+      "id": "b1-pp_agreement-049",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pp_agreement",
+      "question": "Des erreurs ? Il en a ___ plusieurs.",
+      "options": [
+        "fait",
+        "faites",
+        "faits",
+        "faite"
+      ],
+      "answer": 0,
+      "explanation": "The past participle never agrees with en. Here: fait.",
+      "textId": null
+    },
+    {
+      "id": "b1-pp_agreement-050",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pp_agreement",
+      "question": "Marie ? Je lui ai ___ hier.",
+      "options": [
+        "téléphonée",
+        "téléphoné",
+        "téléphonés",
+        "téléphonées"
+      ],
+      "answer": 1,
+      "explanation": "Lui, leur, me, te, nous, vous used as indirect objects (à + person) never cause agreement. Here: téléphoné.",
+      "textId": null
+    },
+    {
+      "id": "b1-pp_agreement-051",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pp_agreement",
+      "question": "Mes parents ? Je leur ai ___ une lettre.",
+      "options": [
+        "écrits",
+        "écrite",
+        "écrit",
+        "écrites"
+      ],
+      "answer": 2,
+      "explanation": "Lui, leur, me, te, nous, vous used as indirect objects (à + person) never cause agreement. Here: écrit.",
+      "textId": null
+    },
+    {
+      "id": "b1-pp_agreement-052",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pp_agreement",
+      "question": "Elle nous a ___ de la situation.",
+      "options": [
+        "parlés",
+        "parlée",
+        "parlées",
+        "parlé"
+      ],
+      "answer": 3,
+      "explanation": "Lui, leur, me, te, nous, vous used as indirect objects (à + person) never cause agreement. Here: parlé.",
+      "textId": null
+    },
+    {
+      "id": "b1-pp_agreement-053",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pp_agreement",
+      "question": "Les enfants ? Je leur ai ___ la vérité.",
+      "options": [
+        "dit",
+        "dits",
+        "dite",
+        "dites"
+      ],
+      "answer": 0,
+      "explanation": "Lui, leur, me, te, nous, vous used as indirect objects (à + person) never cause agreement. Here: dit.",
+      "textId": null
+    },
+    {
+      "id": "b1-pp_agreement-054",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pp_agreement",
+      "question": "Sophie ? Paul lui a ___ des fleurs.",
+      "options": [
+        "offerte",
+        "offert",
+        "offerts",
+        "offertes"
+      ],
+      "answer": 1,
+      "explanation": "Lui, leur, me, te, nous, vous used as indirect objects (à + person) never cause agreement. Here: offert.",
+      "textId": null
+    },
+    {
+      "id": "b1-pp_agreement-055",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pp_agreement",
+      "question": "Elle s’est ___ à sept heures.",
+      "options": [
+        "levé",
+        "levés",
+        "levée",
+        "levées"
+      ],
+      "answer": 2,
+      "explanation": "With a reflexive verb, the past participle agrees with the subject when the reflexive pronoun is the direct object. Here: levée.",
+      "textId": null
+    },
+    {
+      "id": "b1-pp_agreement-056",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pp_agreement",
+      "question": "Ils se sont ___ dans la forêt.",
+      "options": [
+        "perdu",
+        "perdue",
+        "perdues",
+        "perdus"
+      ],
+      "answer": 3,
+      "explanation": "With a reflexive verb, the past participle agrees with the subject when the reflexive pronoun is the direct object. Here: perdus.",
+      "textId": null
+    },
+    {
+      "id": "b1-pp_agreement-057",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pp_agreement",
+      "question": "Nous nous sommes ___ très tôt, dit Anne à sa sœur.",
+      "options": [
+        "réveillées",
+        "réveillé",
+        "réveillés",
+        "réveillée"
+      ],
+      "answer": 0,
+      "explanation": "With a reflexive verb, the past participle agrees with the subject when the reflexive pronoun is the direct object. Here: réveillées.",
+      "textId": null
+    },
+    {
+      "id": "b1-pp_agreement-058",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pp_agreement",
+      "question": "Marie s’est ___ sur le canapé.",
+      "options": [
+        "endormi",
+        "endormie",
+        "endormis",
+        "endormies"
+      ],
+      "answer": 1,
+      "explanation": "With a reflexive verb, the past participle agrees with the subject when the reflexive pronoun is the direct object. Here: endormie.",
+      "textId": null
+    },
+    {
+      "id": "b1-pp_agreement-059",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pp_agreement",
+      "question": "Les enfants se sont bien ___.",
+      "options": [
+        "amusé",
+        "amusée",
+        "amusés",
+        "amusées"
+      ],
+      "answer": 2,
+      "explanation": "With a reflexive verb, the past participle agrees with the subject when the reflexive pronoun is the direct object. Here: amusés.",
+      "textId": null
+    },
+    {
+      "id": "b1-pp_agreement-060",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pp_agreement",
+      "question": "Elles se sont ___ au restaurant.",
+      "options": [
+        "retrouvé",
+        "retrouvés",
+        "retrouvée",
+        "retrouvées"
+      ],
+      "answer": 3,
+      "explanation": "With a reflexive verb, the past participle agrees with the subject when the reflexive pronoun is the direct object. Here: retrouvées.",
+      "textId": null
+    },
+    {
+      "id": "b1-pp_agreement-061",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pp_agreement",
+      "question": "Elle s’est ___ pour la soirée.",
+      "options": [
+        "habillée",
+        "habillé",
+        "habillés",
+        "habillées"
+      ],
+      "answer": 0,
+      "explanation": "With a reflexive verb, the past participle agrees with the subject when the reflexive pronoun is the direct object. Here: habillée.",
+      "textId": null
+    },
+    {
+      "id": "b1-pp_agreement-062",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pp_agreement",
+      "question": "Ils se sont ___ en 2010.",
+      "options": [
+        "marié",
+        "mariés",
+        "mariée",
+        "mariées"
+      ],
+      "answer": 1,
+      "explanation": "With a reflexive verb, the past participle agrees with the subject when the reflexive pronoun is the direct object. Here: mariés.",
+      "textId": null
+    },
+    {
+      "id": "b1-pp_agreement-063",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pp_agreement",
+      "question": "Elle s’est ___ les mains.",
+      "options": [
+        "lavée",
+        "lavés",
+        "lavé",
+        "lavées"
+      ],
+      "answer": 2,
+      "explanation": "When a reflexive verb is followed by a direct object (se laver les mains, se brosser les dents), the past participle does not agree. Here: lavé.",
+      "textId": null
+    },
+    {
+      "id": "b1-pp_agreement-064",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pp_agreement",
+      "question": "Elle s’est ___.",
+      "options": [
+        "lavé",
+        "lavés",
+        "lavées",
+        "lavée"
+      ],
+      "answer": 3,
+      "explanation": "With a reflexive verb, the past participle agrees with the subject when the reflexive pronoun is the direct object. Here: lavée.",
+      "textId": null
+    },
+    {
+      "id": "b1-pp_agreement-065",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pp_agreement",
+      "question": "Ils se sont ___ les dents.",
+      "options": [
+        "brossé",
+        "brossés",
+        "brossée",
+        "brossées"
+      ],
+      "answer": 0,
+      "explanation": "When a reflexive verb is followed by a direct object (se laver les mains, se brosser les dents), the past participle does not agree. Here: brossé.",
+      "textId": null
+    },
+    {
+      "id": "b1-pp_agreement-066",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pp_agreement",
+      "question": "Marie s’est ___ la jambe.",
+      "options": [
+        "cassée",
+        "cassé",
+        "cassés",
+        "cassées"
+      ],
+      "answer": 1,
+      "explanation": "When a reflexive verb is followed by a direct object (se laver les mains, se brosser les dents), the past participle does not agree. Here: cassé.",
+      "textId": null
+    },
+    {
+      "id": "b1-pp_agreement-067",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pp_agreement",
+      "question": "Elle s’est ___ les cheveux.",
+      "options": [
+        "coupée",
+        "coupés",
+        "coupé",
+        "coupées"
+      ],
+      "answer": 2,
+      "explanation": "When a reflexive verb is followed by a direct object (se laver les mains, se brosser les dents), the past participle does not agree. Here: coupé.",
+      "textId": null
+    },
+    {
+      "id": "b1-pp_agreement-068",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pp_agreement",
+      "question": "Elle s’est ___ en cuisinant.",
+      "options": [
+        "coupé",
+        "coupés",
+        "coupées",
+        "coupée"
+      ],
+      "answer": 3,
+      "explanation": "With a reflexive verb, the past participle agrees with the subject when the reflexive pronoun is the direct object. Here: coupée.",
+      "textId": null
+    },
+    {
+      "id": "b1-pp_agreement-069",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pp_agreement",
+      "question": "Ils se sont ___ pendant une heure.",
+      "options": [
+        "parlé",
+        "parlés",
+        "parlée",
+        "parlées"
+      ],
+      "answer": 0,
+      "explanation": "With verbs built with à + person (se parler, se téléphoner, s’écrire, se dire, se sourire), the reflexive pronoun is indirect, so there is no agreement. Here: parlé.",
+      "textId": null
+    },
+    {
+      "id": "b1-pp_agreement-070",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pp_agreement",
+      "question": "Elles se sont ___ tous les jours.",
+      "options": [
+        "téléphonées",
+        "téléphoné",
+        "téléphonés",
+        "téléphonée"
+      ],
+      "answer": 1,
+      "explanation": "With verbs built with à + person (se parler, se téléphoner, s’écrire, se dire, se sourire), the reflexive pronoun is indirect, so there is no agreement. Here: téléphoné.",
+      "textId": null
+    },
+    {
+      "id": "b1-pp_agreement-071",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pp_agreement",
+      "question": "Ils se sont ___ beaucoup de lettres.",
+      "options": [
+        "écrits",
+        "écrite",
+        "écrit",
+        "écrites"
+      ],
+      "answer": 2,
+      "explanation": "With verbs built with à + person (se parler, se téléphoner, s’écrire, se dire, se sourire), the reflexive pronoun is indirect, so there is no agreement. Here: écrit.",
+      "textId": null
+    },
+    {
+      "id": "b1-pp_agreement-072",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pp_agreement",
+      "question": "Elles se sont ___ au revoir.",
+      "options": [
+        "dites",
+        "dits",
+        "dite",
+        "dit"
+      ],
+      "answer": 3,
+      "explanation": "With verbs built with à + person (se parler, se téléphoner, s’écrire, se dire, se sourire), the reflexive pronoun is indirect, so there is no agreement. Here: dit.",
+      "textId": null
+    },
+    {
+      "id": "b1-pp_agreement-073",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pp_agreement",
+      "question": "Ils se sont ___ en se voyant.",
+      "options": [
+        "souri",
+        "souris",
+        "sourie",
+        "souries"
+      ],
+      "answer": 0,
+      "explanation": "With verbs built with à + person (se parler, se téléphoner, s’écrire, se dire, se sourire), the reflexive pronoun is indirect, so there is no agreement. Here: souri.",
+      "textId": null
+    },
+    {
+      "id": "b1-pp_agreement-074",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pp_agreement",
+      "question": "Ils se sont ___ dans un café.",
+      "options": [
+        "rencontré",
+        "rencontrés",
+        "rencontrée",
+        "rencontrées"
+      ],
+      "answer": 1,
+      "explanation": "With a reflexive verb, the past participle agrees with the subject when the reflexive pronoun is the direct object. Here: rencontrés.",
+      "textId": null
+    },
+    {
+      "id": "b1-pp_agreement-075",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pp_agreement",
+      "question": "Elles se sont ___ pendant des années.",
+      "options": [
+        "détesté",
+        "détestés",
+        "détestées",
+        "détestée"
+      ],
+      "answer": 2,
+      "explanation": "With a reflexive verb, the past participle agrees with the subject when the reflexive pronoun is the direct object. Here: détestées.",
+      "textId": null
+    },
+    {
+      "id": "b1-pp_agreement-076",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pp_agreement",
+      "question": "On est ___ au cinéma hier soir, mes amis et moi.",
+      "options": [
+        "allé",
+        "allée",
+        "allez",
+        "allés"
+      ],
+      "answer": 3,
+      "explanation": "When on means \"we\", the past participle with être usually agrees in the plural: on est partis.",
+      "textId": null
+    },
+    {
+      "id": "b1-pp_agreement-077",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pp_agreement",
+      "question": "Mes amies et moi, on est ___ très tard, dit Julie.",
+      "options": [
+        "rentrées",
+        "rentré",
+        "rentrés",
+        "rentrée"
+      ],
+      "answer": 0,
+      "explanation": "When on means \"we\", the past participle with être usually agrees in the plural: on est partis.",
+      "textId": null
+    },
+    {
+      "id": "b1-pp_agreement-078",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pp_agreement",
+      "question": "Elle a ___ les escaliers en courant.",
+      "options": [
+        "montée",
+        "monté",
+        "montés",
+        "montées"
+      ],
+      "answer": 1,
+      "explanation": "Monter with a direct object takes avoir, and the object comes after the verb, so there is no agreement: monté.",
+      "textId": null
+    },
+    {
+      "id": "b1-pp_agreement-079",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pp_agreement",
+      "question": "Elle est ___ dans sa chambre.",
+      "options": [
+        "monté",
+        "montés",
+        "montée",
+        "montées"
+      ],
+      "answer": 2,
+      "explanation": "With être, the past participle agrees with the subject: add -e for feminine, -s for plural, -es for feminine plural. Here: montée.",
+      "textId": null
+    },
+    {
+      "id": "b1-pp_agreement-080",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pp_agreement",
+      "question": "Elle a ___ la poubelle.",
+      "options": [
+        "sortie",
+        "sortis",
+        "sorties",
+        "sorti"
+      ],
+      "answer": 3,
+      "explanation": "Sortir with a direct object takes avoir, and the object comes after the verb, so there is no agreement: sorti.",
+      "textId": null
+    }
+  ]
+}

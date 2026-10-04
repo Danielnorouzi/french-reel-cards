@@ -1,0 +1,485 @@
+{
+  "texts": [],
+  "questions": [
+    {
+      "id": "b1-conditionnel_present-051",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "conditionnel_present",
+      "question": "Complète au conditionnel présent : Je ___ un café, s’il vous plaît.",
+      "options": [
+        "voudrais",
+        "veux",
+        "voudrai",
+        "voulais"
+      ],
+      "answer": 0,
+      "explanation": "The conditional makes a request or a wish polite: je voudrais, j’aimerais, pourriez-vous. Here: voudrais.",
+      "textId": null
+    },
+    {
+      "id": "b1-conditionnel_present-052",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "conditionnel_present",
+      "question": "Complète au conditionnel présent : ___-vous m’aider, s’il vous plaît ?",
+      "options": [
+        "Pouvez",
+        "Pourriez",
+        "Pourrez",
+        "Pouviez"
+      ],
+      "answer": 1,
+      "explanation": "The conditional makes a request or a wish polite: je voudrais, j’aimerais, pourriez-vous. Here: Pourriez.",
+      "textId": null
+    },
+    {
+      "id": "b1-conditionnel_present-053",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "conditionnel_present",
+      "question": "Complète au conditionnel présent : J’___ réserver une table pour deux.",
+      "options": [
+        "aime",
+        "aimerai",
+        "aimerais",
+        "aimais"
+      ],
+      "answer": 2,
+      "explanation": "The conditional makes a request or a wish polite: je voudrais, j’aimerais, pourriez-vous. Here: aimerais.",
+      "textId": null
+    },
+    {
+      "id": "b1-conditionnel_present-054",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "conditionnel_present",
+      "question": "Complète au conditionnel présent : ___-tu la gentillesse de fermer la porte ?",
+      "options": [
+        "As",
+        "Auras",
+        "Avais",
+        "Aurais"
+      ],
+      "answer": 3,
+      "explanation": "The conditional makes a request or a wish polite: je voudrais, j’aimerais, pourriez-vous. Here: Aurais.",
+      "textId": null
+    },
+    {
+      "id": "b1-conditionnel_present-055",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "conditionnel_present",
+      "question": "Complète au conditionnel présent : Est-ce que je ___ parler à madame Martin ?",
+      "options": [
+        "pourrais",
+        "peux",
+        "pourrai",
+        "pouvais"
+      ],
+      "answer": 0,
+      "explanation": "The conditional makes a request or a wish polite: je voudrais, j’aimerais, pourriez-vous. Here: pourrais.",
+      "textId": null
+    },
+    {
+      "id": "b1-conditionnel_present-056",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "conditionnel_present",
+      "question": "Complète au conditionnel présent : Nous ___ voir le directeur.",
+      "options": [
+        "souhaitons",
+        "souhaiterions",
+        "souhaiterons",
+        "souhaitions"
+      ],
+      "answer": 1,
+      "explanation": "The conditional makes a request or a wish polite: je voudrais, j’aimerais, pourriez-vous. Here: souhaiterions.",
+      "textId": null
+    },
+    {
+      "id": "b1-conditionnel_present-057",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "conditionnel_present",
+      "question": "Complète au conditionnel présent : Tu ___ te reposer un peu.",
+      "options": [
+        "dois",
+        "devras",
+        "devrais",
+        "devais"
+      ],
+      "answer": 2,
+      "explanation": "Devoir in the conditional gives advice (should): tu devrais. Pouvoir in the conditional makes a suggestion (could): on pourrait. Here: devrais.",
+      "textId": null
+    },
+    {
+      "id": "b1-conditionnel_present-058",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "conditionnel_present",
+      "question": "Complète au conditionnel présent : Vous ___ consulter un médecin.",
+      "options": [
+        "devez",
+        "devrez",
+        "deviez",
+        "devriez"
+      ],
+      "answer": 3,
+      "explanation": "Devoir in the conditional gives advice (should): tu devrais. Pouvoir in the conditional makes a suggestion (could): on pourrait. Here: devriez.",
+      "textId": null
+    },
+    {
+      "id": "b1-conditionnel_present-059",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "conditionnel_present",
+      "question": "Complète au conditionnel présent : On ___ aller au cinéma ce soir, non ?",
+      "options": [
+        "pourrait",
+        "peut",
+        "pourra",
+        "pouvait"
+      ],
+      "answer": 0,
+      "explanation": "Devoir in the conditional gives advice (should): tu devrais. Pouvoir in the conditional makes a suggestion (could): on pourrait. Here: pourrait.",
+      "textId": null
+    },
+    {
+      "id": "b1-conditionnel_present-060",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "conditionnel_present",
+      "question": "Complète au conditionnel présent : À ta place, je ___ la vérité.",
+      "options": [
+        "dis",
+        "dirais",
+        "dirai",
+        "disais"
+      ],
+      "answer": 1,
+      "explanation": "À ta place (if I were you) introduces advice in the conditional: je dirais.",
+      "textId": null
+    },
+    {
+      "id": "b1-conditionnel_present-061",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "conditionnel_present",
+      "question": "Complète au conditionnel présent : À votre place, j’___ ce travail.",
+      "options": [
+        "accepte",
+        "accepterai",
+        "accepterais",
+        "acceptais"
+      ],
+      "answer": 2,
+      "explanation": "À votre place (if I were you) introduces advice in the conditional: j’accepterais.",
+      "textId": null
+    },
+    {
+      "id": "b1-conditionnel_present-062",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "conditionnel_present",
+      "question": "Complète au conditionnel présent : Il ___ faire attention.",
+      "options": [
+        "faut",
+        "faudra",
+        "fallait",
+        "faudrait"
+      ],
+      "answer": 3,
+      "explanation": "Il faudrait = one should, we ought to. It is the conditional of falloir.",
+      "textId": null
+    },
+    {
+      "id": "b1-conditionnel_present-063",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "conditionnel_present",
+      "question": "Complète au conditionnel présent : Tu ___ mieux de partir maintenant.",
+      "options": [
+        "ferais",
+        "fais",
+        "feras",
+        "faisais"
+      ],
+      "answer": 0,
+      "explanation": "Tu ferais mieux de + infinitive = you had better.",
+      "textId": null
+    },
+    {
+      "id": "b1-conditionnel_present-064",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "conditionnel_present",
+      "question": "Complète au conditionnel présent : Ce ___ génial de partir ensemble !",
+      "options": [
+        "est",
+        "serait",
+        "sera",
+        "était"
+      ],
+      "answer": 1,
+      "explanation": "The conditional expresses a wish or an imagined situation: j’aimerais, ce serait, ça me plairait. Here: serait.",
+      "textId": null
+    },
+    {
+      "id": "b1-conditionnel_present-065",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "conditionnel_present",
+      "question": "Complète au conditionnel présent : J’___ avoir plus de temps libre.",
+      "options": [
+        "aime",
+        "aimerai",
+        "aimerais",
+        "aimais"
+      ],
+      "answer": 2,
+      "explanation": "The conditional expresses a wish or an imagined situation: j’aimerais, ce serait, ça me plairait. Here: aimerais.",
+      "textId": null
+    },
+    {
+      "id": "b1-conditionnel_present-066",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "conditionnel_present",
+      "question": "Complète au conditionnel présent : Ça me ___ de vivre au bord de la mer.",
+      "options": [
+        "plaît",
+        "plaira",
+        "plaisait",
+        "plairait"
+      ],
+      "answer": 3,
+      "explanation": "The conditional expresses a wish or an imagined situation: j’aimerais, ce serait, ça me plairait. Here: plairait.",
+      "textId": null
+    },
+    {
+      "id": "b1-conditionnel_present-067",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "conditionnel_present",
+      "question": "Complète au conditionnel présent : Nous ___ heureux de vous recevoir.",
+      "options": [
+        "serions",
+        "sommes",
+        "serons",
+        "étions"
+      ],
+      "answer": 0,
+      "explanation": "The conditional expresses a wish or an imagined situation: j’aimerais, ce serait, ça me plairait. Here: serions.",
+      "textId": null
+    },
+    {
+      "id": "b1-conditionnel_present-068",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "conditionnel_present",
+      "question": "Complète au conditionnel présent : Elle ___ un monde sans guerre.",
+      "options": [
+        "veut",
+        "voudrait",
+        "voudra",
+        "voulait"
+      ],
+      "answer": 1,
+      "explanation": "The conditional expresses a wish or an imagined situation: j’aimerais, ce serait, ça me plairait. Here: voudrait.",
+      "textId": null
+    },
+    {
+      "id": "b1-conditionnel_present-069",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "conditionnel_present",
+      "question": "Complète au conditionnel présent : Avec plus d’argent, j’___ une maison.",
+      "options": [
+        "achète",
+        "achèterai",
+        "achèterais",
+        "achetais"
+      ],
+      "answer": 2,
+      "explanation": "The conditional uses the same stem as the futur simple, with the imparfait endings -ais, -ais, -ait, -ions, -iez, -aient. Here: achèterais.",
+      "textId": null
+    },
+    {
+      "id": "b1-conditionnel_present-070",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "conditionnel_present",
+      "question": "Complète au conditionnel présent : Sans toi, je ne ___ pas quoi faire.",
+      "options": [
+        "sais",
+        "saurai",
+        "savais",
+        "saurais"
+      ],
+      "answer": 3,
+      "explanation": "The conditional uses the same stem as the futur simple, with the imparfait endings -ais, -ais, -ait, -ions, -iez, -aient. Here: saurais.",
+      "textId": null
+    },
+    {
+      "id": "b1-conditionnel_present-071",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "conditionnel_present",
+      "question": "Complète au conditionnel présent : Dans un monde idéal, tout le monde ___ un logement.",
+      "options": [
+        "aurait",
+        "a",
+        "aura",
+        "avait"
+      ],
+      "answer": 0,
+      "explanation": "The conditional uses the same stem as the futur simple, with the imparfait endings -ais, -ais, -ait, -ions, -iez, -aient. Here: aurait.",
+      "textId": null
+    },
+    {
+      "id": "b1-conditionnel_present-072",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "conditionnel_present",
+      "question": "Complète au conditionnel présent : Nous ___ vous voir plus souvent si nous habitions plus près.",
+      "options": [
+        "venons",
+        "viendrions",
+        "viendrons",
+        "venions"
+      ],
+      "answer": 1,
+      "explanation": "The conditional uses the same stem as the futur simple, with the imparfait endings -ais, -ais, -ait, -ions, -iez, -aient. Here: viendrions.",
+      "textId": null
+    },
+    {
+      "id": "b1-conditionnel_present-073",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "conditionnel_present",
+      "question": "Complète au conditionnel présent : Ils ___ tout pour leurs enfants.",
+      "options": [
+        "font",
+        "feront",
+        "feraient",
+        "faisaient"
+      ],
+      "answer": 2,
+      "explanation": "The conditional uses the same stem as the futur simple, with the imparfait endings -ais, -ais, -ait, -ions, -iez, -aient. Here: feraient.",
+      "textId": null
+    },
+    {
+      "id": "b1-conditionnel_present-074",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "conditionnel_present",
+      "question": "Complète au conditionnel présent : Tu ___ où si tu pouvais choisir ?",
+      "options": [
+        "vas",
+        "iras",
+        "allais",
+        "irais"
+      ],
+      "answer": 3,
+      "explanation": "The conditional uses the same stem as the futur simple, with the imparfait endings -ais, -ais, -ait, -ions, -iez, -aient. Here: irais.",
+      "textId": null
+    },
+    {
+      "id": "b1-conditionnel_present-075",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "conditionnel_present",
+      "question": "Complète au conditionnel présent : Il a dit qu’il ___ demain.",
+      "options": [
+        "viendrait",
+        "viendra",
+        "vient",
+        "est venu"
+      ],
+      "answer": 0,
+      "explanation": "After a main verb in the past (il a dit que, je pensais que), the future becomes the conditional: il a dit qu’il viendrait.",
+      "textId": null
+    },
+    {
+      "id": "b1-conditionnel_present-076",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "conditionnel_present",
+      "question": "Complète au conditionnel présent : Je pensais que tu ___ en retard.",
+      "options": [
+        "seras",
+        "serais",
+        "es",
+        "sois"
+      ],
+      "answer": 1,
+      "explanation": "After a main verb in the past (il a dit que, je pensais que), the future becomes the conditional: il a dit qu’il viendrait.",
+      "textId": null
+    },
+    {
+      "id": "b1-conditionnel_present-077",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "conditionnel_present",
+      "question": "Complète au conditionnel présent : Elle a promis qu’elle m’___.",
+      "options": [
+        "appellera",
+        "appelle",
+        "appellerait",
+        "a appelé"
+      ],
+      "answer": 2,
+      "explanation": "After a main verb in the past (il a dit que, je pensais que), the future becomes the conditional: il a dit qu’il viendrait.",
+      "textId": null
+    },
+    {
+      "id": "b1-conditionnel_present-078",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "conditionnel_present",
+      "question": "Complète au conditionnel présent : Ils ont annoncé qu’il ___ ce week-end.",
+      "options": [
+        "neigera",
+        "neige",
+        "a neigé",
+        "neigerait"
+      ],
+      "answer": 3,
+      "explanation": "After a main verb in the past (il a dit que, je pensais que), the future becomes the conditional: il a dit qu’il viendrait.",
+      "textId": null
+    },
+    {
+      "id": "b1-conditionnel_present-079",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "conditionnel_present",
+      "question": "Si j’___ le temps, je voyagerais plus.",
+      "options": [
+        "avais",
+        "aurais",
+        "ai",
+        "aurai"
+      ],
+      "answer": 0,
+      "explanation": "After si, never use the conditional. Si + imparfait goes with the conditional in the other clause.",
+      "textId": null
+    },
+    {
+      "id": "b1-conditionnel_present-080",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "conditionnel_present",
+      "question": "Si tu ___ plus tôt, tu serais moins fatigué.",
+      "options": [
+        "te coucherais",
+        "te couchais",
+        "te couches",
+        "te coucheras"
+      ],
+      "answer": 1,
+      "explanation": "After si, never use the conditional. Si + imparfait goes with the conditional in the other clause.",
+      "textId": null
+    }
+  ]
+}

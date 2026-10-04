@@ -1,0 +1,1285 @@
+{
+  "texts": [],
+  "questions": [
+    {
+      "id": "a1-demonstratives-001",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "demonstratives",
+      "question": "___ livre est très intéressant.",
+      "options": [
+        "Ce",
+        "Cet",
+        "Cette",
+        "Ces"
+      ],
+      "answer": 0,
+      "explanation": "Ce = this / that before a masculine singular noun starting with a consonant.",
+      "textId": null
+    },
+    {
+      "id": "a1-demonstratives-002",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "demonstratives",
+      "question": "___ maison est à vendre.",
+      "options": [
+        "Ce",
+        "Cette",
+        "Cet",
+        "Ces"
+      ],
+      "answer": 1,
+      "explanation": "Cette = this / that before every feminine singular noun.",
+      "textId": null
+    },
+    {
+      "id": "a1-demonstratives-003",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "demonstratives",
+      "question": "___ homme est mon professeur.",
+      "options": [
+        "Ce",
+        "Cette",
+        "Cet",
+        "Ces"
+      ],
+      "answer": 2,
+      "explanation": "Cet = this / that before a masculine singular noun starting with a vowel or silent h.",
+      "textId": null
+    },
+    {
+      "id": "a1-demonstratives-004",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "demonstratives",
+      "question": "___ enfants sont très sages.",
+      "options": [
+        "Ce",
+        "Cet",
+        "Cette",
+        "Ces"
+      ],
+      "answer": 3,
+      "explanation": "Ces = these / those before every plural noun.",
+      "textId": null
+    },
+    {
+      "id": "a1-demonstratives-005",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "demonstratives",
+      "question": "J’adore ___ chanson.",
+      "options": [
+        "cette",
+        "ce",
+        "cet",
+        "ces"
+      ],
+      "answer": 0,
+      "explanation": "Cette = this / that before every feminine singular noun.",
+      "textId": null
+    },
+    {
+      "id": "a1-demonstratives-006",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "demonstratives",
+      "question": "Tu connais ___ restaurant ?",
+      "options": [
+        "cet",
+        "ce",
+        "cette",
+        "ces"
+      ],
+      "answer": 1,
+      "explanation": "Ce = this / that before a masculine singular noun starting with a consonant.",
+      "textId": null
+    },
+    {
+      "id": "a1-demonstratives-007",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "demonstratives",
+      "question": "___ hôtel est trop cher.",
+      "options": [
+        "Ce",
+        "Cette",
+        "Cet",
+        "Ces"
+      ],
+      "answer": 2,
+      "explanation": "Cet = this / that before a masculine singular noun starting with a vowel or silent h.",
+      "textId": null
+    },
+    {
+      "id": "a1-demonstratives-008",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "demonstratives",
+      "question": "___ chaussures sont confortables.",
+      "options": [
+        "Ce",
+        "Cet",
+        "Cette",
+        "Ces"
+      ],
+      "answer": 3,
+      "explanation": "Ces = these / those before every plural noun.",
+      "textId": null
+    },
+    {
+      "id": "a1-demonstratives-009",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "demonstratives",
+      "question": "Je prends ___ sac.",
+      "options": [
+        "ce",
+        "cet",
+        "cette",
+        "ces"
+      ],
+      "answer": 0,
+      "explanation": "Ce = this / that before a masculine singular noun starting with a consonant.",
+      "textId": null
+    },
+    {
+      "id": "a1-demonstratives-010",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "demonstratives",
+      "question": "___ ordinateur est neuf.",
+      "options": [
+        "Ce",
+        "Cet",
+        "Cette",
+        "Ces"
+      ],
+      "answer": 1,
+      "explanation": "Cet = this / that before a masculine singular noun starting with a vowel or silent h.",
+      "textId": null
+    },
+    {
+      "id": "a1-demonstratives-011",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "demonstratives",
+      "question": "___ voiture est rapide.",
+      "options": [
+        "Ce",
+        "Cet",
+        "Cette",
+        "Ces"
+      ],
+      "answer": 2,
+      "explanation": "Cette = this / that before every feminine singular noun.",
+      "textId": null
+    },
+    {
+      "id": "a1-demonstratives-012",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "demonstratives",
+      "question": "Qui est ___ fille ?",
+      "options": [
+        "ce",
+        "cet",
+        "ces",
+        "cette"
+      ],
+      "answer": 3,
+      "explanation": "Cette = this / that before every feminine singular noun.",
+      "textId": null
+    },
+    {
+      "id": "a1-demonstratives-013",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "demonstratives",
+      "question": "___ après-midi, je vais au cinéma.",
+      "options": [
+        "Cet",
+        "Ce",
+        "Cette",
+        "Ces"
+      ],
+      "answer": 0,
+      "explanation": "Cet = this / that before a masculine singular noun starting with a vowel or silent h.",
+      "textId": null
+    },
+    {
+      "id": "a1-demonstratives-014",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "demonstratives",
+      "question": "___ matin, il fait froid.",
+      "options": [
+        "Cet",
+        "Ce",
+        "Cette",
+        "Ces"
+      ],
+      "answer": 1,
+      "explanation": "Ce = this / that before a masculine singular noun starting with a consonant.",
+      "textId": null
+    },
+    {
+      "id": "a1-demonstratives-015",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "demonstratives",
+      "question": "___ semaine, j’ai trois examens.",
+      "options": [
+        "Ce",
+        "Cet",
+        "Cette",
+        "Ces"
+      ],
+      "answer": 2,
+      "explanation": "Cette = this / that before every feminine singular noun.",
+      "textId": null
+    },
+    {
+      "id": "a1-demonstratives-016",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "demonstratives",
+      "question": "___ soir, on mange au restaurant.",
+      "options": [
+        "Cet",
+        "Cette",
+        "Ces",
+        "Ce"
+      ],
+      "answer": 3,
+      "explanation": "Ce = this / that before a masculine singular noun starting with a consonant.",
+      "textId": null
+    },
+    {
+      "id": "a1-demonstratives-017",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "demonstratives",
+      "question": "___ année, je vais en France.",
+      "options": [
+        "Cette",
+        "Ce",
+        "Cet",
+        "Ces"
+      ],
+      "answer": 0,
+      "explanation": "Cette = this / that before every feminine singular noun.",
+      "textId": null
+    },
+    {
+      "id": "a1-demonstratives-018",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "demonstratives",
+      "question": "___ été, nous partons en Espagne.",
+      "options": [
+        "Ce",
+        "Cet",
+        "Cette",
+        "Ces"
+      ],
+      "answer": 1,
+      "explanation": "Cet = this / that before a masculine singular noun starting with a vowel or silent h.",
+      "textId": null
+    },
+    {
+      "id": "a1-demonstratives-019",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "demonstratives",
+      "question": "___ hiver, il neige beaucoup.",
+      "options": [
+        "Ce",
+        "Cette",
+        "Cet",
+        "Ces"
+      ],
+      "answer": 2,
+      "explanation": "Cet = this / that before a masculine singular noun starting with a vowel or silent h.",
+      "textId": null
+    },
+    {
+      "id": "a1-demonstratives-020",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "demonstratives",
+      "question": "___ week-end, je reste à la maison.",
+      "options": [
+        "Cet",
+        "Cette",
+        "Ces",
+        "Ce"
+      ],
+      "answer": 3,
+      "explanation": "Ce = this / that before a masculine singular noun starting with a consonant.",
+      "textId": null
+    },
+    {
+      "id": "a1-demonstratives-021",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "demonstratives",
+      "question": "___ nuit, je dors chez un ami.",
+      "options": [
+        "Cette",
+        "Ce",
+        "Cet",
+        "Ces"
+      ],
+      "answer": 0,
+      "explanation": "Cette = this / that before every feminine singular noun.",
+      "textId": null
+    },
+    {
+      "id": "a1-demonstratives-022",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "demonstratives",
+      "question": "___ mois-ci, j’ai beaucoup de travail.",
+      "options": [
+        "Cet",
+        "Ce",
+        "Cette",
+        "Ces"
+      ],
+      "answer": 1,
+      "explanation": "Ce = this / that before a masculine singular noun starting with a consonant.",
+      "textId": null
+    },
+    {
+      "id": "a1-demonstratives-023",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "demonstratives",
+      "question": "___ jours-ci, il pleut souvent.",
+      "options": [
+        "Ce",
+        "Cet",
+        "Ces",
+        "Cette"
+      ],
+      "answer": 2,
+      "explanation": "Ces = these / those before every plural noun.",
+      "textId": null
+    },
+    {
+      "id": "a1-demonstratives-024",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "demonstratives",
+      "question": "___ gâteau est délicieux.",
+      "options": [
+        "Cet",
+        "Cette",
+        "Ces",
+        "Ce"
+      ],
+      "answer": 3,
+      "explanation": "Ce = this / that before a masculine singular noun starting with a consonant.",
+      "textId": null
+    },
+    {
+      "id": "a1-demonstratives-025",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "demonstratives",
+      "question": "___ pommes sont très bonnes.",
+      "options": [
+        "Ces",
+        "Ce",
+        "Cet",
+        "Cette"
+      ],
+      "answer": 0,
+      "explanation": "Ces = these / those before every plural noun.",
+      "textId": null
+    },
+    {
+      "id": "a1-demonstratives-026",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "demonstratives",
+      "question": "___ arbre est très vieux.",
+      "options": [
+        "Ce",
+        "Cet",
+        "Cette",
+        "Ces"
+      ],
+      "answer": 1,
+      "explanation": "Cet = this / that before a masculine singular noun starting with a vowel or silent h.",
+      "textId": null
+    },
+    {
+      "id": "a1-demonstratives-027",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "demonstratives",
+      "question": "___ fleur sent bon.",
+      "options": [
+        "Ce",
+        "Cet",
+        "Cette",
+        "Ces"
+      ],
+      "answer": 2,
+      "explanation": "Cette = this / that before every feminine singular noun.",
+      "textId": null
+    },
+    {
+      "id": "a1-demonstratives-028",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "demonstratives",
+      "question": "___ film est trop long.",
+      "options": [
+        "Cet",
+        "Cette",
+        "Ces",
+        "Ce"
+      ],
+      "answer": 3,
+      "explanation": "Ce = this / that before a masculine singular noun starting with a consonant.",
+      "textId": null
+    },
+    {
+      "id": "a1-demonstratives-029",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "demonstratives",
+      "question": "___ étudiants viennent du Japon.",
+      "options": [
+        "Ces",
+        "Ce",
+        "Cet",
+        "Cette"
+      ],
+      "answer": 0,
+      "explanation": "Ces = these / those before every plural noun.",
+      "textId": null
+    },
+    {
+      "id": "a1-demonstratives-030",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "demonstratives",
+      "question": "___ étudiant vient du Mexique.",
+      "options": [
+        "Ce",
+        "Cet",
+        "Cette",
+        "Ces"
+      ],
+      "answer": 1,
+      "explanation": "Cet = this / that before a masculine singular noun starting with a vowel or silent h.",
+      "textId": null
+    },
+    {
+      "id": "a1-demonstratives-031",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "demonstratives",
+      "question": "___ étudiante vient d’Italie.",
+      "options": [
+        "Ce",
+        "Cet",
+        "Cette",
+        "Ces"
+      ],
+      "answer": 2,
+      "explanation": "Étudiante is feminine, so use cette, even before a vowel. Cet is only for masculine nouns.",
+      "textId": null
+    },
+    {
+      "id": "a1-demonstratives-032",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "demonstratives",
+      "question": "___ école est très moderne.",
+      "options": [
+        "Ce",
+        "Cet",
+        "Ces",
+        "Cette"
+      ],
+      "answer": 3,
+      "explanation": "École is feminine, so use cette, even before a vowel. Cet is only for masculine nouns.",
+      "textId": null
+    },
+    {
+      "id": "a1-demonstratives-033",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "demonstratives",
+      "question": "___ idée est géniale.",
+      "options": [
+        "Cette",
+        "Ce",
+        "Cet",
+        "Ces"
+      ],
+      "answer": 0,
+      "explanation": "Idée is feminine, so use cette, even before a vowel. Cet is only for masculine nouns.",
+      "textId": null
+    },
+    {
+      "id": "a1-demonstratives-034",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "demonstratives",
+      "question": "___ histoire est triste.",
+      "options": [
+        "Ce",
+        "Cette",
+        "Cet",
+        "Ces"
+      ],
+      "answer": 1,
+      "explanation": "Histoire is feminine, so use cette, even before a silent h. Cet is only for masculine nouns.",
+      "textId": null
+    },
+    {
+      "id": "a1-demonstratives-035",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "demonstratives",
+      "question": "___ adresse est fausse.",
+      "options": [
+        "Ce",
+        "Cet",
+        "Cette",
+        "Ces"
+      ],
+      "answer": 2,
+      "explanation": "Adresse is feminine, so use cette, even before a vowel. Cet is only for masculine nouns.",
+      "textId": null
+    },
+    {
+      "id": "a1-demonstratives-036",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "demonstratives",
+      "question": "___ appartement est lumineux.",
+      "options": [
+        "Ce",
+        "Cette",
+        "Ces",
+        "Cet"
+      ],
+      "answer": 3,
+      "explanation": "Cet = this / that before a masculine singular noun starting with a vowel or silent h.",
+      "textId": null
+    },
+    {
+      "id": "a1-demonstratives-037",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "demonstratives",
+      "question": "___ pantalon est trop grand.",
+      "options": [
+        "Ce",
+        "Cet",
+        "Cette",
+        "Ces"
+      ],
+      "answer": 0,
+      "explanation": "Ce = this / that before a masculine singular noun starting with a consonant.",
+      "textId": null
+    },
+    {
+      "id": "a1-demonstratives-038",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "demonstratives",
+      "question": "___ robe te va bien.",
+      "options": [
+        "Ce",
+        "Cette",
+        "Cet",
+        "Ces"
+      ],
+      "answer": 1,
+      "explanation": "Cette = this / that before every feminine singular noun.",
+      "textId": null
+    },
+    {
+      "id": "a1-demonstratives-039",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "demonstratives",
+      "question": "___ lunettes sont à toi ?",
+      "options": [
+        "Ce",
+        "Cet",
+        "Ces",
+        "Cette"
+      ],
+      "answer": 2,
+      "explanation": "Ces = these / those before every plural noun.",
+      "textId": null
+    },
+    {
+      "id": "a1-demonstratives-040",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "demonstratives",
+      "question": "___ animal est dangereux.",
+      "options": [
+        "Ce",
+        "Cette",
+        "Ces",
+        "Cet"
+      ],
+      "answer": 3,
+      "explanation": "Cet = this / that before a masculine singular noun starting with a vowel or silent h.",
+      "textId": null
+    },
+    {
+      "id": "a1-demonstratives-041",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "demonstratives",
+      "question": "___ animaux vivent en Afrique.",
+      "options": [
+        "Ces",
+        "Ce",
+        "Cet",
+        "Cette"
+      ],
+      "answer": 0,
+      "explanation": "Ces = these / those before every plural noun.",
+      "textId": null
+    },
+    {
+      "id": "a1-demonstratives-042",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "demonstratives",
+      "question": "Je n’aime pas ___ couleur.",
+      "options": [
+        "ce",
+        "cette",
+        "cet",
+        "ces"
+      ],
+      "answer": 1,
+      "explanation": "Cette = this / that before every feminine singular noun.",
+      "textId": null
+    },
+    {
+      "id": "a1-demonstratives-043",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "demonstratives",
+      "question": "Tu veux ___ stylo ou l’autre ?",
+      "options": [
+        "cet",
+        "cette",
+        "ce",
+        "ces"
+      ],
+      "answer": 2,
+      "explanation": "Ce = this / that before a masculine singular noun starting with a consonant.",
+      "textId": null
+    },
+    {
+      "id": "a1-demonstratives-044",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "demonstratives",
+      "question": "Regarde ___ oiseau !",
+      "options": [
+        "ce",
+        "cette",
+        "ces",
+        "cet"
+      ],
+      "answer": 3,
+      "explanation": "Cet = this / that before a masculine singular noun starting with a vowel or silent h.",
+      "textId": null
+    },
+    {
+      "id": "a1-demonstratives-045",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "demonstratives",
+      "question": "Regarde ___ oiseaux !",
+      "options": [
+        "ces",
+        "ce",
+        "cet",
+        "cette"
+      ],
+      "answer": 0,
+      "explanation": "Ces = these / those before every plural noun.",
+      "textId": null
+    },
+    {
+      "id": "a1-demonstratives-046",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "demonstratives",
+      "question": "___ exercice est difficile.",
+      "options": [
+        "Ce",
+        "Cet",
+        "Cette",
+        "Ces"
+      ],
+      "answer": 1,
+      "explanation": "Cet = this / that before a masculine singular noun starting with a vowel or silent h.",
+      "textId": null
+    },
+    {
+      "id": "a1-demonstratives-047",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "demonstratives",
+      "question": "___ exercices sont faciles.",
+      "options": [
+        "Ce",
+        "Cet",
+        "Ces",
+        "Cette"
+      ],
+      "answer": 2,
+      "explanation": "Ces = these / those before every plural noun.",
+      "textId": null
+    },
+    {
+      "id": "a1-demonstratives-048",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "demonstratives",
+      "question": "___ question est facile.",
+      "options": [
+        "Ce",
+        "Cet",
+        "Ces",
+        "Cette"
+      ],
+      "answer": 3,
+      "explanation": "Cette = this / that before every feminine singular noun.",
+      "textId": null
+    },
+    {
+      "id": "a1-demonstratives-049",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "demonstratives",
+      "question": "___ problème est sérieux.",
+      "options": [
+        "Ce",
+        "Cet",
+        "Cette",
+        "Ces"
+      ],
+      "answer": 0,
+      "explanation": "Ce = this / that before a masculine singular noun starting with a consonant.",
+      "textId": null
+    },
+    {
+      "id": "a1-demonstratives-050",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "demonstratives",
+      "question": "___ ville est très calme.",
+      "options": [
+        "Ce",
+        "Cette",
+        "Cet",
+        "Ces"
+      ],
+      "answer": 1,
+      "explanation": "Cette = this / that before every feminine singular noun.",
+      "textId": null
+    },
+    {
+      "id": "a1-demonstratives-051",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "demonstratives",
+      "question": "___ quartier est animé.",
+      "options": [
+        "Cet",
+        "Cette",
+        "Ce",
+        "Ces"
+      ],
+      "answer": 2,
+      "explanation": "Ce = this / that before a masculine singular noun starting with a consonant.",
+      "textId": null
+    },
+    {
+      "id": "a1-demonstratives-052",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "demonstratives",
+      "question": "___ rue est piétonne.",
+      "options": [
+        "Ce",
+        "Cet",
+        "Ces",
+        "Cette"
+      ],
+      "answer": 3,
+      "explanation": "Cette = this / that before every feminine singular noun.",
+      "textId": null
+    },
+    {
+      "id": "a1-demonstratives-053",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "demonstratives",
+      "question": "___ immeuble a dix étages.",
+      "options": [
+        "Cet",
+        "Ce",
+        "Cette",
+        "Ces"
+      ],
+      "answer": 0,
+      "explanation": "Cet = this / that before a masculine singular noun starting with a vowel or silent h.",
+      "textId": null
+    },
+    {
+      "id": "a1-demonstratives-054",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "demonstratives",
+      "question": "___ magasins sont ouverts le dimanche.",
+      "options": [
+        "Ce",
+        "Ces",
+        "Cet",
+        "Cette"
+      ],
+      "answer": 1,
+      "explanation": "Ces = these / those before every plural noun.",
+      "textId": null
+    },
+    {
+      "id": "a1-demonstratives-055",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "demonstratives",
+      "question": "___ train va à Lyon.",
+      "options": [
+        "Cet",
+        "Cette",
+        "Ce",
+        "Ces"
+      ],
+      "answer": 2,
+      "explanation": "Ce = this / that before a masculine singular noun starting with a consonant.",
+      "textId": null
+    },
+    {
+      "id": "a1-demonstratives-056",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "demonstratives",
+      "question": "___ avion arrive de Montréal.",
+      "options": [
+        "Ce",
+        "Cette",
+        "Ces",
+        "Cet"
+      ],
+      "answer": 3,
+      "explanation": "Cet = this / that before a masculine singular noun starting with a vowel or silent h.",
+      "textId": null
+    },
+    {
+      "id": "a1-demonstratives-057",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "demonstratives",
+      "question": "___ place est libre ?",
+      "options": [
+        "Cette",
+        "Ce",
+        "Cet",
+        "Ces"
+      ],
+      "answer": 0,
+      "explanation": "Cette = this / that before every feminine singular noun.",
+      "textId": null
+    },
+    {
+      "id": "a1-demonstratives-058",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "demonstratives",
+      "question": "___ billets sont pour vous.",
+      "options": [
+        "Ce",
+        "Ces",
+        "Cet",
+        "Cette"
+      ],
+      "answer": 1,
+      "explanation": "Ces = these / those before every plural noun.",
+      "textId": null
+    },
+    {
+      "id": "a1-demonstratives-059",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "demonstratives",
+      "question": "___ café est trop chaud.",
+      "options": [
+        "Cet",
+        "Cette",
+        "Ce",
+        "Ces"
+      ],
+      "answer": 2,
+      "explanation": "Ce = this / that before a masculine singular noun starting with a consonant.",
+      "textId": null
+    },
+    {
+      "id": "a1-demonstratives-060",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "demonstratives",
+      "question": "___ eau est potable ?",
+      "options": [
+        "Ce",
+        "Cet",
+        "Ces",
+        "Cette"
+      ],
+      "answer": 3,
+      "explanation": "Eau is feminine, so use cette, even before a vowel. Cet is only for masculine nouns.",
+      "textId": null
+    },
+    {
+      "id": "a1-demonstratives-061",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "demonstratives",
+      "question": "___ hôpital est tout neuf.",
+      "options": [
+        "Cet",
+        "Ce",
+        "Cette",
+        "Ces"
+      ],
+      "answer": 0,
+      "explanation": "Cet = this / that before a masculine singular noun starting with a vowel or silent h.",
+      "textId": null
+    },
+    {
+      "id": "a1-demonstratives-062",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "demonstratives",
+      "question": "___ photos sont magnifiques.",
+      "options": [
+        "Ce",
+        "Ces",
+        "Cet",
+        "Cette"
+      ],
+      "answer": 1,
+      "explanation": "Ces = these / those before every plural noun.",
+      "textId": null
+    },
+    {
+      "id": "a1-demonstratives-063",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "demonstratives",
+      "question": "___ chien est très gentil.",
+      "options": [
+        "Cet",
+        "Cette",
+        "Ce",
+        "Ces"
+      ],
+      "answer": 2,
+      "explanation": "Ce = this / that before a masculine singular noun starting with a consonant.",
+      "textId": null
+    },
+    {
+      "id": "a1-demonstratives-064",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "demonstratives",
+      "question": "___ ami de Paul est sympa.",
+      "options": [
+        "Ce",
+        "Cette",
+        "Ces",
+        "Cet"
+      ],
+      "answer": 3,
+      "explanation": "Cet = this / that before a masculine singular noun starting with a vowel or silent h.",
+      "textId": null
+    },
+    {
+      "id": "a1-demonstratives-065",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "demonstratives",
+      "question": "___ amie de Paul est sympa.",
+      "options": [
+        "Cette",
+        "Ce",
+        "Cet",
+        "Ces"
+      ],
+      "answer": 0,
+      "explanation": "Amie is feminine, so use cette, even before a vowel. Cet is only for masculine nouns.",
+      "textId": null
+    },
+    {
+      "id": "a1-demonstratives-066",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "demonstratives",
+      "question": "___ amis sont très drôles.",
+      "options": [
+        "Ce",
+        "Ces",
+        "Cet",
+        "Cette"
+      ],
+      "answer": 1,
+      "explanation": "Ces = these / those before every plural noun.",
+      "textId": null
+    },
+    {
+      "id": "a1-demonstratives-067",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "demonstratives",
+      "question": "J’achète ___ pain et ces croissants.",
+      "options": [
+        "cet",
+        "cette",
+        "ce",
+        "ces"
+      ],
+      "answer": 2,
+      "explanation": "Ce = this / that before a masculine singular noun starting with a consonant.",
+      "textId": null
+    },
+    {
+      "id": "a1-demonstratives-068",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "demonstratives",
+      "question": "Combien coûte ___ veste ?",
+      "options": [
+        "ce",
+        "cet",
+        "ces",
+        "cette"
+      ],
+      "answer": 3,
+      "explanation": "Cette = this / that before every feminine singular noun.",
+      "textId": null
+    },
+    {
+      "id": "a1-demonstratives-069",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "demonstratives",
+      "question": "Combien coûtent ___ gants ?",
+      "options": [
+        "ces",
+        "ce",
+        "cet",
+        "cette"
+      ],
+      "answer": 0,
+      "explanation": "Ces = these / those before every plural noun.",
+      "textId": null
+    },
+    {
+      "id": "a1-demonstratives-070",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "demonstratives",
+      "question": "Combien coûte ___ anorak ?",
+      "options": [
+        "ce",
+        "cet",
+        "cette",
+        "ces"
+      ],
+      "answer": 1,
+      "explanation": "Cet = this / that before a masculine singular noun starting with a vowel or silent h.",
+      "textId": null
+    },
+    {
+      "id": "a1-demonstratives-071",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "demonstratives",
+      "question": "Je préfère ___ table près de la fenêtre.",
+      "options": [
+        "ce",
+        "cet",
+        "cette",
+        "ces"
+      ],
+      "answer": 2,
+      "explanation": "Cette = this / that before every feminine singular noun.",
+      "textId": null
+    },
+    {
+      "id": "a1-demonstratives-072",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "demonstratives",
+      "question": "Tu aimes ___ musique ?",
+      "options": [
+        "ce",
+        "cet",
+        "ces",
+        "cette"
+      ],
+      "answer": 3,
+      "explanation": "Cette = this / that before every feminine singular noun.",
+      "textId": null
+    },
+    {
+      "id": "a1-demonstratives-073",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "demonstratives",
+      "question": "___ jeu est amusant.",
+      "options": [
+        "Ce",
+        "Cet",
+        "Cette",
+        "Ces"
+      ],
+      "answer": 0,
+      "explanation": "Ce = this / that before a masculine singular noun starting with a consonant.",
+      "textId": null
+    },
+    {
+      "id": "a1-demonstratives-074",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "demonstratives",
+      "question": "___ légumes sont frais.",
+      "options": [
+        "Ce",
+        "Ces",
+        "Cet",
+        "Cette"
+      ],
+      "answer": 1,
+      "explanation": "Ces = these / those before every plural noun.",
+      "textId": null
+    },
+    {
+      "id": "a1-demonstratives-075",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "demonstratives",
+      "question": "___ horaire ne me convient pas.",
+      "options": [
+        "Ce",
+        "Cette",
+        "Cet",
+        "Ces"
+      ],
+      "answer": 2,
+      "explanation": "Horaire is masculine and starts with a silent h, so use cet.",
+      "textId": null
+    },
+    {
+      "id": "a1-demonstratives-076",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "demonstratives",
+      "question": "___ héros est très courageux.",
+      "options": [
+        "Cet",
+        "Cette",
+        "Ces",
+        "Ce"
+      ],
+      "answer": 3,
+      "explanation": "Héros starts with an aspirated h, which behaves like a consonant: ce héros.",
+      "textId": null
+    },
+    {
+      "id": "a1-demonstratives-077",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "demonstratives",
+      "question": "___ homme et cette femme sont mariés.",
+      "options": [
+        "Cet",
+        "Ce",
+        "Cette",
+        "Ces"
+      ],
+      "answer": 0,
+      "explanation": "Cet = this / that before a masculine singular noun starting with a vowel or silent h.",
+      "textId": null
+    },
+    {
+      "id": "a1-demonstratives-078",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "demonstratives",
+      "question": "Je connais ___ gens.",
+      "options": [
+        "ce",
+        "ces",
+        "cet",
+        "cette"
+      ],
+      "answer": 1,
+      "explanation": "Ces = these / those before every plural noun.",
+      "textId": null
+    },
+    {
+      "id": "a1-demonstratives-079",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "demonstratives",
+      "question": "___ fromage vient de Normandie.",
+      "options": [
+        "Cet",
+        "Cette",
+        "Ce",
+        "Ces"
+      ],
+      "answer": 2,
+      "explanation": "Ce = this / that before a masculine singular noun starting with a consonant.",
+      "textId": null
+    },
+    {
+      "id": "a1-demonstratives-080",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "demonstratives",
+      "question": "___ église est très ancienne.",
+      "options": [
+        "Ce",
+        "Cet",
+        "Ces",
+        "Cette"
+      ],
+      "answer": 3,
+      "explanation": "Église is feminine, so use cette, even before a vowel. Cet is only for masculine nouns.",
+      "textId": null
+    }
+  ]
+}

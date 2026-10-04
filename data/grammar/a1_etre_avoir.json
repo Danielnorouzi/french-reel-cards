@@ -1,0 +1,1285 @@
+{
+  "texts": [],
+  "questions": [
+    {
+      "id": "a1-etre_avoir-001",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "etre_avoir",
+      "question": "Je ___ étudiant à Vancouver.",
+      "options": [
+        "suis",
+        "es",
+        "est",
+        "ai"
+      ],
+      "answer": 0,
+      "explanation": "Être in the present: je suis, tu es, il/elle est, nous sommes, vous êtes, ils/elles sont. Here: suis.",
+      "textId": null
+    },
+    {
+      "id": "a1-etre_avoir-002",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "etre_avoir",
+      "question": "Tu ___ très gentil avec moi.",
+      "options": [
+        "est",
+        "es",
+        "as",
+        "suis"
+      ],
+      "answer": 1,
+      "explanation": "Être in the present: je suis, tu es, il/elle est, nous sommes, vous êtes, ils/elles sont. Here: es.",
+      "textId": null
+    },
+    {
+      "id": "a1-etre_avoir-003",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "etre_avoir",
+      "question": "Elle ___ française.",
+      "options": [
+        "es",
+        "a",
+        "est",
+        "sont"
+      ],
+      "answer": 2,
+      "explanation": "Être in the present: je suis, tu es, il/elle est, nous sommes, vous êtes, ils/elles sont. Here: est.",
+      "textId": null
+    },
+    {
+      "id": "a1-etre_avoir-004",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "etre_avoir",
+      "question": "Nous ___ en retard ce matin.",
+      "options": [
+        "sont",
+        "avons",
+        "êtes",
+        "sommes"
+      ],
+      "answer": 3,
+      "explanation": "Être in the present: je suis, tu es, il/elle est, nous sommes, vous êtes, ils/elles sont. Here: sommes.",
+      "textId": null
+    },
+    {
+      "id": "a1-etre_avoir-005",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "etre_avoir",
+      "question": "Vous ___ prêts ?",
+      "options": [
+        "êtes",
+        "est",
+        "avez",
+        "sommes"
+      ],
+      "answer": 0,
+      "explanation": "Être in the present: je suis, tu es, il/elle est, nous sommes, vous êtes, ils/elles sont. Here: êtes.",
+      "textId": null
+    },
+    {
+      "id": "a1-etre_avoir-006",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "etre_avoir",
+      "question": "Ils ___ à la maison.",
+      "options": [
+        "ont",
+        "sont",
+        "est",
+        "sommes"
+      ],
+      "answer": 1,
+      "explanation": "Être in the present: je suis, tu es, il/elle est, nous sommes, vous êtes, ils/elles sont. Here: sont.",
+      "textId": null
+    },
+    {
+      "id": "a1-etre_avoir-007",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "etre_avoir",
+      "question": "Mon frère ___ médecin.",
+      "options": [
+        "a",
+        "es",
+        "est",
+        "sont"
+      ],
+      "answer": 2,
+      "explanation": "Use être to describe someone or something (adjective, job, nationality, place). Here: est.",
+      "textId": null
+    },
+    {
+      "id": "a1-etre_avoir-008",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "etre_avoir",
+      "question": "Mes parents ___ canadiens.",
+      "options": [
+        "ont",
+        "est",
+        "êtes",
+        "sont"
+      ],
+      "answer": 3,
+      "explanation": "Être in the present: je suis, tu es, il/elle est, nous sommes, vous êtes, ils/elles sont. Here: sont.",
+      "textId": null
+    },
+    {
+      "id": "a1-etre_avoir-009",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "etre_avoir",
+      "question": "Le café ___ chaud.",
+      "options": [
+        "est",
+        "a",
+        "es",
+        "ont"
+      ],
+      "answer": 0,
+      "explanation": "Use être to describe someone or something (adjective, job, nationality, place). Here: est.",
+      "textId": null
+    },
+    {
+      "id": "a1-etre_avoir-010",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "etre_avoir",
+      "question": "Les enfants ___ dans le jardin.",
+      "options": [
+        "ont",
+        "sont",
+        "est",
+        "sommes"
+      ],
+      "answer": 1,
+      "explanation": "Être in the present: je suis, tu es, il/elle est, nous sommes, vous êtes, ils/elles sont. Here: sont.",
+      "textId": null
+    },
+    {
+      "id": "a1-etre_avoir-011",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "etre_avoir",
+      "question": "Je ___ fatigué ce soir.",
+      "options": [
+        "ai",
+        "es",
+        "suis",
+        "est"
+      ],
+      "answer": 2,
+      "explanation": "Use être to describe someone or something (adjective, job, nationality, place). Here: suis.",
+      "textId": null
+    },
+    {
+      "id": "a1-etre_avoir-012",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "etre_avoir",
+      "question": "On ___ contents de te voir.",
+      "options": [
+        "sont",
+        "a",
+        "sommes",
+        "est"
+      ],
+      "answer": 3,
+      "explanation": "On takes the same form as il/elle: on est.",
+      "textId": null
+    },
+    {
+      "id": "a1-etre_avoir-013",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "etre_avoir",
+      "question": "Marie et moi ___ amis.",
+      "options": [
+        "sommes",
+        "sont",
+        "avons",
+        "êtes"
+      ],
+      "answer": 0,
+      "explanation": "Marie et moi = nous, so use nous sommes.",
+      "textId": null
+    },
+    {
+      "id": "a1-etre_avoir-014",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "etre_avoir",
+      "question": "Toi et Paul, vous ___ frères ?",
+      "options": [
+        "sont",
+        "êtes",
+        "avez",
+        "est"
+      ],
+      "answer": 1,
+      "explanation": "Toi et Paul = vous, so use vous êtes.",
+      "textId": null
+    },
+    {
+      "id": "a1-etre_avoir-015",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "etre_avoir",
+      "question": "C’___ mon professeur de français.",
+      "options": [
+        "a",
+        "es",
+        "est",
+        "ai"
+      ],
+      "answer": 2,
+      "explanation": "C’est + noun introduces a person or thing.",
+      "textId": null
+    },
+    {
+      "id": "a1-etre_avoir-016",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "etre_avoir",
+      "question": "Où ___ mes clés ?",
+      "options": [
+        "ont",
+        "est",
+        "es",
+        "sont"
+      ],
+      "answer": 3,
+      "explanation": "Mes clés is plural, so use sont.",
+      "textId": null
+    },
+    {
+      "id": "a1-etre_avoir-017",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "etre_avoir",
+      "question": "Où ___ la gare, s’il vous plaît ?",
+      "options": [
+        "est",
+        "a",
+        "sont",
+        "es"
+      ],
+      "answer": 0,
+      "explanation": "La gare is singular, so use est.",
+      "textId": null
+    },
+    {
+      "id": "a1-etre_avoir-018",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "etre_avoir",
+      "question": "Elles ___ sœurs.",
+      "options": [
+        "ont",
+        "sont",
+        "est",
+        "êtes"
+      ],
+      "answer": 1,
+      "explanation": "Être in the present: je suis, tu es, il/elle est, nous sommes, vous êtes, ils/elles sont. Here: sont.",
+      "textId": null
+    },
+    {
+      "id": "a1-etre_avoir-019",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "etre_avoir",
+      "question": "Tu ___ d’où ?",
+      "options": [
+        "as",
+        "est",
+        "es",
+        "êtes"
+      ],
+      "answer": 2,
+      "explanation": "Être in the present: je suis, tu es, il/elle est, nous sommes, vous êtes, ils/elles sont. Here: es.",
+      "textId": null
+    },
+    {
+      "id": "a1-etre_avoir-020",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "etre_avoir",
+      "question": "Je ___ de Vancouver.",
+      "options": [
+        "ai",
+        "es",
+        "sommes",
+        "suis"
+      ],
+      "answer": 3,
+      "explanation": "Être in the present: je suis, tu es, il/elle est, nous sommes, vous êtes, ils/elles sont. Here: suis.",
+      "textId": null
+    },
+    {
+      "id": "a1-etre_avoir-021",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "etre_avoir",
+      "question": "Le film ___ très long.",
+      "options": [
+        "est",
+        "a",
+        "sont",
+        "es"
+      ],
+      "answer": 0,
+      "explanation": "Use être to describe someone or something (adjective, job, nationality, place). Here: est.",
+      "textId": null
+    },
+    {
+      "id": "a1-etre_avoir-022",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "etre_avoir",
+      "question": "Nous ___ quatre dans ma famille.",
+      "options": [
+        "avons",
+        "sommes",
+        "sont",
+        "êtes"
+      ],
+      "answer": 1,
+      "explanation": "To say how many people are in a group, French uses être: nous sommes quatre.",
+      "textId": null
+    },
+    {
+      "id": "a1-etre_avoir-023",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "etre_avoir",
+      "question": "Il ___ huit heures.",
+      "options": [
+        "a",
+        "sont",
+        "est",
+        "es"
+      ],
+      "answer": 2,
+      "explanation": "Telling the time uses il est: il est huit heures.",
+      "textId": null
+    },
+    {
+      "id": "a1-etre_avoir-024",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "etre_avoir",
+      "question": "Vous ___ professeur ?",
+      "options": [
+        "avez",
+        "est",
+        "es",
+        "êtes"
+      ],
+      "answer": 3,
+      "explanation": "Use être to describe someone or something (adjective, job, nationality, place). Here: êtes.",
+      "textId": null
+    },
+    {
+      "id": "a1-etre_avoir-025",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "etre_avoir",
+      "question": "Ces chaussures ___ trop petites.",
+      "options": [
+        "sont",
+        "ont",
+        "est",
+        "êtes"
+      ],
+      "answer": 0,
+      "explanation": "Use être to describe someone or something (adjective, job, nationality, place). Here: sont.",
+      "textId": null
+    },
+    {
+      "id": "a1-etre_avoir-026",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "etre_avoir",
+      "question": "J’___ un chat et un chien.",
+      "options": [
+        "as",
+        "ai",
+        "a",
+        "es"
+      ],
+      "answer": 1,
+      "explanation": "Avoir in the present: j’ai, tu as, il/elle a, nous avons, vous avez, ils/elles ont. Here: ai.",
+      "textId": null
+    },
+    {
+      "id": "a1-etre_avoir-027",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "etre_avoir",
+      "question": "Tu ___ une voiture ?",
+      "options": [
+        "a",
+        "es",
+        "as",
+        "ai"
+      ],
+      "answer": 2,
+      "explanation": "Avoir in the present: j’ai, tu as, il/elle a, nous avons, vous avez, ils/elles ont. Here: as.",
+      "textId": null
+    },
+    {
+      "id": "a1-etre_avoir-028",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "etre_avoir",
+      "question": "Il ___ deux sœurs.",
+      "options": [
+        "as",
+        "est",
+        "ont",
+        "a"
+      ],
+      "answer": 3,
+      "explanation": "Avoir in the present: j’ai, tu as, il/elle a, nous avons, vous avez, ils/elles ont. Here: a.",
+      "textId": null
+    },
+    {
+      "id": "a1-etre_avoir-029",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "etre_avoir",
+      "question": "Nous ___ un petit appartement.",
+      "options": [
+        "avons",
+        "sommes",
+        "ont",
+        "avez"
+      ],
+      "answer": 0,
+      "explanation": "Avoir in the present: j’ai, tu as, il/elle a, nous avons, vous avez, ils/elles ont. Here: avons.",
+      "textId": null
+    },
+    {
+      "id": "a1-etre_avoir-030",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "etre_avoir",
+      "question": "Vous ___ une question ?",
+      "options": [
+        "êtes",
+        "avez",
+        "avons",
+        "ont"
+      ],
+      "answer": 1,
+      "explanation": "Avoir in the present: j’ai, tu as, il/elle a, nous avons, vous avez, ils/elles ont. Here: avez.",
+      "textId": null
+    },
+    {
+      "id": "a1-etre_avoir-031",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "etre_avoir",
+      "question": "Elles ___ beaucoup d’amis.",
+      "options": [
+        "sont",
+        "a",
+        "ont",
+        "avons"
+      ],
+      "answer": 2,
+      "explanation": "Avoir in the present: j’ai, tu as, il/elle a, nous avons, vous avez, ils/elles ont. Here: ont.",
+      "textId": null
+    },
+    {
+      "id": "a1-etre_avoir-032",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "etre_avoir",
+      "question": "Ma mère ___ les yeux bleus.",
+      "options": [
+        "est",
+        "as",
+        "ont",
+        "a"
+      ],
+      "answer": 3,
+      "explanation": "To describe features (eyes, hair), French uses avoir: elle a les yeux bleus.",
+      "textId": null
+    },
+    {
+      "id": "a1-etre_avoir-033",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "etre_avoir",
+      "question": "Mes amis ___ un nouveau chien.",
+      "options": [
+        "ont",
+        "sont",
+        "a",
+        "avez"
+      ],
+      "answer": 0,
+      "explanation": "Avoir in the present: j’ai, tu as, il/elle a, nous avons, vous avez, ils/elles ont. Here: ont.",
+      "textId": null
+    },
+    {
+      "id": "a1-etre_avoir-034",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "etre_avoir",
+      "question": "On ___ cours à neuf heures.",
+      "options": [
+        "est",
+        "a",
+        "ont",
+        "as"
+      ],
+      "answer": 1,
+      "explanation": "On takes the il/elle form: on a.",
+      "textId": null
+    },
+    {
+      "id": "a1-etre_avoir-035",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "etre_avoir",
+      "question": "J’___ un rendez-vous à midi.",
+      "options": [
+        "a",
+        "as",
+        "ai",
+        "est"
+      ],
+      "answer": 2,
+      "explanation": "Avoir in the present: j’ai, tu as, il/elle a, nous avons, vous avez, ils/elles ont. Here: ai.",
+      "textId": null
+    },
+    {
+      "id": "a1-etre_avoir-036",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "etre_avoir",
+      "question": "Tu ___ le temps de m’aider ?",
+      "options": [
+        "es",
+        "a",
+        "ai",
+        "as"
+      ],
+      "answer": 3,
+      "explanation": "Avoir in the present: j’ai, tu as, il/elle a, nous avons, vous avez, ils/elles ont. Here: as.",
+      "textId": null
+    },
+    {
+      "id": "a1-etre_avoir-037",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "etre_avoir",
+      "question": "Le professeur ___ une belle voiture.",
+      "options": [
+        "a",
+        "est",
+        "as",
+        "ont"
+      ],
+      "answer": 0,
+      "explanation": "Avoir in the present: j’ai, tu as, il/elle a, nous avons, vous avez, ils/elles ont. Here: a.",
+      "textId": null
+    },
+    {
+      "id": "a1-etre_avoir-038",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "etre_avoir",
+      "question": "Nous ___ trois cours aujourd’hui.",
+      "options": [
+        "sommes",
+        "avons",
+        "avez",
+        "ont"
+      ],
+      "answer": 1,
+      "explanation": "Avoir in the present: j’ai, tu as, il/elle a, nous avons, vous avez, ils/elles ont. Here: avons.",
+      "textId": null
+    },
+    {
+      "id": "a1-etre_avoir-039",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "etre_avoir",
+      "question": "Vous ___ des enfants ?",
+      "options": [
+        "êtes",
+        "ont",
+        "avez",
+        "avons"
+      ],
+      "answer": 2,
+      "explanation": "Avoir in the present: j’ai, tu as, il/elle a, nous avons, vous avez, ils/elles ont. Here: avez.",
+      "textId": null
+    },
+    {
+      "id": "a1-etre_avoir-040",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "etre_avoir",
+      "question": "Les étudiants ___ un examen demain.",
+      "options": [
+        "sont",
+        "a",
+        "avez",
+        "ont"
+      ],
+      "answer": 3,
+      "explanation": "Avoir in the present: j’ai, tu as, il/elle a, nous avons, vous avez, ils/elles ont. Here: ont.",
+      "textId": null
+    },
+    {
+      "id": "a1-etre_avoir-041",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "etre_avoir",
+      "question": "J’___ vingt ans.",
+      "options": [
+        "ai",
+        "es",
+        "a",
+        "as"
+      ],
+      "answer": 0,
+      "explanation": "French uses avoir for age: avoir … ans. Here: ai.",
+      "textId": null
+    },
+    {
+      "id": "a1-etre_avoir-042",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "etre_avoir",
+      "question": "Tu ___ quel âge ?",
+      "options": [
+        "es",
+        "as",
+        "est",
+        "a"
+      ],
+      "answer": 1,
+      "explanation": "French uses avoir for age: avoir … ans. Here: as.",
+      "textId": null
+    },
+    {
+      "id": "a1-etre_avoir-043",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "etre_avoir",
+      "question": "Ma sœur ___ quinze ans.",
+      "options": [
+        "est",
+        "as",
+        "a",
+        "ont"
+      ],
+      "answer": 2,
+      "explanation": "French uses avoir for age: avoir … ans. Here: a.",
+      "textId": null
+    },
+    {
+      "id": "a1-etre_avoir-044",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "etre_avoir",
+      "question": "Mes grands-parents ___ quatre-vingts ans.",
+      "options": [
+        "sont",
+        "a",
+        "avez",
+        "ont"
+      ],
+      "answer": 3,
+      "explanation": "French uses avoir for age: avoir … ans. Here: ont.",
+      "textId": null
+    },
+    {
+      "id": "a1-etre_avoir-045",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "etre_avoir",
+      "question": "Nous ___ le même âge.",
+      "options": [
+        "avons",
+        "sommes",
+        "ont",
+        "avez"
+      ],
+      "answer": 0,
+      "explanation": "French uses avoir for age: avoir … ans. Here: avons.",
+      "textId": null
+    },
+    {
+      "id": "a1-etre_avoir-046",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "etre_avoir",
+      "question": "Quel âge ___-vous ?",
+      "options": [
+        "êtes",
+        "avez",
+        "avons",
+        "ont"
+      ],
+      "answer": 1,
+      "explanation": "French uses avoir for age: avoir … ans. Here: avez.",
+      "textId": null
+    },
+    {
+      "id": "a1-etre_avoir-047",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "etre_avoir",
+      "question": "Le bébé ___ six mois.",
+      "options": [
+        "est",
+        "as",
+        "a",
+        "ont"
+      ],
+      "answer": 2,
+      "explanation": "French uses avoir for age: avoir … ans. Here: a.",
+      "textId": null
+    },
+    {
+      "id": "a1-etre_avoir-048",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "etre_avoir",
+      "question": "J’___ faim, on mange ?",
+      "options": [
+        "es",
+        "est",
+        "as",
+        "ai"
+      ],
+      "answer": 3,
+      "explanation": "French says avoir faim, soif, chaud, froid, sommeil, peur, raison, tort (to \"have\" hunger, thirst…), not être. Here: ai.",
+      "textId": null
+    },
+    {
+      "id": "a1-etre_avoir-049",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "etre_avoir",
+      "question": "Tu ___ soif ? Voici de l’eau.",
+      "options": [
+        "as",
+        "es",
+        "est",
+        "ai"
+      ],
+      "answer": 0,
+      "explanation": "French says avoir faim, soif, chaud, froid, sommeil, peur, raison, tort (to \"have\" hunger, thirst…), not être. Here: as.",
+      "textId": null
+    },
+    {
+      "id": "a1-etre_avoir-050",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "etre_avoir",
+      "question": "Il ___ froid sans son manteau.",
+      "options": [
+        "est",
+        "a",
+        "as",
+        "ont"
+      ],
+      "answer": 1,
+      "explanation": "French says avoir faim, soif, chaud, froid, sommeil, peur, raison, tort (to \"have\" hunger, thirst…), not être. Here: a.",
+      "textId": null
+    },
+    {
+      "id": "a1-etre_avoir-051",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "etre_avoir",
+      "question": "Nous ___ chaud dans cette salle.",
+      "options": [
+        "sommes",
+        "avez",
+        "avons",
+        "ont"
+      ],
+      "answer": 2,
+      "explanation": "French says avoir faim, soif, chaud, froid, sommeil, peur, raison, tort (to \"have\" hunger, thirst…), not être. Here: avons.",
+      "textId": null
+    },
+    {
+      "id": "a1-etre_avoir-052",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "etre_avoir",
+      "question": "Vous ___ raison, c’est une bonne idée.",
+      "options": [
+        "êtes",
+        "avons",
+        "ont",
+        "avez"
+      ],
+      "answer": 3,
+      "explanation": "French says avoir faim, soif, chaud, froid, sommeil, peur, raison, tort (to \"have\" hunger, thirst…), not être. Here: avez.",
+      "textId": null
+    },
+    {
+      "id": "a1-etre_avoir-053",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "etre_avoir",
+      "question": "Les enfants ___ sommeil.",
+      "options": [
+        "ont",
+        "sont",
+        "a",
+        "avez"
+      ],
+      "answer": 0,
+      "explanation": "French says avoir faim, soif, chaud, froid, sommeil, peur, raison, tort (to \"have\" hunger, thirst…), not être. Here: ont.",
+      "textId": null
+    },
+    {
+      "id": "a1-etre_avoir-054",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "etre_avoir",
+      "question": "Elle ___ peur des chiens.",
+      "options": [
+        "est",
+        "a",
+        "as",
+        "ont"
+      ],
+      "answer": 1,
+      "explanation": "French says avoir faim, soif, chaud, froid, sommeil, peur, raison, tort (to \"have\" hunger, thirst…), not être. Here: a.",
+      "textId": null
+    },
+    {
+      "id": "a1-etre_avoir-055",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "etre_avoir",
+      "question": "Tu ___ tort, ce n’est pas vrai.",
+      "options": [
+        "es",
+        "a",
+        "as",
+        "est"
+      ],
+      "answer": 2,
+      "explanation": "French says avoir faim, soif, chaud, froid, sommeil, peur, raison, tort (to \"have\" hunger, thirst…), not être. Here: as.",
+      "textId": null
+    },
+    {
+      "id": "a1-etre_avoir-056",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "etre_avoir",
+      "question": "J’___ sommeil, je vais au lit.",
+      "options": [
+        "es",
+        "as",
+        "a",
+        "ai"
+      ],
+      "answer": 3,
+      "explanation": "French says avoir faim, soif, chaud, froid, sommeil, peur, raison, tort (to \"have\" hunger, thirst…), not être. Here: ai.",
+      "textId": null
+    },
+    {
+      "id": "a1-etre_avoir-057",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "etre_avoir",
+      "question": "Ils ___ faim après le match.",
+      "options": [
+        "ont",
+        "sont",
+        "a",
+        "avons"
+      ],
+      "answer": 0,
+      "explanation": "French says avoir faim, soif, chaud, froid, sommeil, peur, raison, tort (to \"have\" hunger, thirst…), not être. Here: ont.",
+      "textId": null
+    },
+    {
+      "id": "a1-etre_avoir-058",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "etre_avoir",
+      "question": "J’___ besoin d’un stylo.",
+      "options": [
+        "es",
+        "ai",
+        "as",
+        "a"
+      ],
+      "answer": 1,
+      "explanation": "Avoir besoin de = to need, avoir envie de = to feel like. Both use avoir. Here: ai.",
+      "textId": null
+    },
+    {
+      "id": "a1-etre_avoir-059",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "etre_avoir",
+      "question": "Tu ___ envie d’un café ?",
+      "options": [
+        "es",
+        "a",
+        "as",
+        "ai"
+      ],
+      "answer": 2,
+      "explanation": "Avoir besoin de = to need, avoir envie de = to feel like. Both use avoir. Here: as.",
+      "textId": null
+    },
+    {
+      "id": "a1-etre_avoir-060",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "etre_avoir",
+      "question": "Elle ___ besoin de dormir.",
+      "options": [
+        "est",
+        "as",
+        "ont",
+        "a"
+      ],
+      "answer": 3,
+      "explanation": "Avoir besoin de = to need, avoir envie de = to feel like. Both use avoir. Here: a.",
+      "textId": null
+    },
+    {
+      "id": "a1-etre_avoir-061",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "etre_avoir",
+      "question": "Nous ___ envie de sortir ce soir.",
+      "options": [
+        "avons",
+        "sommes",
+        "avez",
+        "ont"
+      ],
+      "answer": 0,
+      "explanation": "Avoir besoin de = to need, avoir envie de = to feel like. Both use avoir. Here: avons.",
+      "textId": null
+    },
+    {
+      "id": "a1-etre_avoir-062",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "etre_avoir",
+      "question": "Vous ___ besoin d’aide ?",
+      "options": [
+        "êtes",
+        "avez",
+        "avons",
+        "ont"
+      ],
+      "answer": 1,
+      "explanation": "Avoir besoin de = to need, avoir envie de = to feel like. Both use avoir. Here: avez.",
+      "textId": null
+    },
+    {
+      "id": "a1-etre_avoir-063",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "etre_avoir",
+      "question": "Ils ___ envie de voyager.",
+      "options": [
+        "sont",
+        "a",
+        "ont",
+        "avez"
+      ],
+      "answer": 2,
+      "explanation": "Avoir besoin de = to need, avoir envie de = to feel like. Both use avoir. Here: ont.",
+      "textId": null
+    },
+    {
+      "id": "a1-etre_avoir-064",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "etre_avoir",
+      "question": "Il y ___ un parc près d’ici.",
+      "options": [
+        "est",
+        "ont",
+        "as",
+        "a"
+      ],
+      "answer": 3,
+      "explanation": "Il y a (there is / there are) always uses a, the il form of avoir.",
+      "textId": null
+    },
+    {
+      "id": "a1-etre_avoir-065",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "etre_avoir",
+      "question": "Il y ___ trois chambres dans la maison.",
+      "options": [
+        "a",
+        "ont",
+        "sont",
+        "est"
+      ],
+      "answer": 0,
+      "explanation": "Il y a (there is / there are) always uses a, the il form of avoir.",
+      "textId": null
+    },
+    {
+      "id": "a1-etre_avoir-066",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "etre_avoir",
+      "question": "Est-ce qu’il y ___ une pharmacie dans la rue ?",
+      "options": [
+        "est",
+        "a",
+        "as",
+        "ont"
+      ],
+      "answer": 1,
+      "explanation": "Il y a (there is / there are) always uses a, the il form of avoir.",
+      "textId": null
+    },
+    {
+      "id": "a1-etre_avoir-067",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "etre_avoir",
+      "question": "J’___ mal à la tête.",
+      "options": [
+        "es",
+        "as",
+        "ai",
+        "a"
+      ],
+      "answer": 2,
+      "explanation": "Avoir mal à = to have a pain in. It uses avoir. Here: ai.",
+      "textId": null
+    },
+    {
+      "id": "a1-etre_avoir-068",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "etre_avoir",
+      "question": "Tu ___ mal au ventre ?",
+      "options": [
+        "es",
+        "a",
+        "est",
+        "as"
+      ],
+      "answer": 3,
+      "explanation": "Avoir mal à = to have a pain in. It uses avoir. Here: as.",
+      "textId": null
+    },
+    {
+      "id": "a1-etre_avoir-069",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "etre_avoir",
+      "question": "Elle ___ mal aux dents.",
+      "options": [
+        "a",
+        "est",
+        "as",
+        "ont"
+      ],
+      "answer": 0,
+      "explanation": "Avoir mal à = to have a pain in. It uses avoir. Here: a.",
+      "textId": null
+    },
+    {
+      "id": "a1-etre_avoir-070",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "etre_avoir",
+      "question": "Ils ___ de la chance.",
+      "options": [
+        "sont",
+        "ont",
+        "a",
+        "avez"
+      ],
+      "answer": 1,
+      "explanation": "Avoir de la chance = to be lucky. It uses avoir: ils ont.",
+      "textId": null
+    },
+    {
+      "id": "a1-etre_avoir-071",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "etre_avoir",
+      "question": "Tu ___ de la chance !",
+      "options": [
+        "es",
+        "est",
+        "as",
+        "a"
+      ],
+      "answer": 2,
+      "explanation": "Avoir de la chance = to be lucky. It uses avoir: tu as.",
+      "textId": null
+    },
+    {
+      "id": "a1-etre_avoir-072",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "etre_avoir",
+      "question": "Je ___ content d’être ici.",
+      "options": [
+        "ai",
+        "es",
+        "est",
+        "suis"
+      ],
+      "answer": 3,
+      "explanation": "Use être to describe someone or something (adjective, job, nationality, place). Here: suis.",
+      "textId": null
+    },
+    {
+      "id": "a1-etre_avoir-073",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "etre_avoir",
+      "question": "Elle ___ malade aujourd’hui.",
+      "options": [
+        "est",
+        "a",
+        "es",
+        "sont"
+      ],
+      "answer": 0,
+      "explanation": "Use être to describe someone or something (adjective, job, nationality, place). Here: est.",
+      "textId": null
+    },
+    {
+      "id": "a1-etre_avoir-074",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "etre_avoir",
+      "question": "Vous ___ très sympathiques.",
+      "options": [
+        "avez",
+        "êtes",
+        "sont",
+        "est"
+      ],
+      "answer": 1,
+      "explanation": "Use être to describe someone or something (adjective, job, nationality, place). Here: êtes.",
+      "textId": null
+    },
+    {
+      "id": "a1-etre_avoir-075",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "etre_avoir",
+      "question": "Nous ___ au restaurant.",
+      "options": [
+        "avons",
+        "sont",
+        "sommes",
+        "êtes"
+      ],
+      "answer": 2,
+      "explanation": "Être in the present: je suis, tu es, il/elle est, nous sommes, vous êtes, ils/elles sont. Here: sommes.",
+      "textId": null
+    },
+    {
+      "id": "a1-etre_avoir-076",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "etre_avoir",
+      "question": "Tu ___ là ?",
+      "options": [
+        "as",
+        "est",
+        "êtes",
+        "es"
+      ],
+      "answer": 3,
+      "explanation": "Être in the present: je suis, tu es, il/elle est, nous sommes, vous êtes, ils/elles sont. Here: es.",
+      "textId": null
+    },
+    {
+      "id": "a1-etre_avoir-077",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "etre_avoir",
+      "question": "Ils ___ l’air fatigués.",
+      "options": [
+        "ont",
+        "sont",
+        "a",
+        "avez"
+      ],
+      "answer": 0,
+      "explanation": "Avoir l’air = to look, to seem. It uses avoir: ils ont l’air.",
+      "textId": null
+    },
+    {
+      "id": "a1-etre_avoir-078",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "etre_avoir",
+      "question": "Ce livre ___ à moi.",
+      "options": [
+        "a",
+        "est",
+        "es",
+        "sont"
+      ],
+      "answer": 1,
+      "explanation": "Être à + person shows possession: ce livre est à moi.",
+      "textId": null
+    },
+    {
+      "id": "a1-etre_avoir-079",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "etre_avoir",
+      "question": "Mon anniversaire ___ en juillet.",
+      "options": [
+        "a",
+        "es",
+        "est",
+        "sont"
+      ],
+      "answer": 2,
+      "explanation": "Être in the present: je suis, tu es, il/elle est, nous sommes, vous êtes, ils/elles sont. Here: est.",
+      "textId": null
+    },
+    {
+      "id": "a1-etre_avoir-080",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "etre_avoir",
+      "question": "Les magasins ___ fermés le dimanche.",
+      "options": [
+        "ont",
+        "est",
+        "êtes",
+        "sont"
+      ],
+      "answer": 3,
+      "explanation": "Use être to describe someone or something (adjective, job, nationality, place). Here: sont.",
+      "textId": null
+    }
+  ]
+}

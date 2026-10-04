@@ -1,0 +1,1285 @@
+{
+  "texts": [],
+  "questions": [
+    {
+      "id": "b1-si_clauses-001",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "si_clauses",
+      "question": "Si tu viens demain, je ___ content.",
+      "options": [
+        "serai",
+        "serais",
+        "étais",
+        "ai été"
+      ],
+      "answer": 0,
+      "explanation": "Real or likely condition: si + present, and the result is in the future (or present, or a command). Here: serai.",
+      "textId": null
+    },
+    {
+      "id": "b1-si_clauses-002",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "si_clauses",
+      "question": "S’il fait beau, nous ___ à la plage.",
+      "options": [
+        "irions",
+        "irons",
+        "allions",
+        "sommes allés"
+      ],
+      "answer": 1,
+      "explanation": "Real or likely condition: si + present, and the result is in the future (or present, or a command). Here: irons.",
+      "textId": null
+    },
+    {
+      "id": "b1-si_clauses-003",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "si_clauses",
+      "question": "Si vous partez maintenant, vous ___ à l’heure.",
+      "options": [
+        "arriveriez",
+        "arriviez",
+        "arriverez",
+        "êtes arrivés"
+      ],
+      "answer": 2,
+      "explanation": "Real or likely condition: si + present, and the result is in the future (or present, or a command). Here: arriverez.",
+      "textId": null
+    },
+    {
+      "id": "b1-si_clauses-004",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "si_clauses",
+      "question": "Si elle travaille bien, elle ___ son examen.",
+      "options": [
+        "réussirait",
+        "réussissait",
+        "a réussi",
+        "réussira"
+      ],
+      "answer": 3,
+      "explanation": "Real or likely condition: si + present, and the result is in the future (or present, or a command). Here: réussira.",
+      "textId": null
+    },
+    {
+      "id": "b1-si_clauses-005",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "si_clauses",
+      "question": "Si je trouve un billet pas cher, je ___ te voir.",
+      "options": [
+        "viendrai",
+        "viendrais",
+        "venais",
+        "suis venu"
+      ],
+      "answer": 0,
+      "explanation": "Real or likely condition: si + present, and the result is in the future (or present, or a command). Here: viendrai.",
+      "textId": null
+    },
+    {
+      "id": "b1-si_clauses-006",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "si_clauses",
+      "question": "Si nous avons le temps, nous ___ le musée.",
+      "options": [
+        "visiterions",
+        "visiterons",
+        "visitions",
+        "avons visité"
+      ],
+      "answer": 1,
+      "explanation": "Real or likely condition: si + present, and the result is in the future (or present, or a command). Here: visiterons.",
+      "textId": null
+    },
+    {
+      "id": "b1-si_clauses-007",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "si_clauses",
+      "question": "Si tu ne te dépêches pas, tu ___ le train.",
+      "options": [
+        "raterais",
+        "ratais",
+        "rateras",
+        "as raté"
+      ],
+      "answer": 2,
+      "explanation": "Real or likely condition: si + present, and the result is in the future (or present, or a command). Here: rateras.",
+      "textId": null
+    },
+    {
+      "id": "b1-si_clauses-008",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "si_clauses",
+      "question": "S’ils gagnent ce match, ils ___ en finale.",
+      "options": [
+        "seraient",
+        "étaient",
+        "ont été",
+        "seront"
+      ],
+      "answer": 3,
+      "explanation": "Real or likely condition: si + present, and the result is in the future (or present, or a command). Here: seront.",
+      "textId": null
+    },
+    {
+      "id": "b1-si_clauses-009",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "si_clauses",
+      "question": "Si tu me donnes ton adresse, je t’___ une carte postale.",
+      "options": [
+        "enverrai",
+        "enverrais",
+        "envoyais",
+        "ai envoyé"
+      ],
+      "answer": 0,
+      "explanation": "Real or likely condition: si + present, and the result is in the future (or present, or a command). Here: enverrai.",
+      "textId": null
+    },
+    {
+      "id": "b1-si_clauses-010",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "si_clauses",
+      "question": "Si on ne réserve pas, on n’___ pas de table.",
+      "options": [
+        "aurait",
+        "aura",
+        "avait",
+        "a eu"
+      ],
+      "answer": 1,
+      "explanation": "Real or likely condition: si + present, and the result is in the future (or present, or a command). Here: aura.",
+      "textId": null
+    },
+    {
+      "id": "b1-si_clauses-011",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "si_clauses",
+      "question": "Si tu manges trop de bonbons, tu ___ mal au ventre.",
+      "options": [
+        "aurais",
+        "avais",
+        "auras",
+        "as eu"
+      ],
+      "answer": 2,
+      "explanation": "Real or likely condition: si + present, and the result is in the future (or present, or a command). Here: auras.",
+      "textId": null
+    },
+    {
+      "id": "b1-si_clauses-012",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "si_clauses",
+      "question": "Si elle rate le bus, elle ___ en retard.",
+      "options": [
+        "serait",
+        "était",
+        "a été",
+        "sera"
+      ],
+      "answer": 3,
+      "explanation": "Real or likely condition: si + present, and the result is in the future (or present, or a command). Here: sera.",
+      "textId": null
+    },
+    {
+      "id": "b1-si_clauses-013",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "si_clauses",
+      "question": "Si vous voulez, je vous ___ la ville.",
+      "options": [
+        "montrerai",
+        "montrerais",
+        "montrais",
+        "ai montré"
+      ],
+      "answer": 0,
+      "explanation": "Real or likely condition: si + present, and the result is in the future (or present, or a command). Here: montrerai.",
+      "textId": null
+    },
+    {
+      "id": "b1-si_clauses-014",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "si_clauses",
+      "question": "Si je finis tôt, je t’___.",
+      "options": [
+        "appellerais",
+        "appellerai",
+        "appelais",
+        "ai appelé"
+      ],
+      "answer": 1,
+      "explanation": "Real or likely condition: si + present, and the result is in the future (or present, or a command). Here: appellerai.",
+      "textId": null
+    },
+    {
+      "id": "b1-si_clauses-015",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "si_clauses",
+      "question": "S’il neige cette nuit, les écoles ___ fermées demain.",
+      "options": [
+        "seraient",
+        "étaient",
+        "seront",
+        "ont été"
+      ],
+      "answer": 2,
+      "explanation": "Real or likely condition: si + present, and the result is in the future (or present, or a command). Here: seront.",
+      "textId": null
+    },
+    {
+      "id": "b1-si_clauses-016",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "si_clauses",
+      "question": "Si tu étudies un peu chaque jour, tu ___ vite.",
+      "options": [
+        "progresserais",
+        "progressais",
+        "as progressé",
+        "progresseras"
+      ],
+      "answer": 3,
+      "explanation": "Real or likely condition: si + present, and the result is in the future (or present, or a command). Here: progresseras.",
+      "textId": null
+    },
+    {
+      "id": "b1-si_clauses-017",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "si_clauses",
+      "question": "Si tu ___ demain, je serai content.",
+      "options": [
+        "viens",
+        "viendras",
+        "viendrais",
+        "venais"
+      ],
+      "answer": 0,
+      "explanation": "After si, a real or likely condition is in the present, never in the future. Here: viens.",
+      "textId": null
+    },
+    {
+      "id": "b1-si_clauses-018",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "si_clauses",
+      "question": "S’il ___ beau ce week-end, nous irons à la plage.",
+      "options": [
+        "fera",
+        "fait",
+        "ferait",
+        "faisait"
+      ],
+      "answer": 1,
+      "explanation": "After si, a real or likely condition is in the present, never in the future. Here: fait.",
+      "textId": null
+    },
+    {
+      "id": "b1-si_clauses-019",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "si_clauses",
+      "question": "Si vous ___ maintenant, vous arriverez à l’heure.",
+      "options": [
+        "partirez",
+        "partiriez",
+        "partez",
+        "partiez"
+      ],
+      "answer": 2,
+      "explanation": "After si, a real or likely condition is in the present, never in the future. Here: partez.",
+      "textId": null
+    },
+    {
+      "id": "b1-si_clauses-020",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "si_clauses",
+      "question": "Si elle ___ le temps, elle passera nous voir.",
+      "options": [
+        "aura",
+        "aurait",
+        "avait",
+        "a"
+      ],
+      "answer": 3,
+      "explanation": "After si, a real or likely condition is in the present, never in the future. Here: a.",
+      "textId": null
+    },
+    {
+      "id": "b1-si_clauses-021",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "si_clauses",
+      "question": "Si nous ___ ce match, nous serons champions.",
+      "options": [
+        "gagnons",
+        "gagnerons",
+        "gagnerions",
+        "gagnions"
+      ],
+      "answer": 0,
+      "explanation": "After si, a real or likely condition is in the present, never in the future. Here: gagnons.",
+      "textId": null
+    },
+    {
+      "id": "b1-si_clauses-022",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "si_clauses",
+      "question": "Si tu ___ fatigué, nous rentrerons plus tôt.",
+      "options": [
+        "seras",
+        "es",
+        "serais",
+        "étais"
+      ],
+      "answer": 1,
+      "explanation": "After si, a real or likely condition is in the present, never in the future. Here: es.",
+      "textId": null
+    },
+    {
+      "id": "b1-si_clauses-023",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "si_clauses",
+      "question": "Si je ___ le poste, je déménagerai à Montréal.",
+      "options": [
+        "obtiendrai",
+        "obtiendrais",
+        "obtiens",
+        "obtenais"
+      ],
+      "answer": 2,
+      "explanation": "After si, a real or likely condition is in the present, never in the future. Here: obtiens.",
+      "textId": null
+    },
+    {
+      "id": "b1-si_clauses-024",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "si_clauses",
+      "question": "S’ils ___ en retard, nous commencerons sans eux.",
+      "options": [
+        "seront",
+        "seraient",
+        "étaient",
+        "sont"
+      ],
+      "answer": 3,
+      "explanation": "After si, a real or likely condition is in the present, never in the future. Here: sont.",
+      "textId": null
+    },
+    {
+      "id": "b1-si_clauses-025",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "si_clauses",
+      "question": "Si tu ___ me voir, je te ferai un bon repas.",
+      "options": [
+        "viens",
+        "viendras",
+        "viendrais",
+        "venais"
+      ],
+      "answer": 0,
+      "explanation": "After si, a real or likely condition is in the present, never in the future. Here: viens.",
+      "textId": null
+    },
+    {
+      "id": "b1-si_clauses-026",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "si_clauses",
+      "question": "Si on ___ le métro, on arrivera plus vite.",
+      "options": [
+        "prendra",
+        "prend",
+        "prendrait",
+        "prenait"
+      ],
+      "answer": 1,
+      "explanation": "After si, a real or likely condition is in the present, never in the future. Here: prend.",
+      "textId": null
+    },
+    {
+      "id": "b1-si_clauses-027",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "si_clauses",
+      "question": "Si vous ___ des questions, je vous répondrai.",
+      "options": [
+        "aurez",
+        "auriez",
+        "avez",
+        "aviez"
+      ],
+      "answer": 2,
+      "explanation": "After si, a real or likely condition is in the present, never in the future. Here: avez.",
+      "textId": null
+    },
+    {
+      "id": "b1-si_clauses-028",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "si_clauses",
+      "question": "Si elle ___ m’aider, je finirai avant midi.",
+      "options": [
+        "pourra",
+        "pourrait",
+        "pouvait",
+        "peut"
+      ],
+      "answer": 3,
+      "explanation": "After si, a real or likely condition is in the present, never in the future. Here: peut.",
+      "textId": null
+    },
+    {
+      "id": "b1-si_clauses-029",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "si_clauses",
+      "question": "Si j’avais plus de temps, je ___ du sport.",
+      "options": [
+        "ferais",
+        "ferai",
+        "faisais",
+        "fais"
+      ],
+      "answer": 0,
+      "explanation": "Imagined or unlikely condition: si + imparfait, and the result is in the conditionnel présent. Here: ferais.",
+      "textId": null
+    },
+    {
+      "id": "b1-si_clauses-030",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "si_clauses",
+      "question": "Si elle parlait français, elle ___ travailler à Paris.",
+      "options": [
+        "pourra",
+        "pourrait",
+        "pouvait",
+        "peut"
+      ],
+      "answer": 1,
+      "explanation": "Imagined or unlikely condition: si + imparfait, and the result is in the conditionnel présent. Here: pourrait.",
+      "textId": null
+    },
+    {
+      "id": "b1-si_clauses-031",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "si_clauses",
+      "question": "Si nous habitions à la campagne, nous ___ un chien.",
+      "options": [
+        "aurons",
+        "avions",
+        "aurions",
+        "avons"
+      ],
+      "answer": 2,
+      "explanation": "Imagined or unlikely condition: si + imparfait, and the result is in the conditionnel présent. Here: aurions.",
+      "textId": null
+    },
+    {
+      "id": "b1-si_clauses-032",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "si_clauses",
+      "question": "Si tu étais à ma place, que ___-tu ?",
+      "options": [
+        "feras",
+        "faisais",
+        "fais",
+        "ferais"
+      ],
+      "answer": 3,
+      "explanation": "Imagined or unlikely condition: si + imparfait, and the result is in the conditionnel présent. Here: ferais.",
+      "textId": null
+    },
+    {
+      "id": "b1-si_clauses-033",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "si_clauses",
+      "question": "S’il faisait beau, on ___ dehors.",
+      "options": [
+        "mangerait",
+        "mangera",
+        "mangeait",
+        "mange"
+      ],
+      "answer": 0,
+      "explanation": "Imagined or unlikely condition: si + imparfait, and the result is in the conditionnel présent. Here: mangerait.",
+      "textId": null
+    },
+    {
+      "id": "b1-si_clauses-034",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "si_clauses",
+      "question": "Si j’étais riche, j’___ le tour du monde.",
+      "options": [
+        "ferai",
+        "ferais",
+        "faisais",
+        "fais"
+      ],
+      "answer": 1,
+      "explanation": "Imagined or unlikely condition: si + imparfait, and the result is in the conditionnel présent. Here: ferais.",
+      "textId": null
+    },
+    {
+      "id": "b1-si_clauses-035",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "si_clauses",
+      "question": "Si vous aviez une voiture, vous ___ venir plus souvent.",
+      "options": [
+        "pourrez",
+        "pouviez",
+        "pourriez",
+        "pouvez"
+      ],
+      "answer": 2,
+      "explanation": "Imagined or unlikely condition: si + imparfait, and the result is in the conditionnel présent. Here: pourriez.",
+      "textId": null
+    },
+    {
+      "id": "b1-si_clauses-036",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "si_clauses",
+      "question": "Si je gagnais au loto, j’___ une maison au bord de la mer.",
+      "options": [
+        "achèterai",
+        "achetais",
+        "achète",
+        "achèterais"
+      ],
+      "answer": 3,
+      "explanation": "Imagined or unlikely condition: si + imparfait, and the result is in the conditionnel présent. Here: achèterais.",
+      "textId": null
+    },
+    {
+      "id": "b1-si_clauses-037",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "si_clauses",
+      "question": "Si tu dormais plus, tu ___ moins fatigué.",
+      "options": [
+        "serais",
+        "seras",
+        "étais",
+        "es"
+      ],
+      "answer": 0,
+      "explanation": "Imagined or unlikely condition: si + imparfait, and the result is in the conditionnel présent. Here: serais.",
+      "textId": null
+    },
+    {
+      "id": "b1-si_clauses-038",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "si_clauses",
+      "question": "S’ils connaissaient la vérité, ils ___ furieux.",
+      "options": [
+        "seront",
+        "seraient",
+        "étaient",
+        "sont"
+      ],
+      "answer": 1,
+      "explanation": "Imagined or unlikely condition: si + imparfait, and the result is in the conditionnel présent. Here: seraient.",
+      "textId": null
+    },
+    {
+      "id": "b1-si_clauses-039",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "si_clauses",
+      "question": "Si elle avait le choix, elle ___ à l’étranger.",
+      "options": [
+        "vivra",
+        "vivait",
+        "vivrait",
+        "vit"
+      ],
+      "answer": 2,
+      "explanation": "Imagined or unlikely condition: si + imparfait, and the result is in the conditionnel présent. Here: vivrait.",
+      "textId": null
+    },
+    {
+      "id": "b1-si_clauses-040",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "si_clauses",
+      "question": "Si nous parlions mieux anglais, nous ___ plus facilement.",
+      "options": [
+        "voyagerons",
+        "voyagions",
+        "voyageons",
+        "voyagerions"
+      ],
+      "answer": 3,
+      "explanation": "Imagined or unlikely condition: si + imparfait, and the result is in the conditionnel présent. Here: voyagerions.",
+      "textId": null
+    },
+    {
+      "id": "b1-si_clauses-041",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "si_clauses",
+      "question": "Si je pouvais, je t’___.",
+      "options": [
+        "aiderais",
+        "aiderai",
+        "aidais",
+        "aide"
+      ],
+      "answer": 0,
+      "explanation": "Imagined or unlikely condition: si + imparfait, and the result is in the conditionnel présent. Here: aiderais.",
+      "textId": null
+    },
+    {
+      "id": "b1-si_clauses-042",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "si_clauses",
+      "question": "Si tu savais cuisiner, tu ___ moins d’argent au restaurant.",
+      "options": [
+        "dépenseras",
+        "dépenserais",
+        "dépensais",
+        "dépenses"
+      ],
+      "answer": 1,
+      "explanation": "Imagined or unlikely condition: si + imparfait, and the result is in the conditionnel présent. Here: dépenserais.",
+      "textId": null
+    },
+    {
+      "id": "b1-si_clauses-043",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "si_clauses",
+      "question": "Si on avait un jardin, on ___ des légumes.",
+      "options": [
+        "plantera",
+        "plantait",
+        "planterait",
+        "plante"
+      ],
+      "answer": 2,
+      "explanation": "Imagined or unlikely condition: si + imparfait, and the result is in the conditionnel présent. Here: planterait.",
+      "textId": null
+    },
+    {
+      "id": "b1-si_clauses-044",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "si_clauses",
+      "question": "Si le billet coûtait moins cher, je ___ avec vous.",
+      "options": [
+        "viendrai",
+        "venais",
+        "viens",
+        "viendrais"
+      ],
+      "answer": 3,
+      "explanation": "Imagined or unlikely condition: si + imparfait, and the result is in the conditionnel présent. Here: viendrais.",
+      "textId": null
+    },
+    {
+      "id": "b1-si_clauses-045",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "si_clauses",
+      "question": "Si j’___ plus de temps, je ferais du sport.",
+      "options": [
+        "avais",
+        "aurais",
+        "ai",
+        "aurai"
+      ],
+      "answer": 0,
+      "explanation": "After si, an imagined condition is in the imparfait, never in the conditional. Here: avais.",
+      "textId": null
+    },
+    {
+      "id": "b1-si_clauses-046",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "si_clauses",
+      "question": "Si elle ___ français, elle pourrait travailler à Paris.",
+      "options": [
+        "parlerait",
+        "parlait",
+        "parle",
+        "parlera"
+      ],
+      "answer": 1,
+      "explanation": "After si, an imagined condition is in the imparfait, never in the conditional. Here: parlait.",
+      "textId": null
+    },
+    {
+      "id": "b1-si_clauses-047",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "si_clauses",
+      "question": "Si nous ___ à la campagne, nous aurions un chien.",
+      "options": [
+        "habiterions",
+        "habitons",
+        "habitions",
+        "habiterons"
+      ],
+      "answer": 2,
+      "explanation": "After si, an imagined condition is in the imparfait, never in the conditional. Here: habitions.",
+      "textId": null
+    },
+    {
+      "id": "b1-si_clauses-048",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "si_clauses",
+      "question": "Si tu ___ à ma place, que ferais-tu ?",
+      "options": [
+        "serais",
+        "es",
+        "seras",
+        "étais"
+      ],
+      "answer": 3,
+      "explanation": "After si, an imagined condition is in the imparfait, never in the conditional. Here: étais.",
+      "textId": null
+    },
+    {
+      "id": "b1-si_clauses-049",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "si_clauses",
+      "question": "S’il ___ beau, on mangerait dehors.",
+      "options": [
+        "faisait",
+        "ferait",
+        "fait",
+        "fera"
+      ],
+      "answer": 0,
+      "explanation": "After si, an imagined condition is in the imparfait, never in the conditional. Here: faisait.",
+      "textId": null
+    },
+    {
+      "id": "b1-si_clauses-050",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "si_clauses",
+      "question": "Si j’___ riche, je ferais le tour du monde.",
+      "options": [
+        "serais",
+        "étais",
+        "suis",
+        "serai"
+      ],
+      "answer": 1,
+      "explanation": "After si, an imagined condition is in the imparfait, never in the conditional. Here: étais.",
+      "textId": null
+    },
+    {
+      "id": "b1-si_clauses-051",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "si_clauses",
+      "question": "Si vous ___ une voiture, vous pourriez venir plus souvent.",
+      "options": [
+        "auriez",
+        "avez",
+        "aviez",
+        "aurez"
+      ],
+      "answer": 2,
+      "explanation": "After si, an imagined condition is in the imparfait, never in the conditional. Here: aviez.",
+      "textId": null
+    },
+    {
+      "id": "b1-si_clauses-052",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "si_clauses",
+      "question": "Si je ___ au loto, j’achèterais une maison.",
+      "options": [
+        "gagnerais",
+        "gagne",
+        "gagnerai",
+        "gagnais"
+      ],
+      "answer": 3,
+      "explanation": "After si, an imagined condition is in the imparfait, never in the conditional. Here: gagnais.",
+      "textId": null
+    },
+    {
+      "id": "b1-si_clauses-053",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "si_clauses",
+      "question": "Si tu ___ plus, tu serais moins fatigué.",
+      "options": [
+        "dormais",
+        "dormirais",
+        "dors",
+        "dormiras"
+      ],
+      "answer": 0,
+      "explanation": "After si, an imagined condition is in the imparfait, never in the conditional. Here: dormais.",
+      "textId": null
+    },
+    {
+      "id": "b1-si_clauses-054",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "si_clauses",
+      "question": "S’ils ___ la vérité, ils seraient furieux.",
+      "options": [
+        "connaîtraient",
+        "connaissaient",
+        "connaissent",
+        "connaîtront"
+      ],
+      "answer": 1,
+      "explanation": "After si, an imagined condition is in the imparfait, never in the conditional. Here: connaissaient.",
+      "textId": null
+    },
+    {
+      "id": "b1-si_clauses-055",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "si_clauses",
+      "question": "Si je ___, je t’aiderais.",
+      "options": [
+        "pourrais",
+        "peux",
+        "pouvais",
+        "pourrai"
+      ],
+      "answer": 2,
+      "explanation": "After si, an imagined condition is in the imparfait, never in the conditional. Here: pouvais.",
+      "textId": null
+    },
+    {
+      "id": "b1-si_clauses-056",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "si_clauses",
+      "question": "Si tu ___ cuisiner, tu dépenserais moins d’argent.",
+      "options": [
+        "saurais",
+        "sais",
+        "sauras",
+        "savais"
+      ],
+      "answer": 3,
+      "explanation": "After si, an imagined condition is in the imparfait, never in the conditional. Here: savais.",
+      "textId": null
+    },
+    {
+      "id": "b1-si_clauses-057",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "si_clauses",
+      "question": "Si on ___ un jardin, on planterait des légumes.",
+      "options": [
+        "avait",
+        "aurait",
+        "a",
+        "aura"
+      ],
+      "answer": 0,
+      "explanation": "After si, an imagined condition is in the imparfait, never in the conditional. Here: avait.",
+      "textId": null
+    },
+    {
+      "id": "b1-si_clauses-058",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "si_clauses",
+      "question": "Si elle ___ plus près, on se verrait plus souvent.",
+      "options": [
+        "habiterait",
+        "habitait",
+        "habite",
+        "habitera"
+      ],
+      "answer": 1,
+      "explanation": "After si, an imagined condition is in the imparfait, never in the conditional. Here: habitait.",
+      "textId": null
+    },
+    {
+      "id": "b1-si_clauses-059",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "si_clauses",
+      "question": "Si tu as faim, ___ quelque chose !",
+      "options": [
+        "mangerais",
+        "mangeais",
+        "mange",
+        "mangeras"
+      ],
+      "answer": 2,
+      "explanation": "Si + present can be followed by a command: si tu as faim, mange quelque chose.",
+      "textId": null
+    },
+    {
+      "id": "b1-si_clauses-060",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "si_clauses",
+      "question": "Si vous êtes fatigués, ___-vous !",
+      "options": [
+        "reposeriez",
+        "reposiez",
+        "reposerez",
+        "reposez"
+      ],
+      "answer": 3,
+      "explanation": "Si + present can be followed by a command: si tu as faim, mange quelque chose.",
+      "textId": null
+    },
+    {
+      "id": "b1-si_clauses-061",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "si_clauses",
+      "question": "Si tu vois Paul, ___-lui bonjour de ma part.",
+      "options": [
+        "dis",
+        "dirais",
+        "disais",
+        "diras"
+      ],
+      "answer": 0,
+      "explanation": "Si + present can be followed by a command: si tu as faim, mange quelque chose.",
+      "textId": null
+    },
+    {
+      "id": "b1-si_clauses-062",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "si_clauses",
+      "question": "S’il pleut, ___ un parapluie !",
+      "options": [
+        "prendrais",
+        "prends",
+        "prenais",
+        "prendras"
+      ],
+      "answer": 1,
+      "explanation": "Si + present can be followed by a command: si tu as faim, mange quelque chose.",
+      "textId": null
+    },
+    {
+      "id": "b1-si_clauses-063",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "si_clauses",
+      "question": "Si tu ne comprends pas, ___-moi une question.",
+      "options": [
+        "poserais",
+        "posais",
+        "pose",
+        "poseras"
+      ],
+      "answer": 2,
+      "explanation": "Si + present can be followed by a command: si tu as faim, mange quelque chose.",
+      "textId": null
+    },
+    {
+      "id": "b1-si_clauses-064",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "si_clauses",
+      "question": "___ fait beau demain, nous irons au parc.",
+      "options": [
+        "Si il",
+        "Si’l",
+        "S’ils",
+        "S’il"
+      ],
+      "answer": 3,
+      "explanation": "Si becomes s’ only before il and ils: s’il, s’ils. It never changes before elle, elles or on.",
+      "textId": null
+    },
+    {
+      "id": "b1-si_clauses-065",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "si_clauses",
+      "question": "___ vient, nous serons six.",
+      "options": [
+        "Si elle",
+        "S’elle",
+        "Si’elle",
+        "S’il elle"
+      ],
+      "answer": 0,
+      "explanation": "Si becomes s’ only before il and ils: s’il, s’ils. It never changes before elle, elles or on.",
+      "textId": null
+    },
+    {
+      "id": "b1-si_clauses-066",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "si_clauses",
+      "question": "___ arrivent en retard, on commencera sans eux.",
+      "options": [
+        "Si ils",
+        "S’ils",
+        "S’il",
+        "Si’ls"
+      ],
+      "answer": 1,
+      "explanation": "Si becomes s’ only before il and ils: s’il, s’ils. It never changes before elle, elles or on.",
+      "textId": null
+    },
+    {
+      "id": "b1-si_clauses-067",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "si_clauses",
+      "question": "___ veut, on peut partir plus tôt.",
+      "options": [
+        "S’on",
+        "Si’on",
+        "Si on",
+        "S’ont"
+      ],
+      "answer": 2,
+      "explanation": "Si becomes s’ only before il and ils: s’il, s’ils. It never changes before elle, elles or on.",
+      "textId": null
+    },
+    {
+      "id": "b1-si_clauses-068",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "si_clauses",
+      "question": "Si on chauffe la glace, elle ___.",
+      "options": [
+        "fondrait",
+        "fondait",
+        "a fondu",
+        "fond"
+      ],
+      "answer": 3,
+      "explanation": "For a general truth or a habit, both verbs are in the present: si on chauffe la glace, elle fond.",
+      "textId": null
+    },
+    {
+      "id": "b1-si_clauses-069",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "si_clauses",
+      "question": "Si je bois du café le soir, je ne ___ pas.",
+      "options": [
+        "dors",
+        "dormirais",
+        "dormais",
+        "ai dormi"
+      ],
+      "answer": 0,
+      "explanation": "For a general truth or a habit, both verbs are in the present: si on chauffe la glace, elle fond.",
+      "textId": null
+    },
+    {
+      "id": "b1-si_clauses-070",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "si_clauses",
+      "question": "Si on mélange du bleu et du jaune, on ___ du vert.",
+      "options": [
+        "obtiendrait",
+        "obtient",
+        "obtenait",
+        "a obtenu"
+      ],
+      "answer": 1,
+      "explanation": "For a general truth or a habit, both verbs are in the present: si on chauffe la glace, elle fond.",
+      "textId": null
+    },
+    {
+      "id": "b1-si_clauses-071",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "si_clauses",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "Si j’aurais le temps, je viendrais.",
+        "Si j’avais le temps, je venais.",
+        "Si j’avais le temps, je viendrais.",
+        "Si j’aurai le temps, je viendrais."
+      ],
+      "answer": 2,
+      "explanation": "After si, an imagined condition is in the imparfait, never in the conditional. Here: Si j’avais le temps, je viendrais..",
+      "textId": null
+    },
+    {
+      "id": "b1-si_clauses-072",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "si_clauses",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "Si tu voudras, je t’aiderai.",
+        "Si tu voudrais, je t’aiderai.",
+        "Si tu veux, je t’aidais.",
+        "Si tu veux, je t’aiderai."
+      ],
+      "answer": 3,
+      "explanation": "After si, a real or likely condition is in the present, never in the future. Here: Si tu veux, je t’aiderai..",
+      "textId": null
+    },
+    {
+      "id": "b1-si_clauses-073",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "si_clauses",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "Si elle était là, elle saurait quoi faire.",
+        "Si elle serait là, elle saurait quoi faire.",
+        "Si elle était là, elle savait quoi faire.",
+        "Si elle sera là, elle saurait quoi faire."
+      ],
+      "answer": 0,
+      "explanation": "After si, an imagined condition is in the imparfait, never in the conditional. Here: Si elle était là, elle saurait quoi faire..",
+      "textId": null
+    },
+    {
+      "id": "b1-si_clauses-074",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "si_clauses",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "S’il pleuvra, nous resterons ici.",
+        "S’il pleut, nous resterons ici.",
+        "S’il pleuvrait, nous resterons ici.",
+        "S’il pleut, nous restions ici."
+      ],
+      "answer": 1,
+      "explanation": "After si, a real or likely condition is in the present, never in the future. Here: S’il pleut, nous resterons ici..",
+      "textId": null
+    },
+    {
+      "id": "b1-si_clauses-075",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "si_clauses",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "Si nous pourrions, nous partirions demain.",
+        "Si nous pouvions, nous partions demain.",
+        "Si nous pouvions, nous partirions demain.",
+        "Si nous pourrons, nous partirions demain."
+      ],
+      "answer": 2,
+      "explanation": "After si, an imagined condition is in the imparfait, never in the conditional. Here: Si nous pouvions, nous partirions demain..",
+      "textId": null
+    },
+    {
+      "id": "b1-si_clauses-076",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "si_clauses",
+      "question": "Je viendrais avec plaisir si je ___ libre.",
+      "options": [
+        "serais",
+        "suis",
+        "serai",
+        "étais"
+      ],
+      "answer": 3,
+      "explanation": "The si clause can come second. The rule is the same: conditional in the result, so imparfait after si.",
+      "textId": null
+    },
+    {
+      "id": "b1-si_clauses-077",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "si_clauses",
+      "question": "Nous irons au cinéma si tu ___ d’accord.",
+      "options": [
+        "es",
+        "seras",
+        "serais",
+        "étais"
+      ],
+      "answer": 0,
+      "explanation": "The si clause can come second. The rule is the same: future in the result, so present after si.",
+      "textId": null
+    },
+    {
+      "id": "b1-si_clauses-078",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "si_clauses",
+      "question": "Tu réussirais si tu ___ davantage.",
+      "options": [
+        "travaillerais",
+        "travaillais",
+        "travailles",
+        "travailleras"
+      ],
+      "answer": 1,
+      "explanation": "The si clause can come second. The rule is the same: conditional in the result, so imparfait after si.",
+      "textId": null
+    },
+    {
+      "id": "b1-si_clauses-079",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "si_clauses",
+      "question": "Elle t’appellera si elle ___ besoin d’aide.",
+      "options": [
+        "aura",
+        "aurait",
+        "a",
+        "avait"
+      ],
+      "answer": 2,
+      "explanation": "The si clause can come second. The rule is the same: future in the result, so present after si.",
+      "textId": null
+    },
+    {
+      "id": "b1-si_clauses-080",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "si_clauses",
+      "question": "Que ferais-tu si tu ___ un million d’euros ?",
+      "options": [
+        "gagnerais",
+        "gagnes",
+        "gagneras",
+        "gagnais"
+      ],
+      "answer": 3,
+      "explanation": "After si, an imagined condition is in the imparfait, never in the conditional. Here: gagnais.",
+      "textId": null
+    }
+  ]
+}

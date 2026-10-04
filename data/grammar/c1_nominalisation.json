@@ -1,0 +1,1317 @@
+{
+  "texts": [],
+  "questions": [
+    {
+      "id": "c1-nominalisation-001",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "nominalisation",
+      "question": "augmenter → ___",
+      "options": [
+        "l’augmentation",
+        "l’augmentement",
+        "l’augmentage",
+        "l’augmenture"
+      ],
+      "answer": 0,
+      "explanation": "Many verbs form a feminine noun in -tion / -ation / -ition / -sion: l’augmentation.",
+      "textId": null
+    },
+    {
+      "id": "c1-nominalisation-002",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "nominalisation",
+      "question": "construire → ___",
+      "options": [
+        "le construisement",
+        "la construction",
+        "le construisage",
+        "la construiture"
+      ],
+      "answer": 1,
+      "explanation": "Many verbs form a feminine noun in -tion / -ation / -ition / -sion: la construction.",
+      "textId": null
+    },
+    {
+      "id": "c1-nominalisation-003",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "nominalisation",
+      "question": "produire → ___",
+      "options": [
+        "le produisement",
+        "le produisage",
+        "la production",
+        "la produiture"
+      ],
+      "answer": 2,
+      "explanation": "Many verbs form a feminine noun in -tion / -ation / -ition / -sion: la production.",
+      "textId": null
+    },
+    {
+      "id": "c1-nominalisation-004",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "nominalisation",
+      "question": "réduire → ___",
+      "options": [
+        "le réduisement",
+        "la réduisure",
+        "le réduisage",
+        "la réduction"
+      ],
+      "answer": 3,
+      "explanation": "Many verbs form a feminine noun in -tion / -ation / -ition / -sion: la réduction.",
+      "textId": null
+    },
+    {
+      "id": "c1-nominalisation-005",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "nominalisation",
+      "question": "décider → ___",
+      "options": [
+        "la décision",
+        "le décidement",
+        "la décidation",
+        "le décidage"
+      ],
+      "answer": 0,
+      "explanation": "Many verbs form a feminine noun in -tion / -ation / -ition / -sion: la décision.",
+      "textId": null
+    },
+    {
+      "id": "c1-nominalisation-006",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "nominalisation",
+      "question": "expliquer → ___",
+      "options": [
+        "l’expliquement",
+        "l’explication",
+        "l’expliquage",
+        "l’expliqure"
+      ],
+      "answer": 1,
+      "explanation": "Many verbs form a feminine noun in -tion / -ation / -ition / -sion: l’explication.",
+      "textId": null
+    },
+    {
+      "id": "c1-nominalisation-007",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "nominalisation",
+      "question": "créer → ___",
+      "options": [
+        "le créement",
+        "le créage",
+        "la création",
+        "la créure"
+      ],
+      "answer": 2,
+      "explanation": "Many verbs form a feminine noun in -tion / -ation / -ition / -sion: la création.",
+      "textId": null
+    },
+    {
+      "id": "c1-nominalisation-008",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "nominalisation",
+      "question": "permettre → ___",
+      "options": [
+        "le permettement",
+        "la permettation",
+        "le permettage",
+        "la permission"
+      ],
+      "answer": 3,
+      "explanation": "Many verbs form a feminine noun in -tion / -ation / -ition / -sion: la permission.",
+      "textId": null
+    },
+    {
+      "id": "c1-nominalisation-009",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "nominalisation",
+      "question": "détruire → ___",
+      "options": [
+        "la destruction",
+        "le détruisement",
+        "la détruition",
+        "le détruisage"
+      ],
+      "answer": 0,
+      "explanation": "Many verbs form a feminine noun in -tion / -ation / -ition / -sion: la destruction.",
+      "textId": null
+    },
+    {
+      "id": "c1-nominalisation-010",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "nominalisation",
+      "question": "interdire → ___",
+      "options": [
+        "l’interdisement",
+        "l’interdiction",
+        "l’interdisage",
+        "l’interdisation"
+      ],
+      "answer": 1,
+      "explanation": "Many verbs form a feminine noun in -tion / -ation / -ition / -sion: l’interdiction.",
+      "textId": null
+    },
+    {
+      "id": "c1-nominalisation-011",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "nominalisation",
+      "question": "diminuer → ___",
+      "options": [
+        "le diminuement",
+        "le diminuage",
+        "la diminution",
+        "la diminuation"
+      ],
+      "answer": 2,
+      "explanation": "Many verbs form a feminine noun in -tion / -ation / -ition / -sion: la diminution.",
+      "textId": null
+    },
+    {
+      "id": "c1-nominalisation-012",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "nominalisation",
+      "question": "élire → ___",
+      "options": [
+        "l’élisement",
+        "l’élisation",
+        "l’élisage",
+        "l’élection"
+      ],
+      "answer": 3,
+      "explanation": "Many verbs form a feminine noun in -tion / -ation / -ition / -sion: l’élection.",
+      "textId": null
+    },
+    {
+      "id": "c1-nominalisation-013",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "nominalisation",
+      "question": "comprendre → ___",
+      "options": [
+        "la compréhension",
+        "le comprenement",
+        "la comprenation",
+        "le comprenage"
+      ],
+      "answer": 0,
+      "explanation": "Many verbs form a feminine noun in -tion / -ation / -ition / -sion: la compréhension.",
+      "textId": null
+    },
+    {
+      "id": "c1-nominalisation-014",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "nominalisation",
+      "question": "disparaître → ___",
+      "options": [
+        "le disparaissement",
+        "la disparition",
+        "la disparaissance",
+        "le disparaissage"
+      ],
+      "answer": 1,
+      "explanation": "Many verbs form a feminine noun in -tion / -ation / -ition / -sion: la disparition.",
+      "textId": null
+    },
+    {
+      "id": "c1-nominalisation-015",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "nominalisation",
+      "question": "changer → ___",
+      "options": [
+        "la changeation",
+        "le changeage",
+        "le changement",
+        "la changeure"
+      ],
+      "answer": 2,
+      "explanation": "Many verbs form a masculine noun in -ment: le changement.",
+      "textId": null
+    },
+    {
+      "id": "c1-nominalisation-016",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "nominalisation",
+      "question": "développer → ___",
+      "options": [
+        "la développation",
+        "le développage",
+        "la développure",
+        "le développement"
+      ],
+      "answer": 3,
+      "explanation": "Many verbs form a masculine noun in -ment: le développement.",
+      "textId": null
+    },
+    {
+      "id": "c1-nominalisation-017",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "nominalisation",
+      "question": "remplacer → ___",
+      "options": [
+        "le remplacement",
+        "la remplaçation",
+        "le remplaçage",
+        "la remplaçure"
+      ],
+      "answer": 0,
+      "explanation": "Many verbs form a masculine noun in -ment: le remplacement.",
+      "textId": null
+    },
+    {
+      "id": "c1-nominalisation-018",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "nominalisation",
+      "question": "licencier → ___",
+      "options": [
+        "la licenciation",
+        "le licenciement",
+        "le licenciage",
+        "la licenciure"
+      ],
+      "answer": 1,
+      "explanation": "Many verbs form a masculine noun in -ment: le licenciement.",
+      "textId": null
+    },
+    {
+      "id": "c1-nominalisation-019",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "nominalisation",
+      "question": "payer → ___",
+      "options": [
+        "la payation",
+        "le payage",
+        "le paiement",
+        "la payure"
+      ],
+      "answer": 2,
+      "explanation": "Many verbs form a masculine noun in -ment: le paiement.",
+      "textId": null
+    },
+    {
+      "id": "c1-nominalisation-020",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "nominalisation",
+      "question": "enseigner → ___",
+      "options": [
+        "l’enseignation",
+        "l’enseignage",
+        "l’enseignure",
+        "l’enseignement"
+      ],
+      "answer": 3,
+      "explanation": "Many verbs form a masculine noun in -ment: l’enseignement.",
+      "textId": null
+    },
+    {
+      "id": "c1-nominalisation-021",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "nominalisation",
+      "question": "ralentir → ___",
+      "options": [
+        "le ralentissement",
+        "la ralentition",
+        "le ralentissage",
+        "la ralentissure"
+      ],
+      "answer": 0,
+      "explanation": "Many verbs form a masculine noun in -ment: le ralentissement.",
+      "textId": null
+    },
+    {
+      "id": "c1-nominalisation-022",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "nominalisation",
+      "question": "réchauffer → ___",
+      "options": [
+        "la réchauffation",
+        "le réchauffement",
+        "le réchauffage",
+        "la réchauffure"
+      ],
+      "answer": 1,
+      "explanation": "Many verbs form a masculine noun in -ment: le réchauffement.",
+      "textId": null
+    },
+    {
+      "id": "c1-nominalisation-023",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "nominalisation",
+      "question": "vieillir → ___",
+      "options": [
+        "la vieillition",
+        "le vieillissage",
+        "le vieillissement",
+        "la vieillissure"
+      ],
+      "answer": 2,
+      "explanation": "Many verbs form a masculine noun in -ment: le vieillissement.",
+      "textId": null
+    },
+    {
+      "id": "c1-nominalisation-024",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "nominalisation",
+      "question": "déménager → ___",
+      "options": [
+        "la déménagation",
+        "le déménageage",
+        "la déménagure",
+        "le déménagement"
+      ],
+      "answer": 3,
+      "explanation": "Many verbs form a masculine noun in -ment: le déménagement.",
+      "textId": null
+    },
+    {
+      "id": "c1-nominalisation-025",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "nominalisation",
+      "question": "partager → ___",
+      "options": [
+        "le partage",
+        "le partagement",
+        "la partagation",
+        "la partageure"
+      ],
+      "answer": 0,
+      "explanation": "Some verbs form a masculine noun in -age: le partage.",
+      "textId": null
+    },
+    {
+      "id": "c1-nominalisation-026",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "nominalisation",
+      "question": "nettoyer → ___",
+      "options": [
+        "le nettoyement",
+        "le nettoyage",
+        "la nettoyation",
+        "la nettoyure"
+      ],
+      "answer": 1,
+      "explanation": "Some verbs form a masculine noun in -age: le nettoyage.",
+      "textId": null
+    },
+    {
+      "id": "c1-nominalisation-027",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "nominalisation",
+      "question": "passer → ___",
+      "options": [
+        "le passement",
+        "la passition",
+        "le passage",
+        "la passure"
+      ],
+      "answer": 2,
+      "explanation": "Some verbs form a masculine noun in -age: le passage.",
+      "textId": null
+    },
+    {
+      "id": "c1-nominalisation-028",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "nominalisation",
+      "question": "atterrir → ___",
+      "options": [
+        "l’atterrissement",
+        "l’atterrition",
+        "l’atterrissure",
+        "l’atterrissage"
+      ],
+      "answer": 3,
+      "explanation": "Some verbs form a masculine noun in -age: l’atterrissage.",
+      "textId": null
+    },
+    {
+      "id": "c1-nominalisation-029",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "nominalisation",
+      "question": "chômer → ___",
+      "options": [
+        "le chômage",
+        "le chômement",
+        "la chômation",
+        "la chômure"
+      ],
+      "answer": 0,
+      "explanation": "Some verbs form a masculine noun in -age: le chômage.",
+      "textId": null
+    },
+    {
+      "id": "c1-nominalisation-030",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "nominalisation",
+      "question": "recycler → ___",
+      "options": [
+        "le recyclement",
+        "le recyclage",
+        "la recyclation",
+        "la recyclure"
+      ],
+      "answer": 1,
+      "explanation": "Some verbs form a masculine noun in -age: le recyclage.",
+      "textId": null
+    },
+    {
+      "id": "c1-nominalisation-031",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "nominalisation",
+      "question": "ouvrir (un magasin) → ___",
+      "options": [
+        "l’ouvrement",
+        "l’ouvration",
+        "l’ouverture",
+        "l’ouvrition"
+      ],
+      "answer": 2,
+      "explanation": "Some verbs form a feminine noun in -ure: l’ouverture.",
+      "textId": null
+    },
+    {
+      "id": "c1-nominalisation-032",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "nominalisation",
+      "question": "fermer → ___",
+      "options": [
+        "le fermement",
+        "la fermation",
+        "la fermure",
+        "la fermeture"
+      ],
+      "answer": 3,
+      "explanation": "Some verbs form a feminine noun in -ure: la fermeture.",
+      "textId": null
+    },
+    {
+      "id": "c1-nominalisation-033",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "nominalisation",
+      "question": "lire → ___",
+      "options": [
+        "la lecture",
+        "le lisement",
+        "la lisation",
+        "le lisage"
+      ],
+      "answer": 0,
+      "explanation": "Some verbs form a feminine noun in -ure: la lecture.",
+      "textId": null
+    },
+    {
+      "id": "c1-nominalisation-034",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "nominalisation",
+      "question": "signer → ___",
+      "options": [
+        "le signement",
+        "la signature",
+        "la signation",
+        "le signage"
+      ],
+      "answer": 1,
+      "explanation": "Some verbs form a feminine noun in -ure: la signature.",
+      "textId": null
+    },
+    {
+      "id": "c1-nominalisation-035",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "nominalisation",
+      "question": "rompre → ___",
+      "options": [
+        "le rompement",
+        "la rompation",
+        "la rupture",
+        "le rompage"
+      ],
+      "answer": 2,
+      "explanation": "Some verbs form a feminine noun in -ure: la rupture.",
+      "textId": null
+    },
+    {
+      "id": "c1-nominalisation-036",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "nominalisation",
+      "question": "blesser → ___",
+      "options": [
+        "le blessement",
+        "la blessation",
+        "le blessage",
+        "la blessure"
+      ],
+      "answer": 3,
+      "explanation": "Some verbs form a feminine noun in -ure: la blessure.",
+      "textId": null
+    },
+    {
+      "id": "c1-nominalisation-037",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "nominalisation",
+      "question": "arriver (pour une personne) → ___",
+      "options": [
+        "l’arrivée",
+        "l’arrivement",
+        "l’arrivation",
+        "l’arrivure"
+      ],
+      "answer": 0,
+      "explanation": "Some nouns are formed from the verb stem with no suffix, or from the past participle: l’arrivée.",
+      "textId": null
+    },
+    {
+      "id": "c1-nominalisation-038",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "nominalisation",
+      "question": "partir → ___",
+      "options": [
+        "le partement",
+        "le départ",
+        "la partation",
+        "le partissage"
+      ],
+      "answer": 1,
+      "explanation": "Some nouns are formed from the verb stem with no suffix, or from the past participle: le départ.",
+      "textId": null
+    },
+    {
+      "id": "c1-nominalisation-039",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "nominalisation",
+      "question": "choisir → ___",
+      "options": [
+        "le choisissement",
+        "la choisition",
+        "le choix",
+        "le choisissage"
+      ],
+      "answer": 2,
+      "explanation": "Some nouns are formed from the verb stem with no suffix, or from the past participle: le choix.",
+      "textId": null
+    },
+    {
+      "id": "c1-nominalisation-040",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "nominalisation",
+      "question": "essayer → ___",
+      "options": [
+        "l’essayement",
+        "l’essayation",
+        "l’essayure",
+        "l’essai"
+      ],
+      "answer": 3,
+      "explanation": "Some nouns are formed from the verb stem with no suffix, or from the past participle: l’essai.",
+      "textId": null
+    },
+    {
+      "id": "c1-nominalisation-041",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "nominalisation",
+      "question": "refuser → ___",
+      "options": [
+        "le refus",
+        "le refusement",
+        "la refusation",
+        "le refusage"
+      ],
+      "answer": 0,
+      "explanation": "Some nouns are formed from the verb stem with no suffix, or from the past participle: le refus.",
+      "textId": null
+    },
+    {
+      "id": "c1-nominalisation-042",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "nominalisation",
+      "question": "achever → ___",
+      "options": [
+        "l’achevation",
+        "l’achèvement",
+        "l’achevage",
+        "l’achevure"
+      ],
+      "answer": 1,
+      "explanation": "Many verbs form a masculine noun in -ment: l’achèvement.",
+      "textId": null
+    },
+    {
+      "id": "c1-nominalisation-043",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "nominalisation",
+      "question": "vendre → ___",
+      "options": [
+        "le vendement",
+        "la vendition",
+        "la vente",
+        "le vendage"
+      ],
+      "answer": 2,
+      "explanation": "Some nouns are formed from the verb stem with no suffix, or from the past participle: la vente.",
+      "textId": null
+    },
+    {
+      "id": "c1-nominalisation-044",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "nominalisation",
+      "question": "perdre → ___",
+      "options": [
+        "le perdement",
+        "la perdation",
+        "le perdage",
+        "la perte"
+      ],
+      "answer": 3,
+      "explanation": "Some nouns are formed from the verb stem with no suffix, or from the past participle: la perte.",
+      "textId": null
+    },
+    {
+      "id": "c1-nominalisation-045",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "nominalisation",
+      "question": "entrer → ___",
+      "options": [
+        "l’entrée",
+        "l’entrement",
+        "l’entration",
+        "l’entrage"
+      ],
+      "answer": 0,
+      "explanation": "Some nouns are formed from the verb stem with no suffix, or from the past participle: l’entrée.",
+      "textId": null
+    },
+    {
+      "id": "c1-nominalisation-046",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "nominalisation",
+      "question": "sortir → ___",
+      "options": [
+        "le sortissement",
+        "la sortie",
+        "la sortition",
+        "le sortage"
+      ],
+      "answer": 1,
+      "explanation": "Some nouns are formed from the verb stem with no suffix, or from the past participle: la sortie.",
+      "textId": null
+    },
+    {
+      "id": "c1-nominalisation-047",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "nominalisation",
+      "question": "revenir → ___",
+      "options": [
+        "le revenement",
+        "la revenation",
+        "le retour",
+        "le revenage"
+      ],
+      "answer": 2,
+      "explanation": "Some nouns are formed from the verb stem with no suffix, or from the past participle: le retour.",
+      "textId": null
+    },
+    {
+      "id": "c1-nominalisation-048",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "nominalisation",
+      "question": "voler (pour un avion) → ___",
+      "options": [
+        "le volement",
+        "la volation",
+        "la volure",
+        "le vol"
+      ],
+      "answer": 3,
+      "explanation": "Some nouns are formed from the verb stem with no suffix, or from the past participle: le vol.",
+      "textId": null
+    },
+    {
+      "id": "c1-nominalisation-049",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "nominalisation",
+      "question": "beau → ___",
+      "options": [
+        "la beauté",
+        "la beautesse",
+        "la beauteur",
+        "le beautisme"
+      ],
+      "answer": 0,
+      "explanation": "Many adjectives form a feminine noun in -té / -ité: la beauté.",
+      "textId": null
+    },
+    {
+      "id": "c1-nominalisation-050",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "nominalisation",
+      "question": "difficile → ___",
+      "options": [
+        "la difficilité",
+        "la difficulté",
+        "la difficilesse",
+        "le difficilement"
+      ],
+      "answer": 1,
+      "explanation": "Many adjectives form a feminine noun in -té / -ité: la difficulté.",
+      "textId": null
+    },
+    {
+      "id": "c1-nominalisation-051",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "nominalisation",
+      "question": "possible → ___",
+      "options": [
+        "la possibleté",
+        "la possiblesse",
+        "la possibilité",
+        "le possiblement"
+      ],
+      "answer": 2,
+      "explanation": "Many adjectives form a feminine noun in -té / -ité: la possibilité.",
+      "textId": null
+    },
+    {
+      "id": "c1-nominalisation-052",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "nominalisation",
+      "question": "libre → ___",
+      "options": [
+        "la libreté",
+        "la libresse",
+        "la libritude",
+        "la liberté"
+      ],
+      "answer": 3,
+      "explanation": "Many adjectives form a feminine noun in -té / -ité: la liberté.",
+      "textId": null
+    },
+    {
+      "id": "c1-nominalisation-053",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "nominalisation",
+      "question": "égal → ___",
+      "options": [
+        "l’égalité",
+        "l’égalesse",
+        "l’égalitude",
+        "l’égaleur"
+      ],
+      "answer": 0,
+      "explanation": "Many adjectives form a feminine noun in -té / -ité: l’égalité.",
+      "textId": null
+    },
+    {
+      "id": "c1-nominalisation-054",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "nominalisation",
+      "question": "pauvre → ___",
+      "options": [
+        "la pauvreur",
+        "la pauvreté",
+        "la pauvritude",
+        "la pauvrité"
+      ],
+      "answer": 1,
+      "explanation": "Many adjectives form a feminine noun in -té / -ité: la pauvreté.",
+      "textId": null
+    },
+    {
+      "id": "c1-nominalisation-055",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "nominalisation",
+      "question": "curieux → ___",
+      "options": [
+        "la curieusité",
+        "la curieuseté",
+        "la curiosité",
+        "la curiesse"
+      ],
+      "answer": 2,
+      "explanation": "Many adjectives form a feminine noun in -té / -ité: la curiosité.",
+      "textId": null
+    },
+    {
+      "id": "c1-nominalisation-056",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "nominalisation",
+      "question": "nécessaire → ___",
+      "options": [
+        "la nécessairité",
+        "la nécessaireté",
+        "la nécessitude",
+        "la nécessité"
+      ],
+      "answer": 3,
+      "explanation": "Many adjectives form a feminine noun in -té / -ité: la nécessité.",
+      "textId": null
+    },
+    {
+      "id": "c1-nominalisation-057",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "nominalisation",
+      "question": "riche → ___",
+      "options": [
+        "la richesse",
+        "la richeté",
+        "la richité",
+        "la richeur"
+      ],
+      "answer": 0,
+      "explanation": "Some adjectives form a feminine noun in -esse, -eur, -ise, -ie, -ance / -ence or -itude: la richesse.",
+      "textId": null
+    },
+    {
+      "id": "c1-nominalisation-058",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "nominalisation",
+      "question": "triste → ___",
+      "options": [
+        "la tristeté",
+        "la tristesse",
+        "la tristité",
+        "la tristeur"
+      ],
+      "answer": 1,
+      "explanation": "Some adjectives form a feminine noun in -esse, -eur, -ise, -ie, -ance / -ence or -itude: la tristesse.",
+      "textId": null
+    },
+    {
+      "id": "c1-nominalisation-059",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "nominalisation",
+      "question": "jeune → ___",
+      "options": [
+        "la jeuneté",
+        "la jeunité",
+        "la jeunesse",
+        "la jeuneur"
+      ],
+      "answer": 2,
+      "explanation": "Some adjectives form a feminine noun in -esse, -eur, -ise, -ie, -ance / -ence or -itude: la jeunesse.",
+      "textId": null
+    },
+    {
+      "id": "c1-nominalisation-060",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "nominalisation",
+      "question": "lent → ___",
+      "options": [
+        "la lenteté",
+        "la lentesse",
+        "la lentité",
+        "la lenteur"
+      ],
+      "answer": 3,
+      "explanation": "Some adjectives form a feminine noun in -esse, -eur, -ise, -ie, -ance / -ence or -itude: la lenteur.",
+      "textId": null
+    },
+    {
+      "id": "c1-nominalisation-061",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "nominalisation",
+      "question": "doux → ___",
+      "options": [
+        "la douceur",
+        "la douceté",
+        "la doucesse",
+        "la doucité"
+      ],
+      "answer": 0,
+      "explanation": "Some adjectives form a feminine noun in -esse, -eur, -ise, -ie, -ance / -ence or -itude: la douceur.",
+      "textId": null
+    },
+    {
+      "id": "c1-nominalisation-062",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "nominalisation",
+      "question": "gentil → ___",
+      "options": [
+        "la gentilité",
+        "la gentillesse",
+        "la gentilleté",
+        "la gentilleur"
+      ],
+      "answer": 1,
+      "explanation": "Some adjectives form a feminine noun in -esse, -eur, -ise, -ie, -ance / -ence or -itude: la gentillesse.",
+      "textId": null
+    },
+    {
+      "id": "c1-nominalisation-063",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "nominalisation",
+      "question": "franc → ___",
+      "options": [
+        "la francheté",
+        "la franchesse",
+        "la franchise",
+        "la francheur"
+      ],
+      "answer": 2,
+      "explanation": "Some adjectives form a feminine noun in -esse, -eur, -ise, -ie, -ance / -ence or -itude: la franchise.",
+      "textId": null
+    },
+    {
+      "id": "c1-nominalisation-064",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "nominalisation",
+      "question": "important → ___",
+      "options": [
+        "l’importanté",
+        "l’importantesse",
+        "l’importanteur",
+        "l’importance"
+      ],
+      "answer": 3,
+      "explanation": "Some adjectives form a feminine noun in -esse, -eur, -ise, -ie, -ance / -ence or -itude: l’importance.",
+      "textId": null
+    },
+    {
+      "id": "c1-nominalisation-065",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "nominalisation",
+      "question": "patient → ___",
+      "options": [
+        "la patience",
+        "la patienteté",
+        "la patientesse",
+        "la patientitude"
+      ],
+      "answer": 0,
+      "explanation": "Some adjectives form a feminine noun in -esse, -eur, -ise, -ie, -ance / -ence or -itude: la patience.",
+      "textId": null
+    },
+    {
+      "id": "c1-nominalisation-066",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "nominalisation",
+      "question": "seul → ___",
+      "options": [
+        "la seuleté",
+        "la solitude",
+        "la seulesse",
+        "la seuleur"
+      ],
+      "answer": 1,
+      "explanation": "Some adjectives form a feminine noun in -esse, -eur, -ise, -ie, -ance / -ence or -itude: la solitude.",
+      "textId": null
+    },
+    {
+      "id": "c1-nominalisation-067",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "nominalisation",
+      "question": "jaloux → ___",
+      "options": [
+        "la jalouseté",
+        "la jalousesse",
+        "la jalousie",
+        "la jalouseur"
+      ],
+      "answer": 2,
+      "explanation": "Some adjectives form a feminine noun in -esse, -eur, -ise, -ie, -ance / -ence or -itude: la jalousie.",
+      "textId": null
+    },
+    {
+      "id": "c1-nominalisation-068",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "nominalisation",
+      "question": "Parce qu’il pleut, le match est annulé. → ___ la pluie, le match est annulé.",
+      "options": [
+        "Bien que",
+        "Pour que",
+        "Lors de",
+        "En raison de"
+      ],
+      "answer": 3,
+      "explanation": "Turning a clause into a noun phrase changes the connector: parce que → à cause de / en raison de; bien que → malgré; avant que → avant; après que → après; pour que → pour / en vue de; quand → lors de.",
+      "textId": null
+    },
+    {
+      "id": "c1-nominalisation-069",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "nominalisation",
+      "question": "Bien qu’il soit fatigué, il continue. → ___ sa fatigue, il continue.",
+      "options": [
+        "Malgré",
+        "À cause de",
+        "Grâce à",
+        "Lors de"
+      ],
+      "answer": 0,
+      "explanation": "Turning a clause into a noun phrase changes the connector: parce que → à cause de / en raison de; bien que → malgré; avant que → avant; après que → après; pour que → pour / en vue de; quand → lors de.",
+      "textId": null
+    },
+    {
+      "id": "c1-nominalisation-070",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "nominalisation",
+      "question": "Avant qu’il parte, je veux lui parler. → ___ son départ, je veux lui parler.",
+      "options": [
+        "Avant de",
+        "Avant",
+        "Avant que",
+        "Lors"
+      ],
+      "answer": 1,
+      "explanation": "Turning a clause into a noun phrase changes the connector: parce que → à cause de / en raison de; bien que → malgré; avant que → avant; après que → après; pour que → pour / en vue de; quand → lors de.",
+      "textId": null
+    },
+    {
+      "id": "c1-nominalisation-071",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "nominalisation",
+      "question": "Quand le président est arrivé, tout le monde s’est levé. → ___ l’arrivée du président, tout le monde s’est levé.",
+      "options": [
+        "Malgré",
+        "Grâce à",
+        "Lors de",
+        "En vue de"
+      ],
+      "answer": 2,
+      "explanation": "Turning a clause into a noun phrase changes the connector: parce que → à cause de / en raison de; bien que → malgré; avant que → avant; après que → après; pour que → pour / en vue de; quand → lors de.",
+      "textId": null
+    },
+    {
+      "id": "c1-nominalisation-072",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "nominalisation",
+      "question": "Après que les travaux ont été terminés, la route a rouvert. → ___ la fin des travaux, la route a rouvert.",
+      "options": [
+        "Après que",
+        "Après de",
+        "Avant",
+        "Après"
+      ],
+      "answer": 3,
+      "explanation": "Turning a clause into a noun phrase changes the connector: parce que → à cause de / en raison de; bien que → malgré; avant que → avant; après que → après; pour que → pour / en vue de; quand → lors de.",
+      "textId": null
+    },
+    {
+      "id": "c1-nominalisation-073",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "nominalisation",
+      "question": "Il s’entraîne pour réussir le concours. → Il s’entraîne ___ sa réussite au concours.",
+      "options": [
+        "en vue de",
+        "malgré",
+        "lors de",
+        "à cause de"
+      ],
+      "answer": 0,
+      "explanation": "Turning a clause into a noun phrase changes the connector: parce que → à cause de / en raison de; bien que → malgré; avant que → avant; après que → après; pour que → pour / en vue de; quand → lors de.",
+      "textId": null
+    },
+    {
+      "id": "c1-nominalisation-074",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "nominalisation",
+      "question": "Les prix ont fortement augmenté. → une ___ augmentation des prix",
+      "options": [
+        "fortement",
+        "forte",
+        "fort",
+        "fortes"
+      ],
+      "answer": 1,
+      "explanation": "When a verb becomes a noun, the adverb becomes an adjective that agrees with the noun: augmenter fortement → une forte augmentation.",
+      "textId": null
+    },
+    {
+      "id": "c1-nominalisation-075",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "nominalisation",
+      "question": "Le chômage a baissé légèrement. → une ___ baisse du chômage",
+      "options": [
+        "légèrement",
+        "léger",
+        "légère",
+        "légers"
+      ],
+      "answer": 2,
+      "explanation": "When a verb becomes a noun, the adverb becomes an adjective that agrees with the noun: augmenter fortement → une forte augmentation.",
+      "textId": null
+    },
+    {
+      "id": "c1-nominalisation-076",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "nominalisation",
+      "question": "La situation s’améliore rapidement. → une amélioration ___ de la situation",
+      "options": [
+        "rapidement",
+        "rapides",
+        "rapidité",
+        "rapide"
+      ],
+      "answer": 3,
+      "explanation": "When a verb becomes a noun, the adverb becomes an adjective that agrees with the noun: augmenter fortement → une forte augmentation.",
+      "textId": null
+    },
+    {
+      "id": "c1-nominalisation-077",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "nominalisation",
+      "question": "Les températures ont brutalement chuté. → une chute ___ des températures",
+      "options": [
+        "brutale",
+        "brutalement",
+        "brutal",
+        "brutaux"
+      ],
+      "answer": 0,
+      "explanation": "When a verb becomes a noun, the adverb becomes an adjective that agrees with the noun: augmenter fortement → une forte augmentation.",
+      "textId": null
+    },
+    {
+      "id": "c1-nominalisation-078",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "nominalisation",
+      "question": "Le train arrive. → l’arrivée ___ train",
+      "options": [
+        "le",
+        "du",
+        "au",
+        "par le"
+      ],
+      "answer": 1,
+      "explanation": "The subject or object of the verb becomes a complement with de: le train arrive → l’arrivée du train.",
+      "textId": null
+    },
+    {
+      "id": "c1-nominalisation-079",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "nominalisation",
+      "question": "Les ouvriers construisent un pont. → la construction ___ pont par les ouvriers",
+      "options": [
+        "un",
+        "à un",
+        "d’un",
+        "par un"
+      ],
+      "answer": 2,
+      "explanation": "The subject or object of the verb becomes a complement with de: le train arrive → l’arrivée du train.",
+      "textId": null
+    },
+    {
+      "id": "c1-nominalisation-080",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "nominalisation",
+      "question": "On a ouvert le musée. → l’ouverture ___ musée",
+      "options": [
+        "le",
+        "au",
+        "par le",
+        "du"
+      ],
+      "answer": 3,
+      "explanation": "The subject or object of the verb becomes a complement with de: le train arrive → l’arrivée du train.",
+      "textId": null
+    },
+    {
+      "id": "c1-nominalisation-081",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "nominalisation",
+      "question": "Choisis le genre correct :",
+      "options": [
+        "le développement",
+        "la développement",
+        "le production",
+        "la changement"
+      ],
+      "answer": 0,
+      "explanation": "Nouns in -tion, -sion, -ure, -té, -esse, -ance, -ence are feminine; nouns in -ment, -age, -isme are masculine (with a few exceptions such as la page, l’image, la plage).",
+      "textId": null
+    },
+    {
+      "id": "c1-nominalisation-082",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "nominalisation",
+      "question": "Choisis le genre correct :",
+      "options": [
+        "le fermeture",
+        "la fermeture",
+        "le liberté",
+        "la paiement"
+      ],
+      "answer": 1,
+      "explanation": "Nouns in -tion, -sion, -ure, -té, -esse, -ance, -ence are feminine; nouns in -ment, -age, -isme are masculine (with a few exceptions such as la page, l’image, la plage).",
+      "textId": null
+    }
+  ]
+}

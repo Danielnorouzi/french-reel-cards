@@ -1,0 +1,485 @@
+{
+  "texts": [],
+  "questions": [
+    {
+      "id": "a2-futur_proche-051",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "futur_proche",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "Je ne vais pas sortir ce soir.",
+        "Je vais ne pas sortir ce soir.",
+        "Je ne vais sortir pas ce soir.",
+        "Je vais ne sortir pas ce soir."
+      ],
+      "answer": 0,
+      "explanation": "In the negative, ne … pas goes around aller, and the infinitive comes after: je ne vais pas partir.",
+      "textId": null
+    },
+    {
+      "id": "a2-futur_proche-052",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "futur_proche",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "Elle va ne pas venir demain.",
+        "Elle ne va pas venir demain.",
+        "Elle ne va venir pas demain.",
+        "Elle ne pas va venir demain."
+      ],
+      "answer": 1,
+      "explanation": "In the negative, ne … pas goes around aller, and the infinitive comes after: je ne vais pas partir.",
+      "textId": null
+    },
+    {
+      "id": "a2-futur_proche-053",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "futur_proche",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "Nous allons ne pas prendre la voiture.",
+        "Nous n’allons prendre pas la voiture.",
+        "Nous n’allons pas prendre la voiture.",
+        "Nous ne pas allons prendre la voiture."
+      ],
+      "answer": 2,
+      "explanation": "In the negative, ne … pas goes around aller, and the infinitive comes after: je ne vais pas partir.",
+      "textId": null
+    },
+    {
+      "id": "a2-futur_proche-054",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "futur_proche",
+      "question": "Il ne ___ pas pleuvoir demain.",
+      "options": [
+        "vas",
+        "vont",
+        "aller",
+        "va"
+      ],
+      "answer": 3,
+      "explanation": "In the negative, ne … pas goes around aller, and the infinitive comes after: je ne vais pas partir.",
+      "textId": null
+    },
+    {
+      "id": "a2-futur_proche-055",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "futur_proche",
+      "question": "Tu ne ___ pas regretter ce voyage.",
+      "options": [
+        "vas",
+        "va",
+        "vais",
+        "aller"
+      ],
+      "answer": 0,
+      "explanation": "In the negative, ne … pas goes around aller, and the infinitive comes after: je ne vais pas partir.",
+      "textId": null
+    },
+    {
+      "id": "a2-futur_proche-056",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "futur_proche",
+      "question": "Ils ne ___ pas arriver à l’heure.",
+      "options": [
+        "va",
+        "vont",
+        "allons",
+        "aller"
+      ],
+      "answer": 1,
+      "explanation": "In the negative, ne … pas goes around aller, and the infinitive comes after: je ne vais pas partir.",
+      "textId": null
+    },
+    {
+      "id": "a2-futur_proche-057",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "futur_proche",
+      "question": "Je ne vais ___ travailler dimanche.",
+      "options": [
+        "ne",
+        "pas de",
+        "pas",
+        "rien"
+      ],
+      "answer": 2,
+      "explanation": "In the negative, ne … pas goes around aller, and the infinitive comes after: je ne vais pas partir.",
+      "textId": null
+    },
+    {
+      "id": "a2-futur_proche-058",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "futur_proche",
+      "question": "Demain, je vais ___ lever tôt.",
+      "options": [
+        "se",
+        "te",
+        "nous",
+        "me"
+      ],
+      "answer": 3,
+      "explanation": "With a reflexive verb, the reflexive pronoun goes right before the infinitive and matches the subject: je vais me lever, nous allons nous lever.",
+      "textId": null
+    },
+    {
+      "id": "a2-futur_proche-059",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "futur_proche",
+      "question": "Tu vas ___ coucher à quelle heure ?",
+      "options": [
+        "te",
+        "se",
+        "me",
+        "vous"
+      ],
+      "answer": 0,
+      "explanation": "With a reflexive verb, the reflexive pronoun goes right before the infinitive and matches the subject: je vais me lever, nous allons nous lever.",
+      "textId": null
+    },
+    {
+      "id": "a2-futur_proche-060",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "futur_proche",
+      "question": "Elle va ___ promener dans le parc.",
+      "options": [
+        "me",
+        "se",
+        "te",
+        "nous"
+      ],
+      "answer": 1,
+      "explanation": "With a reflexive verb, the reflexive pronoun goes right before the infinitive and matches the subject: je vais me lever, nous allons nous lever.",
+      "textId": null
+    },
+    {
+      "id": "a2-futur_proche-061",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "futur_proche",
+      "question": "Nous allons ___ reposer ce week-end.",
+      "options": [
+        "se",
+        "vous",
+        "nous",
+        "me"
+      ],
+      "answer": 2,
+      "explanation": "With a reflexive verb, the reflexive pronoun goes right before the infinitive and matches the subject: je vais me lever, nous allons nous lever.",
+      "textId": null
+    },
+    {
+      "id": "a2-futur_proche-062",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "futur_proche",
+      "question": "Vous allez ___ amuser à la fête.",
+      "options": [
+        "se",
+        "nous",
+        "te",
+        "vous"
+      ],
+      "answer": 3,
+      "explanation": "With a reflexive verb, the reflexive pronoun goes right before the infinitive and matches the subject: je vais me lever, nous allons nous lever.",
+      "textId": null
+    },
+    {
+      "id": "a2-futur_proche-063",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "futur_proche",
+      "question": "Ils vont ___ marier en juin.",
+      "options": [
+        "se",
+        "nous",
+        "vous",
+        "me"
+      ],
+      "answer": 0,
+      "explanation": "With a reflexive verb, the reflexive pronoun goes right before the infinitive and matches the subject: je vais me lever, nous allons nous lever.",
+      "textId": null
+    },
+    {
+      "id": "a2-futur_proche-064",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "futur_proche",
+      "question": "Je vais ___ habiller, attends-moi.",
+      "options": [
+        "s’",
+        "m’",
+        "me",
+        "t’"
+      ],
+      "answer": 1,
+      "explanation": "With a reflexive verb, the reflexive pronoun goes right before the infinitive and matches the subject: je vais me lever, nous allons nous lever.",
+      "textId": null
+    },
+    {
+      "id": "a2-futur_proche-065",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "futur_proche",
+      "question": "On va ___ retrouver devant le cinéma.",
+      "options": [
+        "nous",
+        "vous",
+        "se",
+        "me"
+      ],
+      "answer": 2,
+      "explanation": "With on, the reflexive pronoun is se: on va se retrouver.",
+      "textId": null
+    },
+    {
+      "id": "a2-futur_proche-066",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "futur_proche",
+      "question": "Ce film ? Je vais ___ regarder ce soir.",
+      "options": [
+        "la",
+        "lui",
+        "y",
+        "le"
+      ],
+      "answer": 3,
+      "explanation": "An object pronoun goes right before the infinitive: je vais le faire.",
+      "textId": null
+    },
+    {
+      "id": "a2-futur_proche-067",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "futur_proche",
+      "question": "Tes parents ? Tu vas ___ téléphoner ?",
+      "options": [
+        "leur",
+        "les",
+        "le",
+        "lui"
+      ],
+      "answer": 0,
+      "explanation": "Téléphoner à + people → leur, placed before the infinitive: tu vas leur téléphoner.",
+      "textId": null
+    },
+    {
+      "id": "a2-futur_proche-068",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "futur_proche",
+      "question": "Cette lettre ? Elle va ___ envoyer demain.",
+      "options": [
+        "lui",
+        "l’",
+        "le",
+        "les"
+      ],
+      "answer": 1,
+      "explanation": "An object pronoun goes right before the infinitive: je vais le faire.",
+      "textId": null
+    },
+    {
+      "id": "a2-futur_proche-069",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "futur_proche",
+      "question": "Les billets ? Nous allons ___ acheter en ligne.",
+      "options": [
+        "le",
+        "leur",
+        "les",
+        "la"
+      ],
+      "answer": 2,
+      "explanation": "An object pronoun goes right before the infinitive: je vais le faire.",
+      "textId": null
+    },
+    {
+      "id": "a2-futur_proche-070",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "futur_proche",
+      "question": "Marie ? Je vais ___ parler après le cours.",
+      "options": [
+        "la",
+        "le",
+        "leur",
+        "lui"
+      ],
+      "answer": 3,
+      "explanation": "Parler à + one person → lui, placed before the infinitive: je vais lui parler.",
+      "textId": null
+    },
+    {
+      "id": "a2-futur_proche-071",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "futur_proche",
+      "question": "Qu’est-ce que tu ___ faire ce week-end ?",
+      "options": [
+        "vas",
+        "va",
+        "vais",
+        "allez"
+      ],
+      "answer": 0,
+      "explanation": "The futur proche is aller in the present + infinitive. In a question the order of aller + infinitive stays the same.",
+      "textId": null
+    },
+    {
+      "id": "a2-futur_proche-072",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "futur_proche",
+      "question": "Où est-ce que vous ___ dormir ?",
+      "options": [
+        "allons",
+        "allez",
+        "vont",
+        "vas"
+      ],
+      "answer": 1,
+      "explanation": "The futur proche is aller in the present + infinitive. In a question the order of aller + infinitive stays the same.",
+      "textId": null
+    },
+    {
+      "id": "a2-futur_proche-073",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "futur_proche",
+      "question": "Quand est-ce qu’ils ___ arriver ?",
+      "options": [
+        "va",
+        "allons",
+        "vont",
+        "allez"
+      ],
+      "answer": 2,
+      "explanation": "The futur proche is aller in the present + infinitive. In a question the order of aller + infinitive stays the same.",
+      "textId": null
+    },
+    {
+      "id": "a2-futur_proche-074",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "futur_proche",
+      "question": "Est-ce qu’on ___ manger bientôt ?",
+      "options": [
+        "vas",
+        "vont",
+        "allons",
+        "va"
+      ],
+      "answer": 3,
+      "explanation": "The futur proche is aller in the present + infinitive. In a question the order of aller + infinitive stays the same.",
+      "textId": null
+    },
+    {
+      "id": "a2-futur_proche-075",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "futur_proche",
+      "question": "Qui ___ préparer le dîner ?",
+      "options": [
+        "va",
+        "vas",
+        "vont",
+        "vais"
+      ],
+      "answer": 0,
+      "explanation": "Qui as a subject takes the il / elle form: qui va préparer ?",
+      "textId": null
+    },
+    {
+      "id": "a2-futur_proche-076",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "futur_proche",
+      "question": "Attention, tu vas ___ !",
+      "options": [
+        "tombes",
+        "tomber",
+        "tombé",
+        "tombez"
+      ],
+      "answer": 1,
+      "explanation": "After aller, the second verb stays in the infinitive. It is never conjugated.",
+      "textId": null
+    },
+    {
+      "id": "a2-futur_proche-077",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "futur_proche",
+      "question": "Le film va ___ dans cinq minutes.",
+      "options": [
+        "commence",
+        "commencé",
+        "commencer",
+        "commencera"
+      ],
+      "answer": 2,
+      "explanation": "After aller, the second verb stays in the infinitive. It is never conjugated.",
+      "textId": null
+    },
+    {
+      "id": "a2-futur_proche-078",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "futur_proche",
+      "question": "Je vais ___ mes devoirs après le dîner.",
+      "options": [
+        "fais",
+        "fait",
+        "ferai",
+        "faire"
+      ],
+      "answer": 3,
+      "explanation": "After aller, the second verb stays in the infinitive. It is never conjugated.",
+      "textId": null
+    },
+    {
+      "id": "a2-futur_proche-079",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "futur_proche",
+      "question": "Nous allons ___ à la plage demain.",
+      "options": [
+        "aller",
+        "allons",
+        "allés",
+        "irons"
+      ],
+      "answer": 0,
+      "explanation": "After aller, the second verb stays in the infinitive. It is never conjugated.",
+      "textId": null
+    },
+    {
+      "id": "a2-futur_proche-080",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "futur_proche",
+      "question": "Il va ___ beau ce week-end.",
+      "options": [
+        "fait",
+        "faire",
+        "fera",
+        "fais"
+      ],
+      "answer": 1,
+      "explanation": "After aller, the second verb stays in the infinitive. It is never conjugated.",
+      "textId": null
+    }
+  ]
+}

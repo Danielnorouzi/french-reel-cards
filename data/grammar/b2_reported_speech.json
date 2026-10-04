@@ -1,0 +1,1285 @@
+{
+  "texts": [],
+  "questions": [
+    {
+      "id": "b2-reported_speech-001",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "reported_speech",
+      "question": "« Je suis fatigué. » → Il dit ___ il est fatigué.",
+      "options": [
+        "qu’",
+        "que",
+        "si",
+        "de"
+      ],
+      "answer": 0,
+      "explanation": "A reported statement is introduced by que (qu’ before a vowel): il dit que…",
+      "textId": null
+    },
+    {
+      "id": "b2-reported_speech-002",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "reported_speech",
+      "question": "« Nous partons demain. » → Ils disent ___ ils partent demain.",
+      "options": [
+        "si",
+        "qu’",
+        "ce que",
+        "de"
+      ],
+      "answer": 1,
+      "explanation": "A reported statement is introduced by que (qu’ before a vowel): il dit que…",
+      "textId": null
+    },
+    {
+      "id": "b2-reported_speech-003",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "reported_speech",
+      "question": "« Il fait froid. » → Elle dit ___ fait froid.",
+      "options": [
+        "que il",
+        "s’il",
+        "qu’il",
+        "ce qu’il"
+      ],
+      "answer": 2,
+      "explanation": "A reported statement is introduced by que (qu’ before a vowel): il dit que…",
+      "textId": null
+    },
+    {
+      "id": "b2-reported_speech-004",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "reported_speech",
+      "question": "« J’adore ce film. » → Elle dit ___ elle adore ce film.",
+      "options": [
+        "si",
+        "ce qu’",
+        "d’",
+        "qu’"
+      ],
+      "answer": 3,
+      "explanation": "A reported statement is introduced by que (qu’ before a vowel): il dit que…",
+      "textId": null
+    },
+    {
+      "id": "b2-reported_speech-005",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "reported_speech",
+      "question": "« Tu viens ? » → Il me demande ___ je viens.",
+      "options": [
+        "si",
+        "que",
+        "ce que",
+        "de"
+      ],
+      "answer": 0,
+      "explanation": "A reported yes / no question is introduced by si (s’ before il / ils): il demande si…",
+      "textId": null
+    },
+    {
+      "id": "b2-reported_speech-006",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "reported_speech",
+      "question": "« Est-ce que vous avez faim ? » → Elle nous demande ___ nous avons faim.",
+      "options": [
+        "que",
+        "si",
+        "est-ce que",
+        "ce que"
+      ],
+      "answer": 1,
+      "explanation": "A reported yes / no question is introduced by si (s’ before il / ils): il demande si…",
+      "textId": null
+    },
+    {
+      "id": "b2-reported_speech-007",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "reported_speech",
+      "question": "« Il pleut ? » → Elle veut savoir ___ pleut.",
+      "options": [
+        "si il",
+        "qu’il",
+        "s’il",
+        "ce qu’il"
+      ],
+      "answer": 2,
+      "explanation": "A reported yes / no question is introduced by si (s’ before il / ils): il demande si…",
+      "textId": null
+    },
+    {
+      "id": "b2-reported_speech-008",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "reported_speech",
+      "question": "« Tu as fini ? » → Il me demande ___ j’ai fini.",
+      "options": [
+        "que",
+        "ce que",
+        "de",
+        "si"
+      ],
+      "answer": 3,
+      "explanation": "A reported yes / no question is introduced by si (s’ before il / ils): il demande si…",
+      "textId": null
+    },
+    {
+      "id": "b2-reported_speech-009",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "reported_speech",
+      "question": "« Aimes-tu le jazz ? » → Elle me demande ___ j’aime le jazz.",
+      "options": [
+        "si",
+        "que",
+        "ce que",
+        "est-ce que"
+      ],
+      "answer": 0,
+      "explanation": "A reported yes / no question is introduced by si (s’ before il / ils): il demande si…",
+      "textId": null
+    },
+    {
+      "id": "b2-reported_speech-010",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "reported_speech",
+      "question": "« Qu’est-ce que tu fais ? » → Il me demande ___ je fais.",
+      "options": [
+        "qu’est-ce que",
+        "ce que",
+        "que",
+        "si"
+      ],
+      "answer": 1,
+      "explanation": "Qu’est-ce que and que become ce que in a reported question; qu’est-ce qui becomes ce qui.",
+      "textId": null
+    },
+    {
+      "id": "b2-reported_speech-011",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "reported_speech",
+      "question": "« Que veux-tu ? » → Elle me demande ___ je veux.",
+      "options": [
+        "que",
+        "quoi",
+        "ce que",
+        "si"
+      ],
+      "answer": 2,
+      "explanation": "Qu’est-ce que and que become ce que in a reported question; qu’est-ce qui becomes ce qui.",
+      "textId": null
+    },
+    {
+      "id": "b2-reported_speech-012",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "reported_speech",
+      "question": "« Qu’est-ce qui se passe ? » → Il demande ___ se passe.",
+      "options": [
+        "ce que",
+        "qu’est-ce qui",
+        "qui",
+        "ce qui"
+      ],
+      "answer": 3,
+      "explanation": "Qu’est-ce que and que become ce que in a reported question; qu’est-ce qui becomes ce qui.",
+      "textId": null
+    },
+    {
+      "id": "b2-reported_speech-013",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "reported_speech",
+      "question": "« Qu’est-ce que vous mangez ? » → Il nous demande ___ nous mangeons.",
+      "options": [
+        "ce que",
+        "qu’est-ce que",
+        "ce qui",
+        "si"
+      ],
+      "answer": 0,
+      "explanation": "Qu’est-ce que and que become ce que in a reported question; qu’est-ce qui becomes ce qui.",
+      "textId": null
+    },
+    {
+      "id": "b2-reported_speech-014",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "reported_speech",
+      "question": "« Qu’est-ce qui t’intéresse ? » → Elle me demande ___ m’intéresse.",
+      "options": [
+        "ce que",
+        "ce qui",
+        "qu’est-ce qui",
+        "quoi"
+      ],
+      "answer": 1,
+      "explanation": "Qu’est-ce que and que become ce que in a reported question; qu’est-ce qui becomes ce qui.",
+      "textId": null
+    },
+    {
+      "id": "b2-reported_speech-015",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "reported_speech",
+      "question": "« Où habites-tu ? » → Il me demande ___.",
+      "options": [
+        "où est-ce que j’habite",
+        "où habite-je",
+        "où j’habite",
+        "où que j’habite"
+      ],
+      "answer": 2,
+      "explanation": "Question words (où, quand, comment, pourquoi, combien) stay, but est-ce que disappears and the word order is subject + verb.",
+      "textId": null
+    },
+    {
+      "id": "b2-reported_speech-016",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "reported_speech",
+      "question": "« Quand est-ce que tu pars ? » → Elle me demande ___.",
+      "options": [
+        "quand est-ce que je pars",
+        "quand pars-je",
+        "si quand je pars",
+        "quand je pars"
+      ],
+      "answer": 3,
+      "explanation": "Question words (où, quand, comment, pourquoi, combien) stay, but est-ce que disappears and the word order is subject + verb.",
+      "textId": null
+    },
+    {
+      "id": "b2-reported_speech-017",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "reported_speech",
+      "question": "« Pourquoi pleures-tu ? » → Il lui demande ___.",
+      "options": [
+        "pourquoi elle pleure",
+        "pourquoi pleure-t-elle",
+        "pourquoi est-ce qu’elle pleure",
+        "pourquoi qu’elle pleure"
+      ],
+      "answer": 0,
+      "explanation": "Question words (où, quand, comment, pourquoi, combien) stay, but est-ce que disappears and the word order is subject + verb.",
+      "textId": null
+    },
+    {
+      "id": "b2-reported_speech-018",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "reported_speech",
+      "question": "« Comment allez-vous ? » → Il nous demande ___.",
+      "options": [
+        "comment allons-nous",
+        "comment nous allons",
+        "comment est-ce que nous allons",
+        "si comment nous allons"
+      ],
+      "answer": 1,
+      "explanation": "Question words (où, quand, comment, pourquoi, combien) stay, but est-ce que disappears and the word order is subject + verb.",
+      "textId": null
+    },
+    {
+      "id": "b2-reported_speech-019",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "reported_speech",
+      "question": "« Combien ça coûte ? » → Elle demande ___.",
+      "options": [
+        "combien est-ce que ça coûte",
+        "si combien ça coûte",
+        "combien ça coûte",
+        "combien que ça coûte"
+      ],
+      "answer": 2,
+      "explanation": "Question words (où, quand, comment, pourquoi, combien) stay, but est-ce que disappears and the word order is subject + verb.",
+      "textId": null
+    },
+    {
+      "id": "b2-reported_speech-020",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "reported_speech",
+      "question": "« Viens ici ! » → Il me dit ___ venir.",
+      "options": [
+        "que",
+        "à",
+        "si",
+        "de"
+      ],
+      "answer": 3,
+      "explanation": "A reported command uses de + infinitive (de ne pas + infinitive in the negative): il me dit de venir.",
+      "textId": null
+    },
+    {
+      "id": "b2-reported_speech-021",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "reported_speech",
+      "question": "« Fermez la porte ! » → Elle nous demande ___ fermer la porte.",
+      "options": [
+        "de",
+        "que",
+        "à",
+        "si"
+      ],
+      "answer": 0,
+      "explanation": "A reported command uses de + infinitive (de ne pas + infinitive in the negative): il me dit de venir.",
+      "textId": null
+    },
+    {
+      "id": "b2-reported_speech-022",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "reported_speech",
+      "question": "« Ne parlez pas ! » → Le professeur nous dit ___.",
+      "options": [
+        "de ne parler pas",
+        "de ne pas parler",
+        "que ne pas parler",
+        "de pas parler"
+      ],
+      "answer": 1,
+      "explanation": "A reported command uses de + infinitive (de ne pas + infinitive in the negative): il me dit de venir.",
+      "textId": null
+    },
+    {
+      "id": "b2-reported_speech-023",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "reported_speech",
+      "question": "« Attends-moi ! » → Elle me demande ___.",
+      "options": [
+        "de m’attendre",
+        "que je l’attends",
+        "de l’attendre",
+        "de attendre elle"
+      ],
+      "answer": 2,
+      "explanation": "A reported command uses de + infinitive (de ne pas + infinitive in the negative): il me dit de venir.",
+      "textId": null
+    },
+    {
+      "id": "b2-reported_speech-024",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "reported_speech",
+      "question": "« N’oublie pas tes clés ! » → Il me dit ___ mes clés.",
+      "options": [
+        "de n’oublier pas",
+        "de pas oublier",
+        "que ne pas oublier",
+        "de ne pas oublier"
+      ],
+      "answer": 3,
+      "explanation": "A reported command uses de + infinitive (de ne pas + infinitive in the negative): il me dit de venir.",
+      "textId": null
+    },
+    {
+      "id": "b2-reported_speech-025",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "reported_speech",
+      "question": "« Asseyez-vous ! » → Elle nous dit ___.",
+      "options": [
+        "de nous asseoir",
+        "de vous asseoir",
+        "de s’asseoir",
+        "que nous asseoir"
+      ],
+      "answer": 0,
+      "explanation": "A reported command uses de + infinitive (de ne pas + infinitive in the negative): il me dit de venir.",
+      "textId": null
+    },
+    {
+      "id": "b2-reported_speech-026",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "reported_speech",
+      "question": "« Je suis malade. » → Paul dit qu’___ malade.",
+      "options": [
+        "je suis",
+        "il est",
+        "il était",
+        "il soit"
+      ],
+      "answer": 1,
+      "explanation": "When the reporting verb is in the present, the tense of the reported verb does not change. Only the pronouns change.",
+      "textId": null
+    },
+    {
+      "id": "b2-reported_speech-027",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "reported_speech",
+      "question": "« Nous avons faim. » → Les enfants disent qu’___ faim.",
+      "options": [
+        "nous avons",
+        "ils avaient",
+        "ils ont",
+        "ils aient"
+      ],
+      "answer": 2,
+      "explanation": "When the reporting verb is in the present, the tense of the reported verb does not change. Only the pronouns change.",
+      "textId": null
+    },
+    {
+      "id": "b2-reported_speech-028",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "reported_speech",
+      "question": "« Je viendrai demain. » → Elle dit qu’___ demain.",
+      "options": [
+        "je viendrai",
+        "elle viendrait",
+        "elle vienne",
+        "elle viendra"
+      ],
+      "answer": 3,
+      "explanation": "When the reporting verb is in the present, the tense of the reported verb does not change. Only the pronouns change.",
+      "textId": null
+    },
+    {
+      "id": "b2-reported_speech-029",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "reported_speech",
+      "question": "« J’ai perdu mon sac. » → Il dit qu’il a perdu ___ sac.",
+      "options": [
+        "son",
+        "mon",
+        "ton",
+        "leur"
+      ],
+      "answer": 0,
+      "explanation": "Pronouns and possessives change to fit the new speaker: je → il / elle, mon → son, tu → je…",
+      "textId": null
+    },
+    {
+      "id": "b2-reported_speech-030",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "reported_speech",
+      "question": "« Tu es en retard. » → Elle me dit que ___ en retard.",
+      "options": [
+        "tu es",
+        "je suis",
+        "elle est",
+        "je sois"
+      ],
+      "answer": 1,
+      "explanation": "Pronouns and possessives change to fit the new speaker: je → il / elle, mon → son, tu → je…",
+      "textId": null
+    },
+    {
+      "id": "b2-reported_speech-031",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "reported_speech",
+      "question": "« Mes parents arrivent. » → Elle dit que ___ parents arrivent.",
+      "options": [
+        "mes",
+        "tes",
+        "ses",
+        "leurs"
+      ],
+      "answer": 2,
+      "explanation": "Pronouns and possessives change to fit the new speaker: je → il / elle, mon → son, tu → je…",
+      "textId": null
+    },
+    {
+      "id": "b2-reported_speech-032",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "reported_speech",
+      "question": "« Je t’appellerai. » → Il me dit qu’il ___ appellera.",
+      "options": [
+        "t’",
+        "l’",
+        "s’",
+        "m’"
+      ],
+      "answer": 3,
+      "explanation": "Pronouns and possessives change to fit the new speaker: je → il / elle, mon → son, tu → je…",
+      "textId": null
+    },
+    {
+      "id": "b2-reported_speech-033",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "reported_speech",
+      "question": "« Je suis fatigué. » → Il a dit qu’il ___ fatigué.",
+      "options": [
+        "était",
+        "est",
+        "a été",
+        "serait"
+      ],
+      "answer": 0,
+      "explanation": "When the reporting verb is in the past, a present becomes imparfait. Here: était.",
+      "textId": null
+    },
+    {
+      "id": "b2-reported_speech-034",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "reported_speech",
+      "question": "« Nous habitons à Lyon. » → Ils ont dit qu’ils ___ à Lyon.",
+      "options": [
+        "habitent",
+        "habitaient",
+        "ont habité",
+        "habiteraient"
+      ],
+      "answer": 1,
+      "explanation": "When the reporting verb is in the past, a present becomes imparfait. Here: habitaient.",
+      "textId": null
+    },
+    {
+      "id": "b2-reported_speech-035",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "reported_speech",
+      "question": "« J’ai faim. » → Elle a dit qu’elle ___ faim.",
+      "options": [
+        "a",
+        "a eu",
+        "avait",
+        "aurait"
+      ],
+      "answer": 2,
+      "explanation": "When the reporting verb is in the past, a present becomes imparfait. Here: avait.",
+      "textId": null
+    },
+    {
+      "id": "b2-reported_speech-036",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "reported_speech",
+      "question": "« Je ne comprends pas. » → Il a répondu qu’il ne ___ pas.",
+      "options": [
+        "comprend",
+        "a compris",
+        "comprendrait",
+        "comprenait"
+      ],
+      "answer": 3,
+      "explanation": "When the reporting verb is in the past, a present becomes imparfait. Here: comprenait.",
+      "textId": null
+    },
+    {
+      "id": "b2-reported_speech-037",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "reported_speech",
+      "question": "« Il fait beau. » → Elle a dit qu’il ___ beau.",
+      "options": [
+        "faisait",
+        "fait",
+        "a fait",
+        "ferait"
+      ],
+      "answer": 0,
+      "explanation": "When the reporting verb is in the past, a present becomes imparfait. Here: faisait.",
+      "textId": null
+    },
+    {
+      "id": "b2-reported_speech-038",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "reported_speech",
+      "question": "« Je travaille à la banque. » → Il m’a expliqué qu’il ___ à la banque.",
+      "options": [
+        "travaille",
+        "travaillait",
+        "a travaillé",
+        "travaillerait"
+      ],
+      "answer": 1,
+      "explanation": "When the reporting verb is in the past, a present becomes imparfait. Here: travaillait.",
+      "textId": null
+    },
+    {
+      "id": "b2-reported_speech-039",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "reported_speech",
+      "question": "« Tu parles bien français. » → Elle m’a dit que je ___ bien français.",
+      "options": [
+        "parle",
+        "ai parlé",
+        "parlais",
+        "parlerais"
+      ],
+      "answer": 2,
+      "explanation": "When the reporting verb is in the past, a present becomes imparfait. Here: parlais.",
+      "textId": null
+    },
+    {
+      "id": "b2-reported_speech-040",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "reported_speech",
+      "question": "« Nous sommes prêts. » → Ils ont annoncé qu’ils ___ prêts.",
+      "options": [
+        "sont",
+        "ont été",
+        "seraient",
+        "étaient"
+      ],
+      "answer": 3,
+      "explanation": "When the reporting verb is in the past, a present becomes imparfait. Here: étaient.",
+      "textId": null
+    },
+    {
+      "id": "b2-reported_speech-041",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "reported_speech",
+      "question": "« J’ai fini. » → Il a dit qu’il ___.",
+      "options": [
+        "avait fini",
+        "a fini",
+        "finissait",
+        "finirait"
+      ],
+      "answer": 0,
+      "explanation": "When the reporting verb is in the past, a passé composé becomes plus-que-parfait. Here: avait fini.",
+      "textId": null
+    },
+    {
+      "id": "b2-reported_speech-042",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "reported_speech",
+      "question": "« Nous avons vu ce film. » → Ils ont dit qu’ils ___ ce film.",
+      "options": [
+        "ont vu",
+        "avaient vu",
+        "voyaient",
+        "verraient"
+      ],
+      "answer": 1,
+      "explanation": "When the reporting verb is in the past, a passé composé becomes plus-que-parfait. Here: avaient vu.",
+      "textId": null
+    },
+    {
+      "id": "b2-reported_speech-043",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "reported_speech",
+      "question": "« Je suis allée à Paris. » → Elle a dit qu’elle ___ à Paris.",
+      "options": [
+        "est allée",
+        "allait",
+        "était allée",
+        "irait"
+      ],
+      "answer": 2,
+      "explanation": "When the reporting verb is in the past, a passé composé becomes plus-que-parfait. Here: était allée.",
+      "textId": null
+    },
+    {
+      "id": "b2-reported_speech-044",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "reported_speech",
+      "question": "« J’ai perdu mes clés. » → Il a expliqué qu’il ___ ses clés.",
+      "options": [
+        "a perdu",
+        "perdait",
+        "perdrait",
+        "avait perdu"
+      ],
+      "answer": 3,
+      "explanation": "When the reporting verb is in the past, a passé composé becomes plus-que-parfait. Here: avait perdu.",
+      "textId": null
+    },
+    {
+      "id": "b2-reported_speech-045",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "reported_speech",
+      "question": "« Nous nous sommes trompés. » → Ils ont reconnu qu’ils ___.",
+      "options": [
+        "s’étaient trompés",
+        "se sont trompés",
+        "se trompaient",
+        "se tromperaient"
+      ],
+      "answer": 0,
+      "explanation": "When the reporting verb is in the past, a passé composé becomes plus-que-parfait. Here: s’étaient trompés.",
+      "textId": null
+    },
+    {
+      "id": "b2-reported_speech-046",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "reported_speech",
+      "question": "« Tu as oublié ton livre. » → Elle m’a dit que j’___ mon livre.",
+      "options": [
+        "ai oublié",
+        "avais oublié",
+        "oubliais",
+        "oublierais"
+      ],
+      "answer": 1,
+      "explanation": "When the reporting verb is in the past, a passé composé becomes plus-que-parfait. Here: avais oublié.",
+      "textId": null
+    },
+    {
+      "id": "b2-reported_speech-047",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "reported_speech",
+      "question": "« Le train est parti. » → On nous a dit que le train ___.",
+      "options": [
+        "est parti",
+        "partait",
+        "était parti",
+        "partirait"
+      ],
+      "answer": 2,
+      "explanation": "When the reporting verb is in the past, a passé composé becomes plus-que-parfait. Here: était parti.",
+      "textId": null
+    },
+    {
+      "id": "b2-reported_speech-048",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "reported_speech",
+      "question": "« J’ai bien dormi. » → Il a répondu qu’il ___ bien ___.",
+      "options": [
+        "a / dormi",
+        "est / dormi",
+        "aurait / dormi",
+        "avait / dormi"
+      ],
+      "answer": 3,
+      "explanation": "When the reporting verb is in the past, a passé composé becomes plus-que-parfait. Here: avait / dormi.",
+      "textId": null
+    },
+    {
+      "id": "b2-reported_speech-049",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "reported_speech",
+      "question": "« Je viendrai. » → Il a dit qu’il ___.",
+      "options": [
+        "viendrait",
+        "viendra",
+        "venait",
+        "est venu"
+      ],
+      "answer": 0,
+      "explanation": "When the reporting verb is in the past, a future becomes conditionnel présent. Here: viendrait.",
+      "textId": null
+    },
+    {
+      "id": "b2-reported_speech-050",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "reported_speech",
+      "question": "« Nous partirons tôt. » → Ils ont dit qu’ils ___ tôt.",
+      "options": [
+        "partiront",
+        "partiraient",
+        "partaient",
+        "sont partis"
+      ],
+      "answer": 1,
+      "explanation": "When the reporting verb is in the past, a future becomes conditionnel présent. Here: partiraient.",
+      "textId": null
+    },
+    {
+      "id": "b2-reported_speech-051",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "reported_speech",
+      "question": "« Je t’appellerai. » → Elle a promis qu’elle m’___.",
+      "options": [
+        "appellera",
+        "appelait",
+        "appellerait",
+        "a appelé"
+      ],
+      "answer": 2,
+      "explanation": "When the reporting verb is in the past, a future becomes conditionnel présent. Here: appellerait.",
+      "textId": null
+    },
+    {
+      "id": "b2-reported_speech-052",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "reported_speech",
+      "question": "« Il pleuvra demain. » → La météo a annoncé qu’il ___ le lendemain.",
+      "options": [
+        "pleuvra",
+        "pleuvait",
+        "a plu",
+        "pleuvrait"
+      ],
+      "answer": 3,
+      "explanation": "When the reporting verb is in the past, a future becomes conditionnel présent. Here: pleuvrait.",
+      "textId": null
+    },
+    {
+      "id": "b2-reported_speech-053",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "reported_speech",
+      "question": "« Je ferai de mon mieux. » → Il a assuré qu’il ___ de son mieux.",
+      "options": [
+        "ferait",
+        "fera",
+        "faisait",
+        "a fait"
+      ],
+      "answer": 0,
+      "explanation": "When the reporting verb is in the past, a future becomes conditionnel présent. Here: ferait.",
+      "textId": null
+    },
+    {
+      "id": "b2-reported_speech-054",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "reported_speech",
+      "question": "« Vous aurez les résultats lundi. » → On nous a dit que nous ___ les résultats lundi.",
+      "options": [
+        "aurons",
+        "aurions",
+        "avions",
+        "avons eu"
+      ],
+      "answer": 1,
+      "explanation": "When the reporting verb is in the past, a future becomes conditionnel présent. Here: aurions.",
+      "textId": null
+    },
+    {
+      "id": "b2-reported_speech-055",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "reported_speech",
+      "question": "« Je serai là à midi. » → Elle a dit qu’elle ___ là à midi.",
+      "options": [
+        "sera",
+        "était",
+        "serait",
+        "a été"
+      ],
+      "answer": 2,
+      "explanation": "When the reporting verb is in the past, a future becomes conditionnel présent. Here: serait.",
+      "textId": null
+    },
+    {
+      "id": "b2-reported_speech-056",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "reported_speech",
+      "question": "« Tu réussiras. » → Il m’a dit que je ___.",
+      "options": [
+        "réussirai",
+        "réussissais",
+        "ai réussi",
+        "réussirais"
+      ],
+      "answer": 3,
+      "explanation": "When the reporting verb is in the past, a future becomes conditionnel présent. Here: réussirais.",
+      "textId": null
+    },
+    {
+      "id": "b2-reported_speech-057",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "reported_speech",
+      "question": "« J’étais fatigué. » → Il a dit qu’il ___ fatigué.",
+      "options": [
+        "était",
+        "est",
+        "avait été",
+        "serait"
+      ],
+      "answer": 0,
+      "explanation": "When the reporting verb is in the past, the imparfait, the plus-que-parfait and the conditional do not change.",
+      "textId": null
+    },
+    {
+      "id": "b2-reported_speech-058",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "reported_speech",
+      "question": "« Je voudrais un café. » → Elle a dit qu’elle ___ un café.",
+      "options": [
+        "veut",
+        "voudrait",
+        "voulait",
+        "avait voulu"
+      ],
+      "answer": 1,
+      "explanation": "When the reporting verb is in the past, the imparfait, the plus-que-parfait and the conditional do not change.",
+      "textId": null
+    },
+    {
+      "id": "b2-reported_speech-059",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "reported_speech",
+      "question": "« J’avais déjà mangé. » → Il a dit qu’il ___ déjà ___.",
+      "options": [
+        "a / mangé",
+        "aurait / mangé",
+        "avait / mangé",
+        "est / mangé"
+      ],
+      "answer": 2,
+      "explanation": "When the reporting verb is in the past, the imparfait, the plus-que-parfait and the conditional do not change.",
+      "textId": null
+    },
+    {
+      "id": "b2-reported_speech-060",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "reported_speech",
+      "question": "« Je pars demain. » → Il a dit qu’il partait ___.",
+      "options": [
+        "demain",
+        "la veille",
+        "ce jour-là",
+        "le lendemain"
+      ],
+      "answer": 3,
+      "explanation": "With a reporting verb in the past, time words shift: aujourd’hui → ce jour-là, demain → le lendemain, hier → la veille, maintenant → à ce moment-là, la semaine prochaine → la semaine suivante.",
+      "textId": null
+    },
+    {
+      "id": "b2-reported_speech-061",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "reported_speech",
+      "question": "« Je suis arrivé hier. » → Il a dit qu’il était arrivé ___.",
+      "options": [
+        "la veille",
+        "hier",
+        "le lendemain",
+        "ce jour-là"
+      ],
+      "answer": 0,
+      "explanation": "With a reporting verb in the past, time words shift: aujourd’hui → ce jour-là, demain → le lendemain, hier → la veille, maintenant → à ce moment-là, la semaine prochaine → la semaine suivante.",
+      "textId": null
+    },
+    {
+      "id": "b2-reported_speech-062",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "reported_speech",
+      "question": "« Je suis occupé aujourd’hui. » → Il a dit qu’il était occupé ___.",
+      "options": [
+        "aujourd’hui",
+        "ce jour-là",
+        "la veille",
+        "le lendemain"
+      ],
+      "answer": 1,
+      "explanation": "With a reporting verb in the past, time words shift: aujourd’hui → ce jour-là, demain → le lendemain, hier → la veille, maintenant → à ce moment-là, la semaine prochaine → la semaine suivante.",
+      "textId": null
+    },
+    {
+      "id": "b2-reported_speech-063",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "reported_speech",
+      "question": "« Je le ferai la semaine prochaine. » → Elle a dit qu’elle le ferait ___.",
+      "options": [
+        "la semaine prochaine",
+        "la semaine précédente",
+        "la semaine suivante",
+        "cette semaine"
+      ],
+      "answer": 2,
+      "explanation": "With a reporting verb in the past, time words shift: aujourd’hui → ce jour-là, demain → le lendemain, hier → la veille, maintenant → à ce moment-là, la semaine prochaine → la semaine suivante.",
+      "textId": null
+    },
+    {
+      "id": "b2-reported_speech-064",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "reported_speech",
+      "question": "« Je suis venu la semaine dernière. » → Il a dit qu’il était venu ___.",
+      "options": [
+        "la semaine dernière",
+        "la semaine suivante",
+        "cette semaine-là",
+        "la semaine précédente"
+      ],
+      "answer": 3,
+      "explanation": "With a reporting verb in the past, time words shift: aujourd’hui → ce jour-là, demain → le lendemain, hier → la veille, maintenant → à ce moment-là, la semaine prochaine → la semaine suivante.",
+      "textId": null
+    },
+    {
+      "id": "b2-reported_speech-065",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "reported_speech",
+      "question": "« Je travaille maintenant. » → Il a dit qu’il travaillait ___.",
+      "options": [
+        "à ce moment-là",
+        "maintenant",
+        "la veille",
+        "le lendemain"
+      ],
+      "answer": 0,
+      "explanation": "With a reporting verb in the past, time words shift: aujourd’hui → ce jour-là, demain → le lendemain, hier → la veille, maintenant → à ce moment-là, la semaine prochaine → la semaine suivante.",
+      "textId": null
+    },
+    {
+      "id": "b2-reported_speech-066",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "reported_speech",
+      "question": "« Je reviendrai dans trois jours. » → Elle a dit qu’elle reviendrait ___.",
+      "options": [
+        "dans trois jours",
+        "trois jours plus tard",
+        "il y a trois jours",
+        "trois jours plus tôt"
+      ],
+      "answer": 1,
+      "explanation": "With a reporting verb in the past, time words shift: aujourd’hui → ce jour-là, demain → le lendemain, hier → la veille, maintenant → à ce moment-là, la semaine prochaine → la semaine suivante.",
+      "textId": null
+    },
+    {
+      "id": "b2-reported_speech-067",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "reported_speech",
+      "question": "« Je l’ai vu il y a deux jours. » → Il a dit qu’il l’avait vu ___.",
+      "options": [
+        "il y a deux jours",
+        "deux jours plus tard",
+        "deux jours plus tôt",
+        "dans deux jours"
+      ],
+      "answer": 2,
+      "explanation": "With a reporting verb in the past, time words shift: aujourd’hui → ce jour-là, demain → le lendemain, hier → la veille, maintenant → à ce moment-là, la semaine prochaine → la semaine suivante.",
+      "textId": null
+    },
+    {
+      "id": "b2-reported_speech-068",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "reported_speech",
+      "question": "« Est-ce que tu viendras ? » → Il m’a demandé ___.",
+      "options": [
+        "si je viendrai",
+        "que je viendrais",
+        "si tu viendrais",
+        "si je viendrais"
+      ],
+      "answer": 3,
+      "explanation": "When the reporting verb is in the past, a future becomes conditionnel présent. Here: si je viendrais.",
+      "textId": null
+    },
+    {
+      "id": "b2-reported_speech-069",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "reported_speech",
+      "question": "« Qu’est-ce que tu as fait ? » → Elle m’a demandé ___.",
+      "options": [
+        "ce que j’avais fait",
+        "ce que j’ai fait",
+        "qu’est-ce que j’avais fait",
+        "ce que tu avais fait"
+      ],
+      "answer": 0,
+      "explanation": "When the reporting verb is in the past, a passé composé becomes plus-que-parfait. Here: ce que j’avais fait.",
+      "textId": null
+    },
+    {
+      "id": "b2-reported_speech-070",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "reported_speech",
+      "question": "« Où vas-tu ? » → Il m’a demandé ___.",
+      "options": [
+        "où je vais",
+        "où j’allais",
+        "où allais-je",
+        "où tu allais"
+      ],
+      "answer": 1,
+      "explanation": "When the reporting verb is in the past, a present becomes imparfait. Here: où j’allais.",
+      "textId": null
+    },
+    {
+      "id": "b2-reported_speech-071",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "reported_speech",
+      "question": "« Pourquoi es-tu parti ? » → Elle m’a demandé ___.",
+      "options": [
+        "pourquoi je suis parti",
+        "pourquoi étais-je parti",
+        "pourquoi j’étais parti",
+        "pourquoi tu étais parti"
+      ],
+      "answer": 2,
+      "explanation": "When the reporting verb is in the past, a passé composé becomes plus-que-parfait. Here: pourquoi j’étais parti.",
+      "textId": null
+    },
+    {
+      "id": "b2-reported_speech-072",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "reported_speech",
+      "question": "« As-tu faim ? » → Il m’a demandé ___.",
+      "options": [
+        "si j’ai faim",
+        "que j’avais faim",
+        "si tu avais faim",
+        "si j’avais faim"
+      ],
+      "answer": 3,
+      "explanation": "When the reporting verb is in the past, a present becomes imparfait. Here: si j’avais faim.",
+      "textId": null
+    },
+    {
+      "id": "b2-reported_speech-073",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "reported_speech",
+      "question": "« Quand reviendrez-vous ? » → Il nous a demandé ___.",
+      "options": [
+        "quand nous reviendrions",
+        "quand nous reviendrons",
+        "quand reviendrions-nous",
+        "quand vous reviendriez"
+      ],
+      "answer": 0,
+      "explanation": "When the reporting verb is in the past, a future becomes conditionnel présent. Here: quand nous reviendrions.",
+      "textId": null
+    },
+    {
+      "id": "b2-reported_speech-074",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "reported_speech",
+      "question": "« Tais-toi ! » → Elle m’a dit ___.",
+      "options": [
+        "de te taire",
+        "de me taire",
+        "que je me tais",
+        "de se taire"
+      ],
+      "answer": 1,
+      "explanation": "A reported command uses de + infinitive (de ne pas + infinitive in the negative): il me dit de venir.",
+      "textId": null
+    },
+    {
+      "id": "b2-reported_speech-075",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "reported_speech",
+      "question": "« Ne t’inquiète pas. » → Il m’a dit ___.",
+      "options": [
+        "de ne pas t’inquiéter",
+        "de ne m’inquiéter pas",
+        "de ne pas m’inquiéter",
+        "de pas m’inquiéter"
+      ],
+      "answer": 2,
+      "explanation": "A reported command uses de + infinitive (de ne pas + infinitive in the negative): il me dit de venir.",
+      "textId": null
+    },
+    {
+      "id": "b2-reported_speech-076",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "reported_speech",
+      "question": "« Rappelez-moi demain. » → Elle nous a demandé ___ le lendemain.",
+      "options": [
+        "de me rappeler",
+        "de nous rappeler",
+        "qu’on la rappelle",
+        "de la rappeler"
+      ],
+      "answer": 3,
+      "explanation": "A reported command uses de + infinitive (de ne pas + infinitive in the negative): il me dit de venir.",
+      "textId": null
+    },
+    {
+      "id": "b2-reported_speech-077",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "reported_speech",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "Il m’a demandé ce que je voulais.",
+        "Il m’a demandé qu’est-ce que je voulais.",
+        "Il m’a demandé ce que voulais-je.",
+        "Il m’a demandé quoi je voulais."
+      ],
+      "answer": 0,
+      "explanation": "Qu’est-ce que and que become ce que in a reported question; qu’est-ce qui becomes ce qui.",
+      "textId": null
+    },
+    {
+      "id": "b2-reported_speech-078",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "reported_speech",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "Elle m’a demandé est-ce que j’étais libre.",
+        "Elle m’a demandé si j’étais libre.",
+        "Elle m’a demandé si étais-je libre.",
+        "Elle m’a demandé que j’étais libre."
+      ],
+      "answer": 1,
+      "explanation": "A reported yes / no question is introduced by si (s’ before il / ils): il demande si…",
+      "textId": null
+    },
+    {
+      "id": "b2-reported_speech-079",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "reported_speech",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "Je ne sais pas où habite-t-il.",
+        "Je ne sais pas où est-ce qu’il habite.",
+        "Je ne sais pas où il habite.",
+        "Je ne sais pas où qu’il habite."
+      ],
+      "answer": 2,
+      "explanation": "Question words (où, quand, comment, pourquoi, combien) stay, but est-ce que disappears and the word order is subject + verb.",
+      "textId": null
+    },
+    {
+      "id": "b2-reported_speech-080",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "reported_speech",
+      "question": "« Qui a téléphoné ? » → Elle a demandé ___.",
+      "options": [
+        "qui a-t-il téléphoné",
+        "qu’est-ce qui avait téléphoné",
+        "si qui avait téléphoné",
+        "qui avait téléphoné"
+      ],
+      "answer": 3,
+      "explanation": "When the reporting verb is in the past, a passé composé becomes plus-que-parfait. Here: qui avait téléphoné.",
+      "textId": null
+    }
+  ]
+}

@@ -1,0 +1,1285 @@
+{
+  "texts": [],
+  "questions": [
+    {
+      "id": "a2-imparfait-001",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imparfait",
+      "question": "Complète à l’imparfait : Quand j’___ petit, j’habitais à Lyon.",
+      "options": [
+        "étais",
+        "était",
+        "ai été",
+        "suis"
+      ],
+      "answer": 0,
+      "explanation": "Être is the only verb with an irregular imparfait stem, ét-: j’étais, tu étais, il était, nous étions, vous étiez, ils étaient. Here: étais.",
+      "textId": null
+    },
+    {
+      "id": "a2-imparfait-002",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imparfait",
+      "question": "Complète à l’imparfait : Tu ___ où hier soir ?",
+      "options": [
+        "était",
+        "étais",
+        "étiez",
+        "es"
+      ],
+      "answer": 1,
+      "explanation": "Être is the only verb with an irregular imparfait stem, ét-: j’étais, tu étais, il était, nous étions, vous étiez, ils étaient. Here: étais.",
+      "textId": null
+    },
+    {
+      "id": "a2-imparfait-003",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imparfait",
+      "question": "Complète à l’imparfait : Il ___ très fatigué après le match.",
+      "options": [
+        "étais",
+        "étaient",
+        "était",
+        "est"
+      ],
+      "answer": 2,
+      "explanation": "Être is the only verb with an irregular imparfait stem, ét-: j’étais, tu étais, il était, nous étions, vous étiez, ils étaient. Here: était.",
+      "textId": null
+    },
+    {
+      "id": "a2-imparfait-004",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imparfait",
+      "question": "Complète à l’imparfait : Nous ___ en vacances en Espagne.",
+      "options": [
+        "étiez",
+        "étaient",
+        "sommes",
+        "étions"
+      ],
+      "answer": 3,
+      "explanation": "Être is the only verb with an irregular imparfait stem, ét-: j’étais, tu étais, il était, nous étions, vous étiez, ils étaient. Here: étions.",
+      "textId": null
+    },
+    {
+      "id": "a2-imparfait-005",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imparfait",
+      "question": "Complète à l’imparfait : Vous ___ en retard ce matin.",
+      "options": [
+        "étiez",
+        "étions",
+        "étaient",
+        "êtes"
+      ],
+      "answer": 0,
+      "explanation": "Être is the only verb with an irregular imparfait stem, ét-: j’étais, tu étais, il était, nous étions, vous étiez, ils étaient. Here: étiez.",
+      "textId": null
+    },
+    {
+      "id": "a2-imparfait-006",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imparfait",
+      "question": "Complète à l’imparfait : Les magasins ___ fermés.",
+      "options": [
+        "était",
+        "étaient",
+        "étiez",
+        "sont"
+      ],
+      "answer": 1,
+      "explanation": "Être is the only verb with an irregular imparfait stem, ét-: j’étais, tu étais, il était, nous étions, vous étiez, ils étaient. Here: étaient.",
+      "textId": null
+    },
+    {
+      "id": "a2-imparfait-007",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imparfait",
+      "question": "Complète à l’imparfait : C’___ une belle journée.",
+      "options": [
+        "étais",
+        "étaient",
+        "était",
+        "est"
+      ],
+      "answer": 2,
+      "explanation": "Être is the only verb with an irregular imparfait stem, ét-: j’étais, tu étais, il était, nous étions, vous étiez, ils étaient. Here: était.",
+      "textId": null
+    },
+    {
+      "id": "a2-imparfait-008",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imparfait",
+      "question": "Complète à l’imparfait : Mes grands-parents ___ agriculteurs.",
+      "options": [
+        "était",
+        "étions",
+        "sont",
+        "étaient"
+      ],
+      "answer": 3,
+      "explanation": "Être is the only verb with an irregular imparfait stem, ét-: j’étais, tu étais, il était, nous étions, vous étiez, ils étaient. Here: étaient.",
+      "textId": null
+    },
+    {
+      "id": "a2-imparfait-009",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imparfait",
+      "question": "Complète à l’imparfait : J’___ dix ans en 2016.",
+      "options": [
+        "avais",
+        "avait",
+        "avaient",
+        "ai"
+      ],
+      "answer": 0,
+      "explanation": "Avoir in the imparfait: j’avais, tu avais, il avait, nous avions, vous aviez, ils avaient. Here: avais.",
+      "textId": null
+    },
+    {
+      "id": "a2-imparfait-010",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imparfait",
+      "question": "Complète à l’imparfait : Tu ___ les cheveux longs avant.",
+      "options": [
+        "avait",
+        "avais",
+        "aviez",
+        "as"
+      ],
+      "answer": 1,
+      "explanation": "Avoir in the imparfait: j’avais, tu avais, il avait, nous avions, vous aviez, ils avaient. Here: avais.",
+      "textId": null
+    },
+    {
+      "id": "a2-imparfait-011",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imparfait",
+      "question": "Complète à l’imparfait : Elle ___ peur du noir.",
+      "options": [
+        "avais",
+        "avaient",
+        "avait",
+        "a"
+      ],
+      "answer": 2,
+      "explanation": "Avoir in the imparfait: j’avais, tu avais, il avait, nous avions, vous aviez, ils avaient. Here: avait.",
+      "textId": null
+    },
+    {
+      "id": "a2-imparfait-012",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imparfait",
+      "question": "Complète à l’imparfait : Nous ___ un chien quand j’étais enfant.",
+      "options": [
+        "aviez",
+        "avaient",
+        "avons",
+        "avions"
+      ],
+      "answer": 3,
+      "explanation": "Avoir in the imparfait: j’avais, tu avais, il avait, nous avions, vous aviez, ils avaient. Here: avions.",
+      "textId": null
+    },
+    {
+      "id": "a2-imparfait-013",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imparfait",
+      "question": "Complète à l’imparfait : Vous ___ raison.",
+      "options": [
+        "aviez",
+        "avions",
+        "avaient",
+        "avez"
+      ],
+      "answer": 0,
+      "explanation": "Avoir in the imparfait: j’avais, tu avais, il avait, nous avions, vous aviez, ils avaient. Here: aviez.",
+      "textId": null
+    },
+    {
+      "id": "a2-imparfait-014",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imparfait",
+      "question": "Complète à l’imparfait : Ils ___ beaucoup d’amis à l’école.",
+      "options": [
+        "avait",
+        "avaient",
+        "avions",
+        "ont"
+      ],
+      "answer": 1,
+      "explanation": "Avoir in the imparfait: j’avais, tu avais, il avait, nous avions, vous aviez, ils avaient. Here: avaient.",
+      "textId": null
+    },
+    {
+      "id": "a2-imparfait-015",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imparfait",
+      "question": "Complète à l’imparfait : Il y ___ beaucoup de monde à la plage.",
+      "options": [
+        "avais",
+        "avaient",
+        "avait",
+        "a"
+      ],
+      "answer": 2,
+      "explanation": "Avoir in the imparfait: j’avais, tu avais, il avait, nous avions, vous aviez, ils avaient. Here: avait.",
+      "textId": null
+    },
+    {
+      "id": "a2-imparfait-016",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imparfait",
+      "question": "Complète à l’imparfait : Avant, je ___ au tennis tous les samedis.",
+      "options": [
+        "jouait",
+        "jouions",
+        "joue",
+        "jouais"
+      ],
+      "answer": 3,
+      "explanation": "The imparfait takes the nous stem of the present (nous parl-ons → parl-) + -ais, -ais, -ait, -ions, -iez, -aient. Here: jouais.",
+      "textId": null
+    },
+    {
+      "id": "a2-imparfait-017",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imparfait",
+      "question": "Complète à l’imparfait : Tu ___ beaucoup quand tu étais bébé.",
+      "options": [
+        "pleurais",
+        "pleurait",
+        "pleuriez",
+        "pleures"
+      ],
+      "answer": 0,
+      "explanation": "The imparfait takes the nous stem of the present (nous parl-ons → parl-) + -ais, -ais, -ait, -ions, -iez, -aient. Here: pleurais.",
+      "textId": null
+    },
+    {
+      "id": "a2-imparfait-018",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imparfait",
+      "question": "Complète à l’imparfait : Mon père ___ dans une usine.",
+      "options": [
+        "travaillais",
+        "travaillait",
+        "travaillaient",
+        "travaille"
+      ],
+      "answer": 1,
+      "explanation": "The imparfait takes the nous stem of the present (nous parl-ons → parl-) + -ais, -ais, -ait, -ions, -iez, -aient. Here: travaillait.",
+      "textId": null
+    },
+    {
+      "id": "a2-imparfait-019",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imparfait",
+      "question": "Complète à l’imparfait : Nous ___ à la campagne.",
+      "options": [
+        "habitiez",
+        "habitaient",
+        "habitions",
+        "habitons"
+      ],
+      "answer": 2,
+      "explanation": "The imparfait takes the nous stem of the present (nous parl-ons → parl-) + -ais, -ais, -ait, -ions, -iez, -aient. Here: habitions.",
+      "textId": null
+    },
+    {
+      "id": "a2-imparfait-020",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imparfait",
+      "question": "Complète à l’imparfait : Vous ___ français à la maison ?",
+      "options": [
+        "parlions",
+        "parlaient",
+        "parlez",
+        "parliez"
+      ],
+      "answer": 3,
+      "explanation": "The imparfait takes the nous stem of the present (nous parl-ons → parl-) + -ais, -ais, -ait, -ions, -iez, -aient. Here: parliez.",
+      "textId": null
+    },
+    {
+      "id": "a2-imparfait-021",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imparfait",
+      "question": "Complète à l’imparfait : Mes parents ___ la télé tous les soirs.",
+      "options": [
+        "regardaient",
+        "regardait",
+        "regardions",
+        "regardent"
+      ],
+      "answer": 0,
+      "explanation": "The imparfait takes the nous stem of the present (nous parl-ons → parl-) + -ais, -ais, -ait, -ions, -iez, -aient. Here: regardaient.",
+      "textId": null
+    },
+    {
+      "id": "a2-imparfait-022",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imparfait",
+      "question": "Complète à l’imparfait : Elle ___ toujours une robe rouge.",
+      "options": [
+        "portais",
+        "portait",
+        "portaient",
+        "porte"
+      ],
+      "answer": 1,
+      "explanation": "The imparfait takes the nous stem of the present (nous parl-ons → parl-) + -ais, -ais, -ait, -ions, -iez, -aient. Here: portait.",
+      "textId": null
+    },
+    {
+      "id": "a2-imparfait-023",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imparfait",
+      "question": "Complète à l’imparfait : Je ___ les légumes quand j’étais petit.",
+      "options": [
+        "détestait",
+        "détestions",
+        "détestais",
+        "déteste"
+      ],
+      "answer": 2,
+      "explanation": "The imparfait takes the nous stem of the present (nous parl-ons → parl-) + -ais, -ais, -ait, -ions, -iez, -aient. Here: détestais.",
+      "textId": null
+    },
+    {
+      "id": "a2-imparfait-024",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imparfait",
+      "question": "Complète à l’imparfait : On ___ dans la rue après l’école.",
+      "options": [
+        "jouais",
+        "jouaient",
+        "joue",
+        "jouait"
+      ],
+      "answer": 3,
+      "explanation": "The imparfait takes the nous stem of the present (nous parl-ons → parl-) + -ais, -ais, -ait, -ions, -iez, -aient. Here: jouait.",
+      "textId": null
+    },
+    {
+      "id": "a2-imparfait-025",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imparfait",
+      "question": "Complète à l’imparfait : Les enfants ___ des chansons en classe.",
+      "options": [
+        "chantaient",
+        "chantait",
+        "chantiez",
+        "chantent"
+      ],
+      "answer": 0,
+      "explanation": "The imparfait takes the nous stem of the present (nous parl-ons → parl-) + -ais, -ais, -ait, -ions, -iez, -aient. Here: chantaient.",
+      "textId": null
+    },
+    {
+      "id": "a2-imparfait-026",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imparfait",
+      "question": "Complète à l’imparfait : Tu ___ beaucoup de musique à cette époque ?",
+      "options": [
+        "écoutait",
+        "écoutais",
+        "écoutiez",
+        "écoutes"
+      ],
+      "answer": 1,
+      "explanation": "The imparfait takes the nous stem of the present (nous parl-ons → parl-) + -ais, -ais, -ait, -ions, -iez, -aient. Here: écoutais.",
+      "textId": null
+    },
+    {
+      "id": "a2-imparfait-027",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imparfait",
+      "question": "Complète à l’imparfait : Il ___ tous les jours à sa mère.",
+      "options": [
+        "téléphonais",
+        "téléphonaient",
+        "téléphonait",
+        "téléphone"
+      ],
+      "answer": 2,
+      "explanation": "The imparfait takes the nous stem of the present (nous parl-ons → parl-) + -ais, -ais, -ait, -ions, -iez, -aient. Here: téléphonait.",
+      "textId": null
+    },
+    {
+      "id": "a2-imparfait-028",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imparfait",
+      "question": "Complète à l’imparfait : Je ___ mes devoirs très tard.",
+      "options": [
+        "finisais",
+        "finissait",
+        "finis",
+        "finissais"
+      ],
+      "answer": 3,
+      "explanation": "-ir verbs like finir keep -iss- from the nous form: nous finissons → je finissais. Here: finissais.",
+      "textId": null
+    },
+    {
+      "id": "a2-imparfait-029",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imparfait",
+      "question": "Complète à l’imparfait : Nous ___ toujours le même restaurant.",
+      "options": [
+        "choisissions",
+        "choisions",
+        "choisissiez",
+        "choisissons"
+      ],
+      "answer": 0,
+      "explanation": "-ir verbs like finir keep -iss- from the nous form: nous finissons → je finissais. Here: choisissions.",
+      "textId": null
+    },
+    {
+      "id": "a2-imparfait-030",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imparfait",
+      "question": "Complète à l’imparfait : Les enfants ___ très vite.",
+      "options": [
+        "grandaient",
+        "grandissaient",
+        "grandissait",
+        "grandissent"
+      ],
+      "answer": 1,
+      "explanation": "-ir verbs like finir keep -iss- from the nous form: nous finissons → je finissais. Here: grandissaient.",
+      "textId": null
+    },
+    {
+      "id": "a2-imparfait-031",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imparfait",
+      "question": "Complète à l’imparfait : Elle ___ longtemps avant de répondre.",
+      "options": [
+        "réfléchait",
+        "réfléchissais",
+        "réfléchissait",
+        "réfléchit"
+      ],
+      "answer": 2,
+      "explanation": "-ir verbs like finir keep -iss- from the nous form: nous finissons → je finissais. Here: réfléchissait.",
+      "textId": null
+    },
+    {
+      "id": "a2-imparfait-032",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imparfait",
+      "question": "Complète à l’imparfait : Tu ___ toujours à tes examens.",
+      "options": [
+        "réussais",
+        "réussissait",
+        "réussis",
+        "réussissais"
+      ],
+      "answer": 3,
+      "explanation": "-ir verbs like finir keep -iss- from the nous form: nous finissons → je finissais. Here: réussissais.",
+      "textId": null
+    },
+    {
+      "id": "a2-imparfait-033",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imparfait",
+      "question": "Complète à l’imparfait : Je ___ beaucoup de chocolat.",
+      "options": [
+        "mangeais",
+        "mangais",
+        "mangions",
+        "mange"
+      ],
+      "answer": 0,
+      "explanation": "Verbs in -ger keep the e before a: je mangeais, but nous mangions. Verbs in -cer take ç before a: je commençais, but nous commencions. Here: mangeais.",
+      "textId": null
+    },
+    {
+      "id": "a2-imparfait-034",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imparfait",
+      "question": "Complète à l’imparfait : Nous ___ ensemble le dimanche.",
+      "options": [
+        "mangeions",
+        "mangions",
+        "mangiez",
+        "mangeons"
+      ],
+      "answer": 1,
+      "explanation": "Verbs in -ger keep the e before a: je mangeais, but nous mangions. Verbs in -cer take ç before a: je commençais, but nous commencions. Here: mangions.",
+      "textId": null
+    },
+    {
+      "id": "a2-imparfait-035",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imparfait",
+      "question": "Complète à l’imparfait : Il ___ dans le lac en été.",
+      "options": [
+        "nagait",
+        "nageais",
+        "nageait",
+        "nage"
+      ],
+      "answer": 2,
+      "explanation": "Verbs in -ger keep the e before a: je mangeais, but nous mangions. Verbs in -cer take ç before a: je commençais, but nous commencions. Here: nageait.",
+      "textId": null
+    },
+    {
+      "id": "a2-imparfait-036",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imparfait",
+      "question": "Complète à l’imparfait : Le cours ___ à huit heures.",
+      "options": [
+        "commencait",
+        "commençais",
+        "commence",
+        "commençait"
+      ],
+      "answer": 3,
+      "explanation": "Verbs in -ger keep the e before a: je mangeais, but nous mangions. Verbs in -cer take ç before a: je commençais, but nous commencions. Here: commençait.",
+      "textId": null
+    },
+    {
+      "id": "a2-imparfait-037",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imparfait",
+      "question": "Complète à l’imparfait : Nous ___ à travailler très tôt.",
+      "options": [
+        "commencions",
+        "commençions",
+        "commenciez",
+        "commençons"
+      ],
+      "answer": 0,
+      "explanation": "Verbs in -ger keep the e before a: je mangeais, but nous mangions. Verbs in -cer take ç before a: je commençais, but nous commencions. Here: commencions.",
+      "textId": null
+    },
+    {
+      "id": "a2-imparfait-038",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imparfait",
+      "question": "Complète à l’imparfait : Elle ___ beaucoup pour son travail.",
+      "options": [
+        "voyagait",
+        "voyageait",
+        "voyageais",
+        "voyage"
+      ],
+      "answer": 1,
+      "explanation": "Verbs in -ger keep the e before a: je mangeais, but nous mangions. Verbs in -cer take ç before a: je commençais, but nous commencions. Here: voyageait.",
+      "textId": null
+    },
+    {
+      "id": "a2-imparfait-039",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imparfait",
+      "question": "Complète à l’imparfait : Je ___ du sport tous les jours.",
+      "options": [
+        "fesais",
+        "faisait",
+        "faisais",
+        "fais"
+      ],
+      "answer": 2,
+      "explanation": "The stem comes from the nous form of the present: faire → nous faisons → fais-; prendre → nous prenons → pren-; boire → nous buvons → buv-. Here: faisais.",
+      "textId": null
+    },
+    {
+      "id": "a2-imparfait-040",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imparfait",
+      "question": "Complète à l’imparfait : Il ___ beau hier.",
+      "options": [
+        "fesait",
+        "faisais",
+        "fait",
+        "faisait"
+      ],
+      "answer": 3,
+      "explanation": "The stem comes from the nous form of the present: faire → nous faisons → fais-; prendre → nous prenons → pren-; boire → nous buvons → buv-. Here: faisait.",
+      "textId": null
+    },
+    {
+      "id": "a2-imparfait-041",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imparfait",
+      "question": "Complète à l’imparfait : Nous ___ le bus pour aller à l’école.",
+      "options": [
+        "prenions",
+        "prendions",
+        "preniez",
+        "prenons"
+      ],
+      "answer": 0,
+      "explanation": "The stem comes from the nous form of the present: faire → nous faisons → fais-; prendre → nous prenons → pren-; boire → nous buvons → buv-. Here: prenions.",
+      "textId": null
+    },
+    {
+      "id": "a2-imparfait-042",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imparfait",
+      "question": "Complète à l’imparfait : Tu ___ beaucoup de café avant.",
+      "options": [
+        "boivais",
+        "buvais",
+        "buvait",
+        "bois"
+      ],
+      "answer": 1,
+      "explanation": "The stem comes from the nous form of the present: faire → nous faisons → fais-; prendre → nous prenons → pren-; boire → nous buvons → buv-. Here: buvais.",
+      "textId": null
+    },
+    {
+      "id": "a2-imparfait-043",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imparfait",
+      "question": "Complète à l’imparfait : Ils ___ bien le quartier.",
+      "options": [
+        "connaîtaient",
+        "connaissait",
+        "connaissaient",
+        "connaissent"
+      ],
+      "answer": 2,
+      "explanation": "The stem comes from the nous form of the present: faire → nous faisons → fais-; prendre → nous prenons → pren-; boire → nous buvons → buv-. Here: connaissaient.",
+      "textId": null
+    },
+    {
+      "id": "a2-imparfait-044",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imparfait",
+      "question": "Complète à l’imparfait : Je ___ beaucoup de romans.",
+      "options": [
+        "lirais",
+        "lisait",
+        "lis",
+        "lisais"
+      ],
+      "answer": 3,
+      "explanation": "The stem comes from the nous form of the present: faire → nous faisons → fais-; prendre → nous prenons → pren-; boire → nous buvons → buv-. Here: lisais.",
+      "textId": null
+    },
+    {
+      "id": "a2-imparfait-045",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imparfait",
+      "question": "Complète à l’imparfait : Elle ___ des lettres à sa grand-mère.",
+      "options": [
+        "écrivait",
+        "écrirait",
+        "écrivais",
+        "écrit"
+      ],
+      "answer": 0,
+      "explanation": "The stem comes from the nous form of the present: faire → nous faisons → fais-; prendre → nous prenons → pren-; boire → nous buvons → buv-. Here: écrivait.",
+      "textId": null
+    },
+    {
+      "id": "a2-imparfait-046",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imparfait",
+      "question": "Complète à l’imparfait : Nous ___ souvent nos cousins.",
+      "options": [
+        "voyons",
+        "voyions",
+        "voyiez",
+        "verrions"
+      ],
+      "answer": 1,
+      "explanation": "The stem comes from the nous form of the present: faire → nous faisons → fais-; prendre → nous prenons → pren-; boire → nous buvons → buv-. Here: voyions.",
+      "textId": null
+    },
+    {
+      "id": "a2-imparfait-047",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imparfait",
+      "question": "Complète à l’imparfait : Vous ___ quoi, à cette époque ?",
+      "options": [
+        "faites",
+        "faisions",
+        "faisiez",
+        "fesiez"
+      ],
+      "answer": 2,
+      "explanation": "The stem comes from the nous form of the present: faire → nous faisons → fais-; prendre → nous prenons → pren-; boire → nous buvons → buv-. Here: faisiez.",
+      "textId": null
+    },
+    {
+      "id": "a2-imparfait-048",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imparfait",
+      "question": "Complète à l’imparfait : Ils ___ toujours « bonjour ».",
+      "options": [
+        "diraient",
+        "disait",
+        "disent",
+        "disaient"
+      ],
+      "answer": 3,
+      "explanation": "The stem comes from the nous form of the present: faire → nous faisons → fais-; prendre → nous prenons → pren-; boire → nous buvons → buv-. Here: disaient.",
+      "textId": null
+    },
+    {
+      "id": "a2-imparfait-049",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imparfait",
+      "question": "Complète à l’imparfait : À dix ans, je ___ déjà lire.",
+      "options": [
+        "savais",
+        "saurais",
+        "sais",
+        "savait"
+      ],
+      "answer": 0,
+      "explanation": "The stem comes from the nous form of the present: faire → nous faisons → fais-; prendre → nous prenons → pren-; boire → nous buvons → buv-. Here: savais.",
+      "textId": null
+    },
+    {
+      "id": "a2-imparfait-050",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imparfait",
+      "question": "Complète à l’imparfait : Tu ___ à quelle heure le matin ?",
+      "options": [
+        "partait",
+        "partais",
+        "partiez",
+        "pars"
+      ],
+      "answer": 1,
+      "explanation": "The stem comes from the nous form of the present: faire → nous faisons → fais-; prendre → nous prenons → pren-; boire → nous buvons → buv-. Here: partais.",
+      "textId": null
+    },
+    {
+      "id": "a2-imparfait-051",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imparfait",
+      "question": "Complète à l’imparfait : On ___ sortir tous les week-ends.",
+      "options": [
+        "pouvais",
+        "pouvaient",
+        "pouvait",
+        "peut"
+      ],
+      "answer": 2,
+      "explanation": "The stem comes from the nous form of the present: faire → nous faisons → fais-; prendre → nous prenons → pren-; boire → nous buvons → buv-. Here: pouvait.",
+      "textId": null
+    },
+    {
+      "id": "a2-imparfait-052",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imparfait",
+      "question": "Complète à l’imparfait : Je ___ devenir pilote.",
+      "options": [
+        "voulait",
+        "voulions",
+        "veux",
+        "voulais"
+      ],
+      "answer": 3,
+      "explanation": "The stem comes from the nous form of the present: faire → nous faisons → fais-; prendre → nous prenons → pren-; boire → nous buvons → buv-. Here: voulais.",
+      "textId": null
+    },
+    {
+      "id": "a2-imparfait-053",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imparfait",
+      "question": "Complète à l’imparfait : Il ___ se lever à cinq heures.",
+      "options": [
+        "devait",
+        "devais",
+        "devaient",
+        "doit"
+      ],
+      "answer": 0,
+      "explanation": "The stem comes from the nous form of the present: faire → nous faisons → fais-; prendre → nous prenons → pren-; boire → nous buvons → buv-. Here: devait.",
+      "textId": null
+    },
+    {
+      "id": "a2-imparfait-054",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imparfait",
+      "question": "Complète à l’imparfait : Nous ___ au cinéma chaque semaine.",
+      "options": [
+        "alliez",
+        "allions",
+        "allaient",
+        "allons"
+      ],
+      "answer": 1,
+      "explanation": "The stem comes from the nous form of the present: faire → nous faisons → fais-; prendre → nous prenons → pren-; boire → nous buvons → buv-. Here: allions.",
+      "textId": null
+    },
+    {
+      "id": "a2-imparfait-055",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imparfait",
+      "question": "Complète à l’imparfait : Elles ___ nous voir chaque été.",
+      "options": [
+        "venait",
+        "veniez",
+        "venaient",
+        "viennent"
+      ],
+      "answer": 2,
+      "explanation": "The stem comes from the nous form of the present: faire → nous faisons → fais-; prendre → nous prenons → pren-; boire → nous buvons → buv-. Here: venaient.",
+      "textId": null
+    },
+    {
+      "id": "a2-imparfait-056",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imparfait",
+      "question": "Complète à l’imparfait : Je ___ toujours avec ma sœur.",
+      "options": [
+        "dormait",
+        "dormions",
+        "dors",
+        "dormais"
+      ],
+      "answer": 3,
+      "explanation": "The stem comes from the nous form of the present: faire → nous faisons → fais-; prendre → nous prenons → pren-; boire → nous buvons → buv-. Here: dormais.",
+      "textId": null
+    },
+    {
+      "id": "a2-imparfait-057",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imparfait",
+      "question": "Complète à l’imparfait : Nous ___ le français à l’école.",
+      "options": [
+        "étudiions",
+        "étudions",
+        "étudiiez",
+        "étudiaient"
+      ],
+      "answer": 0,
+      "explanation": "When the stem ends in i (étudier, rire), the nous and vous forms have two i’s: nous étudiions. Here: étudiions.",
+      "textId": null
+    },
+    {
+      "id": "a2-imparfait-058",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imparfait",
+      "question": "Complète à l’imparfait : Vous ___ beaucoup en classe ?",
+      "options": [
+        "riez",
+        "riiez",
+        "riions",
+        "riaient"
+      ],
+      "answer": 1,
+      "explanation": "When the stem ends in i (étudier, rire), the nous and vous forms have two i’s: nous étudiions. Here: riiez.",
+      "textId": null
+    },
+    {
+      "id": "a2-imparfait-059",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imparfait",
+      "question": "Complète à l’imparfait : Nous ___ toujours nos clés.",
+      "options": [
+        "oublions",
+        "oubliiez",
+        "oubliions",
+        "oubliaient"
+      ],
+      "answer": 2,
+      "explanation": "When the stem ends in i (étudier, rire), the nous and vous forms have two i’s: nous étudiions. Here: oubliions.",
+      "textId": null
+    },
+    {
+      "id": "a2-imparfait-060",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imparfait",
+      "question": "Complète à l’imparfait : Avant, il ___ toujours en hiver.",
+      "options": [
+        "neigait",
+        "neigeais",
+        "neige",
+        "neigeait"
+      ],
+      "answer": 3,
+      "explanation": "Verbs in -ger keep the e before a: je mangeais, but nous mangions. Verbs in -cer take ç before a: je commençais, but nous commencions. Here: neigeait.",
+      "textId": null
+    },
+    {
+      "id": "a2-imparfait-061",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imparfait",
+      "question": "Il ___ beaucoup hier, les rues étaient mouillées.",
+      "options": [
+        "pleuvait",
+        "pleurait",
+        "pleuvais",
+        "pleut"
+      ],
+      "answer": 0,
+      "explanation": "Pleuvoir (to rain): il pleuvait. Do not confuse it with pleurer (to cry): il pleurait.",
+      "textId": null
+    },
+    {
+      "id": "a2-imparfait-062",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imparfait",
+      "question": "Quand j’étais enfant, je ___ le chocolat.",
+      "options": [
+        "ai adoré",
+        "adorais",
+        "adore",
+        "adorerai"
+      ],
+      "answer": 1,
+      "explanation": "The imparfait describes how things were: habits, descriptions, age, weather and feelings in the past.",
+      "textId": null
+    },
+    {
+      "id": "a2-imparfait-063",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imparfait",
+      "question": "Avant, nous ___ dans une petite maison.",
+      "options": [
+        "avons habité",
+        "habitons",
+        "habitions",
+        "habiterons"
+      ],
+      "answer": 2,
+      "explanation": "The imparfait describes how things were: habits, descriptions, age, weather and feelings in the past.",
+      "textId": null
+    },
+    {
+      "id": "a2-imparfait-064",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imparfait",
+      "question": "Il ___ froid et il neigeait.",
+      "options": [
+        "a fait",
+        "fait",
+        "fera",
+        "faisait"
+      ],
+      "answer": 3,
+      "explanation": "The imparfait describes how things were: habits, descriptions, age, weather and feelings in the past.",
+      "textId": null
+    },
+    {
+      "id": "a2-imparfait-065",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imparfait",
+      "question": "Tous les étés, on ___ à la mer.",
+      "options": [
+        "allait",
+        "est allé",
+        "va",
+        "ira"
+      ],
+      "answer": 0,
+      "explanation": "The imparfait describes how things were: habits, descriptions, age, weather and feelings in the past.",
+      "textId": null
+    },
+    {
+      "id": "a2-imparfait-066",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imparfait",
+      "question": "Petite, ma mère ___ les cheveux très longs.",
+      "options": [
+        "a eu",
+        "avait",
+        "a",
+        "aura"
+      ],
+      "answer": 1,
+      "explanation": "The imparfait describes how things were: habits, descriptions, age, weather and feelings in the past.",
+      "textId": null
+    },
+    {
+      "id": "a2-imparfait-067",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imparfait",
+      "question": "À cette époque, les gens n’___ pas de téléphone portable.",
+      "options": [
+        "ont eu",
+        "ont",
+        "avaient",
+        "auront"
+      ],
+      "answer": 2,
+      "explanation": "The imparfait describes how things were: habits, descriptions, age, weather and feelings in the past.",
+      "textId": null
+    },
+    {
+      "id": "a2-imparfait-068",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imparfait",
+      "question": "Chaque dimanche, ma grand-mère ___ un gâteau.",
+      "options": [
+        "a préparé",
+        "prépare",
+        "préparera",
+        "préparait"
+      ],
+      "answer": 3,
+      "explanation": "The imparfait describes how things were: habits, descriptions, age, weather and feelings in the past.",
+      "textId": null
+    },
+    {
+      "id": "a2-imparfait-069",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imparfait",
+      "question": "Quand j’avais dix ans, je ___ être vétérinaire.",
+      "options": [
+        "voulais",
+        "ai voulu",
+        "veux",
+        "voudrai"
+      ],
+      "answer": 0,
+      "explanation": "The imparfait describes how things were: habits, descriptions, age, weather and feelings in the past.",
+      "textId": null
+    },
+    {
+      "id": "a2-imparfait-070",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imparfait",
+      "question": "Dans mon enfance, notre maison ___ grande et très lumineuse.",
+      "options": [
+        "a été",
+        "était",
+        "est",
+        "sera"
+      ],
+      "answer": 1,
+      "explanation": "The imparfait describes how things were: habits, descriptions, age, weather and feelings in the past.",
+      "textId": null
+    },
+    {
+      "id": "a2-imparfait-071",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imparfait",
+      "question": "Autrefois, on ___ sans Internet.",
+      "options": [
+        "a vécu",
+        "vit",
+        "vivait",
+        "vivra"
+      ],
+      "answer": 2,
+      "explanation": "The imparfait describes how things were: habits, descriptions, age, weather and feelings in the past.",
+      "textId": null
+    },
+    {
+      "id": "a2-imparfait-072",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imparfait",
+      "question": "Complète à l’imparfait : Je ___ toujours le bus de sept heures.",
+      "options": [
+        "prenait",
+        "prendais",
+        "prends",
+        "prenais"
+      ],
+      "answer": 3,
+      "explanation": "The stem comes from the nous form of the present: faire → nous faisons → fais-; prendre → nous prenons → pren-; boire → nous buvons → buv-. Here: prenais.",
+      "textId": null
+    },
+    {
+      "id": "a2-imparfait-073",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imparfait",
+      "question": "Complète à l’imparfait : Tu ___ beaucoup de sport au lycée ?",
+      "options": [
+        "faisais",
+        "faisait",
+        "fesais",
+        "fais"
+      ],
+      "answer": 0,
+      "explanation": "The stem comes from the nous form of the present: faire → nous faisons → fais-; prendre → nous prenons → pren-; boire → nous buvons → buv-. Here: faisais.",
+      "textId": null
+    },
+    {
+      "id": "a2-imparfait-074",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imparfait",
+      "question": "Complète à l’imparfait : Elle ne ___ pas nager.",
+      "options": [
+        "savais",
+        "savait",
+        "savaient",
+        "sait"
+      ],
+      "answer": 1,
+      "explanation": "The stem comes from the nous form of the present: faire → nous faisons → fais-; prendre → nous prenons → pren-; boire → nous buvons → buv-. Here: savait.",
+      "textId": null
+    },
+    {
+      "id": "a2-imparfait-075",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imparfait",
+      "question": "Complète à l’imparfait : Nous ne ___ personne dans cette ville.",
+      "options": [
+        "connaissiez",
+        "connaissaient",
+        "connaissions",
+        "connaissons"
+      ],
+      "answer": 2,
+      "explanation": "The stem comes from the nous form of the present: faire → nous faisons → fais-; prendre → nous prenons → pren-; boire → nous buvons → buv-. Here: connaissions.",
+      "textId": null
+    },
+    {
+      "id": "a2-imparfait-076",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imparfait",
+      "question": "Complète à l’imparfait : Vous ___ souvent au restaurant ?",
+      "options": [
+        "allions",
+        "allaient",
+        "allez",
+        "alliez"
+      ],
+      "answer": 3,
+      "explanation": "The stem comes from the nous form of the present: faire → nous faisons → fais-; prendre → nous prenons → pren-; boire → nous buvons → buv-. Here: alliez.",
+      "textId": null
+    },
+    {
+      "id": "a2-imparfait-077",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imparfait",
+      "question": "Complète à l’imparfait : Ils ne ___ jamais en vacances.",
+      "options": [
+        "partaient",
+        "partait",
+        "partions",
+        "partent"
+      ],
+      "answer": 0,
+      "explanation": "The stem comes from the nous form of the present: faire → nous faisons → fais-; prendre → nous prenons → pren-; boire → nous buvons → buv-. Here: partaient.",
+      "textId": null
+    },
+    {
+      "id": "a2-imparfait-078",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imparfait",
+      "question": "Si on ___ au cinéma ce soir ?",
+      "options": [
+        "va",
+        "allait",
+        "ira",
+        "est allé"
+      ],
+      "answer": 1,
+      "explanation": "Si + imparfait can make a suggestion: Si on allait au cinéma ? = How about going to the cinema?",
+      "textId": null
+    },
+    {
+      "id": "a2-imparfait-079",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imparfait",
+      "question": "Si tu ___ avec nous ?",
+      "options": [
+        "viens",
+        "viendras",
+        "venais",
+        "es venu"
+      ],
+      "answer": 2,
+      "explanation": "Si + imparfait can make a suggestion: Si tu venais avec nous ? = How about coming with us?",
+      "textId": null
+    },
+    {
+      "id": "a2-imparfait-080",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imparfait",
+      "question": "Complète à l’imparfait : Elles ___ toujours ensemble.",
+      "options": [
+        "sortait",
+        "sortions",
+        "sortent",
+        "sortaient"
+      ],
+      "answer": 3,
+      "explanation": "The stem comes from the nous form of the present: faire → nous faisons → fais-; prendre → nous prenons → pren-; boire → nous buvons → buv-. Here: sortaient.",
+      "textId": null
+    }
+  ]
+}

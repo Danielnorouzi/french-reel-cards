@@ -1,0 +1,485 @@
+{
+  "texts": [],
+  "questions": [
+    {
+      "id": "a2-place_prepositions-051",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "place_prepositions",
+      "question": "Je viens ___ Canada.",
+      "options": [
+        "du",
+        "de",
+        "de la",
+        "des"
+      ],
+      "answer": 0,
+      "explanation": "To say where you come from: de + city, de (d’) + feminine country, du + masculine country, des + plural country. Here: du.",
+      "textId": null
+    },
+    {
+      "id": "a2-place_prepositions-052",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "place_prepositions",
+      "question": "Elle vient ___ France.",
+      "options": [
+        "du",
+        "de",
+        "de la",
+        "des"
+      ],
+      "answer": 1,
+      "explanation": "To say where you come from: de + city, de (d’) + feminine country, du + masculine country, des + plural country. Here: de.",
+      "textId": null
+    },
+    {
+      "id": "a2-place_prepositions-053",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "place_prepositions",
+      "question": "Ils viennent ___ États-Unis.",
+      "options": [
+        "du",
+        "de",
+        "des",
+        "d’"
+      ],
+      "answer": 2,
+      "explanation": "To say where you come from: de + city, de (d’) + feminine country, du + masculine country, des + plural country. Here: des.",
+      "textId": null
+    },
+    {
+      "id": "a2-place_prepositions-054",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "place_prepositions",
+      "question": "Tu viens ___ Italie ?",
+      "options": [
+        "de",
+        "du",
+        "des",
+        "d’"
+      ],
+      "answer": 3,
+      "explanation": "To say where you come from: de + city, de (d’) + feminine country, du + masculine country, des + plural country. Here: d’.",
+      "textId": null
+    },
+    {
+      "id": "a2-place_prepositions-055",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "place_prepositions",
+      "question": "Nous venons ___ Montréal.",
+      "options": [
+        "de",
+        "du",
+        "de la",
+        "des"
+      ],
+      "answer": 0,
+      "explanation": "To say where you come from: de + city, de (d’) + feminine country, du + masculine country, des + plural country. Here: de.",
+      "textId": null
+    },
+    {
+      "id": "a2-place_prepositions-056",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "place_prepositions",
+      "question": "Mon voisin vient ___ Japon.",
+      "options": [
+        "de",
+        "du",
+        "de la",
+        "des"
+      ],
+      "answer": 1,
+      "explanation": "To say where you come from: de + city, de (d’) + feminine country, du + masculine country, des + plural country. Here: du.",
+      "textId": null
+    },
+    {
+      "id": "a2-place_prepositions-057",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "place_prepositions",
+      "question": "Ces oranges viennent ___ Espagne.",
+      "options": [
+        "de l’",
+        "du",
+        "d’",
+        "des"
+      ],
+      "answer": 2,
+      "explanation": "To say where you come from: de + city, de (d’) + feminine country, du + masculine country, des + plural country. Here: d’.",
+      "textId": null
+    },
+    {
+      "id": "a2-place_prepositions-058",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "place_prepositions",
+      "question": "Ce café vient ___ Brésil.",
+      "options": [
+        "de",
+        "de la",
+        "des",
+        "du"
+      ],
+      "answer": 3,
+      "explanation": "To say where you come from: de + city, de (d’) + feminine country, du + masculine country, des + plural country. Here: du.",
+      "textId": null
+    },
+    {
+      "id": "a2-place_prepositions-059",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "place_prepositions",
+      "question": "Elle revient ___ Pays-Bas demain.",
+      "options": [
+        "des",
+        "du",
+        "de",
+        "d’"
+      ],
+      "answer": 0,
+      "explanation": "To say where you come from: de + city, de (d’) + feminine country, du + masculine country, des + plural country. Here: des.",
+      "textId": null
+    },
+    {
+      "id": "a2-place_prepositions-060",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "place_prepositions",
+      "question": "Il est originaire ___ Maroc.",
+      "options": [
+        "de",
+        "du",
+        "de la",
+        "des"
+      ],
+      "answer": 1,
+      "explanation": "To say where you come from: de + city, de (d’) + feminine country, du + masculine country, des + plural country. Here: du.",
+      "textId": null
+    },
+    {
+      "id": "a2-place_prepositions-061",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "place_prepositions",
+      "question": "Mes grands-parents viennent ___ Iran.",
+      "options": [
+        "de l’",
+        "du",
+        "d’",
+        "des"
+      ],
+      "answer": 2,
+      "explanation": "To say where you come from: de + city, de (d’) + feminine country, du + masculine country, des + plural country. Here: d’.",
+      "textId": null
+    },
+    {
+      "id": "a2-place_prepositions-062",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "place_prepositions",
+      "question": "Ce fromage vient ___ Suisse.",
+      "options": [
+        "du",
+        "de la",
+        "des",
+        "de"
+      ],
+      "answer": 3,
+      "explanation": "To say where you come from: de + city, de (d’) + feminine country, du + masculine country, des + plural country. Here: de.",
+      "textId": null
+    },
+    {
+      "id": "a2-place_prepositions-063",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "place_prepositions",
+      "question": "Je voyage ___ Asie cet été.",
+      "options": [
+        "en",
+        "au",
+        "à",
+        "aux"
+      ],
+      "answer": 0,
+      "explanation": "Continents and most French regions are feminine and take en: en Asie, en Bretagne. Masculine ones take au (au Québec) or dans le.",
+      "textId": null
+    },
+    {
+      "id": "a2-place_prepositions-064",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "place_prepositions",
+      "question": "Il travaille ___ Afrique.",
+      "options": [
+        "au",
+        "en",
+        "à",
+        "aux"
+      ],
+      "answer": 1,
+      "explanation": "Continents and most French regions are feminine and take en: en Asie, en Bretagne. Masculine ones take au (au Québec) or dans le.",
+      "textId": null
+    },
+    {
+      "id": "a2-place_prepositions-065",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "place_prepositions",
+      "question": "Nous passons les vacances ___ Bretagne.",
+      "options": [
+        "au",
+        "à",
+        "en",
+        "aux"
+      ],
+      "answer": 2,
+      "explanation": "Continents and most French regions are feminine and take en: en Asie, en Bretagne. Masculine ones take au (au Québec) or dans le.",
+      "textId": null
+    },
+    {
+      "id": "a2-place_prepositions-066",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "place_prepositions",
+      "question": "Ma tante habite ___ Québec, à Trois-Rivières.",
+      "options": [
+        "en",
+        "à",
+        "aux",
+        "au"
+      ],
+      "answer": 3,
+      "explanation": "Continents and most French regions are feminine and take en: en Asie, en Bretagne. Masculine ones take au (au Québec) or dans le.",
+      "textId": null
+    },
+    {
+      "id": "a2-place_prepositions-067",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "place_prepositions",
+      "question": "Ils vivent ___ Europe depuis dix ans.",
+      "options": [
+        "en",
+        "au",
+        "à",
+        "aux"
+      ],
+      "answer": 0,
+      "explanation": "Continents and most French regions are feminine and take en: en Asie, en Bretagne. Masculine ones take au (au Québec) or dans le.",
+      "textId": null
+    },
+    {
+      "id": "a2-place_prepositions-068",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "place_prepositions",
+      "question": "Elle étudie ___ Provence.",
+      "options": [
+        "au",
+        "en",
+        "à",
+        "aux"
+      ],
+      "answer": 1,
+      "explanation": "Continents and most French regions are feminine and take en: en Asie, en Bretagne. Masculine ones take au (au Québec) or dans le.",
+      "textId": null
+    },
+    {
+      "id": "a2-place_prepositions-069",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "place_prepositions",
+      "question": "On part en vacances ___ Cuba.",
+      "options": [
+        "en",
+        "au",
+        "à",
+        "aux"
+      ],
+      "answer": 2,
+      "explanation": "Small islands with no article take à: à Cuba, à Madagascar. Feminine islands with an article take en: en Corse.",
+      "textId": null
+    },
+    {
+      "id": "a2-place_prepositions-070",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "place_prepositions",
+      "question": "Mon oncle vit ___ Madagascar.",
+      "options": [
+        "en",
+        "au",
+        "aux",
+        "à"
+      ],
+      "answer": 3,
+      "explanation": "Small islands with no article take à: à Cuba, à Madagascar. Feminine islands with an article take en: en Corse.",
+      "textId": null
+    },
+    {
+      "id": "a2-place_prepositions-071",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "place_prepositions",
+      "question": "Nous allons ___ Corse en juillet.",
+      "options": [
+        "en",
+        "à",
+        "au",
+        "aux"
+      ],
+      "answer": 0,
+      "explanation": "Small islands with no article take à: à Cuba, à Madagascar. Feminine islands with an article take en: en Corse.",
+      "textId": null
+    },
+    {
+      "id": "a2-place_prepositions-072",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "place_prepositions",
+      "question": "Le bateau arrive ___ Havre ce soir.",
+      "options": [
+        "à",
+        "au",
+        "en",
+        "aux"
+      ],
+      "answer": 1,
+      "explanation": "A few cities have an article in their name. À + le contracts: Le Havre → au Havre, Le Caire → au Caire.",
+      "textId": null
+    },
+    {
+      "id": "a2-place_prepositions-073",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "place_prepositions",
+      "question": "Elle travaille ___ Caire depuis un an.",
+      "options": [
+        "à",
+        "en",
+        "au",
+        "aux"
+      ],
+      "answer": 2,
+      "explanation": "A few cities have an article in their name. À + le contracts: Le Havre → au Havre, Le Caire → au Caire.",
+      "textId": null
+    },
+    {
+      "id": "a2-place_prepositions-074",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "place_prepositions",
+      "question": "Je vais ___ Mexique en février.",
+      "options": [
+        "en",
+        "à",
+        "aux",
+        "au"
+      ],
+      "answer": 3,
+      "explanation": "Le Mexique is masculine even though it ends in -e, so use au.",
+      "textId": null
+    },
+    {
+      "id": "a2-place_prepositions-075",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "place_prepositions",
+      "question": "Il habite ___ Portugal.",
+      "options": [
+        "au",
+        "en",
+        "à",
+        "aux"
+      ],
+      "answer": 0,
+      "explanation": "Most countries not ending in -e are masculine and take au: au.",
+      "textId": null
+    },
+    {
+      "id": "a2-place_prepositions-076",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "place_prepositions",
+      "question": "Elle part ___ Danemark lundi.",
+      "options": [
+        "en",
+        "au",
+        "à",
+        "aux"
+      ],
+      "answer": 1,
+      "explanation": "Most countries not ending in -e are masculine and take au: au.",
+      "textId": null
+    },
+    {
+      "id": "a2-place_prepositions-077",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "place_prepositions",
+      "question": "Nous allons ___ Sénégal cet hiver.",
+      "options": [
+        "en",
+        "à",
+        "au",
+        "aux"
+      ],
+      "answer": 2,
+      "explanation": "Most countries not ending in -e are masculine and take au: au.",
+      "textId": null
+    },
+    {
+      "id": "a2-place_prepositions-078",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "place_prepositions",
+      "question": "Ma cousine vit ___ Belgique.",
+      "options": [
+        "au",
+        "à",
+        "aux",
+        "en"
+      ],
+      "answer": 3,
+      "explanation": "Countries ending in -e are feminine (except le Mexique, le Cambodge, le Mozambique…) and take en: en.",
+      "textId": null
+    },
+    {
+      "id": "a2-place_prepositions-079",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "place_prepositions",
+      "question": "Ils voyagent ___ Chine.",
+      "options": [
+        "en",
+        "au",
+        "à",
+        "aux"
+      ],
+      "answer": 0,
+      "explanation": "Countries ending in -e are feminine (except le Mexique, le Cambodge, le Mozambique…) and take en: en.",
+      "textId": null
+    },
+    {
+      "id": "a2-place_prepositions-080",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "place_prepositions",
+      "question": "Tu vas ___ Philippines ?",
+      "options": [
+        "au",
+        "aux",
+        "en",
+        "à"
+      ],
+      "answer": 1,
+      "explanation": "Plural country names take aux: aux Philippines.",
+      "textId": null
+    }
+  ]
+}

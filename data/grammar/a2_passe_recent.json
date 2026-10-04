@@ -1,0 +1,1301 @@
+{
+  "texts": [],
+  "questions": [
+    {
+      "id": "a2-passe_recent-001",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "passe_recent",
+      "question": "Je ___ de finir mes devoirs.",
+      "options": [
+        "viens",
+        "vient",
+        "venons",
+        "vais"
+      ],
+      "answer": 0,
+      "explanation": "The passé récent says something has just happened: venir (present) + de + infinitive. Here: viens.",
+      "textId": null
+    },
+    {
+      "id": "a2-passe_recent-002",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "passe_recent",
+      "question": "Tu ___ d’arriver ?",
+      "options": [
+        "vient",
+        "viens",
+        "venez",
+        "vas"
+      ],
+      "answer": 1,
+      "explanation": "The passé récent says something has just happened: venir (present) + de + infinitive. Here: viens.",
+      "textId": null
+    },
+    {
+      "id": "a2-passe_recent-003",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "passe_recent",
+      "question": "Elle ___ de téléphoner.",
+      "options": [
+        "viens",
+        "viennent",
+        "vient",
+        "va"
+      ],
+      "answer": 2,
+      "explanation": "The passé récent says something has just happened: venir (present) + de + infinitive. Here: vient.",
+      "textId": null
+    },
+    {
+      "id": "a2-passe_recent-004",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "passe_recent",
+      "question": "Nous ___ de manger, merci.",
+      "options": [
+        "venez",
+        "viennent",
+        "allons",
+        "venons"
+      ],
+      "answer": 3,
+      "explanation": "The passé récent says something has just happened: venir (present) + de + infinitive. Here: venons.",
+      "textId": null
+    },
+    {
+      "id": "a2-passe_recent-005",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "passe_recent",
+      "question": "Vous ___ de rater le bus.",
+      "options": [
+        "venez",
+        "venons",
+        "viennent",
+        "allez"
+      ],
+      "answer": 0,
+      "explanation": "The passé récent says something has just happened: venir (present) + de + infinitive. Here: venez.",
+      "textId": null
+    },
+    {
+      "id": "a2-passe_recent-006",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "passe_recent",
+      "question": "Ils ___ de partir.",
+      "options": [
+        "vient",
+        "viennent",
+        "venons",
+        "vont"
+      ],
+      "answer": 1,
+      "explanation": "The passé récent says something has just happened: venir (present) + de + infinitive. Here: viennent.",
+      "textId": null
+    },
+    {
+      "id": "a2-passe_recent-007",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "passe_recent",
+      "question": "Le train ___ de partir.",
+      "options": [
+        "viens",
+        "viennent",
+        "vient",
+        "va"
+      ],
+      "answer": 2,
+      "explanation": "The passé récent says something has just happened: venir (present) + de + infinitive. Here: vient.",
+      "textId": null
+    },
+    {
+      "id": "a2-passe_recent-008",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "passe_recent",
+      "question": "Mes parents ___ d’acheter une maison.",
+      "options": [
+        "vient",
+        "venez",
+        "vont",
+        "viennent"
+      ],
+      "answer": 3,
+      "explanation": "The passé récent says something has just happened: venir (present) + de + infinitive. Here: viennent.",
+      "textId": null
+    },
+    {
+      "id": "a2-passe_recent-009",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "passe_recent",
+      "question": "On ___ de voir un film génial.",
+      "options": [
+        "vient",
+        "viens",
+        "viennent",
+        "va"
+      ],
+      "answer": 0,
+      "explanation": "The passé récent says something has just happened: venir (present) + de + infinitive. Here: vient.",
+      "textId": null
+    },
+    {
+      "id": "a2-passe_recent-010",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "passe_recent",
+      "question": "Le film ___ de commencer.",
+      "options": [
+        "viens",
+        "vient",
+        "viennent",
+        "va"
+      ],
+      "answer": 1,
+      "explanation": "The passé récent says something has just happened: venir (present) + de + infinitive. Here: vient.",
+      "textId": null
+    },
+    {
+      "id": "a2-passe_recent-011",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "passe_recent",
+      "question": "Je viens ___ voir Paul dans la rue.",
+      "options": [
+        "à",
+        "d’",
+        "de",
+        "du"
+      ],
+      "answer": 2,
+      "explanation": "Venir is followed by de (d’ before a vowel) and then an infinitive: je viens de manger, il vient d’arriver.",
+      "textId": null
+    },
+    {
+      "id": "a2-passe_recent-012",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "passe_recent",
+      "question": "Il vient ___ arriver à la gare.",
+      "options": [
+        "de",
+        "à",
+        "du",
+        "d’"
+      ],
+      "answer": 3,
+      "explanation": "Venir is followed by de (d’ before a vowel) and then an infinitive: je viens de manger, il vient d’arriver.",
+      "textId": null
+    },
+    {
+      "id": "a2-passe_recent-013",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "passe_recent",
+      "question": "Nous venons ___ rentrer.",
+      "options": [
+        "de",
+        "à",
+        "d’",
+        "du"
+      ],
+      "answer": 0,
+      "explanation": "Venir is followed by de (d’ before a vowel) and then an infinitive: je viens de manger, il vient d’arriver.",
+      "textId": null
+    },
+    {
+      "id": "a2-passe_recent-014",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "passe_recent",
+      "question": "Elle vient ___ avoir vingt ans.",
+      "options": [
+        "de",
+        "d’",
+        "à",
+        "du"
+      ],
+      "answer": 1,
+      "explanation": "Venir is followed by de (d’ before a vowel) and then an infinitive: je viens de manger, il vient d’arriver.",
+      "textId": null
+    },
+    {
+      "id": "a2-passe_recent-015",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "passe_recent",
+      "question": "Tu viens ___ dire quoi ?",
+      "options": [
+        "à",
+        "d’",
+        "de",
+        "du"
+      ],
+      "answer": 2,
+      "explanation": "Venir is followed by de (d’ before a vowel) and then an infinitive: je viens de manger, il vient d’arriver.",
+      "textId": null
+    },
+    {
+      "id": "a2-passe_recent-016",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "passe_recent",
+      "question": "Ils viennent ___ ouvrir un restaurant.",
+      "options": [
+        "de",
+        "à",
+        "du",
+        "d’"
+      ],
+      "answer": 3,
+      "explanation": "Venir is followed by de (d’ before a vowel) and then an infinitive: je viens de manger, il vient d’arriver.",
+      "textId": null
+    },
+    {
+      "id": "a2-passe_recent-017",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "passe_recent",
+      "question": "Je viens ___ me réveiller.",
+      "options": [
+        "de",
+        "à",
+        "d’",
+        "du"
+      ],
+      "answer": 0,
+      "explanation": "Venir is followed by de (d’ before a vowel) and then an infinitive: je viens de manger, il vient d’arriver.",
+      "textId": null
+    },
+    {
+      "id": "a2-passe_recent-018",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "passe_recent",
+      "question": "Vous venez ___ entendre ce bruit ?",
+      "options": [
+        "de",
+        "d’",
+        "à",
+        "du"
+      ],
+      "answer": 1,
+      "explanation": "Venir is followed by de (d’ before a vowel) and then an infinitive: je viens de manger, il vient d’arriver.",
+      "textId": null
+    },
+    {
+      "id": "a2-passe_recent-019",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "passe_recent",
+      "question": "Je viens de ___ mon café.",
+      "options": [
+        "fini",
+        "finis",
+        "finir",
+        "finissant"
+      ],
+      "answer": 2,
+      "explanation": "After venir de, the verb stays in the infinitive. It is never conjugated.",
+      "textId": null
+    },
+    {
+      "id": "a2-passe_recent-020",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "passe_recent",
+      "question": "Elle vient de ___ ses clés.",
+      "options": [
+        "perdu",
+        "perd",
+        "perdue",
+        "perdre"
+      ],
+      "answer": 3,
+      "explanation": "After venir de, the verb stays in the infinitive. It is never conjugated.",
+      "textId": null
+    },
+    {
+      "id": "a2-passe_recent-021",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "passe_recent",
+      "question": "Nous venons de ___ la nouvelle.",
+      "options": [
+        "apprendre",
+        "appris",
+        "apprenons",
+        "apprenant"
+      ],
+      "answer": 0,
+      "explanation": "After venir de, the verb stays in the infinitive. It is never conjugated.",
+      "textId": null
+    },
+    {
+      "id": "a2-passe_recent-022",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "passe_recent",
+      "question": "Ils viennent de ___ un bébé.",
+      "options": [
+        "eu",
+        "avoir",
+        "ont",
+        "ayant"
+      ],
+      "answer": 1,
+      "explanation": "After venir de, the verb stays in the infinitive. It is never conjugated.",
+      "textId": null
+    },
+    {
+      "id": "a2-passe_recent-023",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "passe_recent",
+      "question": "Tu viens de ___ une erreur.",
+      "options": [
+        "fait",
+        "fais",
+        "faire",
+        "faisant"
+      ],
+      "answer": 2,
+      "explanation": "After venir de, the verb stays in the infinitive. It is never conjugated.",
+      "textId": null
+    },
+    {
+      "id": "a2-passe_recent-024",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "passe_recent",
+      "question": "Il vient de ___ le match.",
+      "options": [
+        "gagné",
+        "gagne",
+        "gagnant",
+        "gagner"
+      ],
+      "answer": 3,
+      "explanation": "After venir de, the verb stays in the infinitive. It is never conjugated.",
+      "textId": null
+    },
+    {
+      "id": "a2-passe_recent-025",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "passe_recent",
+      "question": "Je ___ en train de lire.",
+      "options": [
+        "suis",
+        "es",
+        "est",
+        "ai"
+      ],
+      "answer": 0,
+      "explanation": "Être en train de + infinitive says something is happening right now: je suis en train de manger = I am eating (right now). Here: suis.",
+      "textId": null
+    },
+    {
+      "id": "a2-passe_recent-026",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "passe_recent",
+      "question": "Tu ___ en train de faire quoi ?",
+      "options": [
+        "est",
+        "es",
+        "suis",
+        "as"
+      ],
+      "answer": 1,
+      "explanation": "Être en train de + infinitive says something is happening right now: je suis en train de manger = I am eating (right now). Here: es.",
+      "textId": null
+    },
+    {
+      "id": "a2-passe_recent-027",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "passe_recent",
+      "question": "Elle ___ en train de dormir.",
+      "options": [
+        "es",
+        "sont",
+        "est",
+        "a"
+      ],
+      "answer": 2,
+      "explanation": "Être en train de + infinitive says something is happening right now: je suis en train de manger = I am eating (right now). Here: est.",
+      "textId": null
+    },
+    {
+      "id": "a2-passe_recent-028",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "passe_recent",
+      "question": "Nous ___ en train de dîner.",
+      "options": [
+        "êtes",
+        "sont",
+        "avons",
+        "sommes"
+      ],
+      "answer": 3,
+      "explanation": "Être en train de + infinitive says something is happening right now: je suis en train de manger = I am eating (right now). Here: sommes.",
+      "textId": null
+    },
+    {
+      "id": "a2-passe_recent-029",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "passe_recent",
+      "question": "Vous ___ en train de travailler ?",
+      "options": [
+        "êtes",
+        "sommes",
+        "sont",
+        "avez"
+      ],
+      "answer": 0,
+      "explanation": "Être en train de + infinitive says something is happening right now: je suis en train de manger = I am eating (right now). Here: êtes.",
+      "textId": null
+    },
+    {
+      "id": "a2-passe_recent-030",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "passe_recent",
+      "question": "Ils ___ en train de jouer dans le jardin.",
+      "options": [
+        "est",
+        "sont",
+        "sommes",
+        "ont"
+      ],
+      "answer": 1,
+      "explanation": "Être en train de + infinitive says something is happening right now: je suis en train de manger = I am eating (right now). Here: sont.",
+      "textId": null
+    },
+    {
+      "id": "a2-passe_recent-031",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "passe_recent",
+      "question": "Le bébé ___ en train de pleurer.",
+      "options": [
+        "es",
+        "sont",
+        "est",
+        "a"
+      ],
+      "answer": 2,
+      "explanation": "Être en train de + infinitive says something is happening right now: je suis en train de manger = I am eating (right now). Here: est.",
+      "textId": null
+    },
+    {
+      "id": "a2-passe_recent-032",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "passe_recent",
+      "question": "Les enfants ___ en train de regarder un film.",
+      "options": [
+        "est",
+        "êtes",
+        "ont",
+        "sont"
+      ],
+      "answer": 3,
+      "explanation": "Être en train de + infinitive says something is happening right now: je suis en train de manger = I am eating (right now). Here: sont.",
+      "textId": null
+    },
+    {
+      "id": "a2-passe_recent-033",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "passe_recent",
+      "question": "On ___ en train de préparer le repas.",
+      "options": [
+        "est",
+        "sont",
+        "es",
+        "a"
+      ],
+      "answer": 0,
+      "explanation": "Être en train de + infinitive says something is happening right now: je suis en train de manger = I am eating (right now). Here: est.",
+      "textId": null
+    },
+    {
+      "id": "a2-passe_recent-034",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "passe_recent",
+      "question": "Je suis en train ___ cuisiner.",
+      "options": [
+        "à",
+        "de",
+        "d’",
+        "pour"
+      ],
+      "answer": 1,
+      "explanation": "Être en train is followed by de (d’ before a vowel) and an infinitive.",
+      "textId": null
+    },
+    {
+      "id": "a2-passe_recent-035",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "passe_recent",
+      "question": "Elle est en train ___ écrire un courriel.",
+      "options": [
+        "de",
+        "à",
+        "d’",
+        "pour"
+      ],
+      "answer": 2,
+      "explanation": "Être en train is followed by de (d’ before a vowel) and an infinitive.",
+      "textId": null
+    },
+    {
+      "id": "a2-passe_recent-036",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "passe_recent",
+      "question": "Ils sont en train ___ discuter.",
+      "options": [
+        "à",
+        "d’",
+        "pour",
+        "de"
+      ],
+      "answer": 3,
+      "explanation": "Être en train is followed by de (d’ before a vowel) and an infinitive.",
+      "textId": null
+    },
+    {
+      "id": "a2-passe_recent-037",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "passe_recent",
+      "question": "Nous sommes en train ___ apprendre le français.",
+      "options": [
+        "d’",
+        "de",
+        "à",
+        "pour"
+      ],
+      "answer": 0,
+      "explanation": "Être en train is followed by de (d’ before a vowel) and an infinitive.",
+      "textId": null
+    },
+    {
+      "id": "a2-passe_recent-038",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "passe_recent",
+      "question": "Tu es en train ___ parler à qui ?",
+      "options": [
+        "à",
+        "de",
+        "d’",
+        "pour"
+      ],
+      "answer": 1,
+      "explanation": "Être en train is followed by de (d’ before a vowel) and an infinitive.",
+      "textId": null
+    },
+    {
+      "id": "a2-passe_recent-039",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "passe_recent",
+      "question": "Il est en train de ___ sa voiture.",
+      "options": [
+        "réparé",
+        "répare",
+        "réparer",
+        "réparant"
+      ],
+      "answer": 2,
+      "explanation": "After être en train de, the verb stays in the infinitive.",
+      "textId": null
+    },
+    {
+      "id": "a2-passe_recent-040",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "passe_recent",
+      "question": "Je suis en train de ___ une série.",
+      "options": [
+        "regardé",
+        "regarde",
+        "regardant",
+        "regarder"
+      ],
+      "answer": 3,
+      "explanation": "After être en train de, the verb stays in the infinitive.",
+      "textId": null
+    },
+    {
+      "id": "a2-passe_recent-041",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "passe_recent",
+      "question": "Elle est en train de ___ une douche.",
+      "options": [
+        "prendre",
+        "pris",
+        "prend",
+        "prenant"
+      ],
+      "answer": 0,
+      "explanation": "After être en train de, the verb stays in the infinitive.",
+      "textId": null
+    },
+    {
+      "id": "a2-passe_recent-042",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "passe_recent",
+      "question": "Tu veux manger avec nous ? — Non merci, je ___ manger, je n’ai plus faim.",
+      "options": [
+        "suis en train de",
+        "viens de",
+        "vais",
+        "viens"
+      ],
+      "answer": 1,
+      "explanation": "Just happened → venir de. Happening right now → être en train de. About to happen → aller + infinitive.",
+      "textId": null
+    },
+    {
+      "id": "a2-passe_recent-043",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "passe_recent",
+      "question": "Ne fais pas de bruit, le bébé ___ dormir.",
+      "options": [
+        "vient de",
+        "va de",
+        "est en train de",
+        "est en train"
+      ],
+      "answer": 2,
+      "explanation": "Just happened → venir de. Happening right now → être en train de. About to happen → aller + infinitive.",
+      "textId": null
+    },
+    {
+      "id": "a2-passe_recent-044",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "passe_recent",
+      "question": "Dépêche-toi, le film ___ commencer dans deux minutes !",
+      "options": [
+        "vient de",
+        "est en train de",
+        "vient",
+        "va"
+      ],
+      "answer": 3,
+      "explanation": "Just happened → venir de. Happening right now → être en train de. About to happen → aller + infinitive.",
+      "textId": null
+    },
+    {
+      "id": "a2-passe_recent-045",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "passe_recent",
+      "question": "Où est Paul ? — Il ___ sortir, il était là il y a une minute.",
+      "options": [
+        "vient de",
+        "est en train de",
+        "va",
+        "est en train"
+      ],
+      "answer": 0,
+      "explanation": "Just happened → venir de. Happening right now → être en train de. About to happen → aller + infinitive.",
+      "textId": null
+    },
+    {
+      "id": "a2-passe_recent-046",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "passe_recent",
+      "question": "Je ne peux pas répondre au téléphone, je ___ conduire.",
+      "options": [
+        "viens de",
+        "suis en train de",
+        "vais de",
+        "viens"
+      ],
+      "answer": 1,
+      "explanation": "Just happened → venir de. Happening right now → être en train de. About to happen → aller + infinitive.",
+      "textId": null
+    },
+    {
+      "id": "a2-passe_recent-047",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "passe_recent",
+      "question": "Le sol est mouillé : il ___ pleuvoir.",
+      "options": [
+        "est en train",
+        "va de",
+        "vient de",
+        "vient"
+      ],
+      "answer": 2,
+      "explanation": "Just happened → venir de. Happening right now → être en train de. About to happen → aller + infinitive.",
+      "textId": null
+    },
+    {
+      "id": "a2-passe_recent-048",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "passe_recent",
+      "question": "Regarde le ciel, il ___ pleuvoir bientôt.",
+      "options": [
+        "vient de",
+        "est en train de",
+        "vient",
+        "va"
+      ],
+      "answer": 3,
+      "explanation": "Just happened → venir de. Happening right now → être en train de. About to happen → aller + infinitive.",
+      "textId": null
+    },
+    {
+      "id": "a2-passe_recent-049",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "passe_recent",
+      "question": "Chut ! Je ___ écouter les informations.",
+      "options": [
+        "suis en train d’",
+        "viens d’",
+        "vais d’",
+        "suis en train"
+      ],
+      "answer": 0,
+      "explanation": "Just happened → venir de. Happening right now → être en train de. About to happen → aller + infinitive.",
+      "textId": null
+    },
+    {
+      "id": "a2-passe_recent-050",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "passe_recent",
+      "question": "Elle est très contente : elle ___ réussir son examen.",
+      "options": [
+        "est en train de",
+        "vient de",
+        "va de",
+        "est en train"
+      ],
+      "answer": 1,
+      "explanation": "Just happened → venir de. Happening right now → être en train de. About to happen → aller + infinitive.",
+      "textId": null
+    },
+    {
+      "id": "a2-passe_recent-051",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "passe_recent",
+      "question": "Attends cinq minutes, je ___ finir un courriel.",
+      "options": [
+        "viens de",
+        "vais de",
+        "suis en train de",
+        "viens"
+      ],
+      "answer": 2,
+      "explanation": "Just happened → venir de. Happening right now → être en train de. About to happen → aller + infinitive.",
+      "textId": null
+    },
+    {
+      "id": "a2-passe_recent-052",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "passe_recent",
+      "question": "Le gâteau est encore chaud : il ___ sortir du four.",
+      "options": [
+        "est en train de",
+        "va",
+        "va de",
+        "vient de"
+      ],
+      "answer": 3,
+      "explanation": "Just happened → venir de. Happening right now → être en train de. About to happen → aller + infinitive.",
+      "textId": null
+    },
+    {
+      "id": "a2-passe_recent-053",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "passe_recent",
+      "question": "Ils ne sont pas là : ils ___ en vacances hier.",
+      "options": [
+        "sont partis",
+        "viennent de partir",
+        "sont en train de partir",
+        "vont partir"
+      ],
+      "answer": 0,
+      "explanation": "Hier gives a precise past time, so the passé composé is needed. Venir de is not used with a precise time expression.",
+      "textId": null
+    },
+    {
+      "id": "a2-passe_recent-054",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "passe_recent",
+      "question": "Marie ? Je viens de ___ voir.",
+      "options": [
+        "lui",
+        "la",
+        "elle",
+        "y"
+      ],
+      "answer": 1,
+      "explanation": "A pronoun goes right before the infinitive: je viens de le voir, il est en train de se laver.",
+      "textId": null
+    },
+    {
+      "id": "a2-passe_recent-055",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "passe_recent",
+      "question": "Ce film ? Nous venons de ___ regarder.",
+      "options": [
+        "lui",
+        "il",
+        "le",
+        "en"
+      ],
+      "answer": 2,
+      "explanation": "A pronoun goes right before the infinitive: je viens de le voir, il est en train de se laver.",
+      "textId": null
+    },
+    {
+      "id": "a2-passe_recent-056",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "passe_recent",
+      "question": "Tes parents ? Je viens de ___ parler.",
+      "options": [
+        "les",
+        "eux",
+        "lui",
+        "leur"
+      ],
+      "answer": 3,
+      "explanation": "A pronoun goes right before the infinitive: je viens de le voir, il est en train de se laver.",
+      "textId": null
+    },
+    {
+      "id": "a2-passe_recent-057",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "passe_recent",
+      "question": "Il est en train de ___ raser. (lui-même)",
+      "options": [
+        "se",
+        "me",
+        "te",
+        "lui"
+      ],
+      "answer": 0,
+      "explanation": "A pronoun goes right before the infinitive: je viens de le voir, il est en train de se laver.",
+      "textId": null
+    },
+    {
+      "id": "a2-passe_recent-058",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "passe_recent",
+      "question": "Je suis en train de ___ habiller.",
+      "options": [
+        "s’",
+        "m’",
+        "me",
+        "t’"
+      ],
+      "answer": 1,
+      "explanation": "A pronoun goes right before the infinitive: je viens de le voir, il est en train de se laver.",
+      "textId": null
+    },
+    {
+      "id": "a2-passe_recent-059",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "passe_recent",
+      "question": "Nous venons de ___ lever.",
+      "options": [
+        "se",
+        "vous",
+        "nous",
+        "me"
+      ],
+      "answer": 2,
+      "explanation": "A pronoun goes right before the infinitive: je viens de le voir, il est en train de se laver.",
+      "textId": null
+    },
+    {
+      "id": "a2-passe_recent-060",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "passe_recent",
+      "question": "Tu es en train de ___ préparer ?",
+      "options": [
+        "se",
+        "me",
+        "toi",
+        "te"
+      ],
+      "answer": 3,
+      "explanation": "A pronoun goes right before the infinitive: je viens de le voir, il est en train de se laver.",
+      "textId": null
+    },
+    {
+      "id": "a2-passe_recent-061",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "passe_recent",
+      "question": "Je viens de ___ coucher, je suis fatigué.",
+      "options": [
+        "me",
+        "se",
+        "te",
+        "moi"
+      ],
+      "answer": 0,
+      "explanation": "A pronoun goes right before the infinitive: je viens de le voir, il est en train de se laver.",
+      "textId": null
+    },
+    {
+      "id": "a2-passe_recent-062",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "passe_recent",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "Je suis ne pas en train de dormir.",
+        "Je ne suis pas en train de dormir.",
+        "Je suis en train de ne pas dormir.",
+        "Je ne suis en train pas de dormir."
+      ],
+      "answer": 1,
+      "explanation": "In the negative, ne … pas goes around the conjugated verb (être or venir).",
+      "textId": null
+    },
+    {
+      "id": "a2-passe_recent-063",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "passe_recent",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "Il me vient d’appeler.",
+        "Il vient m’appeler de.",
+        "Il vient de m’appeler.",
+        "Il vient de appeler moi."
+      ],
+      "answer": 2,
+      "explanation": "A pronoun goes right before the infinitive: je viens de le voir, il est en train de se laver.",
+      "textId": null
+    },
+    {
+      "id": "a2-passe_recent-064",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "passe_recent",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "Elle vient de arriver.",
+        "Elle vient arriver.",
+        "Elle vient à arriver.",
+        "Elle vient d’arriver."
+      ],
+      "answer": 3,
+      "explanation": "Venir is followed by de (d’ before a vowel) and then an infinitive: je viens de manger, il vient d’arriver.",
+      "textId": null
+    },
+    {
+      "id": "a2-passe_recent-065",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "passe_recent",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "Nous sommes en train de manger.",
+        "Nous sommes en train manger.",
+        "Nous sommes en train à manger.",
+        "Nous sommes mangeant."
+      ],
+      "answer": 0,
+      "explanation": "Être en train is followed by de (d’ before a vowel) and an infinitive.",
+      "textId": null
+    },
+    {
+      "id": "a2-passe_recent-066",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "passe_recent",
+      "question": "Quand je suis arrivé, il ___ de partir.",
+      "options": [
+        "vient",
+        "venait",
+        "est venu",
+        "viendra"
+      ],
+      "answer": 1,
+      "explanation": "In a story in the past, use the imparfait of venir or être: il venait de partir = he had just left; j’étais en train de lire = I was in the middle of reading.",
+      "textId": null
+    },
+    {
+      "id": "a2-passe_recent-067",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "passe_recent",
+      "question": "Quand tu as appelé, j’___ en train de dîner.",
+      "options": [
+        "suis",
+        "ai été",
+        "étais",
+        "serai"
+      ],
+      "answer": 2,
+      "explanation": "In a story in the past, use the imparfait of venir or être: il venait de partir = he had just left; j’étais en train de lire = I was in the middle of reading.",
+      "textId": null
+    },
+    {
+      "id": "a2-passe_recent-068",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "passe_recent",
+      "question": "Elle ___ de sortir quand le téléphone a sonné.",
+      "options": [
+        "vient",
+        "est venue",
+        "viendra",
+        "venait"
+      ],
+      "answer": 3,
+      "explanation": "In a story in the past, use the imparfait of venir or être: il venait de partir = he had just left; j’étais en train de lire = I was in the middle of reading.",
+      "textId": null
+    },
+    {
+      "id": "a2-passe_recent-069",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "passe_recent",
+      "question": "Nous ___ en train de regarder un film quand la lumière s’est éteinte.",
+      "options": [
+        "étions",
+        "sommes",
+        "avons été",
+        "serons"
+      ],
+      "answer": 0,
+      "explanation": "In a story in the past, use the imparfait of venir or être: il venait de partir = he had just left; j’étais en train de lire = I was in the middle of reading.",
+      "textId": null
+    },
+    {
+      "id": "a2-passe_recent-070",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "passe_recent",
+      "question": "Ils ___ d’arriver quand il a commencé à pleuvoir.",
+      "options": [
+        "viennent",
+        "venaient",
+        "sont venus",
+        "viendront"
+      ],
+      "answer": 1,
+      "explanation": "In a story in the past, use the imparfait of venir or être: il venait de partir = he had just left; j’étais en train de lire = I was in the middle of reading.",
+      "textId": null
+    },
+    {
+      "id": "a2-passe_recent-071",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "passe_recent",
+      "question": "Qu’est-ce que tu ___ en train de faire quand je t’ai appelé ?",
+      "options": [
+        "es",
+        "as été",
+        "étais",
+        "seras"
+      ],
+      "answer": 2,
+      "explanation": "In a story in the past, use the imparfait of venir or être: il venait de partir = he had just left; j’étais en train de lire = I was in the middle of reading.",
+      "textId": null
+    },
+    {
+      "id": "a2-passe_recent-072",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "passe_recent",
+      "question": "Qu’est-ce que tu ___ de dire ? Je n’ai pas entendu.",
+      "options": [
+        "vas",
+        "es",
+        "venir",
+        "viens"
+      ],
+      "answer": 3,
+      "explanation": "The passé récent says something has just happened: venir (present) + de + infinitive. Here: viens.",
+      "textId": null
+    },
+    {
+      "id": "a2-passe_recent-073",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "passe_recent",
+      "question": "Qu’est-ce que vous ___ en train de faire ?",
+      "options": [
+        "êtes",
+        "avez",
+        "allez",
+        "venez"
+      ],
+      "answer": 0,
+      "explanation": "Être en train de + infinitive says something is happening right now: je suis en train de manger = I am eating (right now). Here: êtes.",
+      "textId": null
+    },
+    {
+      "id": "a2-passe_recent-074",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "passe_recent",
+      "question": "Je ___ d’avoir une idée !",
+      "options": [
+        "vais",
+        "viens",
+        "suis",
+        "ai"
+      ],
+      "answer": 1,
+      "explanation": "The passé récent says something has just happened: venir (present) + de + infinitive. Here: viens.",
+      "textId": null
+    },
+    {
+      "id": "a2-passe_recent-075",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "passe_recent",
+      "question": "Désolé, elle ___ de sortir. Vous voulez laisser un message ?",
+      "options": [
+        "va",
+        "est",
+        "vient",
+        "a"
+      ],
+      "answer": 2,
+      "explanation": "The passé récent says something has just happened: venir (present) + de + infinitive. Here: vient.",
+      "textId": null
+    },
+    {
+      "id": "a2-passe_recent-076",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "passe_recent",
+      "question": "Ne me dérange pas, je ___ en train de réviser.",
+      "options": [
+        "viens",
+        "vais",
+        "ai",
+        "suis"
+      ],
+      "answer": 3,
+      "explanation": "Être en train de + infinitive says something is happening right now: je suis en train de manger = I am eating (right now). Here: suis.",
+      "textId": null
+    },
+    {
+      "id": "a2-passe_recent-077",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "passe_recent",
+      "question": "Regarde, il ___ en train de neiger !",
+      "options": [
+        "est",
+        "vient",
+        "va",
+        "a"
+      ],
+      "answer": 0,
+      "explanation": "Être en train de + infinitive says something is happening right now: je suis en train de manger = I am eating (right now). Here: est.",
+      "textId": null
+    },
+    {
+      "id": "a2-passe_recent-078",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "passe_recent",
+      "question": "Le magasin ___ d’ouvrir, il n’y a encore personne.",
+      "options": [
+        "va",
+        "vient",
+        "est",
+        "a"
+      ],
+      "answer": 1,
+      "explanation": "The passé récent says something has just happened: venir (present) + de + infinitive. Here: vient.",
+      "textId": null
+    },
+    {
+      "id": "a2-passe_recent-079",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "passe_recent",
+      "question": "J’ai très chaud : je ___ de courir.",
+      "options": [
+        "vais",
+        "suis",
+        "viens",
+        "ai"
+      ],
+      "answer": 2,
+      "explanation": "The passé récent says something has just happened: venir (present) + de + infinitive. Here: viens.",
+      "textId": null
+    },
+    {
+      "id": "a2-passe_recent-080",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "passe_recent",
+      "question": "Les invités ___ d’arriver, viens leur dire bonjour.",
+      "options": [
+        "vont",
+        "sont",
+        "ont",
+        "viennent"
+      ],
+      "answer": 3,
+      "explanation": "The passé récent says something has just happened: venir (present) + de + infinitive. Here: viennent.",
+      "textId": null
+    },
+    {
+      "id": "a2-passe_recent-081",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "passe_recent",
+      "question": "Pas maintenant, nous ___ en train de discuter.",
+      "options": [
+        "sommes",
+        "venons",
+        "allons",
+        "avons"
+      ],
+      "answer": 0,
+      "explanation": "Être en train de + infinitive says something is happening right now: je suis en train de manger = I am eating (right now). Here: sommes.",
+      "textId": null
+    }
+  ]
+}

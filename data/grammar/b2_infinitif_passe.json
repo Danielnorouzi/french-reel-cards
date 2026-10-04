@@ -1,0 +1,1285 @@
+{
+  "texts": [],
+  "questions": [
+    {
+      "id": "b2-infinitif_passe-001",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "infinitif_passe",
+      "question": "Après ___ mangé, nous sommes sortis.",
+      "options": [
+        "avoir",
+        "être",
+        "ayant",
+        "avons"
+      ],
+      "answer": 0,
+      "explanation": "Après is always followed by the infinitif passé (avoir / être + past participle), never by a simple infinitive: après avoir mangé.",
+      "textId": null
+    },
+    {
+      "id": "b2-infinitif_passe-002",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "infinitif_passe",
+      "question": "Après ___ arrivée, elle a défait sa valise.",
+      "options": [
+        "avoir",
+        "être",
+        "étant",
+        "est"
+      ],
+      "answer": 1,
+      "explanation": "Verbs that take être form the infinitif passé with être, and the past participle agrees with the subject of the sentence. Here: être.",
+      "textId": null
+    },
+    {
+      "id": "b2-infinitif_passe-003",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "infinitif_passe",
+      "question": "Après ___ fini ses devoirs, il a regardé un film.",
+      "options": [
+        "être",
+        "a",
+        "avoir",
+        "ayant"
+      ],
+      "answer": 2,
+      "explanation": "Après is always followed by the infinitif passé (avoir / être + past participle), never by a simple infinitive: après avoir mangé.",
+      "textId": null
+    },
+    {
+      "id": "b2-infinitif_passe-004",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "infinitif_passe",
+      "question": "Après ___ rentrés, nous avons dîné.",
+      "options": [
+        "avoir",
+        "sommes",
+        "étant",
+        "être"
+      ],
+      "answer": 3,
+      "explanation": "Verbs that take être form the infinitif passé with être, and the past participle agrees with the subject of the sentence. Here: être.",
+      "textId": null
+    },
+    {
+      "id": "b2-infinitif_passe-005",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "infinitif_passe",
+      "question": "Après ___ la vaisselle, j’ai lu un peu.",
+      "options": [
+        "avoir fait",
+        "faire",
+        "fait",
+        "être fait"
+      ],
+      "answer": 0,
+      "explanation": "Après is always followed by the infinitif passé (avoir / être + past participle), never by a simple infinitive: après avoir mangé.",
+      "textId": null
+    },
+    {
+      "id": "b2-infinitif_passe-006",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "infinitif_passe",
+      "question": "Après ___ son café, il est parti travailler.",
+      "options": [
+        "boire",
+        "avoir bu",
+        "bu",
+        "être bu"
+      ],
+      "answer": 1,
+      "explanation": "Après is always followed by the infinitif passé (avoir / être + past participle), never by a simple infinitive: après avoir mangé.",
+      "textId": null
+    },
+    {
+      "id": "b2-infinitif_passe-007",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "infinitif_passe",
+      "question": "Après ___ le film, nous sommes allés au restaurant.",
+      "options": [
+        "voir",
+        "vu",
+        "avoir vu",
+        "être vu"
+      ],
+      "answer": 2,
+      "explanation": "Après is always followed by the infinitif passé (avoir / être + past participle), never by a simple infinitive: après avoir mangé.",
+      "textId": null
+    },
+    {
+      "id": "b2-infinitif_passe-008",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "infinitif_passe",
+      "question": "Après ___ à Paris, elle a cherché un appartement.",
+      "options": [
+        "avoir arrivé",
+        "arriver",
+        "être arrivé",
+        "être arrivée"
+      ],
+      "answer": 3,
+      "explanation": "Verbs that take être form the infinitif passé with être, and the past participle agrees with the subject of the sentence. Here: être arrivée.",
+      "textId": null
+    },
+    {
+      "id": "b2-infinitif_passe-009",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "infinitif_passe",
+      "question": "Après ___ de la maison, ils ont pris le bus.",
+      "options": [
+        "être sortis",
+        "avoir sorti",
+        "sortir",
+        "être sorti"
+      ],
+      "answer": 0,
+      "explanation": "Verbs that take être form the infinitif passé with être, and the past participle agrees with the subject of the sentence. Here: être sortis.",
+      "textId": null
+    },
+    {
+      "id": "b2-infinitif_passe-010",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "infinitif_passe",
+      "question": "Après ___ ses études, elle a voyagé pendant un an.",
+      "options": [
+        "terminer",
+        "avoir terminé",
+        "terminé",
+        "être terminée"
+      ],
+      "answer": 1,
+      "explanation": "Après is always followed by the infinitif passé (avoir / être + past participle), never by a simple infinitive: après avoir mangé.",
+      "textId": null
+    },
+    {
+      "id": "b2-infinitif_passe-011",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "infinitif_passe",
+      "question": "Après ___, je me suis senti mieux.",
+      "options": [
+        "dormir",
+        "dormi",
+        "avoir dormi",
+        "être dormi"
+      ],
+      "answer": 2,
+      "explanation": "Après is always followed by the infinitif passé (avoir / être + past participle), never by a simple infinitive: après avoir mangé.",
+      "textId": null
+    },
+    {
+      "id": "b2-infinitif_passe-012",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "infinitif_passe",
+      "question": "Après ___ chez elle, Marie a appelé sa mère.",
+      "options": [
+        "avoir rentré",
+        "rentrer",
+        "être rentré",
+        "être rentrée"
+      ],
+      "answer": 3,
+      "explanation": "Verbs that take être form the infinitif passé with être, and the past participle agrees with the subject of the sentence. Here: être rentrée.",
+      "textId": null
+    },
+    {
+      "id": "b2-infinitif_passe-013",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "infinitif_passe",
+      "question": "Après ___ longtemps, il a enfin pris sa décision.",
+      "options": [
+        "avoir réfléchi",
+        "réfléchir",
+        "réfléchi",
+        "être réfléchi"
+      ],
+      "answer": 0,
+      "explanation": "Après is always followed by the infinitif passé (avoir / être + past participle), never by a simple infinitive: après avoir mangé.",
+      "textId": null
+    },
+    {
+      "id": "b2-infinitif_passe-014",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "infinitif_passe",
+      "question": "Après ___ en haut de la tour, nous avons pris des photos.",
+      "options": [
+        "avoir monté",
+        "être montés",
+        "monter",
+        "être monté"
+      ],
+      "answer": 1,
+      "explanation": "Verbs that take être form the infinitif passé with être, and the past participle agrees with the subject of the sentence. Here: être montés.",
+      "textId": null
+    },
+    {
+      "id": "b2-infinitif_passe-015",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "infinitif_passe",
+      "question": "Après ___ ce livre, tu comprendras mieux.",
+      "options": [
+        "lire",
+        "lu",
+        "avoir lu",
+        "être lu"
+      ],
+      "answer": 2,
+      "explanation": "Après is always followed by the infinitif passé (avoir / être + past participle), never by a simple infinitive: après avoir mangé.",
+      "textId": null
+    },
+    {
+      "id": "b2-infinitif_passe-016",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "infinitif_passe",
+      "question": "Après ___ trois heures, ils se sont arrêtés.",
+      "options": [
+        "marcher",
+        "marché",
+        "être marchés",
+        "avoir marché"
+      ],
+      "answer": 3,
+      "explanation": "Après is always followed by the infinitif passé (avoir / être + past participle), never by a simple infinitive: après avoir mangé.",
+      "textId": null
+    },
+    {
+      "id": "b2-infinitif_passe-017",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "infinitif_passe",
+      "question": "Après ___ malade, elle a changé de mode de vie.",
+      "options": [
+        "être tombée",
+        "avoir tombé",
+        "tomber",
+        "être tombé"
+      ],
+      "answer": 0,
+      "explanation": "Verbs that take être form the infinitif passé with être, and the past participle agrees with the subject of the sentence. Here: être tombée.",
+      "textId": null
+    },
+    {
+      "id": "b2-infinitif_passe-018",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "infinitif_passe",
+      "question": "Avant de ___, éteins la lumière.",
+      "options": [
+        "être parti",
+        "partir",
+        "avoir parti",
+        "parti"
+      ],
+      "answer": 1,
+      "explanation": "Avant de is followed by a simple infinitive: avant de partir.",
+      "textId": null
+    },
+    {
+      "id": "b2-infinitif_passe-019",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "infinitif_passe",
+      "question": "Avant de ___, lave-toi les mains.",
+      "options": [
+        "avoir mangé",
+        "mangé",
+        "manger",
+        "être mangé"
+      ],
+      "answer": 2,
+      "explanation": "Avant de is followed by a simple infinitive: avant de partir.",
+      "textId": null
+    },
+    {
+      "id": "b2-infinitif_passe-020",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "infinitif_passe",
+      "question": "Je me brosse les dents avant de ___ coucher.",
+      "options": [
+        "m’être",
+        "m’avoir",
+        "se",
+        "me"
+      ],
+      "answer": 3,
+      "explanation": "Avant de is followed by a simple infinitive: avant de partir.",
+      "textId": null
+    },
+    {
+      "id": "b2-infinitif_passe-021",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "infinitif_passe",
+      "question": "Réfléchis avant de ___.",
+      "options": [
+        "parler",
+        "avoir parlé",
+        "parlé",
+        "être parlé"
+      ],
+      "answer": 0,
+      "explanation": "Avant de is followed by a simple infinitive: avant de partir.",
+      "textId": null
+    },
+    {
+      "id": "b2-infinitif_passe-022",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "infinitif_passe",
+      "question": "Avant de ___ une décision, demande conseil.",
+      "options": [
+        "avoir pris",
+        "prendre",
+        "pris",
+        "être pris"
+      ],
+      "answer": 1,
+      "explanation": "Avant de is followed by a simple infinitive: avant de partir.",
+      "textId": null
+    },
+    {
+      "id": "b2-infinitif_passe-023",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "infinitif_passe",
+      "question": "Après ___ levé, je prends une douche. (Paul parle)",
+      "options": [
+        "m’avoir",
+        "s’être",
+        "m’être",
+        "me suis"
+      ],
+      "answer": 2,
+      "explanation": "With a reflexive verb, the pronoun matches the subject and the auxiliary is être: après m’être levé, après s’être levée. Here: m’être.",
+      "textId": null
+    },
+    {
+      "id": "b2-infinitif_passe-024",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "infinitif_passe",
+      "question": "Après ___ couchée, elle a lu un peu.",
+      "options": [
+        "s’avoir",
+        "m’être",
+        "s’est",
+        "s’être"
+      ],
+      "answer": 3,
+      "explanation": "With a reflexive verb, the pronoun matches the subject and the auxiliary is être: après m’être levé, après s’être levée. Here: s’être.",
+      "textId": null
+    },
+    {
+      "id": "b2-infinitif_passe-025",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "infinitif_passe",
+      "question": "Après ___ promenés, nous avons pris un café.",
+      "options": [
+        "nous être",
+        "nous avoir",
+        "s’être",
+        "nous sommes"
+      ],
+      "answer": 0,
+      "explanation": "With a reflexive verb, the pronoun matches the subject and the auxiliary is être: après m’être levé, après s’être levée. Here: nous être.",
+      "textId": null
+    },
+    {
+      "id": "b2-infinitif_passe-026",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "infinitif_passe",
+      "question": "Après ___ disputés, ils se sont réconciliés.",
+      "options": [
+        "s’avoir",
+        "s’être",
+        "nous être",
+        "se sont"
+      ],
+      "answer": 1,
+      "explanation": "With a reflexive verb, the pronoun matches the subject and the auxiliary is être: après m’être levé, après s’être levée. Here: s’être.",
+      "textId": null
+    },
+    {
+      "id": "b2-infinitif_passe-027",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "infinitif_passe",
+      "question": "Après ___ reposé, tu te sentiras mieux.",
+      "options": [
+        "t’avoir",
+        "s’être",
+        "t’être",
+        "t’es"
+      ],
+      "answer": 2,
+      "explanation": "With a reflexive verb, the pronoun matches the subject and the auxiliary is être: après m’être levé, après s’être levée. Here: t’être.",
+      "textId": null
+    },
+    {
+      "id": "b2-infinitif_passe-028",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "infinitif_passe",
+      "question": "Après ___ douchée, elle s’est habillée.",
+      "options": [
+        "s’avoir",
+        "m’être",
+        "s’est",
+        "s’être"
+      ],
+      "answer": 3,
+      "explanation": "With a reflexive verb, the pronoun matches the subject and the auxiliary is être: après m’être levé, après s’être levée. Here: s’être.",
+      "textId": null
+    },
+    {
+      "id": "b2-infinitif_passe-029",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "infinitif_passe",
+      "question": "Après ___ trompés de route, vous avez fait demi-tour.",
+      "options": [
+        "vous être",
+        "vous avoir",
+        "s’être",
+        "vous êtes"
+      ],
+      "answer": 0,
+      "explanation": "With a reflexive verb, the pronoun matches the subject and the auxiliary is être: après m’être levé, après s’être levée. Here: vous être.",
+      "textId": null
+    },
+    {
+      "id": "b2-infinitif_passe-030",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "infinitif_passe",
+      "question": "Après ___ lavé les mains, il a commencé à cuisiner.",
+      "options": [
+        "s’avoir",
+        "s’être",
+        "m’être",
+        "s’est"
+      ],
+      "answer": 1,
+      "explanation": "With a reflexive verb, the pronoun matches the subject and the auxiliary is être: après m’être levé, après s’être levée. Here: s’être.",
+      "textId": null
+    },
+    {
+      "id": "b2-infinitif_passe-031",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "infinitif_passe",
+      "question": "Merci d’___ venu.",
+      "options": [
+        "avoir",
+        "étant",
+        "être",
+        "es"
+      ],
+      "answer": 2,
+      "explanation": "Merci de / pour, être désolé de, regretter de, s’excuser de, être content de + infinitif passé refer to something already done: merci d’être venu.",
+      "textId": null
+    },
+    {
+      "id": "b2-infinitif_passe-032",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "infinitif_passe",
+      "question": "Merci de m’___ aidé.",
+      "options": [
+        "être",
+        "ayant",
+        "as",
+        "avoir"
+      ],
+      "answer": 3,
+      "explanation": "Merci de / pour, être désolé de, regretter de, s’excuser de, être content de + infinitif passé refer to something already done: merci d’être venu.",
+      "textId": null
+    },
+    {
+      "id": "b2-infinitif_passe-033",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "infinitif_passe",
+      "question": "Merci d’___ pensé à moi.",
+      "options": [
+        "avoir",
+        "être",
+        "ayant",
+        "as"
+      ],
+      "answer": 0,
+      "explanation": "Merci de / pour, être désolé de, regretter de, s’excuser de, être content de + infinitif passé refer to something already done: merci d’être venu.",
+      "textId": null
+    },
+    {
+      "id": "b2-infinitif_passe-034",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "infinitif_passe",
+      "question": "Je suis désolé d’___ en retard.",
+      "options": [
+        "avoir arrivé",
+        "être arrivé",
+        "arrivé",
+        "étant arrivé"
+      ],
+      "answer": 1,
+      "explanation": "Merci de / pour, être désolé de, regretter de, s’excuser de, être content de + infinitif passé refer to something already done: merci d’être venu.",
+      "textId": null
+    },
+    {
+      "id": "b2-infinitif_passe-035",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "infinitif_passe",
+      "question": "Excusez-moi de vous ___ dérangé.",
+      "options": [
+        "être",
+        "ayant",
+        "avoir",
+        "avez"
+      ],
+      "answer": 2,
+      "explanation": "Merci de / pour, être désolé de, regretter de, s’excuser de, être content de + infinitif passé refer to something already done: merci d’être venu.",
+      "textId": null
+    },
+    {
+      "id": "b2-infinitif_passe-036",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "infinitif_passe",
+      "question": "Je regrette d’___ dit ça.",
+      "options": [
+        "être",
+        "ayant",
+        "ai",
+        "avoir"
+      ],
+      "answer": 3,
+      "explanation": "Merci de / pour, être désolé de, regretter de, s’excuser de, être content de + infinitif passé refer to something already done: merci d’être venu.",
+      "textId": null
+    },
+    {
+      "id": "b2-infinitif_passe-037",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "infinitif_passe",
+      "question": "Elle est contente d’___ réussi son examen.",
+      "options": [
+        "avoir",
+        "être",
+        "ayant",
+        "a"
+      ],
+      "answer": 0,
+      "explanation": "Merci de / pour, être désolé de, regretter de, s’excuser de, être content de + infinitif passé refer to something already done: merci d’être venu.",
+      "textId": null
+    },
+    {
+      "id": "b2-infinitif_passe-038",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "infinitif_passe",
+      "question": "Nous sommes heureux d’___ fait votre connaissance.",
+      "options": [
+        "être",
+        "avoir",
+        "ayant",
+        "avons"
+      ],
+      "answer": 1,
+      "explanation": "Merci de / pour, être désolé de, regretter de, s’excuser de, être content de + infinitif passé refer to something already done: merci d’être venu.",
+      "textId": null
+    },
+    {
+      "id": "b2-infinitif_passe-039",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "infinitif_passe",
+      "question": "Il s’excuse d’___ oublié ton anniversaire.",
+      "options": [
+        "être",
+        "ayant",
+        "avoir",
+        "a"
+      ],
+      "answer": 2,
+      "explanation": "Merci de / pour, être désolé de, regretter de, s’excuser de, être content de + infinitif passé refer to something already done: merci d’être venu.",
+      "textId": null
+    },
+    {
+      "id": "b2-infinitif_passe-040",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "infinitif_passe",
+      "question": "Je suis fier d’___ fini ce marathon.",
+      "options": [
+        "être",
+        "ayant",
+        "ai",
+        "avoir"
+      ],
+      "answer": 3,
+      "explanation": "Merci de / pour, être désolé de, regretter de, s’excuser de, être content de + infinitif passé refer to something already done: merci d’être venu.",
+      "textId": null
+    },
+    {
+      "id": "b2-infinitif_passe-041",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "infinitif_passe",
+      "question": "Elle regrette d’___ partie si tôt.",
+      "options": [
+        "être",
+        "avoir",
+        "étant",
+        "est"
+      ],
+      "answer": 0,
+      "explanation": "Merci de / pour, être désolé de, regretter de, s’excuser de, être content de + infinitif passé refer to something already done: merci d’être venu.",
+      "textId": null
+    },
+    {
+      "id": "b2-infinitif_passe-042",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "infinitif_passe",
+      "question": "Je me souviens d’___ visité cette ville.",
+      "options": [
+        "être",
+        "avoir",
+        "ayant",
+        "ai"
+      ],
+      "answer": 1,
+      "explanation": "Merci de / pour, être désolé de, regretter de, s’excuser de, être content de + infinitif passé refer to something already done: merci d’être venu.",
+      "textId": null
+    },
+    {
+      "id": "b2-infinitif_passe-043",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "infinitif_passe",
+      "question": "Pardon de ne pas ___ répondu plus tôt.",
+      "options": [
+        "être",
+        "ayant",
+        "avoir",
+        "ai"
+      ],
+      "answer": 2,
+      "explanation": "Merci de / pour, être désolé de, regretter de, s’excuser de, être content de + infinitif passé refer to something already done: merci d’être venu.",
+      "textId": null
+    },
+    {
+      "id": "b2-infinitif_passe-044",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "infinitif_passe",
+      "question": "Je te remercie d’___ restée avec moi, Julie.",
+      "options": [
+        "avoir",
+        "étant",
+        "es",
+        "être"
+      ],
+      "answer": 3,
+      "explanation": "Merci de / pour, être désolé de, regretter de, s’excuser de, être content de + infinitif passé refer to something already done: merci d’être venu.",
+      "textId": null
+    },
+    {
+      "id": "b2-infinitif_passe-045",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "infinitif_passe",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "Je regrette de ne pas avoir appelé.",
+        "Je regrette de n’avoir appelé pas.",
+        "Je regrette d’avoir ne pas appelé.",
+        "Je regrette de ne avoir pas appelé."
+      ],
+      "answer": 0,
+      "explanation": "In the negative, ne pas stays together before the auxiliary: je regrette de ne pas avoir appelé.",
+      "textId": null
+    },
+    {
+      "id": "b2-infinitif_passe-046",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "infinitif_passe",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "Il est triste de n’être venu pas.",
+        "Il est triste de ne pas être venu.",
+        "Il est triste d’être ne pas venu.",
+        "Il est triste de pas n’être venu."
+      ],
+      "answer": 1,
+      "explanation": "In the negative, ne pas stays together before the auxiliary: je regrette de ne pas avoir appelé.",
+      "textId": null
+    },
+    {
+      "id": "b2-infinitif_passe-047",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "infinitif_passe",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "Excuse-moi de ne t’avoir prévenu pas.",
+        "Excuse-moi de t’avoir ne pas prévenu.",
+        "Excuse-moi de ne pas t’avoir prévenu.",
+        "Excuse-moi de ne pas avoir te prévenu."
+      ],
+      "answer": 2,
+      "explanation": "In the negative, ne pas stays together before the auxiliary: je regrette de ne pas avoir appelé.",
+      "textId": null
+    },
+    {
+      "id": "b2-infinitif_passe-048",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "infinitif_passe",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "Elle est sûre de n’avoir oublié rien.",
+        "Elle est sûre d’avoir ne rien oublié.",
+        "Elle est sûre de rien n’avoir oublié.",
+        "Elle est sûre de ne rien avoir oublié."
+      ],
+      "answer": 3,
+      "explanation": "In the negative, ne pas stays together before the auxiliary: je regrette de ne pas avoir appelé.",
+      "textId": null
+    },
+    {
+      "id": "b2-infinitif_passe-049",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "infinitif_passe",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "Après l’avoir vu, j’ai changé d’avis.",
+        "Après avoir le vu, j’ai changé d’avis.",
+        "Après avoir vu le, j’ai changé d’avis.",
+        "Après le avoir vu, j’ai changé d’avis."
+      ],
+      "answer": 0,
+      "explanation": "Object pronouns go before the auxiliary: après l’avoir vu.",
+      "textId": null
+    },
+    {
+      "id": "b2-infinitif_passe-050",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "infinitif_passe",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "Après avoir lui parlé, je me suis senti mieux.",
+        "Après lui avoir parlé, je me suis senti mieux.",
+        "Après avoir parlé lui, je me suis senti mieux.",
+        "Après le avoir parlé, je me suis senti mieux."
+      ],
+      "answer": 1,
+      "explanation": "Object pronouns go before the auxiliary: après l’avoir vu.",
+      "textId": null
+    },
+    {
+      "id": "b2-infinitif_passe-051",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "infinitif_passe",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "Merci d’avoir nous invités.",
+        "Merci de avoir invités nous.",
+        "Merci de nous avoir invités.",
+        "Merci de nous être invités."
+      ],
+      "answer": 2,
+      "explanation": "Object pronouns go before the auxiliary: après l’avoir vu.",
+      "textId": null
+    },
+    {
+      "id": "b2-infinitif_passe-052",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "infinitif_passe",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "Après être y allé, j’ai compris.",
+        "Après y avoir allé, j’ai compris.",
+        "Après être allé y, j’ai compris.",
+        "Après y être allé, j’ai compris."
+      ],
+      "answer": 3,
+      "explanation": "Object pronouns go before the auxiliary: après l’avoir vu.",
+      "textId": null
+    },
+    {
+      "id": "b2-infinitif_passe-053",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "infinitif_passe",
+      "question": "La lettre ? Après ___ lue, il l’a jetée.",
+      "options": [
+        "l’avoir",
+        "avoir la",
+        "l’être",
+        "lui avoir"
+      ],
+      "answer": 0,
+      "explanation": "Object pronouns go before the auxiliary: après l’avoir vu.",
+      "textId": null
+    },
+    {
+      "id": "b2-infinitif_passe-054",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "infinitif_passe",
+      "question": "Les enfants ? Après ___ couchés, elle a regardé un film.",
+      "options": [
+        "avoir les",
+        "les avoir",
+        "les être",
+        "leur avoir"
+      ],
+      "answer": 1,
+      "explanation": "Object pronouns go before the auxiliary: après l’avoir vu.",
+      "textId": null
+    },
+    {
+      "id": "b2-infinitif_passe-055",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "infinitif_passe",
+      "question": "Ses parents ? Après ___ téléphoné, il est sorti.",
+      "options": [
+        "les avoir",
+        "avoir leur",
+        "leur avoir",
+        "leur être"
+      ],
+      "answer": 2,
+      "explanation": "Object pronouns go before the auxiliary: après l’avoir vu.",
+      "textId": null
+    },
+    {
+      "id": "b2-infinitif_passe-056",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "infinitif_passe",
+      "question": "Après avoir dîné, ___.",
+      "options": [
+        "le film a commencé",
+        "il a plu",
+        "le téléphone a sonné",
+        "nous avons regardé un film"
+      ],
+      "answer": 3,
+      "explanation": "The infinitif passé needs the same subject as the main verb. With two different subjects, use après que + a conjugated verb.",
+      "textId": null
+    },
+    {
+      "id": "b2-infinitif_passe-057",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "infinitif_passe",
+      "question": "Après être rentrée, ___.",
+      "options": [
+        "Marie a pris une douche",
+        "la pluie a commencé",
+        "le téléphone a sonné",
+        "il faisait nuit"
+      ],
+      "answer": 0,
+      "explanation": "The infinitif passé needs the same subject as the main verb. With two different subjects, use après que + a conjugated verb.",
+      "textId": null
+    },
+    {
+      "id": "b2-infinitif_passe-058",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "infinitif_passe",
+      "question": "Après que les invités sont partis, ___.",
+      "options": [
+        "avoir rangé la maison",
+        "nous avons rangé la maison",
+        "être rangés",
+        "rangeant la maison"
+      ],
+      "answer": 1,
+      "explanation": "The infinitif passé needs the same subject as the main verb. With two different subjects, use après que + a conjugated verb.",
+      "textId": null
+    },
+    {
+      "id": "b2-infinitif_passe-059",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "infinitif_passe",
+      "question": "___, le professeur a commencé le cours.",
+      "options": [
+        "Après s’être assis les élèves",
+        "Après avoir assis les élèves",
+        "Après que les élèves se sont assis",
+        "Après les élèves être assis"
+      ],
+      "answer": 2,
+      "explanation": "The infinitif passé needs the same subject as the main verb. With two different subjects, use après que + a conjugated verb.",
+      "textId": null
+    },
+    {
+      "id": "b2-infinitif_passe-060",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "infinitif_passe",
+      "question": "Il est parti sans ___ au revoir.",
+      "options": [
+        "être dit",
+        "ayant dit",
+        "a dit",
+        "avoir dit"
+      ],
+      "answer": 3,
+      "explanation": "Sans, pour (cause) and de can also be followed by the infinitif passé for an earlier action: il est parti sans avoir mangé.",
+      "textId": null
+    },
+    {
+      "id": "b2-infinitif_passe-061",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "infinitif_passe",
+      "question": "Elle a réussi sans ___ beaucoup.",
+      "options": [
+        "avoir révisé",
+        "être révisée",
+        "ayant révisé",
+        "a révisé"
+      ],
+      "answer": 0,
+      "explanation": "Sans, pour (cause) and de can also be followed by the infinitif passé for an earlier action: il est parti sans avoir mangé.",
+      "textId": null
+    },
+    {
+      "id": "b2-infinitif_passe-062",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "infinitif_passe",
+      "question": "Il a été puni pour ___ en classe.",
+      "options": [
+        "être triché",
+        "avoir triché",
+        "ayant triché",
+        "a triché"
+      ],
+      "answer": 1,
+      "explanation": "Sans, pour (cause) and de can also be followed by the infinitif passé for an earlier action: il est parti sans avoir mangé.",
+      "textId": null
+    },
+    {
+      "id": "b2-infinitif_passe-063",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "infinitif_passe",
+      "question": "Elle a été félicitée pour ___ la course.",
+      "options": [
+        "être gagnée",
+        "ayant gagné",
+        "avoir gagné",
+        "a gagné"
+      ],
+      "answer": 2,
+      "explanation": "Sans, pour (cause) and de can also be followed by the infinitif passé for an earlier action: il est parti sans avoir mangé.",
+      "textId": null
+    },
+    {
+      "id": "b2-infinitif_passe-064",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "infinitif_passe",
+      "question": "Il est sorti sans ___ sa veste.",
+      "options": [
+        "être pris",
+        "ayant pris",
+        "a pris",
+        "avoir pris"
+      ],
+      "answer": 3,
+      "explanation": "Sans, pour (cause) and de can also be followed by the infinitif passé for an earlier action: il est parti sans avoir mangé.",
+      "textId": null
+    },
+    {
+      "id": "b2-infinitif_passe-065",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "infinitif_passe",
+      "question": "On l’a remercié pour ___ si vite.",
+      "options": [
+        "être venu",
+        "avoir venu",
+        "étant venu",
+        "est venu"
+      ],
+      "answer": 0,
+      "explanation": "Sans, pour (cause) and de can also be followed by the infinitif passé for an earlier action: il est parti sans avoir mangé.",
+      "textId": null
+    },
+    {
+      "id": "b2-infinitif_passe-066",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "infinitif_passe",
+      "question": "Je pense ___ mes clés au bureau.",
+      "options": [
+        "être oublié",
+        "avoir oublié",
+        "ayant oublié",
+        "ai oublié"
+      ],
+      "answer": 1,
+      "explanation": "The infinitif passé is avoir + past participle for most verbs. Here: avoir oublié.",
+      "textId": null
+    },
+    {
+      "id": "b2-infinitif_passe-067",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "infinitif_passe",
+      "question": "Il dit ___ ce film trois fois.",
+      "options": [
+        "être vu",
+        "ayant vu",
+        "avoir vu",
+        "a vu"
+      ],
+      "answer": 2,
+      "explanation": "The infinitif passé is avoir + past participle for most verbs. Here: avoir vu.",
+      "textId": null
+    },
+    {
+      "id": "b2-infinitif_passe-068",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "infinitif_passe",
+      "question": "Elle croit ___ la bonne décision.",
+      "options": [
+        "être prise",
+        "ayant pris",
+        "a pris",
+        "avoir pris"
+      ],
+      "answer": 3,
+      "explanation": "The infinitif passé is avoir + past participle for most verbs. Here: avoir pris.",
+      "textId": null
+    },
+    {
+      "id": "b2-infinitif_passe-069",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "infinitif_passe",
+      "question": "Je suis sûr d’___ la porte.",
+      "options": [
+        "avoir fermé",
+        "être fermé",
+        "ayant fermé",
+        "ai fermé"
+      ],
+      "answer": 0,
+      "explanation": "The infinitif passé is avoir + past participle for most verbs. Here: avoir fermé.",
+      "textId": null
+    },
+    {
+      "id": "b2-infinitif_passe-070",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "infinitif_passe",
+      "question": "Il semble ___ son train.",
+      "options": [
+        "être raté",
+        "avoir raté",
+        "ayant raté",
+        "a raté"
+      ],
+      "answer": 1,
+      "explanation": "The infinitif passé is avoir + past participle for most verbs. Here: avoir raté.",
+      "textId": null
+    },
+    {
+      "id": "b2-infinitif_passe-071",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "infinitif_passe",
+      "question": "Elle affirme ___ à l’heure.",
+      "options": [
+        "avoir arrivé",
+        "étant arrivée",
+        "être arrivée",
+        "est arrivée"
+      ],
+      "answer": 2,
+      "explanation": "Verbs that take être form the infinitif passé with être, and the past participle agrees with the subject of the sentence. Here: être arrivée.",
+      "textId": null
+    },
+    {
+      "id": "b2-infinitif_passe-072",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "infinitif_passe",
+      "question": "Ils prétendent ___ toute la soirée chez eux.",
+      "options": [
+        "avoir resté",
+        "étant restés",
+        "sont restés",
+        "être restés"
+      ],
+      "answer": 3,
+      "explanation": "Verbs that take être form the infinitif passé with être, and the past participle agrees with the subject of the sentence. Here: être restés.",
+      "textId": null
+    },
+    {
+      "id": "b2-infinitif_passe-073",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "infinitif_passe",
+      "question": "Tu dois ___ ce travail avant vendredi.",
+      "options": [
+        "avoir fini",
+        "être fini",
+        "ayant fini",
+        "as fini"
+      ],
+      "answer": 0,
+      "explanation": "Devoir + infinitif passé sets a deadline: you must have finished by then.",
+      "textId": null
+    },
+    {
+      "id": "b2-infinitif_passe-074",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "infinitif_passe",
+      "question": "Il faut ___ dix-huit ans pour voter.",
+      "options": [
+        "avoir eu",
+        "avoir",
+        "être",
+        "ayant"
+      ],
+      "answer": 1,
+      "explanation": "Here the simple infinitive is needed: the condition is true at the moment of voting.",
+      "textId": null
+    },
+    {
+      "id": "b2-infinitif_passe-075",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "infinitif_passe",
+      "question": "Après ___ leur diplôme, elles ont trouvé du travail.",
+      "options": [
+        "obtenir",
+        "être obtenues",
+        "avoir obtenu",
+        "obtenu"
+      ],
+      "answer": 2,
+      "explanation": "Après is always followed by the infinitif passé (avoir / être + past participle), never by a simple infinitive: après avoir mangé.",
+      "textId": null
+    },
+    {
+      "id": "b2-infinitif_passe-076",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "infinitif_passe",
+      "question": "Après ___ au Canada, mes parents ont appris l’anglais.",
+      "options": [
+        "s’avoir installé",
+        "s’installer",
+        "être s’installés",
+        "s’être installés"
+      ],
+      "answer": 3,
+      "explanation": "With a reflexive verb, the pronoun matches the subject and the auxiliary is être: après m’être levé, après s’être levée. Here: s’être installés.",
+      "textId": null
+    },
+    {
+      "id": "b2-infinitif_passe-077",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "infinitif_passe",
+      "question": "Après ___ le match, les joueurs ont fêté leur victoire.",
+      "options": [
+        "avoir gagné",
+        "gagner",
+        "gagné",
+        "être gagnés"
+      ],
+      "answer": 0,
+      "explanation": "Après is always followed by the infinitif passé (avoir / être + past participle), never by a simple infinitive: après avoir mangé.",
+      "textId": null
+    },
+    {
+      "id": "b2-infinitif_passe-078",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "infinitif_passe",
+      "question": "Après ___ toute la journée, elle était épuisée.",
+      "options": [
+        "travailler",
+        "avoir travaillé",
+        "travaillé",
+        "être travaillée"
+      ],
+      "answer": 1,
+      "explanation": "Après is always followed by the infinitif passé (avoir / être + past participle), never by a simple infinitive: après avoir mangé.",
+      "textId": null
+    },
+    {
+      "id": "b2-infinitif_passe-079",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "infinitif_passe",
+      "question": "Je ne me rappelle pas ___ cette personne.",
+      "options": [
+        "être rencontré",
+        "ayant rencontré",
+        "avoir rencontré",
+        "ai rencontré"
+      ],
+      "answer": 2,
+      "explanation": "The infinitif passé is avoir + past participle for most verbs. Here: avoir rencontré.",
+      "textId": null
+    },
+    {
+      "id": "b2-infinitif_passe-080",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "infinitif_passe",
+      "question": "Après ___ la vérité, elle a pardonné à son frère.",
+      "options": [
+        "apprendre",
+        "appris",
+        "être apprise",
+        "avoir appris"
+      ],
+      "answer": 3,
+      "explanation": "Après is always followed by the infinitif passé (avoir / être + past participle), never by a simple infinitive: après avoir mangé.",
+      "textId": null
+    }
+  ]
+}

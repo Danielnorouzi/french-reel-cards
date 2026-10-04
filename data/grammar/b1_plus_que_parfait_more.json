@@ -1,0 +1,485 @@
+{
+  "texts": [],
+  "questions": [
+    {
+      "id": "b1-plus_que_parfait-051",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "plus_que_parfait",
+      "question": "Complète au plus-que-parfait : Quand je suis arrivé, elle ___ déjà ___.",
+      "options": [
+        "était / partie",
+        "avait / parti",
+        "est / partie",
+        "était / parti"
+      ],
+      "answer": 0,
+      "explanation": "Verbs that take être in the passé composé also take être in the plus-que-parfait (imparfait of être + past participle), and the participle agrees with the subject: était / partie.",
+      "textId": null
+    },
+    {
+      "id": "b1-plus_que_parfait-052",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "plus_que_parfait",
+      "question": "Complète au plus-que-parfait : Ils ___ avant le début du film.",
+      "options": [
+        "avaient arrivé",
+        "étaient arrivés",
+        "sont arrivés",
+        "étaient arrivé"
+      ],
+      "answer": 1,
+      "explanation": "Verbs that take être in the passé composé also take être in the plus-que-parfait (imparfait of être + past participle), and the participle agrees with the subject: étaient arrivés.",
+      "textId": null
+    },
+    {
+      "id": "b1-plus_que_parfait-053",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "plus_que_parfait",
+      "question": "Complète au plus-que-parfait : Nous ___ très tard la veille. (masculin)",
+      "options": [
+        "avions rentré",
+        "sommes rentrés",
+        "étions rentrés",
+        "étions rentré"
+      ],
+      "answer": 2,
+      "explanation": "Verbs that take être in the passé composé also take être in the plus-que-parfait (imparfait of être + past participle), and the participle agrees with the subject: étions rentrés.",
+      "textId": null
+    },
+    {
+      "id": "b1-plus_que_parfait-054",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "plus_que_parfait",
+      "question": "Complète au plus-que-parfait : Marie ___ en France avant de s’installer au Canada.",
+      "options": [
+        "avait né",
+        "est née",
+        "était né",
+        "était née"
+      ],
+      "answer": 3,
+      "explanation": "Verbs that take être in the passé composé also take être in the plus-que-parfait (imparfait of être + past participle), and the participle agrees with the subject: était née.",
+      "textId": null
+    },
+    {
+      "id": "b1-plus_que_parfait-055",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "plus_que_parfait",
+      "question": "Complète au plus-que-parfait : Tu ___ où avant de venir ici, Paul ?",
+      "options": [
+        "étais allé",
+        "avais allé",
+        "es allé",
+        "étais allée"
+      ],
+      "answer": 0,
+      "explanation": "Verbs that take être in the passé composé also take être in the plus-que-parfait (imparfait of être + past participle), and the participle agrees with the subject: étais allé.",
+      "textId": null
+    },
+    {
+      "id": "b1-plus_que_parfait-056",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "plus_que_parfait",
+      "question": "Complète au plus-que-parfait : Elles ___ chez elles tout le week-end.",
+      "options": [
+        "avaient resté",
+        "étaient restées",
+        "sont restées",
+        "étaient restés"
+      ],
+      "answer": 1,
+      "explanation": "Verbs that take être in the passé composé also take être in the plus-que-parfait (imparfait of être + past participle), and the participle agrees with the subject: étaient restées.",
+      "textId": null
+    },
+    {
+      "id": "b1-plus_que_parfait-057",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "plus_que_parfait",
+      "question": "Complète au plus-que-parfait : Je ___ très tôt ce jour-là. (Léa parle)",
+      "options": [
+        "m’avais levé",
+        "me suis levée",
+        "m’étais levée",
+        "m’étais levé"
+      ],
+      "answer": 2,
+      "explanation": "Reflexive verbs take être in the plus-que-parfait: m’étais levée.",
+      "textId": null
+    },
+    {
+      "id": "b1-plus_que_parfait-058",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "plus_que_parfait",
+      "question": "Complète au plus-que-parfait : Il ___ en retard, alors il a raté son train.",
+      "options": [
+        "s’avait réveillé",
+        "s’est réveillé",
+        "s’était réveillée",
+        "s’était réveillé"
+      ],
+      "answer": 3,
+      "explanation": "Reflexive verbs take être in the plus-que-parfait: s’était réveillé.",
+      "textId": null
+    },
+    {
+      "id": "b1-plus_que_parfait-059",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "plus_que_parfait",
+      "question": "Complète au plus-que-parfait : Ils ___ deux ans plus tôt.",
+      "options": [
+        "s’étaient mariés",
+        "s’avaient marié",
+        "se sont mariés",
+        "s’étaient marié"
+      ],
+      "answer": 0,
+      "explanation": "Reflexive verbs take être in the plus-que-parfait: s’étaient mariés.",
+      "textId": null
+    },
+    {
+      "id": "b1-plus_que_parfait-060",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "plus_que_parfait",
+      "question": "Complète au plus-que-parfait : Nous ___ de chemin. (masculin)",
+      "options": [
+        "nous avions trompé",
+        "nous étions trompés",
+        "nous sommes trompés",
+        "nous étions trompé"
+      ],
+      "answer": 1,
+      "explanation": "Reflexive verbs take être in the plus-que-parfait: nous étions trompés.",
+      "textId": null
+    },
+    {
+      "id": "b1-plus_que_parfait-061",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "plus_que_parfait",
+      "question": "Complète au plus-que-parfait : J’ai retrouvé les clés que j’___.",
+      "options": [
+        "ai perdues",
+        "perdais",
+        "avais perdues",
+        "aurais perdues"
+      ],
+      "answer": 2,
+      "explanation": "The plus-que-parfait shows that one past action happened before another past action: avais perdues.",
+      "textId": null
+    },
+    {
+      "id": "b1-plus_que_parfait-062",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "plus_que_parfait",
+      "question": "Complète au plus-que-parfait : Elle a lu le livre que je lui ___.",
+      "options": [
+        "ai offert",
+        "offrais",
+        "offrirais",
+        "avais offert"
+      ],
+      "answer": 3,
+      "explanation": "The plus-que-parfait shows that one past action happened before another past action: avais offert.",
+      "textId": null
+    },
+    {
+      "id": "b1-plus_que_parfait-063",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "plus_que_parfait",
+      "question": "Complète au plus-que-parfait : Il était fatigué parce qu’il ___ toute la nuit.",
+      "options": [
+        "avait travaillé",
+        "a travaillé",
+        "travaille",
+        "travaillerait"
+      ],
+      "answer": 0,
+      "explanation": "The plus-que-parfait shows that one past action happened before another past action: avait travaillé.",
+      "textId": null
+    },
+    {
+      "id": "b1-plus_que_parfait-064",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "plus_que_parfait",
+      "question": "Complète au plus-que-parfait : Nous avons mangé le gâteau que maman ___.",
+      "options": [
+        "a préparé",
+        "avait préparé",
+        "prépare",
+        "préparerait"
+      ],
+      "answer": 1,
+      "explanation": "The plus-que-parfait shows that one past action happened before another past action: avait préparé.",
+      "textId": null
+    },
+    {
+      "id": "b1-plus_que_parfait-065",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "plus_que_parfait",
+      "question": "Complète au plus-que-parfait : Je n’avais pas faim parce que j’___ avant de venir.",
+      "options": [
+        "ai mangé",
+        "mange",
+        "avais mangé",
+        "mangerais"
+      ],
+      "answer": 2,
+      "explanation": "The plus-que-parfait shows that one past action happened before another past action: avais mangé.",
+      "textId": null
+    },
+    {
+      "id": "b1-plus_que_parfait-066",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "plus_que_parfait",
+      "question": "Complète au plus-que-parfait : Quand nous sommes arrivés, le film ___.",
+      "options": [
+        "a déjà commencé",
+        "commence déjà",
+        "commencerait déjà",
+        "avait déjà commencé"
+      ],
+      "answer": 3,
+      "explanation": "The plus-que-parfait shows that one past action happened before another past action: avait déjà commencé.",
+      "textId": null
+    },
+    {
+      "id": "b1-plus_que_parfait-067",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "plus_que_parfait",
+      "question": "Complète au plus-que-parfait : Elle a reconnu l’homme qu’elle ___ la veille.",
+      "options": [
+        "avait vu",
+        "a vu",
+        "voit",
+        "verrait"
+      ],
+      "answer": 0,
+      "explanation": "The plus-que-parfait shows that one past action happened before another past action: avait vu.",
+      "textId": null
+    },
+    {
+      "id": "b1-plus_que_parfait-068",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "plus_que_parfait",
+      "question": "Complète au plus-que-parfait : Il a raté l’examen parce qu’il n’___ pas ___.",
+      "options": [
+        "a / révisé",
+        "avait / révisé",
+        "est / révisé",
+        "aurait / révisé"
+      ],
+      "answer": 1,
+      "explanation": "The plus-que-parfait shows that one past action happened before another past action: avait / révisé.",
+      "textId": null
+    },
+    {
+      "id": "b1-plus_que_parfait-069",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "plus_que_parfait",
+      "question": "Complète au plus-que-parfait : Le professeur a rendu les devoirs qu’il ___.",
+      "options": [
+        "a corrigés",
+        "corrige",
+        "avait corrigés",
+        "corrigerait"
+      ],
+      "answer": 2,
+      "explanation": "The plus-que-parfait shows that one past action happened before another past action: avait corrigés.",
+      "textId": null
+    },
+    {
+      "id": "b1-plus_que_parfait-070",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "plus_que_parfait",
+      "question": "Complète au plus-que-parfait : J’ai appris qu’ils ___ la maison.",
+      "options": [
+        "ont vendu",
+        "vendent",
+        "vendraient",
+        "avaient vendu"
+      ],
+      "answer": 3,
+      "explanation": "After a main verb in the past (il a dit que…), a past action is reported in the plus-que-parfait.",
+      "textId": null
+    },
+    {
+      "id": "b1-plus_que_parfait-071",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "plus_que_parfait",
+      "question": "Complète au plus-que-parfait : Il m’a dit qu’il ___ son travail.",
+      "options": [
+        "avait fini",
+        "a fini",
+        "finit",
+        "finira"
+      ],
+      "answer": 0,
+      "explanation": "After a main verb in the past (il a dit que…), a past action is reported in the plus-que-parfait.",
+      "textId": null
+    },
+    {
+      "id": "b1-plus_que_parfait-072",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "plus_que_parfait",
+      "question": "Complète au plus-que-parfait : Elle a expliqué qu’elle ___ le bus.",
+      "options": [
+        "a raté",
+        "avait raté",
+        "rate",
+        "ratera"
+      ],
+      "answer": 1,
+      "explanation": "After a main verb in the past (il a dit que…), a past action is reported in the plus-que-parfait.",
+      "textId": null
+    },
+    {
+      "id": "b1-plus_que_parfait-073",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "plus_que_parfait",
+      "question": "Complète au plus-que-parfait : Ils ont répondu qu’ils n’___ rien ___.",
+      "options": [
+        "ont / vu",
+        "sont / vu",
+        "avaient / vu",
+        "auront / vu"
+      ],
+      "answer": 2,
+      "explanation": "After a main verb in the past (il a dit que…), a past action is reported in the plus-que-parfait.",
+      "textId": null
+    },
+    {
+      "id": "b1-plus_que_parfait-074",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "plus_que_parfait",
+      "question": "Complète au plus-que-parfait : Si seulement j’___ !",
+      "options": [
+        "ai su",
+        "sais",
+        "saurais",
+        "avais su"
+      ],
+      "answer": 3,
+      "explanation": "Si seulement + plus-que-parfait expresses a regret about the past: si seulement j’avais su !",
+      "textId": null
+    },
+    {
+      "id": "b1-plus_que_parfait-075",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "plus_que_parfait",
+      "question": "Complète au plus-que-parfait : Si seulement tu m’___ plus tôt !",
+      "options": [
+        "avais prévenu",
+        "as prévenu",
+        "préviens",
+        "préviendrais"
+      ],
+      "answer": 0,
+      "explanation": "Si seulement + plus-que-parfait expresses a regret about the past: si seulement j’avais su !",
+      "textId": null
+    },
+    {
+      "id": "b1-plus_que_parfait-076",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "plus_que_parfait",
+      "question": "Complète au plus-que-parfait : Si seulement nous ___ à l’heure !",
+      "options": [
+        "sommes partis",
+        "étions partis",
+        "partons",
+        "partirions"
+      ],
+      "answer": 1,
+      "explanation": "Si seulement + plus-que-parfait expresses a regret about the past: si seulement j’avais su !",
+      "textId": null
+    },
+    {
+      "id": "b1-plus_que_parfait-077",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "plus_que_parfait",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "Je n’avais vu jamais la mer.",
+        "J’avais ne jamais vu la mer.",
+        "Je n’avais jamais vu la mer.",
+        "Je ne jamais avais vu la mer."
+      ],
+      "answer": 2,
+      "explanation": "In the plus-que-parfait, ne … pas (jamais, encore) goes around the auxiliary: je n’avais jamais vu.",
+      "textId": null
+    },
+    {
+      "id": "b1-plus_que_parfait-078",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "plus_que_parfait",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "Elle n’était arrivée pas encore.",
+        "Elle était ne pas encore arrivée.",
+        "Elle ne pas encore était arrivée.",
+        "Elle n’était pas encore arrivée."
+      ],
+      "answer": 3,
+      "explanation": "In the plus-que-parfait, ne … pas (jamais, encore) goes around the auxiliary: je n’avais jamais vu.",
+      "textId": null
+    },
+    {
+      "id": "b1-plus_que_parfait-079",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "plus_que_parfait",
+      "question": "Complète au plus-que-parfait : Je ne l’___ jamais ___ avant ce jour-là.",
+      "options": [
+        "avais / rencontré",
+        "ai / rencontré",
+        "suis / rencontré",
+        "aurai / rencontré"
+      ],
+      "answer": 0,
+      "explanation": "In the plus-que-parfait, ne … pas (jamais, encore) goes around the auxiliary: je n’avais jamais vu.",
+      "textId": null
+    },
+    {
+      "id": "b1-plus_que_parfait-080",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "plus_que_parfait",
+      "question": "Complète au plus-que-parfait : Nous n’___ pas encore ___ quand tu as appelé.",
+      "options": [
+        "avons / dîné",
+        "avions / dîné",
+        "sommes / dîné",
+        "aurons / dîné"
+      ],
+      "answer": 1,
+      "explanation": "In the plus-que-parfait, ne … pas (jamais, encore) goes around the auxiliary: je n’avais jamais vu.",
+      "textId": null
+    }
+  ]
+}

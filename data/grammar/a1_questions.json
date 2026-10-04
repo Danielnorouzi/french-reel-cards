@@ -1,0 +1,1285 @@
+{
+  "texts": [],
+  "questions": [
+    {
+      "id": "a1-questions-001",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "questions",
+      "question": "___ habites-tu ? — À Vancouver.",
+      "options": [
+        "Où",
+        "Quand",
+        "Qui",
+        "Combien"
+      ],
+      "answer": 0,
+      "explanation": "Où asks about a place: where.",
+      "textId": null
+    },
+    {
+      "id": "a1-questions-002",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "questions",
+      "question": "___ est la gare ? — Au bout de la rue.",
+      "options": [
+        "Quand",
+        "Où",
+        "Comment",
+        "Pourquoi"
+      ],
+      "answer": 1,
+      "explanation": "Où asks about a place: where.",
+      "textId": null
+    },
+    {
+      "id": "a1-questions-003",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "questions",
+      "question": "___ vas-tu ce soir ? — Au cinéma.",
+      "options": [
+        "Qui",
+        "Quand",
+        "Où",
+        "Combien"
+      ],
+      "answer": 2,
+      "explanation": "Où asks about a place: where.",
+      "textId": null
+    },
+    {
+      "id": "a1-questions-004",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "questions",
+      "question": "___ sont mes clés ? — Sur la table.",
+      "options": [
+        "Quand",
+        "Qui",
+        "Pourquoi",
+        "Où"
+      ],
+      "answer": 3,
+      "explanation": "Où asks about a place: where.",
+      "textId": null
+    },
+    {
+      "id": "a1-questions-005",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "questions",
+      "question": "Tu travailles ___ ? — Dans un café.",
+      "options": [
+        "où",
+        "quand",
+        "comment",
+        "pourquoi"
+      ],
+      "answer": 0,
+      "explanation": "Où asks about a place: where.",
+      "textId": null
+    },
+    {
+      "id": "a1-questions-006",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "questions",
+      "question": "D’___ viens-tu ? — Du Canada.",
+      "options": [
+        "qui",
+        "où",
+        "quand",
+        "quoi"
+      ],
+      "answer": 1,
+      "explanation": "D’où = from where. Où asks about a place.",
+      "textId": null
+    },
+    {
+      "id": "a1-questions-007",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "questions",
+      "question": "___ est-ce que vous allez en vacances ? — En Italie.",
+      "options": [
+        "Quand",
+        "Qui",
+        "Où",
+        "Combien"
+      ],
+      "answer": 2,
+      "explanation": "Où asks about a place: where.",
+      "textId": null
+    },
+    {
+      "id": "a1-questions-008",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "questions",
+      "question": "___ part le train ? — À huit heures.",
+      "options": [
+        "Où",
+        "Qui",
+        "Combien",
+        "Quand"
+      ],
+      "answer": 3,
+      "explanation": "Quand asks about a time: when.",
+      "textId": null
+    },
+    {
+      "id": "a1-questions-009",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "questions",
+      "question": "___ est ton anniversaire ? — Le 3 mai.",
+      "options": [
+        "Quand",
+        "Où",
+        "Comment",
+        "Pourquoi"
+      ],
+      "answer": 0,
+      "explanation": "Quand asks about a time: when.",
+      "textId": null
+    },
+    {
+      "id": "a1-questions-010",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "questions",
+      "question": "___ arrives-tu ? — Demain matin.",
+      "options": [
+        "Où",
+        "Quand",
+        "Qui",
+        "Combien"
+      ],
+      "answer": 1,
+      "explanation": "Quand asks about a time: when.",
+      "textId": null
+    },
+    {
+      "id": "a1-questions-011",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "questions",
+      "question": "___ est-ce que le film commence ? — Dans dix minutes.",
+      "options": [
+        "Où",
+        "Qui",
+        "Quand",
+        "Pourquoi"
+      ],
+      "answer": 2,
+      "explanation": "Quand asks about a time: when.",
+      "textId": null
+    },
+    {
+      "id": "a1-questions-012",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "questions",
+      "question": "Tu pars ___ ? — Lundi prochain.",
+      "options": [
+        "où",
+        "comment",
+        "pourquoi",
+        "quand"
+      ],
+      "answer": 3,
+      "explanation": "Quand asks about a time: when.",
+      "textId": null
+    },
+    {
+      "id": "a1-questions-013",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "questions",
+      "question": "___ est-ce que tu finis le travail ? — À dix-sept heures.",
+      "options": [
+        "Quand",
+        "Où",
+        "Qui",
+        "Comment"
+      ],
+      "answer": 0,
+      "explanation": "Quand asks about a time: when.",
+      "textId": null
+    },
+    {
+      "id": "a1-questions-014",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "questions",
+      "question": "___ vas-tu ? — Très bien, merci.",
+      "options": [
+        "Où",
+        "Comment",
+        "Quand",
+        "Combien"
+      ],
+      "answer": 1,
+      "explanation": "Comment asks how, or what something is like.",
+      "textId": null
+    },
+    {
+      "id": "a1-questions-015",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "questions",
+      "question": "___ tu t’appelles ? — Daniel.",
+      "options": [
+        "Où",
+        "Quand",
+        "Comment",
+        "Pourquoi"
+      ],
+      "answer": 2,
+      "explanation": "Comment asks how, or what something is like.",
+      "textId": null
+    },
+    {
+      "id": "a1-questions-016",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "questions",
+      "question": "___ allez-vous au travail ? — En métro.",
+      "options": [
+        "Quand",
+        "Qui",
+        "Combien",
+        "Comment"
+      ],
+      "answer": 3,
+      "explanation": "Comment asks how, or what something is like.",
+      "textId": null
+    },
+    {
+      "id": "a1-questions-017",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "questions",
+      "question": "___ est ton nouveau professeur ? — Il est très sympa.",
+      "options": [
+        "Comment",
+        "Où",
+        "Quand",
+        "Combien"
+      ],
+      "answer": 0,
+      "explanation": "Comment asks how, or what something is like.",
+      "textId": null
+    },
+    {
+      "id": "a1-questions-018",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "questions",
+      "question": "___ dit-on « thank you » en français ?",
+      "options": [
+        "Pourquoi",
+        "Comment",
+        "Quand",
+        "Combien"
+      ],
+      "answer": 1,
+      "explanation": "Comment asks how, or what something is like.",
+      "textId": null
+    },
+    {
+      "id": "a1-questions-019",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "questions",
+      "question": "___ ça s’écrit ? — B-O-N-J-O-U-R.",
+      "options": [
+        "Où",
+        "Quand",
+        "Comment",
+        "Qui"
+      ],
+      "answer": 2,
+      "explanation": "Comment asks how, or what something is like.",
+      "textId": null
+    },
+    {
+      "id": "a1-questions-020",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "questions",
+      "question": "___ tu trouves ce film ? — Génial !",
+      "options": [
+        "Où",
+        "Quand",
+        "Qui",
+        "Comment"
+      ],
+      "answer": 3,
+      "explanation": "Comment asks how, or what something is like.",
+      "textId": null
+    },
+    {
+      "id": "a1-questions-021",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "questions",
+      "question": "___ es-tu en retard ? — Parce que j’ai raté le bus.",
+      "options": [
+        "Pourquoi",
+        "Comment",
+        "Quand",
+        "Où"
+      ],
+      "answer": 0,
+      "explanation": "Pourquoi asks for a reason: why. The answer starts with parce que.",
+      "textId": null
+    },
+    {
+      "id": "a1-questions-022",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "questions",
+      "question": "___ étudies-tu le français ? — Parce que j’adore cette langue.",
+      "options": [
+        "Quand",
+        "Pourquoi",
+        "Où",
+        "Combien"
+      ],
+      "answer": 1,
+      "explanation": "Pourquoi asks for a reason: why. The answer starts with parce que.",
+      "textId": null
+    },
+    {
+      "id": "a1-questions-023",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "questions",
+      "question": "___ est-ce qu’il pleure ? — Parce qu’il est fatigué.",
+      "options": [
+        "Où",
+        "Quand",
+        "Pourquoi",
+        "Qui"
+      ],
+      "answer": 2,
+      "explanation": "Pourquoi asks for a reason: why. The answer starts with parce que.",
+      "textId": null
+    },
+    {
+      "id": "a1-questions-024",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "questions",
+      "question": "___ tu ne manges pas ? — Parce que je n’ai pas faim.",
+      "options": [
+        "Où",
+        "Quand",
+        "Combien",
+        "Pourquoi"
+      ],
+      "answer": 3,
+      "explanation": "Pourquoi asks for a reason: why. The answer starts with parce que.",
+      "textId": null
+    },
+    {
+      "id": "a1-questions-025",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "questions",
+      "question": "___ le magasin est fermé ? — Parce que c’est dimanche.",
+      "options": [
+        "Pourquoi",
+        "Où",
+        "Comment",
+        "Qui"
+      ],
+      "answer": 0,
+      "explanation": "Pourquoi asks for a reason: why. The answer starts with parce que.",
+      "textId": null
+    },
+    {
+      "id": "a1-questions-026",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "questions",
+      "question": "___ coûte ce pull ? — Trente euros.",
+      "options": [
+        "Comment",
+        "Combien",
+        "Quand",
+        "Où"
+      ],
+      "answer": 1,
+      "explanation": "Combien asks how much; combien de + noun asks how many.",
+      "textId": null
+    },
+    {
+      "id": "a1-questions-027",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "questions",
+      "question": "___ de frères as-tu ? — Deux.",
+      "options": [
+        "Comment",
+        "Quel",
+        "Combien",
+        "Qui"
+      ],
+      "answer": 2,
+      "explanation": "Combien asks how much; combien de + noun asks how many.",
+      "textId": null
+    },
+    {
+      "id": "a1-questions-028",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "questions",
+      "question": "___ de temps dure le film ? — Deux heures.",
+      "options": [
+        "Comment",
+        "Quand",
+        "Quel",
+        "Combien"
+      ],
+      "answer": 3,
+      "explanation": "Combien asks how much; combien de + noun asks how many.",
+      "textId": null
+    },
+    {
+      "id": "a1-questions-029",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "questions",
+      "question": "Ça fait ___ ? — Douze euros.",
+      "options": [
+        "combien",
+        "comment",
+        "quand",
+        "où"
+      ],
+      "answer": 0,
+      "explanation": "Combien asks how much; combien de + noun asks how many.",
+      "textId": null
+    },
+    {
+      "id": "a1-questions-030",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "questions",
+      "question": "___ de personnes viennent ce soir ? — Six.",
+      "options": [
+        "Qui",
+        "Combien",
+        "Quelles",
+        "Comment"
+      ],
+      "answer": 1,
+      "explanation": "Combien asks how much; combien de + noun asks how many.",
+      "textId": null
+    },
+    {
+      "id": "a1-questions-031",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "questions",
+      "question": "___ d’étudiants y a-t-il dans la classe ?",
+      "options": [
+        "Comment",
+        "Quels",
+        "Combien",
+        "Qui"
+      ],
+      "answer": 2,
+      "explanation": "Combien asks how much; combien de + noun asks how many.",
+      "textId": null
+    },
+    {
+      "id": "a1-questions-032",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "questions",
+      "question": "Vous êtes ___ ? — Nous sommes quatre.",
+      "options": [
+        "comment",
+        "quand",
+        "où",
+        "combien"
+      ],
+      "answer": 3,
+      "explanation": "Combien asks how much; combien de + noun asks how many.",
+      "textId": null
+    },
+    {
+      "id": "a1-questions-033",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "questions",
+      "question": "___ est-ce ? — C’est ma sœur.",
+      "options": [
+        "Qui",
+        "Où",
+        "Quand",
+        "Comment"
+      ],
+      "answer": 0,
+      "explanation": "Qui asks about a person: who.",
+      "textId": null
+    },
+    {
+      "id": "a1-questions-034",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "questions",
+      "question": "___ parle français ici ? — Moi !",
+      "options": [
+        "Où",
+        "Qui",
+        "Quand",
+        "Combien"
+      ],
+      "answer": 1,
+      "explanation": "Qui asks about a person: who.",
+      "textId": null
+    },
+    {
+      "id": "a1-questions-035",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "questions",
+      "question": "___ est ce monsieur ? — C’est le directeur.",
+      "options": [
+        "Que",
+        "Où",
+        "Qui",
+        "Quand"
+      ],
+      "answer": 2,
+      "explanation": "Qui asks about a person: who.",
+      "textId": null
+    },
+    {
+      "id": "a1-questions-036",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "questions",
+      "question": "Avec ___ habites-tu ? — Avec deux amis.",
+      "options": [
+        "où",
+        "quand",
+        "que",
+        "qui"
+      ],
+      "answer": 3,
+      "explanation": "After a preposition, qui asks about a person: avec qui = with whom.",
+      "textId": null
+    },
+    {
+      "id": "a1-questions-037",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "questions",
+      "question": "Tu téléphones à ___ ? — À ma mère.",
+      "options": [
+        "qui",
+        "où",
+        "quoi",
+        "quand"
+      ],
+      "answer": 0,
+      "explanation": "After a preposition, qui asks about a person: à qui = to whom.",
+      "textId": null
+    },
+    {
+      "id": "a1-questions-038",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "questions",
+      "question": "___ veut un café ?",
+      "options": [
+        "Que",
+        "Qui",
+        "Où",
+        "Combien"
+      ],
+      "answer": 1,
+      "explanation": "Qui asks about a person: who.",
+      "textId": null
+    },
+    {
+      "id": "a1-questions-039",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "questions",
+      "question": "C’est ___ ? — C’est Paul.",
+      "options": [
+        "quoi",
+        "où",
+        "qui",
+        "quand"
+      ],
+      "answer": 2,
+      "explanation": "Qui asks about a person: who.",
+      "textId": null
+    },
+    {
+      "id": "a1-questions-040",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "questions",
+      "question": "___ tu fais ce soir ?",
+      "options": [
+        "Qui",
+        "Où est-ce que",
+        "Quel",
+        "Qu’est-ce que"
+      ],
+      "answer": 3,
+      "explanation": "Qu’est-ce que + subject + verb asks \"what\". Before a verb with no other subject, use qu’est-ce qui.",
+      "textId": null
+    },
+    {
+      "id": "a1-questions-041",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "questions",
+      "question": "___ tu veux manger ?",
+      "options": [
+        "Qu’est-ce que",
+        "Qui est-ce que",
+        "Quand",
+        "Quelle"
+      ],
+      "answer": 0,
+      "explanation": "Qu’est-ce que + subject + verb asks \"what\". Before a verb with no other subject, use qu’est-ce qui.",
+      "textId": null
+    },
+    {
+      "id": "a1-questions-042",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "questions",
+      "question": "___ c’est ? — C’est un cadeau.",
+      "options": [
+        "Qui est-ce que",
+        "Qu’est-ce que",
+        "Où",
+        "Quel"
+      ],
+      "answer": 1,
+      "explanation": "Qu’est-ce que + subject + verb asks \"what\". Before a verb with no other subject, use qu’est-ce qui.",
+      "textId": null
+    },
+    {
+      "id": "a1-questions-043",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "questions",
+      "question": "___ vous prenez comme dessert ?",
+      "options": [
+        "Qui",
+        "Comment",
+        "Qu’est-ce que",
+        "Quelle"
+      ],
+      "answer": 2,
+      "explanation": "Qu’est-ce que + subject + verb asks \"what\". Before a verb with no other subject, use qu’est-ce qui.",
+      "textId": null
+    },
+    {
+      "id": "a1-questions-044",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "questions",
+      "question": "___ il y a dans ton sac ?",
+      "options": [
+        "Qui est-ce qu’",
+        "Où",
+        "Quel",
+        "Qu’est-ce qu’"
+      ],
+      "answer": 3,
+      "explanation": "Qu’est-ce que + subject + verb asks \"what\". Before a verb with no other subject, use qu’est-ce qui.",
+      "textId": null
+    },
+    {
+      "id": "a1-questions-045",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "questions",
+      "question": "___ fais-tu dans la vie ?",
+      "options": [
+        "Que",
+        "Qui",
+        "Où",
+        "Quel"
+      ],
+      "answer": 0,
+      "explanation": "Que + verb-subject inversion asks \"what\": que fais-tu ?",
+      "textId": null
+    },
+    {
+      "id": "a1-questions-046",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "questions",
+      "question": "Tu fais ___ ce week-end ?",
+      "options": [
+        "que",
+        "quoi",
+        "qui",
+        "quel"
+      ],
+      "answer": 1,
+      "explanation": "At the end of a casual question, \"what\" is quoi, not que.",
+      "textId": null
+    },
+    {
+      "id": "a1-questions-047",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "questions",
+      "question": "C’est ___ ? — C’est une clé USB.",
+      "options": [
+        "que",
+        "où",
+        "quoi",
+        "quel"
+      ],
+      "answer": 2,
+      "explanation": "At the end of a casual question about a thing, \"what\" is quoi.",
+      "textId": null
+    },
+    {
+      "id": "a1-questions-048",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "questions",
+      "question": "Tu penses à ___ ? — À mes vacances.",
+      "options": [
+        "que",
+        "où",
+        "quel",
+        "quoi"
+      ],
+      "answer": 3,
+      "explanation": "After a preposition, \"what\" is quoi: à quoi.",
+      "textId": null
+    },
+    {
+      "id": "a1-questions-049",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "questions",
+      "question": "___ se passe ?",
+      "options": [
+        "Qu’est-ce qui",
+        "Qu’est-ce que",
+        "Qui est-ce que",
+        "Quoi"
+      ],
+      "answer": 0,
+      "explanation": "Qu’est-ce que + subject + verb asks \"what\". Before a verb with no other subject, use qu’est-ce qui.",
+      "textId": null
+    },
+    {
+      "id": "a1-questions-050",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "questions",
+      "question": "___ âge as-tu ?",
+      "options": [
+        "Quelle",
+        "Quel",
+        "Quels",
+        "Quelles"
+      ],
+      "answer": 1,
+      "explanation": "Quel agrees with its noun: quel (masc. sing.), quelle (fem. sing.), quels (masc. pl.), quelles (fem. pl.). Here: Quel.",
+      "textId": null
+    },
+    {
+      "id": "a1-questions-051",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "questions",
+      "question": "___ heure est-il ?",
+      "options": [
+        "Quel",
+        "Quels",
+        "Quelle",
+        "Quelles"
+      ],
+      "answer": 2,
+      "explanation": "Quel agrees with its noun: quel (masc. sing.), quelle (fem. sing.), quels (masc. pl.), quelles (fem. pl.). Here: Quelle.",
+      "textId": null
+    },
+    {
+      "id": "a1-questions-052",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "questions",
+      "question": "___ est ton nom ?",
+      "options": [
+        "Quelle",
+        "Quels",
+        "Quelles",
+        "Quel"
+      ],
+      "answer": 3,
+      "explanation": "Quel agrees with its noun: quel (masc. sing.), quelle (fem. sing.), quels (masc. pl.), quelles (fem. pl.). Here: Quel.",
+      "textId": null
+    },
+    {
+      "id": "a1-questions-053",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "questions",
+      "question": "___ est ton adresse ?",
+      "options": [
+        "Quelle",
+        "Quel",
+        "Quels",
+        "Quelles"
+      ],
+      "answer": 0,
+      "explanation": "Quel agrees with its noun: quel (masc. sing.), quelle (fem. sing.), quels (masc. pl.), quelles (fem. pl.). Here: Quelle.",
+      "textId": null
+    },
+    {
+      "id": "a1-questions-054",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "questions",
+      "question": "___ langues parles-tu ?",
+      "options": [
+        "Quels",
+        "Quelles",
+        "Quelle",
+        "Quel"
+      ],
+      "answer": 1,
+      "explanation": "Quel agrees with its noun: quel (masc. sing.), quelle (fem. sing.), quels (masc. pl.), quelles (fem. pl.). Here: Quelles.",
+      "textId": null
+    },
+    {
+      "id": "a1-questions-055",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "questions",
+      "question": "___ sports aimes-tu ?",
+      "options": [
+        "Quelles",
+        "Quel",
+        "Quels",
+        "Quelle"
+      ],
+      "answer": 2,
+      "explanation": "Quel agrees with its noun: quel (masc. sing.), quelle (fem. sing.), quels (masc. pl.), quelles (fem. pl.). Here: Quels.",
+      "textId": null
+    },
+    {
+      "id": "a1-questions-056",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "questions",
+      "question": "___ jour sommes-nous ?",
+      "options": [
+        "Quelle",
+        "Quels",
+        "Quelles",
+        "Quel"
+      ],
+      "answer": 3,
+      "explanation": "Quel agrees with its noun: quel (masc. sing.), quelle (fem. sing.), quels (masc. pl.), quelles (fem. pl.). Here: Quel.",
+      "textId": null
+    },
+    {
+      "id": "a1-questions-057",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "questions",
+      "question": "___ est ta couleur préférée ?",
+      "options": [
+        "Quelle",
+        "Quel",
+        "Quels",
+        "Quelles"
+      ],
+      "answer": 0,
+      "explanation": "Quel agrees with its noun: quel (masc. sing.), quelle (fem. sing.), quels (masc. pl.), quelles (fem. pl.). Here: Quelle.",
+      "textId": null
+    },
+    {
+      "id": "a1-questions-058",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "questions",
+      "question": "___ temps fait-il ?",
+      "options": [
+        "Quelle",
+        "Quel",
+        "Quels",
+        "Quelles"
+      ],
+      "answer": 1,
+      "explanation": "Quel agrees with its noun: quel (masc. sing.), quelle (fem. sing.), quels (masc. pl.), quelles (fem. pl.). Here: Quel.",
+      "textId": null
+    },
+    {
+      "id": "a1-questions-059",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "questions",
+      "question": "___ est votre profession ?",
+      "options": [
+        "Quel",
+        "Quels",
+        "Quelle",
+        "Quelles"
+      ],
+      "answer": 2,
+      "explanation": "Quel agrees with its noun: quel (masc. sing.), quelle (fem. sing.), quels (masc. pl.), quelles (fem. pl.). Here: Quelle.",
+      "textId": null
+    },
+    {
+      "id": "a1-questions-060",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "questions",
+      "question": "___ films aimes-tu ?",
+      "options": [
+        "Quelles",
+        "Quel",
+        "Quelle",
+        "Quels"
+      ],
+      "answer": 3,
+      "explanation": "Quel agrees with its noun: quel (masc. sing.), quelle (fem. sing.), quels (masc. pl.), quelles (fem. pl.). Here: Quels.",
+      "textId": null
+    },
+    {
+      "id": "a1-questions-061",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "questions",
+      "question": "___ est ton numéro de téléphone ?",
+      "options": [
+        "Quel",
+        "Quelle",
+        "Quels",
+        "Quelles"
+      ],
+      "answer": 0,
+      "explanation": "Quel agrees with its noun: quel (masc. sing.), quelle (fem. sing.), quels (masc. pl.), quelles (fem. pl.). Here: Quel.",
+      "textId": null
+    },
+    {
+      "id": "a1-questions-062",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "questions",
+      "question": "___ chaussures préfères-tu ?",
+      "options": [
+        "Quels",
+        "Quelles",
+        "Quelle",
+        "Quel"
+      ],
+      "answer": 1,
+      "explanation": "Quel agrees with its noun: quel (masc. sing.), quelle (fem. sing.), quels (masc. pl.), quelles (fem. pl.). Here: Quelles.",
+      "textId": null
+    },
+    {
+      "id": "a1-questions-063",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "questions",
+      "question": "Tu prends ___ bus ?",
+      "options": [
+        "quelle",
+        "quels",
+        "quel",
+        "quelles"
+      ],
+      "answer": 2,
+      "explanation": "Quel agrees with its noun: quel (masc. sing.), quelle (fem. sing.), quels (masc. pl.), quelles (fem. pl.). Here: quel.",
+      "textId": null
+    },
+    {
+      "id": "a1-questions-064",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "questions",
+      "question": "À ___ heure commence le cours ?",
+      "options": [
+        "quel",
+        "quels",
+        "quelles",
+        "quelle"
+      ],
+      "answer": 3,
+      "explanation": "Quel agrees with its noun: quel (masc. sing.), quelle (fem. sing.), quels (masc. pl.), quelles (fem. pl.). Here: quelle.",
+      "textId": null
+    },
+    {
+      "id": "a1-questions-065",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "questions",
+      "question": "Dans ___ ville habites-tu ?",
+      "options": [
+        "quelle",
+        "quel",
+        "quels",
+        "quelles"
+      ],
+      "answer": 0,
+      "explanation": "Quel agrees with its noun: quel (masc. sing.), quelle (fem. sing.), quels (masc. pl.), quelles (fem. pl.). Here: quelle.",
+      "textId": null
+    },
+    {
+      "id": "a1-questions-066",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "questions",
+      "question": "___ est ta nationalité ?",
+      "options": [
+        "Quel",
+        "Quelle",
+        "Quels",
+        "Quelles"
+      ],
+      "answer": 1,
+      "explanation": "Quel agrees with its noun: quel (masc. sing.), quelle (fem. sing.), quels (masc. pl.), quelles (fem. pl.). Here: Quelle.",
+      "textId": null
+    },
+    {
+      "id": "a1-questions-067",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "questions",
+      "question": "___ sont tes livres préférés ?",
+      "options": [
+        "Quelles",
+        "Quel",
+        "Quels",
+        "Quelle"
+      ],
+      "answer": 2,
+      "explanation": "Quel agrees with its noun: quel (masc. sing.), quelle (fem. sing.), quels (masc. pl.), quelles (fem. pl.). Here: Quels.",
+      "textId": null
+    },
+    {
+      "id": "a1-questions-068",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "questions",
+      "question": "___ tu parles anglais ?",
+      "options": [
+        "Qu’est-ce que",
+        "Qui",
+        "Quel",
+        "Est-ce que"
+      ],
+      "answer": 3,
+      "explanation": "Est-ce que turns a statement into a yes / no question. It becomes est-ce qu’ before a vowel.",
+      "textId": null
+    },
+    {
+      "id": "a1-questions-069",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "questions",
+      "question": "___ vous avez des enfants ?",
+      "options": [
+        "Est-ce que",
+        "Qu’est-ce que",
+        "Où",
+        "Quels"
+      ],
+      "answer": 0,
+      "explanation": "Est-ce que turns a statement into a yes / no question. It becomes est-ce qu’ before a vowel.",
+      "textId": null
+    },
+    {
+      "id": "a1-questions-070",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "questions",
+      "question": "___ il y a une banque près d’ici ?",
+      "options": [
+        "Qu’est-ce qu’",
+        "Est-ce qu’",
+        "Qui",
+        "Quelle"
+      ],
+      "answer": 1,
+      "explanation": "Est-ce que turns a statement into a yes / no question. It becomes est-ce qu’ before a vowel.",
+      "textId": null
+    },
+    {
+      "id": "a1-questions-071",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "questions",
+      "question": "___ tu viens avec nous ?",
+      "options": [
+        "Qu’est-ce que",
+        "Qui",
+        "Est-ce que",
+        "Quel"
+      ],
+      "answer": 2,
+      "explanation": "Est-ce que turns a statement into a yes / no question. It becomes est-ce qu’ before a vowel.",
+      "textId": null
+    },
+    {
+      "id": "a1-questions-072",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "questions",
+      "question": "___ elle aime le chocolat ?",
+      "options": [
+        "Qu’est-ce qu’",
+        "Quelle",
+        "Qui",
+        "Est-ce qu’"
+      ],
+      "answer": 3,
+      "explanation": "Est-ce que turns a statement into a yes / no question. It becomes est-ce qu’ before a vowel.",
+      "textId": null
+    },
+    {
+      "id": "a1-questions-073",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "questions",
+      "question": "___ le musée est ouvert aujourd’hui ?",
+      "options": [
+        "Est-ce que",
+        "Qu’est-ce que",
+        "Qui",
+        "Quel"
+      ],
+      "answer": 0,
+      "explanation": "Est-ce que turns a statement into a yes / no question. It becomes est-ce qu’ before a vowel.",
+      "textId": null
+    },
+    {
+      "id": "a1-questions-074",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "questions",
+      "question": "___ vous acceptez la carte bancaire ?",
+      "options": [
+        "Qu’est-ce que",
+        "Est-ce que",
+        "Quelle",
+        "Qui"
+      ],
+      "answer": 1,
+      "explanation": "Est-ce que turns a statement into a yes / no question. It becomes est-ce qu’ before a vowel.",
+      "textId": null
+    },
+    {
+      "id": "a1-questions-075",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "questions",
+      "question": "___ tu aimes le sport ? — Oui, beaucoup.",
+      "options": [
+        "Qu’est-ce que",
+        "Pourquoi",
+        "Est-ce que",
+        "Quel"
+      ],
+      "answer": 2,
+      "explanation": "A yes / no answer means the question starts with est-ce que.",
+      "textId": null
+    },
+    {
+      "id": "a1-questions-076",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "questions",
+      "question": "___ tu aimes comme sport ? — Le tennis.",
+      "options": [
+        "Est-ce que",
+        "Qui",
+        "Où",
+        "Qu’est-ce que"
+      ],
+      "answer": 3,
+      "explanation": "The answer is a thing, so the question asks \"what\": qu’est-ce que.",
+      "textId": null
+    },
+    {
+      "id": "a1-questions-077",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "questions",
+      "question": "___ habite ici ? — Mon oncle.",
+      "options": [
+        "Qui",
+        "Que",
+        "Où",
+        "Quel"
+      ],
+      "answer": 0,
+      "explanation": "Qui asks about a person: who.",
+      "textId": null
+    },
+    {
+      "id": "a1-questions-078",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "questions",
+      "question": "___ tu habites ? — Près du parc.",
+      "options": [
+        "Qu’est-ce que",
+        "Où est-ce que",
+        "Qui est-ce que",
+        "Quand est-ce que"
+      ],
+      "answer": 1,
+      "explanation": "The answer is a place, so the question asks \"where\": où est-ce que.",
+      "textId": null
+    },
+    {
+      "id": "a1-questions-079",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "questions",
+      "question": "___ tu pars ? — Demain.",
+      "options": [
+        "Où est-ce que",
+        "Qu’est-ce que",
+        "Quand est-ce que",
+        "Pourquoi est-ce que"
+      ],
+      "answer": 2,
+      "explanation": "The answer is a time, so the question asks \"when\": quand est-ce que.",
+      "textId": null
+    },
+    {
+      "id": "a1-questions-080",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "questions",
+      "question": "___ tu viens à l’école ? — À vélo.",
+      "options": [
+        "Quand est-ce que",
+        "Où est-ce que",
+        "Qu’est-ce que",
+        "Comment est-ce que"
+      ],
+      "answer": 3,
+      "explanation": "The answer says how, so the question starts with comment est-ce que.",
+      "textId": null
+    }
+  ]
+}

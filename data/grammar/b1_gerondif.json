@@ -1,0 +1,1285 @@
+{
+  "texts": [],
+  "questions": [
+    {
+      "id": "b1-gerondif-001",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "gerondif",
+      "question": "Il écoute de la musique en ___.",
+      "options": [
+        "travaillant",
+        "travaillé",
+        "travailler",
+        "travaille"
+      ],
+      "answer": 0,
+      "explanation": "The gérondif is en + present participle. The present participle is the nous stem of the present + -ant: nous parlons → en parlant. Here: travaillant.",
+      "textId": null
+    },
+    {
+      "id": "b1-gerondif-002",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "gerondif",
+      "question": "Elle chante en ___ la cuisine.",
+      "options": [
+        "fesant",
+        "faisant",
+        "faire",
+        "fait"
+      ],
+      "answer": 1,
+      "explanation": "The stem comes from the nous form: faire → nous faisons → en faisant; prendre → nous prenons → en prenant; boire → nous buvons → en buvant. Here: faisant.",
+      "textId": null
+    },
+    {
+      "id": "b1-gerondif-003",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "gerondif",
+      "question": "Je me suis blessé en ___ du sport.",
+      "options": [
+        "faire",
+        "fait",
+        "faisant",
+        "faisais"
+      ],
+      "answer": 2,
+      "explanation": "The stem comes from the nous form: faire → nous faisons → en faisant; prendre → nous prenons → en prenant; boire → nous buvons → en buvant. Here: faisant.",
+      "textId": null
+    },
+    {
+      "id": "b1-gerondif-004",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "gerondif",
+      "question": "Nous discutons en ___.",
+      "options": [
+        "marcher",
+        "marché",
+        "marchons",
+        "marchant"
+      ],
+      "answer": 3,
+      "explanation": "The gérondif is en + present participle. The present participle is the nous stem of the present + -ant: nous parlons → en parlant. Here: marchant.",
+      "textId": null
+    },
+    {
+      "id": "b1-gerondif-005",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "gerondif",
+      "question": "J’ai appris la nouvelle en ___ la radio.",
+      "options": [
+        "écoutant",
+        "écouter",
+        "écouté",
+        "écoutais"
+      ],
+      "answer": 0,
+      "explanation": "The gérondif is en + present participle. The present participle is the nous stem of the present + -ant: nous parlons → en parlant. Here: écoutant.",
+      "textId": null
+    },
+    {
+      "id": "b1-gerondif-006",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "gerondif",
+      "question": "Il s’est endormi en ___ un livre.",
+      "options": [
+        "lire",
+        "lisant",
+        "lu",
+        "lit"
+      ],
+      "answer": 1,
+      "explanation": "The stem comes from the nous form: faire → nous faisons → en faisant; prendre → nous prenons → en prenant; boire → nous buvons → en buvant. Here: lisant.",
+      "textId": null
+    },
+    {
+      "id": "b1-gerondif-007",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "gerondif",
+      "question": "Elle a souri en ___ son ami.",
+      "options": [
+        "voir",
+        "vu",
+        "voyant",
+        "voit"
+      ],
+      "answer": 2,
+      "explanation": "The stem comes from the nous form: faire → nous faisons → en faisant; prendre → nous prenons → en prenant; boire → nous buvons → en buvant. Here: voyant.",
+      "textId": null
+    },
+    {
+      "id": "b1-gerondif-008",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "gerondif",
+      "question": "On apprend beaucoup en ___.",
+      "options": [
+        "voyagant",
+        "voyager",
+        "voyagé",
+        "voyageant"
+      ],
+      "answer": 3,
+      "explanation": "Verbs in -ger keep the e (en mangeant) and verbs in -cer take ç (en commençant) to keep the soft sound. Here: voyageant.",
+      "textId": null
+    },
+    {
+      "id": "b1-gerondif-009",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "gerondif",
+      "question": "Ne parle pas en ___ !",
+      "options": [
+        "mangeant",
+        "mangant",
+        "manger",
+        "mangé"
+      ],
+      "answer": 0,
+      "explanation": "Verbs in -ger keep the e (en mangeant) and verbs in -cer take ç (en commençant) to keep the soft sound. Here: mangeant.",
+      "textId": null
+    },
+    {
+      "id": "b1-gerondif-010",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "gerondif",
+      "question": "Il a commencé sa journée en ___ un café.",
+      "options": [
+        "boivant",
+        "buvant",
+        "boire",
+        "bu"
+      ],
+      "answer": 1,
+      "explanation": "The stem comes from the nous form: faire → nous faisons → en faisant; prendre → nous prenons → en prenant; boire → nous buvons → en buvant. Here: buvant.",
+      "textId": null
+    },
+    {
+      "id": "b1-gerondif-011",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "gerondif",
+      "question": "En ___ le bus, j’ai rencontré Paul.",
+      "options": [
+        "attendre",
+        "attendu",
+        "attendant",
+        "attends"
+      ],
+      "answer": 2,
+      "explanation": "The gérondif is en + present participle. The present participle is the nous stem of the present + -ant: nous parlons → en parlant. Here: attendant.",
+      "textId": null
+    },
+    {
+      "id": "b1-gerondif-012",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "gerondif",
+      "question": "Elle est tombée en ___ l’escalier.",
+      "options": [
+        "descendre",
+        "descendu",
+        "descend",
+        "descendant"
+      ],
+      "answer": 3,
+      "explanation": "The gérondif is en + present participle. The present participle is the nous stem of the present + -ant: nous parlons → en parlant. Here: descendant.",
+      "textId": null
+    },
+    {
+      "id": "b1-gerondif-013",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "gerondif",
+      "question": "Tu réussiras en ___ régulièrement.",
+      "options": [
+        "travaillant",
+        "travailler",
+        "travaillé",
+        "travailles"
+      ],
+      "answer": 0,
+      "explanation": "The gérondif can say how or by what means something is done: j’ai appris le français en regardant des films.",
+      "textId": null
+    },
+    {
+      "id": "b1-gerondif-014",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "gerondif",
+      "question": "J’ai trouvé ce travail en ___ sur Internet.",
+      "options": [
+        "chercher",
+        "cherchant",
+        "cherché",
+        "cherchais"
+      ],
+      "answer": 1,
+      "explanation": "The gérondif can say how or by what means something is done: j’ai appris le français en regardant des films.",
+      "textId": null
+    },
+    {
+      "id": "b1-gerondif-015",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "gerondif",
+      "question": "Il a maigri en ___ moins de sucre.",
+      "options": [
+        "mangant",
+        "manger",
+        "mangeant",
+        "mangé"
+      ],
+      "answer": 2,
+      "explanation": "Verbs in -ger keep the e (en mangeant) and verbs in -cer take ç (en commençant) to keep the soft sound. Here: mangeant.",
+      "textId": null
+    },
+    {
+      "id": "b1-gerondif-016",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "gerondif",
+      "question": "On devient meilleur en ___.",
+      "options": [
+        "pratiquer",
+        "pratiqué",
+        "pratique",
+        "pratiquant"
+      ],
+      "answer": 3,
+      "explanation": "The gérondif can say how or by what means something is done: j’ai appris le français en regardant des films.",
+      "textId": null
+    },
+    {
+      "id": "b1-gerondif-017",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "gerondif",
+      "question": "En ___ ses devoirs, elle a compris la leçon.",
+      "options": [
+        "finissant",
+        "finant",
+        "finir",
+        "fini"
+      ],
+      "answer": 0,
+      "explanation": "-ir verbs like finir keep -iss-: nous finissons → en finissant. Here: finissant.",
+      "textId": null
+    },
+    {
+      "id": "b1-gerondif-018",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "gerondif",
+      "question": "En ___ bien, tu trouveras la réponse.",
+      "options": [
+        "réfléchant",
+        "réfléchissant",
+        "réfléchir",
+        "réfléchi"
+      ],
+      "answer": 1,
+      "explanation": "-ir verbs like finir keep -iss-: nous finissons → en finissant. Here: réfléchissant.",
+      "textId": null
+    },
+    {
+      "id": "b1-gerondif-019",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "gerondif",
+      "question": "Il s’est fait mal en ___ à un arbre.",
+      "options": [
+        "grimper",
+        "grimpé",
+        "grimpant",
+        "grimpe"
+      ],
+      "answer": 2,
+      "explanation": "The gérondif is en + present participle. The present participle is the nous stem of the present + -ant: nous parlons → en parlant. Here: grimpant.",
+      "textId": null
+    },
+    {
+      "id": "b1-gerondif-020",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "gerondif",
+      "question": "En ___, les enfants deviennent plus calmes.",
+      "options": [
+        "grandant",
+        "grandir",
+        "grandi",
+        "grandissant"
+      ],
+      "answer": 3,
+      "explanation": "-ir verbs like finir keep -iss-: nous finissons → en finissant. Here: grandissant.",
+      "textId": null
+    },
+    {
+      "id": "b1-gerondif-021",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "gerondif",
+      "question": "En ___ ce cadeau, j’ai pensé à toi.",
+      "options": [
+        "choisissant",
+        "choisant",
+        "choisir",
+        "choisi"
+      ],
+      "answer": 0,
+      "explanation": "-ir verbs like finir keep -iss-: nous finissons → en finissant. Here: choisissant.",
+      "textId": null
+    },
+    {
+      "id": "b1-gerondif-022",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "gerondif",
+      "question": "En ___ patient, tu y arriveras.",
+      "options": [
+        "êtant",
+        "étant",
+        "soyant",
+        "été"
+      ],
+      "answer": 1,
+      "explanation": "Only three verbs have an irregular present participle: être → étant, avoir → ayant, savoir → sachant. Here: étant.",
+      "textId": null
+    },
+    {
+      "id": "b1-gerondif-023",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "gerondif",
+      "question": "En ___ un peu de courage, on peut tout faire.",
+      "options": [
+        "avant",
+        "avoyant",
+        "ayant",
+        "eu"
+      ],
+      "answer": 2,
+      "explanation": "Only three verbs have an irregular present participle: être → étant, avoir → ayant, savoir → sachant. Here: ayant.",
+      "textId": null
+    },
+    {
+      "id": "b1-gerondif-024",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "gerondif",
+      "question": "En ___ la vérité, il a changé d’avis.",
+      "options": [
+        "savant",
+        "savoir",
+        "su",
+        "sachant"
+      ],
+      "answer": 3,
+      "explanation": "Only three verbs have an irregular present participle: être → étant, avoir → ayant, savoir → sachant. Here: sachant.",
+      "textId": null
+    },
+    {
+      "id": "b1-gerondif-025",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "gerondif",
+      "question": "En ___ plus attentif, tu ferais moins d’erreurs.",
+      "options": [
+        "étant",
+        "soyant",
+        "être",
+        "est"
+      ],
+      "answer": 0,
+      "explanation": "Only three verbs have an irregular present participle: être → étant, avoir → ayant, savoir → sachant. Here: étant.",
+      "textId": null
+    },
+    {
+      "id": "b1-gerondif-026",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "gerondif",
+      "question": "En ___ confiance en toi, tu réussiras.",
+      "options": [
+        "avant",
+        "ayant",
+        "avoir",
+        "ai"
+      ],
+      "answer": 1,
+      "explanation": "Only three verbs have an irregular present participle: être → étant, avoir → ayant, savoir → sachant. Here: ayant.",
+      "textId": null
+    },
+    {
+      "id": "b1-gerondif-027",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "gerondif",
+      "question": "Il gagne sa vie en ___ des cours de piano.",
+      "options": [
+        "donner",
+        "donné",
+        "donnant",
+        "donne"
+      ],
+      "answer": 2,
+      "explanation": "The gérondif can say how or by what means something is done: j’ai appris le français en regardant des films.",
+      "textId": null
+    },
+    {
+      "id": "b1-gerondif-028",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "gerondif",
+      "question": "Elle a appris à cuisiner en ___ sa grand-mère.",
+      "options": [
+        "regarder",
+        "regardé",
+        "regardait",
+        "regardant"
+      ],
+      "answer": 3,
+      "explanation": "The gérondif can say how or by what means something is done: j’ai appris le français en regardant des films.",
+      "textId": null
+    },
+    {
+      "id": "b1-gerondif-029",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "gerondif",
+      "question": "J’ai cassé un verre en ___ la vaisselle.",
+      "options": [
+        "faisant",
+        "faire",
+        "fait",
+        "fais"
+      ],
+      "answer": 0,
+      "explanation": "The stem comes from the nous form: faire → nous faisons → en faisant; prendre → nous prenons → en prenant; boire → nous buvons → en buvant. Here: faisant.",
+      "textId": null
+    },
+    {
+      "id": "b1-gerondif-030",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "gerondif",
+      "question": "Il s’est coupé en ___.",
+      "options": [
+        "se raser",
+        "se rasant",
+        "s’étant rasé",
+        "se rasait"
+      ],
+      "answer": 1,
+      "explanation": "With a reflexive verb, the pronoun matches the subject and goes between en and the participle: en me levant, en se levant.",
+      "textId": null
+    },
+    {
+      "id": "b1-gerondif-031",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "gerondif",
+      "question": "Je prends mon café en ___ les nouvelles.",
+      "options": [
+        "lire",
+        "lu",
+        "lisant",
+        "lis"
+      ],
+      "answer": 2,
+      "explanation": "The gérondif shows two actions happening at the same time, done by the same person: il mange en regardant la télé.",
+      "textId": null
+    },
+    {
+      "id": "b1-gerondif-032",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "gerondif",
+      "question": "Elle parle au téléphone en ___.",
+      "options": [
+        "conduire",
+        "conduit",
+        "conduisait",
+        "conduisant"
+      ],
+      "answer": 3,
+      "explanation": "The gérondif shows two actions happening at the same time, done by the same person: il mange en regardant la télé.",
+      "textId": null
+    },
+    {
+      "id": "b1-gerondif-033",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "gerondif",
+      "question": "Ils sont partis en ___.",
+      "options": [
+        "courant",
+        "courir",
+        "couru",
+        "courent"
+      ],
+      "answer": 0,
+      "explanation": "The gérondif shows two actions happening at the same time, done by the same person: il mange en regardant la télé.",
+      "textId": null
+    },
+    {
+      "id": "b1-gerondif-034",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "gerondif",
+      "question": "Il est entré en ___ très fort.",
+      "options": [
+        "crier",
+        "criant",
+        "crié",
+        "crie"
+      ],
+      "answer": 1,
+      "explanation": "The gérondif shows two actions happening at the same time, done by the same person: il mange en regardant la télé.",
+      "textId": null
+    },
+    {
+      "id": "b1-gerondif-035",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "gerondif",
+      "question": "Les enfants sont sortis en ___.",
+      "options": [
+        "rire",
+        "ri",
+        "riant",
+        "rient"
+      ],
+      "answer": 2,
+      "explanation": "The gérondif shows two actions happening at the same time, done by the same person: il mange en regardant la télé.",
+      "textId": null
+    },
+    {
+      "id": "b1-gerondif-036",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "gerondif",
+      "question": "Elle travaille en ___ de la musique.",
+      "options": [
+        "écouter",
+        "écouté",
+        "écoute",
+        "écoutant"
+      ],
+      "answer": 3,
+      "explanation": "The gérondif shows two actions happening at the same time, done by the same person: il mange en regardant la télé.",
+      "textId": null
+    },
+    {
+      "id": "b1-gerondif-037",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "gerondif",
+      "question": "Je révise mes cours en ___ le train.",
+      "options": [
+        "prenant",
+        "prendant",
+        "prendre",
+        "pris"
+      ],
+      "answer": 0,
+      "explanation": "The stem comes from the nous form: faire → nous faisons → en faisant; prendre → nous prenons → en prenant; boire → nous buvons → en buvant. Here: prenant.",
+      "textId": null
+    },
+    {
+      "id": "b1-gerondif-038",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "gerondif",
+      "question": "Tu ne devrais pas téléphoner en ___.",
+      "options": [
+        "conduire",
+        "conduisant",
+        "conduit",
+        "conduis"
+      ],
+      "answer": 1,
+      "explanation": "The gérondif shows two actions happening at the same time, done by the same person: il mange en regardant la télé.",
+      "textId": null
+    },
+    {
+      "id": "b1-gerondif-039",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "gerondif",
+      "question": "J’ai amélioré mon français en ___ avec des Québécois.",
+      "options": [
+        "parler",
+        "parlé",
+        "parlant",
+        "parle"
+      ],
+      "answer": 2,
+      "explanation": "The gérondif can say how or by what means something is done: j’ai appris le français en regardant des films.",
+      "textId": null
+    },
+    {
+      "id": "b1-gerondif-040",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "gerondif",
+      "question": "C’est en ___ qu’on devient forgeron.",
+      "options": [
+        "forgant",
+        "forger",
+        "forgé",
+        "forgeant"
+      ],
+      "answer": 3,
+      "explanation": "Verbs in -ger keep the e (en mangeant) and verbs in -cer take ç (en commençant) to keep the soft sound. Here: forgeant.",
+      "textId": null
+    },
+    {
+      "id": "b1-gerondif-041",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "gerondif",
+      "question": "C’est en ___ des erreurs qu’on apprend.",
+      "options": [
+        "faisant",
+        "faire",
+        "fait",
+        "fesant"
+      ],
+      "answer": 0,
+      "explanation": "The stem comes from the nous form: faire → nous faisons → en faisant; prendre → nous prenons → en prenant; boire → nous buvons → en buvant. Here: faisant.",
+      "textId": null
+    },
+    {
+      "id": "b1-gerondif-042",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "gerondif",
+      "question": "On réduit ses déchets en ___.",
+      "options": [
+        "recycler",
+        "recyclant",
+        "recyclé",
+        "recycle"
+      ],
+      "answer": 1,
+      "explanation": "The gérondif can say how or by what means something is done: j’ai appris le français en regardant des films.",
+      "textId": null
+    },
+    {
+      "id": "b1-gerondif-043",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "gerondif",
+      "question": "Elle a gagné du temps en ___ le métro.",
+      "options": [
+        "prendre",
+        "pris",
+        "prenant",
+        "prend"
+      ],
+      "answer": 2,
+      "explanation": "The gérondif can say how or by what means something is done: j’ai appris le français en regardant des films.",
+      "textId": null
+    },
+    {
+      "id": "b1-gerondif-044",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "gerondif",
+      "question": "Vous arriverez plus vite en ___ par l’autoroute.",
+      "options": [
+        "passer",
+        "passé",
+        "passez",
+        "passant"
+      ],
+      "answer": 3,
+      "explanation": "The gérondif can say how or by what means something is done: j’ai appris le français en regardant des films.",
+      "textId": null
+    },
+    {
+      "id": "b1-gerondif-045",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "gerondif",
+      "question": "Il s’est fait mal ___ tombant.",
+      "options": [
+        "en",
+        "à",
+        "par",
+        "de"
+      ],
+      "answer": 0,
+      "explanation": "The gérondif always starts with en. Other prepositions (pour, sans, avant de, après) are followed by an infinitive.",
+      "textId": null
+    },
+    {
+      "id": "b1-gerondif-046",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "gerondif",
+      "question": "Elle lit ___ mangeant.",
+      "options": [
+        "à",
+        "en",
+        "par",
+        "pendant"
+      ],
+      "answer": 1,
+      "explanation": "The gérondif always starts with en. Other prepositions (pour, sans, avant de, après) are followed by an infinitive.",
+      "textId": null
+    },
+    {
+      "id": "b1-gerondif-047",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "gerondif",
+      "question": "J’ai appris ça ___ lisant le journal.",
+      "options": [
+        "par",
+        "de",
+        "en",
+        "avec"
+      ],
+      "answer": 2,
+      "explanation": "The gérondif always starts with en. Other prepositions (pour, sans, avant de, après) are followed by an infinitive.",
+      "textId": null
+    },
+    {
+      "id": "b1-gerondif-048",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "gerondif",
+      "question": "Il est parti sans ___ au revoir.",
+      "options": [
+        "disant",
+        "en disant",
+        "dit",
+        "dire"
+      ],
+      "answer": 3,
+      "explanation": "The gérondif always starts with en. Other prepositions (pour, sans, avant de, après) are followed by an infinitive.",
+      "textId": null
+    },
+    {
+      "id": "b1-gerondif-049",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "gerondif",
+      "question": "Lave-toi les mains avant de ___.",
+      "options": [
+        "manger",
+        "mangeant",
+        "en mangeant",
+        "mangé"
+      ],
+      "answer": 0,
+      "explanation": "The gérondif always starts with en. Other prepositions (pour, sans, avant de, après) are followed by an infinitive.",
+      "textId": null
+    },
+    {
+      "id": "b1-gerondif-050",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "gerondif",
+      "question": "Elle fait du sport pour ___ en forme.",
+      "options": [
+        "restant",
+        "rester",
+        "en restant",
+        "resté"
+      ],
+      "answer": 1,
+      "explanation": "The gérondif always starts with en. Other prepositions (pour, sans, avant de, après) are followed by an infinitive.",
+      "textId": null
+    },
+    {
+      "id": "b1-gerondif-051",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "gerondif",
+      "question": "Après ___ mangé, nous sommes sortis.",
+      "options": [
+        "ayant",
+        "en ayant",
+        "avoir",
+        "avons"
+      ],
+      "answer": 2,
+      "explanation": "The gérondif always starts with en. Other prepositions (pour, sans, avant de, après) are followed by an infinitive.",
+      "textId": null
+    },
+    {
+      "id": "b1-gerondif-052",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "gerondif",
+      "question": "Il a réussi sans ___ beaucoup d’efforts.",
+      "options": [
+        "faisant",
+        "en faisant",
+        "fait",
+        "faire"
+      ],
+      "answer": 3,
+      "explanation": "The gérondif always starts with en. Other prepositions (pour, sans, avant de, après) are followed by an infinitive.",
+      "textId": null
+    },
+    {
+      "id": "b1-gerondif-053",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "gerondif",
+      "question": "Je me brosse les dents en ___ levant.",
+      "options": [
+        "me",
+        "se",
+        "te",
+        "moi"
+      ],
+      "answer": 0,
+      "explanation": "With a reflexive verb, the pronoun matches the subject and goes between en and the participle: en me levant, en se levant.",
+      "textId": null
+    },
+    {
+      "id": "b1-gerondif-054",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "gerondif",
+      "question": "Elle s’est fait mal en ___ levant.",
+      "options": [
+        "me",
+        "se",
+        "la",
+        "elle"
+      ],
+      "answer": 1,
+      "explanation": "With a reflexive verb, the pronoun matches the subject and goes between en and the participle: en me levant, en se levant.",
+      "textId": null
+    },
+    {
+      "id": "b1-gerondif-055",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "gerondif",
+      "question": "Nous avons ri en ___ rappelant cette histoire.",
+      "options": [
+        "se",
+        "vous",
+        "nous",
+        "nos"
+      ],
+      "answer": 2,
+      "explanation": "With a reflexive verb, the pronoun matches the subject and goes between en and the participle: en me levant, en se levant.",
+      "textId": null
+    },
+    {
+      "id": "b1-gerondif-056",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "gerondif",
+      "question": "Tu te détends en ___ promenant ?",
+      "options": [
+        "se",
+        "me",
+        "toi",
+        "te"
+      ],
+      "answer": 3,
+      "explanation": "With a reflexive verb, the pronoun matches the subject and goes between en and the participle: en me levant, en se levant.",
+      "textId": null
+    },
+    {
+      "id": "b1-gerondif-057",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "gerondif",
+      "question": "En ___ dépêchant, ils ont attrapé leur train.",
+      "options": [
+        "se",
+        "nous",
+        "vous",
+        "leur"
+      ],
+      "answer": 0,
+      "explanation": "With a reflexive verb, the pronoun matches the subject and goes between en and the participle: en me levant, en se levant.",
+      "textId": null
+    },
+    {
+      "id": "b1-gerondif-058",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "gerondif",
+      "question": "Il a répondu tout ___ continuant à écrire.",
+      "options": [
+        "à",
+        "en",
+        "de",
+        "par"
+      ],
+      "answer": 1,
+      "explanation": "Tout en + participle insists that the two actions happen together, or shows a contrast: tout en souriant.",
+      "textId": null
+    },
+    {
+      "id": "b1-gerondif-059",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "gerondif",
+      "question": "___ en étant très occupée, elle trouve du temps pour ses amis.",
+      "options": [
+        "Toute",
+        "Très",
+        "Tout",
+        "Tant"
+      ],
+      "answer": 2,
+      "explanation": "Tout en + participle insists that the two actions happen together, or shows a contrast: tout en souriant.",
+      "textId": null
+    },
+    {
+      "id": "b1-gerondif-060",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "gerondif",
+      "question": "Elle souriait tout en ___.",
+      "options": [
+        "pleurer",
+        "pleuré",
+        "pleurait",
+        "pleurant"
+      ],
+      "answer": 3,
+      "explanation": "Tout en + participle insists that the two actions happen together, or shows a contrast: tout en souriant.",
+      "textId": null
+    },
+    {
+      "id": "b1-gerondif-061",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "gerondif",
+      "question": "Il a perdu du poids en ne ___ plus de pain.",
+      "options": [
+        "mangeant",
+        "mangant",
+        "manger",
+        "mangé"
+      ],
+      "answer": 0,
+      "explanation": "In the negative, ne … pas goes around the participle: en ne mangeant pas.",
+      "textId": null
+    },
+    {
+      "id": "b1-gerondif-062",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "gerondif",
+      "question": "En ne ___ rien, tu ne risques pas de te tromper.",
+      "options": [
+        "dire",
+        "disant",
+        "dit",
+        "dis"
+      ],
+      "answer": 1,
+      "explanation": "In the negative, ne … pas goes around the participle: en ne mangeant pas.",
+      "textId": null
+    },
+    {
+      "id": "b1-gerondif-063",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "gerondif",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "J’ai vu Paul sortant en du cinéma.",
+        "J’ai vu Paul en sortir du cinéma.",
+        "J’ai vu Paul en sortant du cinéma.",
+        "J’ai vu Paul en sorti du cinéma."
+      ],
+      "answer": 2,
+      "explanation": "The gérondif is en + present participle. The present participle is the nous stem of the present + -ant: nous parlons → en parlant. Here: J’ai vu Paul en sortant du cinéma..",
+      "textId": null
+    },
+    {
+      "id": "b1-gerondif-064",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "gerondif",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "Elle a appris l’anglais en vivre à Londres.",
+        "Elle a appris l’anglais par vivant à Londres.",
+        "Elle a appris l’anglais en vécu à Londres.",
+        "Elle a appris l’anglais en vivant à Londres."
+      ],
+      "answer": 3,
+      "explanation": "The gérondif can say how or by what means something is done: j’ai appris le français en regardant des films.",
+      "textId": null
+    },
+    {
+      "id": "b1-gerondif-065",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "gerondif",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "Il travaille en écoutant la radio.",
+        "Il travaille écoutant en la radio.",
+        "Il travaille en écouter la radio.",
+        "Il travaille à écoutant la radio."
+      ],
+      "answer": 0,
+      "explanation": "The gérondif shows two actions happening at the same time, done by the same person: il mange en regardant la télé.",
+      "textId": null
+    },
+    {
+      "id": "b1-gerondif-066",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "gerondif",
+      "question": "« En sortant du cinéma, j’ai vu Marie. » Qui sort du cinéma ? Réponse : ___",
+      "options": [
+        "Marie",
+        "moi",
+        "nous deux",
+        "personne"
+      ],
+      "answer": 1,
+      "explanation": "The gérondif must have the same subject as the main verb.",
+      "textId": null
+    },
+    {
+      "id": "b1-gerondif-067",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "gerondif",
+      "question": "« Elle a rencontré Luc en allant au marché. » Qui va au marché ? Réponse : ___",
+      "options": [
+        "Luc",
+        "Luc et elle",
+        "elle",
+        "personne"
+      ],
+      "answer": 2,
+      "explanation": "The gérondif must have the same subject as the main verb.",
+      "textId": null
+    },
+    {
+      "id": "b1-gerondif-068",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "gerondif",
+      "question": "En ___ à Paris, j’ai visité le Louvre.",
+      "options": [
+        "arriver",
+        "arrivé",
+        "arrive",
+        "arrivant"
+      ],
+      "answer": 3,
+      "explanation": "When two actions follow each other closely, en + participle means \"when / on doing\": en arrivant = when I arrived.",
+      "textId": null
+    },
+    {
+      "id": "b1-gerondif-069",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "gerondif",
+      "question": "En ___ la porte, elle a vu un colis.",
+      "options": [
+        "ouvrant",
+        "ouvrir",
+        "ouvert",
+        "ouvre"
+      ],
+      "answer": 0,
+      "explanation": "When two actions follow each other closely, en + participle means \"when / on doing\": en ouvrant = on opening.",
+      "textId": null
+    },
+    {
+      "id": "b1-gerondif-070",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "gerondif",
+      "question": "En ___ de chez moi, j’ai oublié mes clés.",
+      "options": [
+        "partir",
+        "partant",
+        "parti",
+        "pars"
+      ],
+      "answer": 1,
+      "explanation": "When two actions follow each other closely, en + participle means \"when / on doing\": en partant = as I left.",
+      "textId": null
+    },
+    {
+      "id": "b1-gerondif-071",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "gerondif",
+      "question": "En ___ plus tôt, tu ne serais pas en retard.",
+      "options": [
+        "partir",
+        "parti",
+        "partant",
+        "pars"
+      ],
+      "answer": 2,
+      "explanation": "The gérondif can express a condition: en partant plus tôt = if you left earlier.",
+      "textId": null
+    },
+    {
+      "id": "b1-gerondif-072",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "gerondif",
+      "question": "En ___ ce médicament, vous irez mieux.",
+      "options": [
+        "prendre",
+        "pris",
+        "prenez",
+        "prenant"
+      ],
+      "answer": 3,
+      "explanation": "The gérondif can express a condition: en prenant = if you take.",
+      "textId": null
+    },
+    {
+      "id": "b1-gerondif-073",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "gerondif",
+      "question": "Nous avons économisé de l’argent en ___ à la maison.",
+      "options": [
+        "mangeant",
+        "mangant",
+        "manger",
+        "mangé"
+      ],
+      "answer": 0,
+      "explanation": "Verbs in -ger keep the e (en mangeant) and verbs in -cer take ç (en commençant) to keep the soft sound. Here: mangeant.",
+      "textId": null
+    },
+    {
+      "id": "b1-gerondif-074",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "gerondif",
+      "question": "Il a commencé le repas en ___ une soupe.",
+      "options": [
+        "servir",
+        "servant",
+        "servi",
+        "sert"
+      ],
+      "answer": 1,
+      "explanation": "The gérondif is en + present participle. The present participle is the nous stem of the present + -ant: nous parlons → en parlant. Here: servant.",
+      "textId": null
+    },
+    {
+      "id": "b1-gerondif-075",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "gerondif",
+      "question": "Elle a fini son discours en ___ tout le monde.",
+      "options": [
+        "remercier",
+        "remercié",
+        "remerciant",
+        "remercie"
+      ],
+      "answer": 2,
+      "explanation": "The gérondif is en + present participle. The present participle is the nous stem of the present + -ant: nous parlons → en parlant. Here: remerciant.",
+      "textId": null
+    },
+    {
+      "id": "b1-gerondif-076",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "gerondif",
+      "question": "On évite les bouchons en ___ avant sept heures.",
+      "options": [
+        "partir",
+        "parti",
+        "part",
+        "partant"
+      ],
+      "answer": 3,
+      "explanation": "The gérondif can say how or by what means something is done: j’ai appris le français en regardant des films.",
+      "textId": null
+    },
+    {
+      "id": "b1-gerondif-077",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "gerondif",
+      "question": "J’ai trouvé la solution en ___ à autre chose.",
+      "options": [
+        "pensant",
+        "penser",
+        "pensé",
+        "pense"
+      ],
+      "answer": 0,
+      "explanation": "The gérondif can say how or by what means something is done: j’ai appris le français en regardant des films.",
+      "textId": null
+    },
+    {
+      "id": "b1-gerondif-078",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "gerondif",
+      "question": "Elle a traversé la rue en ___ à gauche et à droite.",
+      "options": [
+        "regarder",
+        "regardant",
+        "regardé",
+        "regarde"
+      ],
+      "answer": 1,
+      "explanation": "The gérondif shows two actions happening at the same time, done by the same person: il mange en regardant la télé.",
+      "textId": null
+    },
+    {
+      "id": "b1-gerondif-079",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "gerondif",
+      "question": "En ___ ce texte, j’ai trouvé trois fautes.",
+      "options": [
+        "relire",
+        "relu",
+        "relisant",
+        "relis"
+      ],
+      "answer": 2,
+      "explanation": "The stem comes from the nous form: faire → nous faisons → en faisant; prendre → nous prenons → en prenant; boire → nous buvons → en buvant. Here: relisant.",
+      "textId": null
+    },
+    {
+      "id": "b1-gerondif-080",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "gerondif",
+      "question": "Elle s’est réveillée en ___ un bruit étrange.",
+      "options": [
+        "entendre",
+        "entendu",
+        "entend",
+        "entendant"
+      ],
+      "answer": 3,
+      "explanation": "The gérondif is en + present participle. The present participle is the nous stem of the present + -ant: nous parlons → en parlant. Here: entendant.",
+      "textId": null
+    }
+  ]
+}

@@ -1,0 +1,1285 @@
+{
+  "texts": [],
+  "questions": [
+    {
+      "id": "c1-advanced_connectors-001",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "advanced_connectors",
+      "question": "___ il soit très riche, il vit simplement.",
+      "options": [
+        "Quoiqu’",
+        "Parce qu’",
+        "Alors qu’",
+        "Puisqu’"
+      ],
+      "answer": 0,
+      "explanation": "Concession with the subjunctive: bien que, quoique, encore que. Si … que / aussi … que / quelque … que + subjunctive = however … (si riche qu’il soit).",
+      "textId": null
+    },
+    {
+      "id": "c1-advanced_connectors-002",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "advanced_connectors",
+      "question": "___ riche qu’il soit, il n’est pas heureux.",
+      "options": [
+        "Bien",
+        "Si",
+        "Tant",
+        "Très"
+      ],
+      "answer": 1,
+      "explanation": "Concession with the subjunctive: bien que, quoique, encore que. Si … que / aussi … que / quelque … que + subjunctive = however … (si riche qu’il soit).",
+      "textId": null
+    },
+    {
+      "id": "c1-advanced_connectors-003",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "advanced_connectors",
+      "question": "Encore qu’il ___ raison, il aurait dû se taire.",
+      "options": [
+        "a",
+        "aura",
+        "ait",
+        "avait"
+      ],
+      "answer": 2,
+      "explanation": "Concession with the subjunctive: bien que, quoique, encore que. Si … que / aussi … que / quelque … que + subjunctive = however … (si riche qu’il soit).",
+      "textId": null
+    },
+    {
+      "id": "c1-advanced_connectors-004",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "advanced_connectors",
+      "question": "Aussi étrange que cela ___, c’est la vérité.",
+      "options": [
+        "paraît",
+        "paraîtra",
+        "paraissait",
+        "paraisse"
+      ],
+      "answer": 3,
+      "explanation": "Concession with the subjunctive: bien que, quoique, encore que. Si … que / aussi … que / quelque … que + subjunctive = however … (si riche qu’il soit).",
+      "textId": null
+    },
+    {
+      "id": "c1-advanced_connectors-005",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "advanced_connectors",
+      "question": "___ tu fasses, il ne sera jamais content.",
+      "options": [
+        "Quoi que",
+        "Quoique",
+        "Bien que",
+        "Quel que"
+      ],
+      "answer": 0,
+      "explanation": "Quoi que (two words) = whatever, + subjunctive. Quoique (one word) = although, + subjunctive.",
+      "textId": null
+    },
+    {
+      "id": "c1-advanced_connectors-006",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "advanced_connectors",
+      "question": "___ il fasse froid, elle sort sans manteau.",
+      "options": [
+        "Quoi qu’",
+        "Quoiqu’",
+        "Quel qu’",
+        "Où qu’"
+      ],
+      "answer": 1,
+      "explanation": "Quoi que (two words) = whatever, + subjunctive. Quoique (one word) = although, + subjunctive.",
+      "textId": null
+    },
+    {
+      "id": "c1-advanced_connectors-007",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "advanced_connectors",
+      "question": "___ tu dises, je ne changerai pas d’avis.",
+      "options": [
+        "Quoique",
+        "Quelque",
+        "Quoi que",
+        "Qui que"
+      ],
+      "answer": 2,
+      "explanation": "Quoi que (two words) = whatever, + subjunctive. Quoique (one word) = although, + subjunctive.",
+      "textId": null
+    },
+    {
+      "id": "c1-advanced_connectors-008",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "advanced_connectors",
+      "question": "___ on en pense, ce film a du succès.",
+      "options": [
+        "Quoiqu’",
+        "Quel qu’",
+        "Bien qu’",
+        "Quoi qu’"
+      ],
+      "answer": 3,
+      "explanation": "Quoi que (two words) = whatever, + subjunctive. Quoique (one word) = although, + subjunctive.",
+      "textId": null
+    },
+    {
+      "id": "c1-advanced_connectors-009",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "advanced_connectors",
+      "question": "___ il en soit, nous devons continuer.",
+      "options": [
+        "Quoi qu’",
+        "Quoiqu’",
+        "Quel qu’",
+        "Où qu’"
+      ],
+      "answer": 0,
+      "explanation": "Quoi qu’il en soit = be that as it may. It is quoi que in two words.",
+      "textId": null
+    },
+    {
+      "id": "c1-advanced_connectors-010",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "advanced_connectors",
+      "question": "___ soit la raison, je ne peux pas accepter.",
+      "options": [
+        "Quel que",
+        "Quelle que",
+        "Quelque",
+        "Quoi que"
+      ],
+      "answer": 1,
+      "explanation": "Qui que, où que, quel que + subjunctive = whoever, wherever, whatever. Quel agrees with the noun: quelle que soit la raison.",
+      "textId": null
+    },
+    {
+      "id": "c1-advanced_connectors-011",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "advanced_connectors",
+      "question": "___ soient vos projets, tenez-moi au courant.",
+      "options": [
+        "Quelles que",
+        "Quel que",
+        "Quels que",
+        "Quelque"
+      ],
+      "answer": 2,
+      "explanation": "Qui que, où que, quel que + subjunctive = whoever, wherever, whatever. Quel agrees with the noun: quelle que soit la raison.",
+      "textId": null
+    },
+    {
+      "id": "c1-advanced_connectors-012",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "advanced_connectors",
+      "question": "___ soit le prix, je l’achète.",
+      "options": [
+        "Quelle que",
+        "Quelque",
+        "Quoi que",
+        "Quel que"
+      ],
+      "answer": 3,
+      "explanation": "Qui que, où que, quel que + subjunctive = whoever, wherever, whatever. Quel agrees with the noun: quelle que soit la raison.",
+      "textId": null
+    },
+    {
+      "id": "c1-advanced_connectors-013",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "advanced_connectors",
+      "question": "___ tu ailles, je te suivrai.",
+      "options": [
+        "Où que",
+        "Quoi que",
+        "Qui que",
+        "Quel que"
+      ],
+      "answer": 0,
+      "explanation": "Qui que, où que, quel que + subjunctive = whoever, wherever, whatever. Quel agrees with the noun: quelle que soit la raison.",
+      "textId": null
+    },
+    {
+      "id": "c1-advanced_connectors-014",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "advanced_connectors",
+      "question": "___ vous soyez, vous devez respecter la loi.",
+      "options": [
+        "Quoi que",
+        "Qui que",
+        "Où que",
+        "Quel que"
+      ],
+      "answer": 1,
+      "explanation": "Qui que, où que, quel que + subjunctive = whoever, wherever, whatever. Quel agrees with the noun: quelle que soit la raison.",
+      "textId": null
+    },
+    {
+      "id": "c1-advanced_connectors-015",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "advanced_connectors",
+      "question": "___ soient les difficultés, nous réussirons.",
+      "options": [
+        "Quels que",
+        "Quelle que",
+        "Quelles que",
+        "Quelques"
+      ],
+      "answer": 2,
+      "explanation": "Qui que, où que, quel que + subjunctive = whoever, wherever, whatever. Quel agrees with the noun: quelle que soit la raison.",
+      "textId": null
+    },
+    {
+      "id": "c1-advanced_connectors-016",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "advanced_connectors",
+      "question": "J’___ beau lui expliquer, il ne comprend pas.",
+      "options": [
+        "suis",
+        "fais",
+        "aie",
+        "ai"
+      ],
+      "answer": 3,
+      "explanation": "Avoir beau + infinitive = to do something in vain: j’ai beau essayer, je n’y arrive pas.",
+      "textId": null
+    },
+    {
+      "id": "c1-advanced_connectors-017",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "advanced_connectors",
+      "question": "Il a beau ___, personne ne l’écoute.",
+      "options": [
+        "crier",
+        "crie",
+        "criant",
+        "crié"
+      ],
+      "answer": 0,
+      "explanation": "Avoir beau + infinitive = to do something in vain: j’ai beau essayer, je n’y arrive pas.",
+      "textId": null
+    },
+    {
+      "id": "c1-advanced_connectors-018",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "advanced_connectors",
+      "question": "Elle ___ faire des efforts, ses notes ne s’améliorent pas.",
+      "options": [
+        "est belle",
+        "a beau",
+        "fait beau",
+        "a bien"
+      ],
+      "answer": 1,
+      "explanation": "Avoir beau + infinitive = to do something in vain: j’ai beau essayer, je n’y arrive pas.",
+      "textId": null
+    },
+    {
+      "id": "c1-advanced_connectors-019",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "advanced_connectors",
+      "question": "Nous avons beau ___ tôt, nous arrivons toujours en retard.",
+      "options": [
+        "partons",
+        "partant",
+        "partir",
+        "partis"
+      ],
+      "answer": 2,
+      "explanation": "Avoir beau + infinitive = to do something in vain: j’ai beau essayer, je n’y arrive pas.",
+      "textId": null
+    },
+    {
+      "id": "c1-advanced_connectors-020",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "advanced_connectors",
+      "question": "Tu auras beau ___, je ne céderai pas.",
+      "options": [
+        "insistes",
+        "insistant",
+        "insisté",
+        "insister"
+      ],
+      "answer": 3,
+      "explanation": "Avoir beau + infinitive = to do something in vain: j’ai beau essayer, je n’y arrive pas.",
+      "textId": null
+    },
+    {
+      "id": "c1-advanced_connectors-021",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "advanced_connectors",
+      "question": "___ la pluie, le match a eu lieu.",
+      "options": [
+        "Malgré",
+        "Bien que",
+        "Quoique",
+        "Pourtant"
+      ],
+      "answer": 0,
+      "explanation": "Malgré and en dépit de + noun = in spite of. Malgré le fait que is heavy; prefer bien que + subjunctive.",
+      "textId": null
+    },
+    {
+      "id": "c1-advanced_connectors-022",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "advanced_connectors",
+      "question": "En dépit ___ ses efforts, il a échoué.",
+      "options": [
+        "à",
+        "de",
+        "que",
+        "pour"
+      ],
+      "answer": 1,
+      "explanation": "Malgré and en dépit de + noun = in spite of. Malgré le fait que is heavy; prefer bien que + subjunctive.",
+      "textId": null
+    },
+    {
+      "id": "c1-advanced_connectors-023",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "advanced_connectors",
+      "question": "___ son jeune âge, elle dirige déjà une entreprise.",
+      "options": [
+        "Bien que",
+        "Quoique",
+        "Malgré",
+        "Encore que"
+      ],
+      "answer": 2,
+      "explanation": "Malgré and en dépit de + noun = in spite of. Malgré le fait que is heavy; prefer bien que + subjunctive.",
+      "textId": null
+    },
+    {
+      "id": "c1-advanced_connectors-024",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "advanced_connectors",
+      "question": "Il a réussi en dépit ___ obstacles.",
+      "options": [
+        "les",
+        "aux",
+        "que les",
+        "des"
+      ],
+      "answer": 3,
+      "explanation": "Malgré and en dépit de + noun = in spite of. Malgré le fait que is heavy; prefer bien que + subjunctive.",
+      "textId": null
+    },
+    {
+      "id": "c1-advanced_connectors-025",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "advanced_connectors",
+      "question": "Il prétend être malade ; ___, je l’ai vu au cinéma hier.",
+      "options": [
+        "or",
+        "donc",
+        "car",
+        "ainsi"
+      ],
+      "answer": 0,
+      "explanation": "Opposition: alors que, tandis que (+ indicative); en revanche, par contre, à l’inverse, au contraire; or (and yet / now) introduces a fact that contradicts or advances the argument.",
+      "textId": null
+    },
+    {
+      "id": "c1-advanced_connectors-026",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "advanced_connectors",
+      "question": "Tout le monde le croyait coupable. ___, il était innocent.",
+      "options": [
+        "Donc",
+        "Or",
+        "Car",
+        "De plus"
+      ],
+      "answer": 1,
+      "explanation": "Opposition: alors que, tandis que (+ indicative); en revanche, par contre, à l’inverse, au contraire; or (and yet / now) introduces a fact that contradicts or advances the argument.",
+      "textId": null
+    },
+    {
+      "id": "c1-advanced_connectors-027",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "advanced_connectors",
+      "question": "Elle adore la ville ; son mari, ___, préfère la campagne.",
+      "options": [
+        "par conséquent",
+        "en outre",
+        "en revanche",
+        "de ce fait"
+      ],
+      "answer": 2,
+      "explanation": "Opposition: alors que, tandis que (+ indicative); en revanche, par contre, à l’inverse, au contraire; or (and yet / now) introduces a fact that contradicts or advances the argument.",
+      "textId": null
+    },
+    {
+      "id": "c1-advanced_connectors-028",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "advanced_connectors",
+      "question": "Il ne manque pas d’ambition ; ___, il en a trop.",
+      "options": [
+        "par conséquent",
+        "de surcroît",
+        "en somme",
+        "au contraire"
+      ],
+      "answer": 3,
+      "explanation": "Opposition: alors que, tandis que (+ indicative); en revanche, par contre, à l’inverse, au contraire; or (and yet / now) introduces a fact that contradicts or advances the argument.",
+      "textId": null
+    },
+    {
+      "id": "c1-advanced_connectors-029",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "advanced_connectors",
+      "question": "Les ventes ont augmenté en Europe, ___ elles ont baissé en Asie.",
+      "options": [
+        "tandis qu’",
+        "parce qu’",
+        "pour qu’",
+        "à moins qu’"
+      ],
+      "answer": 0,
+      "explanation": "Opposition: alors que, tandis que (+ indicative); en revanche, par contre, à l’inverse, au contraire; or (and yet / now) introduces a fact that contradicts or advances the argument.",
+      "textId": null
+    },
+    {
+      "id": "c1-advanced_connectors-030",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "advanced_connectors",
+      "question": "Le projet est risqué. ___, il mérite d’être tenté.",
+      "options": [
+        "Par conséquent",
+        "Néanmoins",
+        "En effet",
+        "De ce fait"
+      ],
+      "answer": 1,
+      "explanation": "Néanmoins, toutefois, cependant, pourtant = however; il n’en reste pas moins que / il n’empêche que = the fact remains that.",
+      "textId": null
+    },
+    {
+      "id": "c1-advanced_connectors-031",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "advanced_connectors",
+      "question": "Il a commis une erreur ; ___ que c’est un excellent employé.",
+      "options": [
+        "c’est pourquoi",
+        "étant donné",
+        "il n’en reste pas moins",
+        "si bien"
+      ],
+      "answer": 2,
+      "explanation": "Néanmoins, toutefois, cependant, pourtant = however; il n’en reste pas moins que / il n’empêche que = the fact remains that.",
+      "textId": null
+    },
+    {
+      "id": "c1-advanced_connectors-032",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "advanced_connectors",
+      "question": "Tu as peut-être raison ; ___ que j’aurais préféré être prévenu.",
+      "options": [
+        "c’est pourquoi",
+        "de sorte",
+        "étant donné",
+        "il n’empêche"
+      ],
+      "answer": 3,
+      "explanation": "Néanmoins, toutefois, cependant, pourtant = however; il n’en reste pas moins que / il n’empêche que = the fact remains that.",
+      "textId": null
+    },
+    {
+      "id": "c1-advanced_connectors-033",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "advanced_connectors",
+      "question": "La loi a été votée. ___, son application reste difficile.",
+      "options": [
+        "Toutefois",
+        "En effet",
+        "Par conséquent",
+        "Ainsi"
+      ],
+      "answer": 0,
+      "explanation": "Néanmoins, toutefois, cependant, pourtant = however; il n’en reste pas moins que / il n’empêche que = the fact remains that.",
+      "textId": null
+    },
+    {
+      "id": "c1-advanced_connectors-034",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "advanced_connectors",
+      "question": "___ que les prix ont augmenté, les ménages consomment moins.",
+      "options": [
+        "Bien",
+        "Étant donné",
+        "Pour",
+        "À moins"
+      ],
+      "answer": 1,
+      "explanation": "Formal cause: étant donné que, vu que, du fait que, sous prétexte que (+ indicative); faute de + noun / infinitive = for lack of; à force de + infinitive / noun = by dint of.",
+      "textId": null
+    },
+    {
+      "id": "c1-advanced_connectors-035",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "advanced_connectors",
+      "question": "Il n’est pas venu ___ qu’il avait trop de travail.",
+      "options": [
+        "pour",
+        "afin",
+        "sous prétexte",
+        "bien"
+      ],
+      "answer": 2,
+      "explanation": "Formal cause: étant donné que, vu que, du fait que, sous prétexte que (+ indicative); faute de + noun / infinitive = for lack of; à force de + infinitive / noun = by dint of.",
+      "textId": null
+    },
+    {
+      "id": "c1-advanced_connectors-036",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "advanced_connectors",
+      "question": "___ d’argent, ils ont renoncé à leur voyage.",
+      "options": [
+        "À force",
+        "Grâce",
+        "En vue",
+        "Faute"
+      ],
+      "answer": 3,
+      "explanation": "Formal cause: étant donné que, vu que, du fait que, sous prétexte que (+ indicative); faute de + noun / infinitive = for lack of; à force de + infinitive / noun = by dint of.",
+      "textId": null
+    },
+    {
+      "id": "c1-advanced_connectors-037",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "advanced_connectors",
+      "question": "___ de travailler, il a fini par réussir.",
+      "options": [
+        "À force",
+        "Faute",
+        "En dépit",
+        "Afin"
+      ],
+      "answer": 0,
+      "explanation": "Formal cause: étant donné que, vu que, du fait que, sous prétexte que (+ indicative); faute de + noun / infinitive = for lack of; à force de + infinitive / noun = by dint of.",
+      "textId": null
+    },
+    {
+      "id": "c1-advanced_connectors-038",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "advanced_connectors",
+      "question": "___ de temps, je n’ai pas pu finir.",
+      "options": [
+        "À force",
+        "Faute",
+        "Grâce",
+        "Afin"
+      ],
+      "answer": 1,
+      "explanation": "Formal cause: étant donné que, vu que, du fait que, sous prétexte que (+ indicative); faute de + noun / infinitive = for lack of; à force de + infinitive / noun = by dint of.",
+      "textId": null
+    },
+    {
+      "id": "c1-advanced_connectors-039",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "advanced_connectors",
+      "question": "___ de crier, il a perdu la voix.",
+      "options": [
+        "Faute",
+        "En vue",
+        "À force",
+        "Quitte"
+      ],
+      "answer": 2,
+      "explanation": "Formal cause: étant donné que, vu que, du fait que, sous prétexte que (+ indicative); faute de + noun / infinitive = for lack of; à force de + infinitive / noun = by dint of.",
+      "textId": null
+    },
+    {
+      "id": "c1-advanced_connectors-040",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "advanced_connectors",
+      "question": "Le vol a été annulé ___ fait du mauvais temps.",
+      "options": [
+        "de",
+        "au",
+        "par",
+        "du"
+      ],
+      "answer": 3,
+      "explanation": "Formal cause: étant donné que, vu que, du fait que, sous prétexte que (+ indicative); faute de + noun / infinitive = for lack of; à force de + infinitive / noun = by dint of.",
+      "textId": null
+    },
+    {
+      "id": "c1-advanced_connectors-041",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "advanced_connectors",
+      "question": "___ de preuves, le suspect a été libéré.",
+      "options": [
+        "Faute",
+        "À force",
+        "Grâce",
+        "À cause"
+      ],
+      "answer": 0,
+      "explanation": "Formal cause: étant donné que, vu que, du fait que, sous prétexte que (+ indicative); faute de + noun / infinitive = for lack of; à force de + infinitive / noun = by dint of.",
+      "textId": null
+    },
+    {
+      "id": "c1-advanced_connectors-042",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "advanced_connectors",
+      "question": "Ce n’est pas qu’il ___ paresseux, mais il manque de motivation.",
+      "options": [
+        "est",
+        "soit",
+        "sera",
+        "serait"
+      ],
+      "answer": 1,
+      "explanation": "Ce n’est pas que … mais and non (pas) que take the subjunctive: they reject a cause.",
+      "textId": null
+    },
+    {
+      "id": "c1-advanced_connectors-043",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "advanced_connectors",
+      "question": "Non qu’elle ___ tort, mais elle exagère.",
+      "options": [
+        "a",
+        "aura",
+        "ait",
+        "aurait"
+      ],
+      "answer": 2,
+      "explanation": "Ce n’est pas que … mais and non (pas) que take the subjunctive: they reject a cause.",
+      "textId": null
+    },
+    {
+      "id": "c1-advanced_connectors-044",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "advanced_connectors",
+      "question": "Je refuse, non pas que je ne ___ pas, mais je n’en ai pas le temps.",
+      "options": [
+        "veux",
+        "voudrai",
+        "voulais",
+        "veuille"
+      ],
+      "answer": 3,
+      "explanation": "Ce n’est pas que … mais and non (pas) que take the subjunctive: they reject a cause.",
+      "textId": null
+    },
+    {
+      "id": "c1-advanced_connectors-045",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "advanced_connectors",
+      "question": "Il a tellement neigé ___ les routes sont fermées.",
+      "options": [
+        "que",
+        "si bien",
+        "de sorte",
+        "d’où"
+      ],
+      "answer": 0,
+      "explanation": "Tellement … que expresses a consequence of intensity.",
+      "textId": null
+    },
+    {
+      "id": "c1-advanced_connectors-046",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "advanced_connectors",
+      "question": "Il a beaucoup plu, ___ les rivières ont débordé.",
+      "options": [
+        "bien que",
+        "si bien que",
+        "pour que",
+        "quoique"
+      ],
+      "answer": 1,
+      "explanation": "Consequence: si bien que, de sorte que, à tel point que, au point que (+ indicative for a real result); d’où + noun; par conséquent, dès lors, ainsi (+ inversion in formal style), aussi (+ inversion) = therefore.",
+      "textId": null
+    },
+    {
+      "id": "c1-advanced_connectors-047",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "advanced_connectors",
+      "question": "Elle a travaillé jour et nuit, ___ elle est tombée malade.",
+      "options": [
+        "bien qu’",
+        "pour qu’",
+        "au point qu’",
+        "quoiqu’"
+      ],
+      "answer": 2,
+      "explanation": "Consequence: si bien que, de sorte que, à tel point que, au point que (+ indicative for a real result); d’où + noun; par conséquent, dès lors, ainsi (+ inversion in formal style), aussi (+ inversion) = therefore.",
+      "textId": null
+    },
+    {
+      "id": "c1-advanced_connectors-048",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "advanced_connectors",
+      "question": "Il n’a pas révisé, ___ son échec.",
+      "options": [
+        "donc",
+        "si bien",
+        "de sorte",
+        "d’où"
+      ],
+      "answer": 3,
+      "explanation": "Consequence: si bien que, de sorte que, à tel point que, au point que (+ indicative for a real result); d’où + noun; par conséquent, dès lors, ainsi (+ inversion in formal style), aussi (+ inversion) = therefore.",
+      "textId": null
+    },
+    {
+      "id": "c1-advanced_connectors-049",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "advanced_connectors",
+      "question": "Le ministre a démissionné. ___, de nouvelles élections auront lieu.",
+      "options": [
+        "Dès lors",
+        "Pourtant",
+        "En revanche",
+        "Or"
+      ],
+      "answer": 0,
+      "explanation": "Consequence: si bien que, de sorte que, à tel point que, au point que (+ indicative for a real result); d’où + noun; par conséquent, dès lors, ainsi (+ inversion in formal style), aussi (+ inversion) = therefore.",
+      "textId": null
+    },
+    {
+      "id": "c1-advanced_connectors-050",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "advanced_connectors",
+      "question": "Il était épuisé ; ___ a-t-il décidé de rentrer.",
+      "options": [
+        "donc",
+        "aussi",
+        "car",
+        "pourtant"
+      ],
+      "answer": 1,
+      "explanation": "At the start of a clause and followed by inversion, aussi means \"therefore\", not \"also\".",
+      "textId": null
+    },
+    {
+      "id": "c1-advanced_connectors-051",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "advanced_connectors",
+      "question": "Les prix ont augmenté. ___ les ventes ont-elles baissé.",
+      "options": [
+        "Pourtant",
+        "Or",
+        "Ainsi",
+        "Car"
+      ],
+      "answer": 2,
+      "explanation": "Consequence: si bien que, de sorte que, à tel point que, au point que (+ indicative for a real result); d’où + noun; par conséquent, dès lors, ainsi (+ inversion in formal style), aussi (+ inversion) = therefore.",
+      "textId": null
+    },
+    {
+      "id": "c1-advanced_connectors-052",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "advanced_connectors",
+      "question": "Parle plus fort, de sorte que tout le monde ___ t’entendre.",
+      "options": [
+        "peut",
+        "pourra",
+        "pouvait",
+        "puisse"
+      ],
+      "answer": 3,
+      "explanation": "Purpose: de sorte que / de façon que / de manière que + subjunctive = so that; de peur que, de crainte que + subjunctive = for fear that; en vue de + noun / infinitive.",
+      "textId": null
+    },
+    {
+      "id": "c1-advanced_connectors-053",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "advanced_connectors",
+      "question": "Il a parlé très bas, de sorte que personne ne l’___.",
+      "options": [
+        "a entendu",
+        "ait entendu",
+        "entende",
+        "entendrait"
+      ],
+      "answer": 0,
+      "explanation": "De sorte que + indicative gives a real result; + subjunctive gives a goal.",
+      "textId": null
+    },
+    {
+      "id": "c1-advanced_connectors-054",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "advanced_connectors",
+      "question": "Je lui ai écrit de peur qu’il n’___ notre rendez-vous.",
+      "options": [
+        "oublie pas",
+        "oublie",
+        "oubliera",
+        "oubliait"
+      ],
+      "answer": 1,
+      "explanation": "Purpose: de sorte que / de façon que / de manière que + subjunctive = so that; de peur que, de crainte que + subjunctive = for fear that; en vue de + noun / infinitive.",
+      "textId": null
+    },
+    {
+      "id": "c1-advanced_connectors-055",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "advanced_connectors",
+      "question": "Il travaille dur ___ d’obtenir une promotion.",
+      "options": [
+        "faute",
+        "à force",
+        "en vue",
+        "en dépit"
+      ],
+      "answer": 2,
+      "explanation": "Purpose: de sorte que / de façon que / de manière que + subjunctive = so that; de peur que, de crainte que + subjunctive = for fear that; en vue de + noun / infinitive.",
+      "textId": null
+    },
+    {
+      "id": "c1-advanced_connectors-056",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "advanced_connectors",
+      "question": "Elle a tout noté de crainte ___ oublier.",
+      "options": [
+        "qu’",
+        "à",
+        "pour",
+        "d’"
+      ],
+      "answer": 3,
+      "explanation": "When both verbs have the same subject, de crainte de / de peur de + infinitive is used.",
+      "textId": null
+    },
+    {
+      "id": "c1-advanced_connectors-057",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "advanced_connectors",
+      "question": "Je dirai la vérité, ___ à perdre mon travail.",
+      "options": [
+        "quitte",
+        "faute",
+        "grâce",
+        "à force"
+      ],
+      "answer": 0,
+      "explanation": "Quitte à + infinitive = even if it means; au risque de + infinitive = at the risk of.",
+      "textId": null
+    },
+    {
+      "id": "c1-advanced_connectors-058",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "advanced_connectors",
+      "question": "Il a pris la parole, ___ de choquer.",
+      "options": [
+        "à force",
+        "au risque",
+        "faute",
+        "en vue"
+      ],
+      "answer": 1,
+      "explanation": "Quitte à + infinitive = even if it means; au risque de + infinitive = at the risk of.",
+      "textId": null
+    },
+    {
+      "id": "c1-advanced_connectors-059",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "advanced_connectors",
+      "question": "Je préfère partir tôt, ___ à attendre sur place.",
+      "options": [
+        "faute",
+        "afin",
+        "quitte",
+        "à moins"
+      ],
+      "answer": 2,
+      "explanation": "Quitte à + infinitive = even if it means; au risque de + infinitive = at the risk of.",
+      "textId": null
+    },
+    {
+      "id": "c1-advanced_connectors-060",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "advanced_connectors",
+      "question": "Ce logement est cher ; ___, il est mal situé.",
+      "options": [
+        "néanmoins",
+        "en revanche",
+        "or",
+        "de surcroît"
+      ],
+      "answer": 3,
+      "explanation": "Addition and structure: en outre, de surcroît, par ailleurs, qui plus est; non seulement … mais aussi / encore; d’une part … d’autre part.",
+      "textId": null
+    },
+    {
+      "id": "c1-advanced_connectors-061",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "advanced_connectors",
+      "question": "___ seulement il est en retard, mais en plus il n’a pas prévenu.",
+      "options": [
+        "Non",
+        "Pas",
+        "Ne",
+        "Sans"
+      ],
+      "answer": 0,
+      "explanation": "Addition and structure: en outre, de surcroît, par ailleurs, qui plus est; non seulement … mais aussi / encore; d’une part … d’autre part.",
+      "textId": null
+    },
+    {
+      "id": "c1-advanced_connectors-062",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "advanced_connectors",
+      "question": "Il est compétent et, qui ___ est, très agréable.",
+      "options": [
+        "mieux",
+        "plus",
+        "autre",
+        "en"
+      ],
+      "answer": 1,
+      "explanation": "Addition and structure: en outre, de surcroît, par ailleurs, qui plus est; non seulement … mais aussi / encore; d’une part … d’autre part.",
+      "textId": null
+    },
+    {
+      "id": "c1-advanced_connectors-063",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "advanced_connectors",
+      "question": "D’une part, le projet est coûteux ; ___, il est risqué.",
+      "options": [
+        "d’un autre",
+        "de l’autre part",
+        "d’autre part",
+        "par autre part"
+      ],
+      "answer": 2,
+      "explanation": "Addition and structure: en outre, de surcroît, par ailleurs, qui plus est; non seulement … mais aussi / encore; d’une part … d’autre part.",
+      "textId": null
+    },
+    {
+      "id": "c1-advanced_connectors-064",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "advanced_connectors",
+      "question": "Le calendrier doit être modifié. ___, il faudra revoir le budget.",
+      "options": [
+        "Pourtant",
+        "Néanmoins",
+        "Or",
+        "Par ailleurs"
+      ],
+      "answer": 3,
+      "explanation": "Addition and structure: en outre, de surcroît, par ailleurs, qui plus est; non seulement … mais aussi / encore; d’une part … d’autre part.",
+      "textId": null
+    },
+    {
+      "id": "c1-advanced_connectors-065",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "advanced_connectors",
+      "question": "Il est francophile, ___ il aime tout ce qui est français.",
+      "options": [
+        "autrement dit",
+        "néanmoins",
+        "en revanche",
+        "or"
+      ],
+      "answer": 0,
+      "explanation": "Reformulation and conclusion: autrement dit, en d’autres termes, c’est-à-dire; en somme, bref, en définitive, somme toute; en fait, en réalité, à vrai dire.",
+      "textId": null
+    },
+    {
+      "id": "c1-advanced_connectors-066",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "advanced_connectors",
+      "question": "Il se dit expert ; ___, il n’a aucune expérience.",
+      "options": [
+        "par conséquent",
+        "en réalité",
+        "de surcroît",
+        "autrement dit"
+      ],
+      "answer": 1,
+      "explanation": "Reformulation and conclusion: autrement dit, en d’autres termes, c’est-à-dire; en somme, bref, en définitive, somme toute; en fait, en réalité, à vrai dire.",
+      "textId": null
+    },
+    {
+      "id": "c1-advanced_connectors-067",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "advanced_connectors",
+      "question": "___, ce fut une soirée réussie.",
+      "options": [
+        "En revanche",
+        "Or",
+        "En somme",
+        "Faute de quoi"
+      ],
+      "answer": 2,
+      "explanation": "Reformulation and conclusion: autrement dit, en d’autres termes, c’est-à-dire; en somme, bref, en définitive, somme toute; en fait, en réalité, à vrai dire.",
+      "textId": null
+    },
+    {
+      "id": "c1-advanced_connectors-068",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "advanced_connectors",
+      "question": "Elle est polyglotte, ___ elle parle plusieurs langues.",
+      "options": [
+        "bien qu’",
+        "à moins qu’",
+        "quoiqu’",
+        "c’est-à-dire qu’"
+      ],
+      "answer": 3,
+      "explanation": "Reformulation and conclusion: autrement dit, en d’autres termes, c’est-à-dire; en somme, bref, en définitive, somme toute; en fait, en réalité, à vrai dire.",
+      "textId": null
+    },
+    {
+      "id": "c1-advanced_connectors-069",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "advanced_connectors",
+      "question": "___, je n’ai pas très envie d’y aller.",
+      "options": [
+        "À vrai dire",
+        "Par conséquent",
+        "De surcroît",
+        "En d’autres termes"
+      ],
+      "answer": 0,
+      "explanation": "Reformulation and conclusion: autrement dit, en d’autres termes, c’est-à-dire; en somme, bref, en définitive, somme toute; en fait, en réalité, à vrai dire.",
+      "textId": null
+    },
+    {
+      "id": "c1-advanced_connectors-070",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "advanced_connectors",
+      "question": "___ tu ne t’excuseras pas, je ne te parlerai plus.",
+      "options": [
+        "Bien que",
+        "Tant que",
+        "Quoique",
+        "Pour que"
+      ],
+      "answer": 1,
+      "explanation": "Tant que = as long as; dans la mesure où = insofar as; pour autant que + subjunctive = as far as; d’autant plus que = all the more so because.",
+      "textId": null
+    },
+    {
+      "id": "c1-advanced_connectors-071",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "advanced_connectors",
+      "question": "___ que je sache, il habite toujours à Lyon.",
+      "options": [
+        "Tant",
+        "Dans la mesure",
+        "Pour autant",
+        "Bien"
+      ],
+      "answer": 2,
+      "explanation": "Tant que = as long as; dans la mesure où = insofar as; pour autant que + subjunctive = as far as; d’autant plus que = all the more so because.",
+      "textId": null
+    },
+    {
+      "id": "c1-advanced_connectors-072",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "advanced_connectors",
+      "question": "Je vous aiderai ___ où je le pourrai.",
+      "options": [
+        "pour autant",
+        "tant",
+        "à moins",
+        "dans la mesure"
+      ],
+      "answer": 3,
+      "explanation": "Tant que = as long as; dans la mesure où = insofar as; pour autant que + subjunctive = as far as; d’autant plus que = all the more so because.",
+      "textId": null
+    },
+    {
+      "id": "c1-advanced_connectors-073",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "advanced_connectors",
+      "question": "Il est fatigué, ___ qu’il n’a pas dormi de la nuit.",
+      "options": [
+        "d’autant plus",
+        "pour autant",
+        "tant",
+        "bien"
+      ],
+      "answer": 0,
+      "explanation": "Tant que = as long as; dans la mesure où = insofar as; pour autant que + subjunctive = as far as; d’autant plus que = all the more so because.",
+      "textId": null
+    },
+    {
+      "id": "c1-advanced_connectors-074",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "advanced_connectors",
+      "question": "Tant qu’il y ___ de la vie, il y a de l’espoir.",
+      "options": [
+        "ait",
+        "a",
+        "aurait",
+        "eût"
+      ],
+      "answer": 1,
+      "explanation": "Tant que takes the indicative: tant qu’il y a de la vie, il y a de l’espoir.",
+      "textId": null
+    },
+    {
+      "id": "c1-advanced_connectors-075",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "advanced_connectors",
+      "question": "Tu dois partir maintenant, ___ tu vas rater ton train.",
+      "options": [
+        "donc",
+        "ainsi",
+        "sinon",
+        "or"
+      ],
+      "answer": 2,
+      "explanation": "Sinon = otherwise, or else.",
+      "textId": null
+    },
+    {
+      "id": "c1-advanced_connectors-076",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "advanced_connectors",
+      "question": "Rends-moi ce dossier avant midi, ___ de quoi je serai obligé d’en parler au directeur.",
+      "options": [
+        "à force",
+        "grâce",
+        "en vue",
+        "faute"
+      ],
+      "answer": 3,
+      "explanation": "Faute de quoi = failing which, otherwise.",
+      "textId": null
+    },
+    {
+      "id": "c1-advanced_connectors-077",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "advanced_connectors",
+      "question": "Soit tu viens avec nous, ___ tu restes ici.",
+      "options": [
+        "soit",
+        "ou soit",
+        "sinon",
+        "ni"
+      ],
+      "answer": 0,
+      "explanation": "Soit … soit … = either … or ….",
+      "textId": null
+    },
+    {
+      "id": "c1-advanced_connectors-078",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "advanced_connectors",
+      "question": "___ il pleuve ou qu’il vente, il sort courir.",
+      "options": [
+        "S’",
+        "Qu’",
+        "Quand",
+        "Bien qu’"
+      ],
+      "answer": 1,
+      "explanation": "Que … ou que … + subjunctive = whether … or ….",
+      "textId": null
+    },
+    {
+      "id": "c1-advanced_connectors-079",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "advanced_connectors",
+      "question": "Il a échoué ; ___, il n’avait pas assez travaillé.",
+      "options": [
+        "en revanche",
+        "néanmoins",
+        "en effet",
+        "or"
+      ],
+      "answer": 2,
+      "explanation": "En effet confirms or explains what was just said (indeed, as a matter of fact).",
+      "textId": null
+    },
+    {
+      "id": "c1-advanced_connectors-080",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "advanced_connectors",
+      "question": "Elle a refusé l’offre, ___ ses amis lui conseillaient d’accepter.",
+      "options": [
+        "de sorte que",
+        "pour peu que",
+        "afin que",
+        "alors même que"
+      ],
+      "answer": 3,
+      "explanation": "Alors même que + indicative stresses a strong contrast (even though).",
+      "textId": null
+    }
+  ]
+}

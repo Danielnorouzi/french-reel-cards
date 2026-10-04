@@ -1,0 +1,1285 @@
+{
+  "texts": [],
+  "questions": [
+    {
+      "id": "c1-fine_negation-001",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "fine_negation",
+      "question": "Partons avant qu’il ___ pleuve.",
+      "options": [
+        "ne",
+        "ne pas",
+        "pas",
+        "n’y"
+      ],
+      "answer": 0,
+      "explanation": "The ne explétif is a formal ne with no negative meaning. It appears after avant que, à moins que, de peur que, de crainte que, craindre que, avoir peur que, and in comparisons (plus … que je ne pensais). It is never followed by pas.",
+      "textId": null
+    },
+    {
+      "id": "c1-fine_negation-002",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "fine_negation",
+      "question": "Je crains qu’il ___ soit trop tard.",
+      "options": [
+        "ne pas",
+        "ne",
+        "pas",
+        "non"
+      ],
+      "answer": 1,
+      "explanation": "The ne explétif is a formal ne with no negative meaning. It appears after avant que, à moins que, de peur que, de crainte que, craindre que, avoir peur que, and in comparisons (plus … que je ne pensais). It is never followed by pas.",
+      "textId": null
+    },
+    {
+      "id": "c1-fine_negation-003",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "fine_negation",
+      "question": "Il est plus intelligent que je ___ le pensais.",
+      "options": [
+        "ne pas",
+        "pas",
+        "ne",
+        "non"
+      ],
+      "answer": 2,
+      "explanation": "The ne explétif is a formal ne with no negative meaning. It appears after avant que, à moins que, de peur que, de crainte que, craindre que, avoir peur que, and in comparisons (plus … que je ne pensais). It is never followed by pas.",
+      "textId": null
+    },
+    {
+      "id": "c1-fine_negation-004",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "fine_negation",
+      "question": "Nous irons à pied, à moins qu’il ___ fasse trop froid.",
+      "options": [
+        "ne pas",
+        "pas",
+        "non",
+        "ne"
+      ],
+      "answer": 3,
+      "explanation": "The ne explétif is a formal ne with no negative meaning. It appears after avant que, à moins que, de peur que, de crainte que, craindre que, avoir peur que, and in comparisons (plus … que je ne pensais). It is never followed by pas.",
+      "textId": null
+    },
+    {
+      "id": "c1-fine_negation-005",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "fine_negation",
+      "question": "Elle a peur que son fils ___ tombe malade.",
+      "options": [
+        "ne",
+        "ne pas de",
+        "pas",
+        "non"
+      ],
+      "answer": 0,
+      "explanation": "The ne explétif is a formal ne with no negative meaning. It appears after avant que, à moins que, de peur que, de crainte que, craindre que, avoir peur que, and in comparisons (plus … que je ne pensais). It is never followed by pas.",
+      "textId": null
+    },
+    {
+      "id": "c1-fine_negation-006",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "fine_negation",
+      "question": "Fermez la porte, de peur que le chat ___ s’échappe.",
+      "options": [
+        "ne pas de",
+        "ne",
+        "pas",
+        "non"
+      ],
+      "answer": 1,
+      "explanation": "The ne explétif is a formal ne with no negative meaning. It appears after avant que, à moins que, de peur que, de crainte que, craindre que, avoir peur que, and in comparisons (plus … que je ne pensais). It is never followed by pas.",
+      "textId": null
+    },
+    {
+      "id": "c1-fine_negation-007",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "fine_negation",
+      "question": "C’est moins cher que je ___ l’imaginais.",
+      "options": [
+        "ne pas",
+        "pas",
+        "ne",
+        "non"
+      ],
+      "answer": 2,
+      "explanation": "The ne explétif is a formal ne with no negative meaning. It appears after avant que, à moins que, de peur que, de crainte que, craindre que, avoir peur que, and in comparisons (plus … que je ne pensais). It is never followed by pas.",
+      "textId": null
+    },
+    {
+      "id": "c1-fine_negation-008",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "fine_negation",
+      "question": "Il faut agir avant que la situation ___ empire.",
+      "options": [
+        "ne pas",
+        "pas",
+        "non",
+        "n’"
+      ],
+      "answer": 3,
+      "explanation": "The ne explétif is a formal ne with no negative meaning. It appears after avant que, à moins que, de peur que, de crainte que, craindre que, avoir peur que, and in comparisons (plus … que je ne pensais). It is never followed by pas.",
+      "textId": null
+    },
+    {
+      "id": "c1-fine_negation-009",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "fine_negation",
+      "question": "Je redoute qu’ils ___ apprennent la nouvelle.",
+      "options": [
+        "n’",
+        "ne pas",
+        "pas",
+        "non"
+      ],
+      "answer": 0,
+      "explanation": "The ne explétif is a formal ne with no negative meaning. It appears after avant que, à moins que, de peur que, de crainte que, craindre que, avoir peur que, and in comparisons (plus … que je ne pensais). It is never followed by pas.",
+      "textId": null
+    },
+    {
+      "id": "c1-fine_negation-010",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "fine_negation",
+      "question": "Elle travaille mieux que vous ___ le croyez.",
+      "options": [
+        "ne pas",
+        "ne",
+        "pas",
+        "non"
+      ],
+      "answer": 1,
+      "explanation": "The ne explétif is a formal ne with no negative meaning. It appears after avant que, à moins que, de peur que, de crainte que, craindre que, avoir peur que, and in comparisons (plus … que je ne pensais). It is never followed by pas.",
+      "textId": null
+    },
+    {
+      "id": "c1-fine_negation-011",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "fine_negation",
+      "question": "« Je crains qu’il ne vienne. » Cela signifie :",
+      "options": [
+        "J’ai peur qu’il soit absent.",
+        "Je suis sûr qu’il viendra.",
+        "J’ai peur qu’il vienne.",
+        "Je veux qu’il vienne."
+      ],
+      "answer": 2,
+      "explanation": "The ne explétif is a formal ne with no negative meaning. It appears after avant que, à moins que, de peur que, de crainte que, craindre que, avoir peur que, and in comparisons (plus … que je ne pensais). It is never followed by pas.",
+      "textId": null
+    },
+    {
+      "id": "c1-fine_negation-012",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "fine_negation",
+      "question": "« Je crains qu’il ne vienne pas. » Cela signifie :",
+      "options": [
+        "J’ai peur qu’il vienne.",
+        "Je suis sûr qu’il viendra.",
+        "Je ne veux pas qu’il vienne.",
+        "J’ai peur qu’il soit absent."
+      ],
+      "answer": 3,
+      "explanation": "To make the clause truly negative after these expressions, use ne … pas: je crains qu’il ne vienne pas = I am afraid he will not come.",
+      "textId": null
+    },
+    {
+      "id": "c1-fine_negation-013",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "fine_negation",
+      "question": "« Rentre avant qu’il ne pleuve. » Cela signifie :",
+      "options": [
+        "Rentre avant la pluie.",
+        "Rentre s’il ne pleut pas.",
+        "Rentre après la pluie.",
+        "Ne rentre pas sous la pluie."
+      ],
+      "answer": 0,
+      "explanation": "The ne explétif is a formal ne with no negative meaning. It appears after avant que, à moins que, de peur que, de crainte que, craindre que, avoir peur que, and in comparisons (plus … que je ne pensais). It is never followed by pas.",
+      "textId": null
+    },
+    {
+      "id": "c1-fine_negation-014",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "fine_negation",
+      "question": "« À moins qu’il ne soit malade, il viendra. » Cela signifie :",
+      "options": [
+        "Il viendra s’il est malade.",
+        "Il viendra, sauf s’il est malade.",
+        "Il ne viendra pas.",
+        "Il n’est pas malade."
+      ],
+      "answer": 1,
+      "explanation": "The ne explétif is a formal ne with no negative meaning. It appears after avant que, à moins que, de peur que, de crainte que, craindre que, avoir peur que, and in comparisons (plus … que je ne pensais). It is never followed by pas.",
+      "textId": null
+    },
+    {
+      "id": "c1-fine_negation-015",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "fine_negation",
+      "question": "Je crains qu’il ne ___ pas à temps. (= he may not arrive)",
+      "options": [
+        "arrivera",
+        "arrivait",
+        "arrive",
+        "arriver"
+      ],
+      "answer": 2,
+      "explanation": "To make the clause truly negative after these expressions, use ne … pas: je crains qu’il ne vienne pas = I am afraid he will not come.",
+      "textId": null
+    },
+    {
+      "id": "c1-fine_negation-016",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "fine_negation",
+      "question": "Il n’a ___ le temps de lire.",
+      "options": [
+        "guère pas",
+        "pas guère",
+        "aucun",
+        "guère"
+      ],
+      "answer": 3,
+      "explanation": "Ne … guère = hardly, scarcely, not much (formal).",
+      "textId": null
+    },
+    {
+      "id": "c1-fine_negation-017",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "fine_negation",
+      "question": "Cette idée ne me plaît ___.",
+      "options": [
+        "guère",
+        "guère pas",
+        "aucune",
+        "personne"
+      ],
+      "answer": 0,
+      "explanation": "Ne … guère = hardly, scarcely, not much (formal).",
+      "textId": null
+    },
+    {
+      "id": "c1-fine_negation-018",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "fine_negation",
+      "question": "Je ne sors ___ en ce moment.",
+      "options": [
+        "guère pas",
+        "guère",
+        "aucun",
+        "personne"
+      ],
+      "answer": 1,
+      "explanation": "Ne … guère = hardly, scarcely, not much (formal).",
+      "textId": null
+    },
+    {
+      "id": "c1-fine_negation-019",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "fine_negation",
+      "question": "Il n’y a ___ de monde dans les rues.",
+      "options": [
+        "aucun",
+        "pas guère",
+        "guère",
+        "personne"
+      ],
+      "answer": 2,
+      "explanation": "Ne … guère = hardly, scarcely, not much (formal).",
+      "textId": null
+    },
+    {
+      "id": "c1-fine_negation-020",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "fine_negation",
+      "question": "Elle ne parle ___ de son passé.",
+      "options": [
+        "aucun",
+        "pas guère",
+        "ni",
+        "guère"
+      ],
+      "answer": 3,
+      "explanation": "Ne … guère = hardly, scarcely, not much (formal).",
+      "textId": null
+    },
+    {
+      "id": "c1-fine_negation-021",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "fine_negation",
+      "question": "« Il n’a guère dormi. » Cela signifie :",
+      "options": [
+        "Il a très peu dormi.",
+        "Il n’a pas du tout dormi.",
+        "Il a beaucoup dormi.",
+        "Il a toujours dormi."
+      ],
+      "answer": 0,
+      "explanation": "Ne … guère = hardly, scarcely, not much (formal).",
+      "textId": null
+    },
+    {
+      "id": "c1-fine_negation-022",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "fine_negation",
+      "question": "« Ne vous inquiétez point. » Cela signifie :",
+      "options": [
+        "Inquiétez-vous un peu.",
+        "Ne vous inquiétez pas.",
+        "Ne vous inquiétez plus jamais.",
+        "Inquiétez-vous."
+      ],
+      "answer": 1,
+      "explanation": "Ne … point is a literary or old-fashioned equivalent of ne … pas.",
+      "textId": null
+    },
+    {
+      "id": "c1-fine_negation-023",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "fine_negation",
+      "question": "« Je n’en doute point. » Cela signifie :",
+      "options": [
+        "J’en doute un peu.",
+        "J’en doute beaucoup.",
+        "Je n’en doute pas.",
+        "Je n’en doute plus."
+      ],
+      "answer": 2,
+      "explanation": "Ne … point is a literary or old-fashioned equivalent of ne … pas.",
+      "textId": null
+    },
+    {
+      "id": "c1-fine_negation-024",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "fine_negation",
+      "question": "Dans un texte littéraire, « il ne répondit ___ » équivaut à « il ne répondit pas ».",
+      "options": [
+        "guère",
+        "plus",
+        "que",
+        "point"
+      ],
+      "answer": 3,
+      "explanation": "Ne … point is a literary or old-fashioned equivalent of ne … pas.",
+      "textId": null
+    },
+    {
+      "id": "c1-fine_negation-025",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "fine_negation",
+      "question": "Je ne suis ___ surpris par cette décision.",
+      "options": [
+        "nullement",
+        "nullement pas",
+        "pas nullement",
+        "aucun"
+      ],
+      "answer": 0,
+      "explanation": "Ne … nullement and ne … aucunement = not at all, in no way (formal).",
+      "textId": null
+    },
+    {
+      "id": "c1-fine_negation-026",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "fine_negation",
+      "question": "Cela ne me dérange ___.",
+      "options": [
+        "aucunement pas",
+        "aucunement",
+        "pas aucunement",
+        "aucun"
+      ],
+      "answer": 1,
+      "explanation": "Ne … nullement and ne … aucunement = not at all, in no way (formal).",
+      "textId": null
+    },
+    {
+      "id": "c1-fine_negation-027",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "fine_negation",
+      "question": "Il n’est ___ responsable de cet accident.",
+      "options": [
+        "aucun",
+        "personne",
+        "nullement",
+        "ni"
+      ],
+      "answer": 2,
+      "explanation": "Ne … nullement and ne … aucunement = not at all, in no way (formal).",
+      "textId": null
+    },
+    {
+      "id": "c1-fine_negation-028",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "fine_negation",
+      "question": "« Je ne suis nullement fâché. » Cela signifie :",
+      "options": [
+        "Je suis un peu fâché.",
+        "Je suis très fâché.",
+        "Je ne suis plus fâché.",
+        "Je ne suis pas du tout fâché."
+      ],
+      "answer": 3,
+      "explanation": "Ne … nullement and ne … aucunement = not at all, in no way (formal).",
+      "textId": null
+    },
+    {
+      "id": "c1-fine_negation-029",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "fine_negation",
+      "question": "« Je ne saurais vous répondre. » Cela signifie :",
+      "options": [
+        "Je ne peux pas vous répondre.",
+        "Je sais vous répondre.",
+        "Je ne veux pas vous répondre.",
+        "Je vous répondrai plus tard."
+      ],
+      "answer": 0,
+      "explanation": "In formal French, ne can be used alone, without pas, with pouvoir, savoir, oser and cesser: je ne saurais vous dire, il ne cesse de pleuvoir.",
+      "textId": null
+    },
+    {
+      "id": "c1-fine_negation-030",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "fine_negation",
+      "question": "« Il ne cesse de pleuvoir. » Cela signifie :",
+      "options": [
+        "Il ne pleut plus.",
+        "Il pleut sans arrêt.",
+        "Il ne pleut jamais.",
+        "Il va bientôt pleuvoir."
+      ],
+      "answer": 1,
+      "explanation": "In formal French, ne can be used alone, without pas, with pouvoir, savoir, oser and cesser: je ne saurais vous dire, il ne cesse de pleuvoir.",
+      "textId": null
+    },
+    {
+      "id": "c1-fine_negation-031",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "fine_negation",
+      "question": "« Je n’ose le lui dire. » Cela signifie :",
+      "options": [
+        "J’ose le lui dire.",
+        "Je refuse de le lui dire.",
+        "Je n’ose pas le lui dire.",
+        "Je le lui ai déjà dit."
+      ],
+      "answer": 2,
+      "explanation": "In formal French, ne can be used alone, without pas, with pouvoir, savoir, oser and cesser: je ne saurais vous dire, il ne cesse de pleuvoir.",
+      "textId": null
+    },
+    {
+      "id": "c1-fine_negation-032",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "fine_negation",
+      "question": "« On ne peut tout prévoir. » Dans la langue courante, on dirait :",
+      "options": [
+        "On peut tout prévoir.",
+        "On ne peut rien prévoir.",
+        "On ne peut plus prévoir.",
+        "On ne peut pas tout prévoir."
+      ],
+      "answer": 3,
+      "explanation": "In formal French, ne can be used alone, without pas, with pouvoir, savoir, oser and cesser: je ne saurais vous dire, il ne cesse de pleuvoir.",
+      "textId": null
+    },
+    {
+      "id": "c1-fine_negation-033",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "fine_negation",
+      "question": "« Je ne sais que faire. » Cela signifie :",
+      "options": [
+        "Je ne sais pas quoi faire.",
+        "Je sais seulement faire.",
+        "Je sais quoi faire.",
+        "Je ne fais rien."
+      ],
+      "answer": 0,
+      "explanation": "In formal French, ne can be used alone, without pas, with pouvoir, savoir, oser and cesser: je ne saurais vous dire, il ne cesse de pleuvoir.",
+      "textId": null
+    },
+    {
+      "id": "c1-fine_negation-034",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "fine_negation",
+      "question": "Je ne bois ___ thé ___ café.",
+      "options": [
+        "pas / ni",
+        "ni / ni",
+        "ni / pas",
+        "ou / ou"
+      ],
+      "answer": 1,
+      "explanation": "Ne … ni … ni = neither … nor. There is no pas, and the partitive or indefinite article disappears: je ne bois ni thé ni café.",
+      "textId": null
+    },
+    {
+      "id": "c1-fine_negation-035",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "fine_negation",
+      "question": "Il n’a ___ frère ___ sœur.",
+      "options": [
+        "pas de / ni de",
+        "ni un / ni une",
+        "ni / ni",
+        "pas / pas"
+      ],
+      "answer": 2,
+      "explanation": "Ne … ni … ni = neither … nor. There is no pas, and the partitive or indefinite article disappears: je ne bois ni thé ni café.",
+      "textId": null
+    },
+    {
+      "id": "c1-fine_negation-036",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "fine_negation",
+      "question": "Elle ne veut ___ manger ___ boire.",
+      "options": [
+        "pas / pas",
+        "ni / ou",
+        "ou / ni",
+        "ni / ni"
+      ],
+      "answer": 3,
+      "explanation": "Ne … ni … ni = neither … nor. There is no pas, and the partitive or indefinite article disappears: je ne bois ni thé ni café.",
+      "textId": null
+    },
+    {
+      "id": "c1-fine_negation-037",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "fine_negation",
+      "question": "___ Paul ___ Marie ne sont venus.",
+      "options": [
+        "Ni / ni",
+        "Pas / ni",
+        "Ou / ou",
+        "Ni / ou"
+      ],
+      "answer": 0,
+      "explanation": "Ne … ni … ni = neither … nor. There is no pas, and the partitive or indefinite article disappears: je ne bois ni thé ni café.",
+      "textId": null
+    },
+    {
+      "id": "c1-fine_negation-038",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "fine_negation",
+      "question": "Je n’aime ni le froid ___ la pluie.",
+      "options": [
+        "ou",
+        "ni",
+        "et",
+        "pas"
+      ],
+      "answer": 1,
+      "explanation": "Ne … ni … ni = neither … nor. There is no pas, and the partitive or indefinite article disappears: je ne bois ni thé ni café.",
+      "textId": null
+    },
+    {
+      "id": "c1-fine_negation-039",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "fine_negation",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "Il ne mange pas ni viande ni poisson.",
+        "Il ne mange ni de la viande ni du poisson.",
+        "Il ne mange ni viande ni poisson.",
+        "Il mange ni viande ni poisson pas."
+      ],
+      "answer": 2,
+      "explanation": "Ne … ni … ni = neither … nor. There is no pas, and the partitive or indefinite article disappears: je ne bois ni thé ni café.",
+      "textId": null
+    },
+    {
+      "id": "c1-fine_negation-040",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "fine_negation",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "Elle ne sait pas ni lire ni écrire.",
+        "Elle ne sait ni lire pas écrire.",
+        "Elle sait ne ni lire ni écrire.",
+        "Elle ne sait ni lire ni écrire."
+      ],
+      "answer": 3,
+      "explanation": "Ne … ni … ni = neither … nor. There is no pas, and the partitive or indefinite article disappears: je ne bois ni thé ni café.",
+      "textId": null
+    },
+    {
+      "id": "c1-fine_negation-041",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "fine_negation",
+      "question": "___ étudiant n’a réussi cet exercice.",
+      "options": [
+        "Aucun",
+        "Aucuns",
+        "Aucune",
+        "Pas un de"
+      ],
+      "answer": 0,
+      "explanation": "Aucun(e) … ne = no, not any. It is singular, agrees in gender, and is used without pas.",
+      "textId": null
+    },
+    {
+      "id": "c1-fine_negation-042",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "fine_negation",
+      "question": "Je n’ai ___ idée de ce qu’il veut.",
+      "options": [
+        "aucun",
+        "aucune",
+        "aucunes",
+        "pas aucune"
+      ],
+      "answer": 1,
+      "explanation": "Aucun(e) … ne = no, not any. It is singular, agrees in gender, and is used without pas.",
+      "textId": null
+    },
+    {
+      "id": "c1-fine_negation-043",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "fine_negation",
+      "question": "Il n’y a ___ doute.",
+      "options": [
+        "aucune",
+        "aucuns",
+        "aucun",
+        "pas aucun"
+      ],
+      "answer": 2,
+      "explanation": "Aucun(e) … ne = no, not any. It is singular, agrees in gender, and is used without pas.",
+      "textId": null
+    },
+    {
+      "id": "c1-fine_negation-044",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "fine_negation",
+      "question": "___ de ces solutions ne me convient.",
+      "options": [
+        "Aucun",
+        "Aucunes",
+        "Pas aucune",
+        "Aucune"
+      ],
+      "answer": 3,
+      "explanation": "Aucun(e) … ne = no, not any. It is singular, agrees in gender, and is used without pas.",
+      "textId": null
+    },
+    {
+      "id": "c1-fine_negation-045",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "fine_negation",
+      "question": "Elle n’a fait ___ effort.",
+      "options": [
+        "aucun",
+        "aucune",
+        "aucuns",
+        "pas aucun"
+      ],
+      "answer": 0,
+      "explanation": "Aucun(e) … ne = no, not any. It is singular, agrees in gender, and is used without pas.",
+      "textId": null
+    },
+    {
+      "id": "c1-fine_negation-046",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "fine_negation",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "Aucun train ne part pas ce soir.",
+        "Aucun train ne part ce soir.",
+        "Aucun train part pas ce soir.",
+        "Aucuns trains ne partent ce soir."
+      ],
+      "answer": 1,
+      "explanation": "Aucun(e) … ne = no, not any. It is singular, agrees in gender, and is used without pas.",
+      "textId": null
+    },
+    {
+      "id": "c1-fine_negation-047",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "fine_negation",
+      "question": "Je ne veux ___ le voir.",
+      "options": [
+        "pas jamais",
+        "jamais pas",
+        "plus jamais",
+        "pas plus"
+      ],
+      "answer": 2,
+      "explanation": "Negative words can be combined (plus jamais, plus rien, jamais personne, plus personne), but never with pas.",
+      "textId": null
+    },
+    {
+      "id": "c1-fine_negation-048",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "fine_negation",
+      "question": "Il n’y a ___ à faire.",
+      "options": [
+        "pas rien",
+        "rien pas",
+        "pas plus rien",
+        "plus rien"
+      ],
+      "answer": 3,
+      "explanation": "Negative words can be combined (plus jamais, plus rien, jamais personne, plus personne), but never with pas.",
+      "textId": null
+    },
+    {
+      "id": "c1-fine_negation-049",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "fine_negation",
+      "question": "Elle ne dit ___ à ___.",
+      "options": [
+        "jamais rien / personne",
+        "pas rien / personne",
+        "jamais pas / personne",
+        "rien pas / jamais"
+      ],
+      "answer": 0,
+      "explanation": "Negative words can be combined (plus jamais, plus rien, jamais personne, plus personne), but never with pas.",
+      "textId": null
+    },
+    {
+      "id": "c1-fine_negation-050",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "fine_negation",
+      "question": "Depuis son départ, je ne vois ___.",
+      "options": [
+        "pas personne",
+        "plus personne",
+        "personne pas",
+        "pas plus personne"
+      ],
+      "answer": 1,
+      "explanation": "Negative words can be combined (plus jamais, plus rien, jamais personne, plus personne), but never with pas.",
+      "textId": null
+    },
+    {
+      "id": "c1-fine_negation-051",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "fine_negation",
+      "question": "Il n’a ___ compris à cette histoire.",
+      "options": [
+        "pas rien",
+        "rien pas",
+        "jamais rien",
+        "pas jamais"
+      ],
+      "answer": 2,
+      "explanation": "Negative words can be combined (plus jamais, plus rien, jamais personne, plus personne), but never with pas.",
+      "textId": null
+    },
+    {
+      "id": "c1-fine_negation-052",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "fine_negation",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "Je n’ai pas plus jamais entendu parler de lui.",
+        "Je n’ai plus pas jamais entendu parler de lui.",
+        "J’ai plus jamais pas entendu parler de lui.",
+        "Je n’ai plus jamais entendu parler de lui."
+      ],
+      "answer": 3,
+      "explanation": "Negative words can be combined (plus jamais, plus rien, jamais personne, plus personne), but never with pas.",
+      "textId": null
+    },
+    {
+      "id": "c1-fine_negation-053",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "fine_negation",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "Personne n’a jamais rien dit.",
+        "Personne n’a pas jamais rien dit.",
+        "Personne a jamais pas rien dit.",
+        "Personne ne pas a jamais rien dit."
+      ],
+      "answer": 0,
+      "explanation": "Negative words can be combined (plus jamais, plus rien, jamais personne, plus personne), but never with pas.",
+      "textId": null
+    },
+    {
+      "id": "c1-fine_negation-054",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "fine_negation",
+      "question": "Il est parti sans ___ dire.",
+      "options": [
+        "ne rien",
+        "rien",
+        "pas rien",
+        "quelque chose pas"
+      ],
+      "answer": 1,
+      "explanation": "After sans and sans que, use jamais, rien, personne, aucun without ne: sans rien dire.",
+      "textId": null
+    },
+    {
+      "id": "c1-fine_negation-055",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "fine_negation",
+      "question": "Elle a réussi sans ___ aide.",
+      "options": [
+        "n’aucune",
+        "pas d’",
+        "aucune",
+        "pas aucune"
+      ],
+      "answer": 2,
+      "explanation": "After sans and sans que, use jamais, rien, personne, aucun without ne: sans rien dire.",
+      "textId": null
+    },
+    {
+      "id": "c1-fine_negation-056",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "fine_negation",
+      "question": "Il travaille sans ___ se plaindre.",
+      "options": [
+        "ne jamais",
+        "pas jamais",
+        "toujours pas",
+        "jamais"
+      ],
+      "answer": 3,
+      "explanation": "After sans and sans que, use jamais, rien, personne, aucun without ne: sans rien dire.",
+      "textId": null
+    },
+    {
+      "id": "c1-fine_negation-057",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "fine_negation",
+      "question": "Il est entré sans que ___ le voie.",
+      "options": [
+        "personne",
+        "personne ne",
+        "pas personne",
+        "quelqu’un ne"
+      ],
+      "answer": 0,
+      "explanation": "After sans and sans que, use jamais, rien, personne, aucun without ne: sans rien dire.",
+      "textId": null
+    },
+    {
+      "id": "c1-fine_negation-058",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "fine_negation",
+      "question": "Elle a tout fait sans l’aide de ___.",
+      "options": [
+        "ne personne",
+        "personne",
+        "pas personne",
+        "aucune"
+      ],
+      "answer": 1,
+      "explanation": "After sans and sans que, use jamais, rien, personne, aucun without ne: sans rien dire.",
+      "textId": null
+    },
+    {
+      "id": "c1-fine_negation-059",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "fine_negation",
+      "question": "Je n’ai ___ dix minutes à vous accorder.",
+      "options": [
+        "pas que de",
+        "seulement que",
+        "que",
+        "rien"
+      ],
+      "answer": 2,
+      "explanation": "Ne … que = only. It restricts, so the article is kept: je n’ai que des problèmes.",
+      "textId": null
+    },
+    {
+      "id": "c1-fine_negation-060",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "fine_negation",
+      "question": "Il ne pense ___ à son travail.",
+      "options": [
+        "guère qu’",
+        "seulement qu’",
+        "rien",
+        "qu’"
+      ],
+      "answer": 3,
+      "explanation": "Ne … que = only. It restricts, so the article is kept: je n’ai que des problèmes.",
+      "textId": null
+    },
+    {
+      "id": "c1-fine_negation-061",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "fine_negation",
+      "question": "Elle n’a ___ des ennuis depuis qu’elle habite là.",
+      "options": [
+        "que",
+        "pas",
+        "plus",
+        "de"
+      ],
+      "answer": 0,
+      "explanation": "Ne … que = only. It restricts, so the article is kept: je n’ai que des problèmes.",
+      "textId": null
+    },
+    {
+      "id": "c1-fine_negation-062",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "fine_negation",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "Je n’ai que de problèmes.",
+        "Je n’ai que des problèmes.",
+        "Je n’ai pas que de problèmes.",
+        "Je n’ai que pas des problèmes."
+      ],
+      "answer": 1,
+      "explanation": "Ne … que = only. It restricts, so the article is kept: je n’ai que des problèmes.",
+      "textId": null
+    },
+    {
+      "id": "c1-fine_negation-063",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "fine_negation",
+      "question": "« Il n’y a pas que toi qui travailles. » Cela signifie :",
+      "options": [
+        "Tu es le seul à travailler.",
+        "Personne ne travaille.",
+        "D’autres personnes travaillent aussi.",
+        "Tu ne travailles pas."
+      ],
+      "answer": 2,
+      "explanation": "Ne … pas que = not only. It is the negative of ne … que.",
+      "textId": null
+    },
+    {
+      "id": "c1-fine_negation-064",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "fine_negation",
+      "question": "Je n’aime pas ce film. — Moi ___.",
+      "options": [
+        "aussi",
+        "pas aussi",
+        "ni",
+        "non plus"
+      ],
+      "answer": 3,
+      "explanation": "Non plus = neither / not either, after a negative sentence. Aussi is only for positive sentences.",
+      "textId": null
+    },
+    {
+      "id": "c1-fine_negation-065",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "fine_negation",
+      "question": "Elle ne viendra pas, et son frère ___.",
+      "options": [
+        "non plus",
+        "aussi",
+        "pas aussi",
+        "ni plus"
+      ],
+      "answer": 0,
+      "explanation": "Non plus = neither / not either, after a negative sentence. Aussi is only for positive sentences.",
+      "textId": null
+    },
+    {
+      "id": "c1-fine_negation-066",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "fine_negation",
+      "question": "J’adore ce film. — Moi ___.",
+      "options": [
+        "non plus",
+        "aussi",
+        "ni",
+        "pas"
+      ],
+      "answer": 1,
+      "explanation": "Non plus = neither / not either, after a negative sentence. Aussi is only for positive sentences.",
+      "textId": null
+    },
+    {
+      "id": "c1-fine_negation-067",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "fine_negation",
+      "question": "Je n’y comprends rien. — Nous ___.",
+      "options": [
+        "aussi",
+        "ni",
+        "non plus",
+        "pas aussi"
+      ],
+      "answer": 2,
+      "explanation": "Non plus = neither / not either, after a negative sentence. Aussi is only for positive sentences.",
+      "textId": null
+    },
+    {
+      "id": "c1-fine_negation-068",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "fine_negation",
+      "question": "Si ___ tu passes par Lyon, viens me voir.",
+      "options": [
+        "ne jamais",
+        "pas jamais",
+        "toujours",
+        "jamais"
+      ],
+      "answer": 3,
+      "explanation": "Used without ne, jamais can mean \"ever\" and personne / rien \"anyone / anything\", in questions, comparisons or after si: si jamais tu viens.",
+      "textId": null
+    },
+    {
+      "id": "c1-fine_negation-069",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "fine_negation",
+      "question": "C’est le plus beau paysage que j’aie ___ vu.",
+      "options": [
+        "jamais",
+        "ne jamais",
+        "pas",
+        "point"
+      ],
+      "answer": 0,
+      "explanation": "Used without ne, jamais can mean \"ever\" and personne / rien \"anyone / anything\", in questions, comparisons or after si: si jamais tu viens.",
+      "textId": null
+    },
+    {
+      "id": "c1-fine_negation-070",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "fine_negation",
+      "question": "As-tu ___ vu un film aussi long ?",
+      "options": [
+        "ne jamais",
+        "jamais",
+        "pas jamais",
+        "rien"
+      ],
+      "answer": 1,
+      "explanation": "Used without ne, jamais can mean \"ever\" and personne / rien \"anyone / anything\", in questions, comparisons or after si: si jamais tu viens.",
+      "textId": null
+    },
+    {
+      "id": "c1-fine_negation-071",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "fine_negation",
+      "question": "Elle chante mieux que ___.",
+      "options": [
+        "ne personne",
+        "pas personne",
+        "personne",
+        "aucun ne"
+      ],
+      "answer": 2,
+      "explanation": "Used without ne, jamais can mean \"ever\" and personne / rien \"anyone / anything\", in questions, comparisons or after si: si jamais tu viens.",
+      "textId": null
+    },
+    {
+      "id": "c1-fine_negation-072",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "fine_negation",
+      "question": "Il est parti avant que ___ ait pu réagir.",
+      "options": [
+        "ne personne",
+        "pas personne",
+        "quelqu’un ne",
+        "personne"
+      ],
+      "answer": 3,
+      "explanation": "Used without ne, jamais can mean \"ever\" and personne / rien \"anyone / anything\", in questions, comparisons or after si: si jamais tu viens.",
+      "textId": null
+    },
+    {
+      "id": "c1-fine_negation-073",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "fine_negation",
+      "question": "Je doute que ___ puisse l’aider.",
+      "options": [
+        "personne",
+        "ne personne",
+        "pas personne",
+        "aucune"
+      ],
+      "answer": 0,
+      "explanation": "Used without ne, jamais can mean \"ever\" and personne / rien \"anyone / anything\", in questions, comparisons or after si: si jamais tu viens.",
+      "textId": null
+    },
+    {
+      "id": "c1-fine_negation-074",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "fine_negation",
+      "question": "Y a-t-il ___ de plus beau ?",
+      "options": [
+        "ne rien",
+        "rien",
+        "pas rien",
+        "aucun"
+      ],
+      "answer": 1,
+      "explanation": "Used without ne, jamais can mean \"ever\" and personne / rien \"anyone / anything\", in questions, comparisons or after si: si jamais tu viens.",
+      "textId": null
+    },
+    {
+      "id": "c1-fine_negation-075",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "fine_negation",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "Ne déranger pas.",
+        "Pas ne déranger.",
+        "Ne pas déranger.",
+        "Ne pas dérangez."
+      ],
+      "answer": 2,
+      "explanation": "With an infinitive, both parts of the negation go together in front: ne pas déranger.",
+      "textId": null
+    },
+    {
+      "id": "c1-fine_negation-076",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "fine_negation",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "Il dit ne jamais avoir pas menti.",
+        "Il dit avoir ne jamais menti.",
+        "Il dit jamais n’avoir pas menti.",
+        "Il dit n’avoir jamais menti."
+      ],
+      "answer": 3,
+      "explanation": "With an infinitif passé, the negation can go around the auxiliary: n’avoir jamais menti (or ne jamais avoir menti).",
+      "textId": null
+    },
+    {
+      "id": "c1-fine_negation-077",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "fine_negation",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "Je préfère ne rien dire.",
+        "Je préfère ne dire rien.",
+        "Je préfère rien ne dire.",
+        "Je préfère ne pas rien dire."
+      ],
+      "answer": 0,
+      "explanation": "With an infinitive, ne rien goes together in front of it: ne rien dire.",
+      "textId": null
+    },
+    {
+      "id": "c1-fine_negation-078",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "fine_negation",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "Il a promis de ne personne voir.",
+        "Il a promis de ne voir personne.",
+        "Il a promis de personne ne voir.",
+        "Il a promis de ne pas voir personne."
+      ],
+      "answer": 1,
+      "explanation": "With an infinitive, personne goes after the verb: ne voir personne.",
+      "textId": null
+    },
+    {
+      "id": "c1-fine_negation-079",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "fine_negation",
+      "question": "Ce n’est pas qu’il ___ méchant, mais il est maladroit.",
+      "options": [
+        "est",
+        "sera",
+        "soit",
+        "serait"
+      ],
+      "answer": 2,
+      "explanation": "Ce n’est pas que (it’s not that) takes the subjunctive.",
+      "textId": null
+    },
+    {
+      "id": "c1-fine_negation-080",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "fine_negation",
+      "question": "Il n’est pas sans ___ que la situation est grave.",
+      "options": [
+        "ignorer",
+        "ne savoir",
+        "pas savoir",
+        "savoir"
+      ],
+      "answer": 3,
+      "explanation": "Vous n’êtes pas sans savoir = you are well aware. The common mistake is \"sans ignorer\", which would mean the opposite.",
+      "textId": null
+    }
+  ]
+}

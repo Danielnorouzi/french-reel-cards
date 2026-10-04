@@ -1,0 +1,1317 @@
+{
+  "texts": [],
+  "questions": [
+    {
+      "id": "c1-mise_en_relief-001",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "mise_en_relief",
+      "question": "C’est moi qui ___ raison.",
+      "options": [
+        "ai",
+        "a",
+        "as",
+        "est"
+      ],
+      "answer": 0,
+      "explanation": "C’est … qui highlights the subject. The verb agrees with the highlighted word: c’est moi qui ai, c’est nous qui sommes. Here: ai.",
+      "textId": null
+    },
+    {
+      "id": "c1-mise_en_relief-002",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "mise_en_relief",
+      "question": "C’est toi qui ___ gagné.",
+      "options": [
+        "a",
+        "as",
+        "ai",
+        "est"
+      ],
+      "answer": 1,
+      "explanation": "C’est … qui highlights the subject. The verb agrees with the highlighted word: c’est moi qui ai, c’est nous qui sommes. Here: as.",
+      "textId": null
+    },
+    {
+      "id": "c1-mise_en_relief-003",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "mise_en_relief",
+      "question": "C’est nous qui ___ les premiers.",
+      "options": [
+        "sont",
+        "êtes",
+        "sommes",
+        "est"
+      ],
+      "answer": 2,
+      "explanation": "C’est … qui highlights the subject. The verb agrees with the highlighted word: c’est moi qui ai, c’est nous qui sommes. Here: sommes.",
+      "textId": null
+    },
+    {
+      "id": "c1-mise_en_relief-004",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "mise_en_relief",
+      "question": "C’est vous qui ___ décider.",
+      "options": [
+        "doit",
+        "doivent",
+        "devons",
+        "devez"
+      ],
+      "answer": 3,
+      "explanation": "C’est … qui highlights the subject. The verb agrees with the highlighted word: c’est moi qui ai, c’est nous qui sommes. Here: devez.",
+      "textId": null
+    },
+    {
+      "id": "c1-mise_en_relief-005",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "mise_en_relief",
+      "question": "C’est elle qui ___ ce gâteau.",
+      "options": [
+        "a fait",
+        "ai fait",
+        "as fait",
+        "ont fait"
+      ],
+      "answer": 0,
+      "explanation": "C’est … qui highlights the subject. The verb agrees with the highlighted word: c’est moi qui ai, c’est nous qui sommes. Here: a fait.",
+      "textId": null
+    },
+    {
+      "id": "c1-mise_en_relief-006",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "mise_en_relief",
+      "question": "Ce sont eux qui ___ la vérité.",
+      "options": [
+        "connaît",
+        "connaissent",
+        "connaissons",
+        "connais"
+      ],
+      "answer": 1,
+      "explanation": "C’est … qui highlights the subject. The verb agrees with the highlighted word: c’est moi qui ai, c’est nous qui sommes. Here: connaissent.",
+      "textId": null
+    },
+    {
+      "id": "c1-mise_en_relief-007",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "mise_en_relief",
+      "question": "C’est moi qui ___ responsable.",
+      "options": [
+        "est",
+        "es",
+        "suis",
+        "sont"
+      ],
+      "answer": 2,
+      "explanation": "C’est … qui highlights the subject. The verb agrees with the highlighted word: c’est moi qui ai, c’est nous qui sommes. Here: suis.",
+      "textId": null
+    },
+    {
+      "id": "c1-mise_en_relief-008",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "mise_en_relief",
+      "question": "C’est toi qui ___ le dire.",
+      "options": [
+        "va",
+        "vais",
+        "vont",
+        "vas"
+      ],
+      "answer": 3,
+      "explanation": "C’est … qui highlights the subject. The verb agrees with the highlighted word: c’est moi qui ai, c’est nous qui sommes. Here: vas.",
+      "textId": null
+    },
+    {
+      "id": "c1-mise_en_relief-009",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "mise_en_relief",
+      "question": "C’est Paul et moi qui ___ ce projet.",
+      "options": [
+        "avons lancé",
+        "a lancé",
+        "ont lancé",
+        "ai lancé"
+      ],
+      "answer": 0,
+      "explanation": "Paul et moi = nous, so the verb is in the nous form: avons lancé.",
+      "textId": null
+    },
+    {
+      "id": "c1-mise_en_relief-010",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "mise_en_relief",
+      "question": "C’est mon frère ___ m’a appris à nager.",
+      "options": [
+        "que",
+        "qui",
+        "dont",
+        "où"
+      ],
+      "answer": 1,
+      "explanation": "C’est … qui highlights the subject. The verb agrees with the highlighted word: c’est moi qui ai, c’est nous qui sommes. Here: qui.",
+      "textId": null
+    },
+    {
+      "id": "c1-mise_en_relief-011",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "mise_en_relief",
+      "question": "C’est Marie ___ a téléphoné.",
+      "options": [
+        "que",
+        "dont",
+        "qui",
+        "à qui"
+      ],
+      "answer": 2,
+      "explanation": "C’est … qui highlights the subject. The verb agrees with the highlighted word: c’est moi qui ai, c’est nous qui sommes. Here: qui.",
+      "textId": null
+    },
+    {
+      "id": "c1-mise_en_relief-012",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "mise_en_relief",
+      "question": "C’est le bruit ___ m’a réveillé.",
+      "options": [
+        "que",
+        "dont",
+        "où",
+        "qui"
+      ],
+      "answer": 3,
+      "explanation": "C’est … qui highlights the subject. The verb agrees with the highlighted word: c’est moi qui ai, c’est nous qui sommes. Here: qui.",
+      "textId": null
+    },
+    {
+      "id": "c1-mise_en_relief-013",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "mise_en_relief",
+      "question": "C’est ce livre ___ je cherche.",
+      "options": [
+        "que",
+        "qui",
+        "dont",
+        "où"
+      ],
+      "answer": 0,
+      "explanation": "C’est … que highlights anything other than the subject: an object, a place, a time, a manner, a cause.",
+      "textId": null
+    },
+    {
+      "id": "c1-mise_en_relief-014",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "mise_en_relief",
+      "question": "C’est Paul ___ j’ai vu hier.",
+      "options": [
+        "qui",
+        "que",
+        "dont",
+        "à qui"
+      ],
+      "answer": 1,
+      "explanation": "C’est … que highlights anything other than the subject: an object, a place, a time, a manner, a cause.",
+      "textId": null
+    },
+    {
+      "id": "c1-mise_en_relief-015",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "mise_en_relief",
+      "question": "C’est demain ___ nous partons.",
+      "options": [
+        "qui",
+        "quand",
+        "que",
+        "où"
+      ],
+      "answer": 2,
+      "explanation": "C’est … que highlights anything other than the subject: an object, a place, a time, a manner, a cause.",
+      "textId": null
+    },
+    {
+      "id": "c1-mise_en_relief-016",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "mise_en_relief",
+      "question": "C’est à Paris ___ je l’ai rencontré.",
+      "options": [
+        "où",
+        "qui",
+        "dont",
+        "que"
+      ],
+      "answer": 3,
+      "explanation": "When the highlighted element has a preposition, the preposition stays with it, and the second part is always que: c’est à lui que je parle, c’est de ça que je parle.",
+      "textId": null
+    },
+    {
+      "id": "c1-mise_en_relief-017",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "mise_en_relief",
+      "question": "C’est ici ___ j’ai grandi.",
+      "options": [
+        "que",
+        "qui",
+        "dont",
+        "à qui"
+      ],
+      "answer": 0,
+      "explanation": "C’est … que highlights anything other than the subject: an object, a place, a time, a manner, a cause.",
+      "textId": null
+    },
+    {
+      "id": "c1-mise_en_relief-018",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "mise_en_relief",
+      "question": "C’est en 2019 ___ ils se sont mariés.",
+      "options": [
+        "où",
+        "qu’",
+        "qui",
+        "dont"
+      ],
+      "answer": 1,
+      "explanation": "When the highlighted element has a preposition, the preposition stays with it, and the second part is always que: c’est à lui que je parle, c’est de ça que je parle.",
+      "textId": null
+    },
+    {
+      "id": "c1-mise_en_relief-019",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "mise_en_relief",
+      "question": "C’est pour toi ___ j’ai fait ça.",
+      "options": [
+        "qui",
+        "pour qui",
+        "que",
+        "dont"
+      ],
+      "answer": 2,
+      "explanation": "When the highlighted element has a preposition, the preposition stays with it, and the second part is always que: c’est à lui que je parle, c’est de ça que je parle.",
+      "textId": null
+    },
+    {
+      "id": "c1-mise_en_relief-020",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "mise_en_relief",
+      "question": "C’est à lui ___ il faut parler.",
+      "options": [
+        "à qui",
+        "qui",
+        "dont",
+        "qu’"
+      ],
+      "answer": 3,
+      "explanation": "When the highlighted element has a preposition, the preposition stays with it, and the second part is always que: c’est à lui que je parle, c’est de ça que je parle.",
+      "textId": null
+    },
+    {
+      "id": "c1-mise_en_relief-021",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "mise_en_relief",
+      "question": "C’est de ce film ___ je te parlais.",
+      "options": [
+        "que",
+        "dont",
+        "de qui",
+        "duquel"
+      ],
+      "answer": 0,
+      "explanation": "When the highlighted element has a preposition, the preposition stays with it, and the second part is always que: c’est à lui que je parle, c’est de ça que je parle.",
+      "textId": null
+    },
+    {
+      "id": "c1-mise_en_relief-022",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "mise_en_relief",
+      "question": "C’est avec elle ___ je travaille.",
+      "options": [
+        "avec qui",
+        "que",
+        "qui",
+        "dont"
+      ],
+      "answer": 1,
+      "explanation": "When the highlighted element has a preposition, the preposition stays with it, and the second part is always que: c’est à lui que je parle, c’est de ça que je parle.",
+      "textId": null
+    },
+    {
+      "id": "c1-mise_en_relief-023",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "mise_en_relief",
+      "question": "C’est grâce à vous ___ j’ai réussi.",
+      "options": [
+        "à qui",
+        "qui",
+        "que",
+        "dont"
+      ],
+      "answer": 2,
+      "explanation": "When the highlighted element has a preposition, the preposition stays with it, and the second part is always que: c’est à lui que je parle, c’est de ça que je parle.",
+      "textId": null
+    },
+    {
+      "id": "c1-mise_en_relief-024",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "mise_en_relief",
+      "question": "C’est à cause de la pluie ___ nous sommes en retard.",
+      "options": [
+        "dont",
+        "qui",
+        "de laquelle",
+        "que"
+      ],
+      "answer": 3,
+      "explanation": "When the highlighted element has a preposition, the preposition stays with it, and the second part is always que: c’est à lui que je parle, c’est de ça que je parle.",
+      "textId": null
+    },
+    {
+      "id": "c1-mise_en_relief-025",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "mise_en_relief",
+      "question": "C’est de lui ___ tout dépend.",
+      "options": [
+        "que",
+        "dont",
+        "de qui",
+        "qui"
+      ],
+      "answer": 0,
+      "explanation": "When the highlighted element has a preposition, the preposition stays with it, and the second part is always que: c’est à lui que je parle, c’est de ça que je parle.",
+      "textId": null
+    },
+    {
+      "id": "c1-mise_en_relief-026",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "mise_en_relief",
+      "question": "C’est ainsi ___ les choses se sont passées.",
+      "options": [
+        "qui",
+        "que",
+        "comme",
+        "dont"
+      ],
+      "answer": 1,
+      "explanation": "C’est … que highlights anything other than the subject: an object, a place, a time, a manner, a cause.",
+      "textId": null
+    },
+    {
+      "id": "c1-mise_en_relief-027",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "mise_en_relief",
+      "question": "C’est en travaillant ___ on progresse.",
+      "options": [
+        "qui",
+        "où",
+        "qu’",
+        "dont"
+      ],
+      "answer": 2,
+      "explanation": "C’est … que highlights anything other than the subject: an object, a place, a time, a manner, a cause.",
+      "textId": null
+    },
+    {
+      "id": "c1-mise_en_relief-028",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "mise_en_relief",
+      "question": "C’est à ce moment-là ___ j’ai compris.",
+      "options": [
+        "où",
+        "quand",
+        "qui",
+        "que"
+      ],
+      "answer": 3,
+      "explanation": "When the highlighted element has a preposition, the preposition stays with it, and the second part is always que: c’est à lui que je parle, c’est de ça que je parle.",
+      "textId": null
+    },
+    {
+      "id": "c1-mise_en_relief-029",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "mise_en_relief",
+      "question": "C’est parce qu’il était malade ___ il n’est pas venu.",
+      "options": [
+        "qu’",
+        "pourquoi",
+        "qui",
+        "dont"
+      ],
+      "answer": 0,
+      "explanation": "C’est … que highlights anything other than the subject: an object, a place, a time, a manner, a cause.",
+      "textId": null
+    },
+    {
+      "id": "c1-mise_en_relief-030",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "mise_en_relief",
+      "question": "C’est pour cela ___ je t’appelle.",
+      "options": [
+        "pourquoi",
+        "que",
+        "qui",
+        "dont"
+      ],
+      "answer": 1,
+      "explanation": "When the highlighted element has a preposition, the preposition stays with it, and the second part is always que: c’est à lui que je parle, c’est de ça que je parle.",
+      "textId": null
+    },
+    {
+      "id": "c1-mise_en_relief-031",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "mise_en_relief",
+      "question": "___ me plaît ici, c’est le calme.",
+      "options": [
+        "Ce que",
+        "Ce dont",
+        "Ce qui",
+        "Ce à quoi"
+      ],
+      "answer": 2,
+      "explanation": "Ce qui …, c’est … highlights the subject of the first verb: ce qui me plaît, c’est…",
+      "textId": null
+    },
+    {
+      "id": "c1-mise_en_relief-032",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "mise_en_relief",
+      "question": "___ m’inquiète, c’est son silence.",
+      "options": [
+        "Ce que",
+        "Ce dont",
+        "Ce à quoi",
+        "Ce qui"
+      ],
+      "answer": 3,
+      "explanation": "Ce qui …, c’est … highlights the subject of the first verb: ce qui me plaît, c’est…",
+      "textId": null
+    },
+    {
+      "id": "c1-mise_en_relief-033",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "mise_en_relief",
+      "question": "___ compte, c’est de participer.",
+      "options": [
+        "Ce qui",
+        "Ce que",
+        "Ce dont",
+        "Ce à quoi"
+      ],
+      "answer": 0,
+      "explanation": "Ce qui …, c’est … highlights the subject of the first verb: ce qui me plaît, c’est…",
+      "textId": null
+    },
+    {
+      "id": "c1-mise_en_relief-034",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "mise_en_relief",
+      "question": "___ est étonnant, c’est qu’il n’ait rien dit.",
+      "options": [
+        "Ce que",
+        "Ce qui",
+        "Ce dont",
+        "Ce à quoi"
+      ],
+      "answer": 1,
+      "explanation": "Ce qui …, c’est … highlights the subject of the first verb: ce qui me plaît, c’est…",
+      "textId": null
+    },
+    {
+      "id": "c1-mise_en_relief-035",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "mise_en_relief",
+      "question": "___ m’a surpris, c’est sa réaction.",
+      "options": [
+        "Ce que",
+        "Ce dont",
+        "Ce qui",
+        "Ce à quoi"
+      ],
+      "answer": 2,
+      "explanation": "Ce qui …, c’est … highlights the subject of the first verb: ce qui me plaît, c’est…",
+      "textId": null
+    },
+    {
+      "id": "c1-mise_en_relief-036",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "mise_en_relief",
+      "question": "___ ne va pas, c’est l’organisation.",
+      "options": [
+        "Ce que",
+        "Ce dont",
+        "Ce à quoi",
+        "Ce qui"
+      ],
+      "answer": 3,
+      "explanation": "Ce qui …, c’est … highlights the subject of the first verb: ce qui me plaît, c’est…",
+      "textId": null
+    },
+    {
+      "id": "c1-mise_en_relief-037",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "mise_en_relief",
+      "question": "___ j’aime chez lui, c’est sa franchise.",
+      "options": [
+        "Ce que",
+        "Ce qui",
+        "Ce dont",
+        "Ce à quoi"
+      ],
+      "answer": 0,
+      "explanation": "Ce que …, c’est … highlights the direct object of the first verb: ce que j’aime, c’est…",
+      "textId": null
+    },
+    {
+      "id": "c1-mise_en_relief-038",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "mise_en_relief",
+      "question": "___ je ne comprends pas, c’est son attitude.",
+      "options": [
+        "Ce qui",
+        "Ce que",
+        "Ce dont",
+        "Ce à quoi"
+      ],
+      "answer": 1,
+      "explanation": "Ce que …, c’est … highlights the direct object of the first verb: ce que j’aime, c’est…",
+      "textId": null
+    },
+    {
+      "id": "c1-mise_en_relief-039",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "mise_en_relief",
+      "question": "___ je veux, c’est la vérité.",
+      "options": [
+        "Ce qui",
+        "Ce dont",
+        "Ce que",
+        "Ce à quoi"
+      ],
+      "answer": 2,
+      "explanation": "Ce que …, c’est … highlights the direct object of the first verb: ce que j’aime, c’est…",
+      "textId": null
+    },
+    {
+      "id": "c1-mise_en_relief-040",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "mise_en_relief",
+      "question": "___ nous cherchons, c’est une solution durable.",
+      "options": [
+        "Ce qui",
+        "Ce dont",
+        "Ce à quoi",
+        "Ce que"
+      ],
+      "answer": 3,
+      "explanation": "Ce que …, c’est … highlights the direct object of the first verb: ce que j’aime, c’est…",
+      "textId": null
+    },
+    {
+      "id": "c1-mise_en_relief-041",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "mise_en_relief",
+      "question": "___ tu dis, c’est absurde.",
+      "options": [
+        "Ce que",
+        "Ce qui",
+        "Ce dont",
+        "Ce à quoi"
+      ],
+      "answer": 0,
+      "explanation": "Ce que …, c’est … highlights the direct object of the first verb: ce que j’aime, c’est…",
+      "textId": null
+    },
+    {
+      "id": "c1-mise_en_relief-042",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "mise_en_relief",
+      "question": "___ elle déteste, c’est le mensonge.",
+      "options": [
+        "Ce qui",
+        "Ce qu’",
+        "Ce dont",
+        "Ce à quoi"
+      ],
+      "answer": 1,
+      "explanation": "Ce que …, c’est … highlights the direct object of the first verb: ce que j’aime, c’est…",
+      "textId": null
+    },
+    {
+      "id": "c1-mise_en_relief-043",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "mise_en_relief",
+      "question": "___ j’ai besoin, c’est de repos.",
+      "options": [
+        "Ce que",
+        "Ce qui",
+        "Ce dont",
+        "Ce à quoi"
+      ],
+      "answer": 2,
+      "explanation": "Ce dont …, c’est … is used when the first verb takes de: ce dont j’ai besoin, c’est…",
+      "textId": null
+    },
+    {
+      "id": "c1-mise_en_relief-044",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "mise_en_relief",
+      "question": "___ j’ai envie, c’est de partir loin.",
+      "options": [
+        "Ce que",
+        "Ce qui",
+        "Ce à quoi",
+        "Ce dont"
+      ],
+      "answer": 3,
+      "explanation": "Ce dont …, c’est … is used when the first verb takes de: ce dont j’ai besoin, c’est…",
+      "textId": null
+    },
+    {
+      "id": "c1-mise_en_relief-045",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "mise_en_relief",
+      "question": "___ je me souviens, c’est de son sourire.",
+      "options": [
+        "Ce dont",
+        "Ce que",
+        "Ce qui",
+        "Ce à quoi"
+      ],
+      "answer": 0,
+      "explanation": "Ce dont …, c’est … is used when the first verb takes de: ce dont j’ai besoin, c’est…",
+      "textId": null
+    },
+    {
+      "id": "c1-mise_en_relief-046",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "mise_en_relief",
+      "question": "___ il a peur, c’est de l’échec.",
+      "options": [
+        "Ce que",
+        "Ce dont",
+        "Ce qui",
+        "Ce à quoi"
+      ],
+      "answer": 1,
+      "explanation": "Ce dont …, c’est … is used when the first verb takes de: ce dont j’ai besoin, c’est…",
+      "textId": null
+    },
+    {
+      "id": "c1-mise_en_relief-047",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "mise_en_relief",
+      "question": "___ nous parlons, c’est de l’avenir.",
+      "options": [
+        "Ce que",
+        "Ce qui",
+        "Ce dont",
+        "Ce à quoi"
+      ],
+      "answer": 2,
+      "explanation": "Ce dont …, c’est … is used when the first verb takes de: ce dont j’ai besoin, c’est…",
+      "textId": null
+    },
+    {
+      "id": "c1-mise_en_relief-048",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "mise_en_relief",
+      "question": "___ elle est fière, c’est de ses enfants.",
+      "options": [
+        "Ce que",
+        "Ce qui",
+        "Ce à quoi",
+        "Ce dont"
+      ],
+      "answer": 3,
+      "explanation": "Ce dont …, c’est … is used when the first verb takes de: ce dont j’ai besoin, c’est…",
+      "textId": null
+    },
+    {
+      "id": "c1-mise_en_relief-049",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "mise_en_relief",
+      "question": "___ je pense, c’est à mon avenir.",
+      "options": [
+        "Ce à quoi",
+        "Ce dont",
+        "Ce que",
+        "Ce qui"
+      ],
+      "answer": 0,
+      "explanation": "Ce à quoi …, c’est … is used when the first verb takes à: ce à quoi je pense, c’est…",
+      "textId": null
+    },
+    {
+      "id": "c1-mise_en_relief-050",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "mise_en_relief",
+      "question": "___ je tiens, c’est à ma liberté.",
+      "options": [
+        "Ce dont",
+        "Ce à quoi",
+        "Ce que",
+        "Ce qui"
+      ],
+      "answer": 1,
+      "explanation": "Ce à quoi …, c’est … is used when the first verb takes à: ce à quoi je pense, c’est…",
+      "textId": null
+    },
+    {
+      "id": "c1-mise_en_relief-051",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "mise_en_relief",
+      "question": "___ il s’intéresse, c’est à la musique.",
+      "options": [
+        "Ce dont",
+        "Ce que",
+        "Ce à quoi",
+        "Ce qui"
+      ],
+      "answer": 2,
+      "explanation": "Ce à quoi …, c’est … is used when the first verb takes à: ce à quoi je pense, c’est…",
+      "textId": null
+    },
+    {
+      "id": "c1-mise_en_relief-052",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "mise_en_relief",
+      "question": "___ je m’attendais, c’est à un refus.",
+      "options": [
+        "Ce dont",
+        "Ce que",
+        "Ce qui",
+        "Ce à quoi"
+      ],
+      "answer": 3,
+      "explanation": "Ce à quoi …, c’est … is used when the first verb takes à: ce à quoi je pense, c’est…",
+      "textId": null
+    },
+    {
+      "id": "c1-mise_en_relief-053",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "mise_en_relief",
+      "question": "___ nous réfléchissons, c’est à une autre solution.",
+      "options": [
+        "Ce à quoi",
+        "Ce dont",
+        "Ce que",
+        "Ce qui"
+      ],
+      "answer": 0,
+      "explanation": "Ce à quoi …, c’est … is used when the first verb takes à: ce à quoi je pense, c’est…",
+      "textId": null
+    },
+    {
+      "id": "c1-mise_en_relief-054",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "mise_en_relief",
+      "question": "Ce dont j’ai besoin, c’est ___ repos.",
+      "options": [
+        "du",
+        "de",
+        "à",
+        "le"
+      ],
+      "answer": 1,
+      "explanation": "When the first part uses dont (de), the highlighted noun is introduced by de: c’est de repos.",
+      "textId": null
+    },
+    {
+      "id": "c1-mise_en_relief-055",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "mise_en_relief",
+      "question": "Ce à quoi je pense, c’est ___ mes vacances.",
+      "options": [
+        "de",
+        "les",
+        "à",
+        "aux"
+      ],
+      "answer": 2,
+      "explanation": "When the first part uses à quoi, the highlighted noun is introduced by à: c’est à mes vacances.",
+      "textId": null
+    },
+    {
+      "id": "c1-mise_en_relief-056",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "mise_en_relief",
+      "question": "Ce que je veux, c’est ___ partir.",
+      "options": [
+        "à",
+        "pour",
+        "que",
+        "∅"
+      ],
+      "answer": 3,
+      "explanation": "When the highlighted element is an action, use ce que … c’est (de) + infinitive.",
+      "textId": null
+    },
+    {
+      "id": "c1-mise_en_relief-057",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "mise_en_relief",
+      "question": "Ce qui compte, c’est ___ essayer.",
+      "options": [
+        "d’",
+        "à",
+        "pour",
+        "qu’"
+      ],
+      "answer": 0,
+      "explanation": "When the highlighted element is an action, use ce que … c’est (de) + infinitive.",
+      "textId": null
+    },
+    {
+      "id": "c1-mise_en_relief-058",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "mise_en_relief",
+      "question": "Ce que je souhaite, c’est ___ tu sois heureux.",
+      "options": [
+        "de",
+        "que",
+        "qui",
+        "dont"
+      ],
+      "answer": 1,
+      "explanation": "When the highlighted element is a clause with its own subject, it is introduced by que: c’est que tu sois heureux.",
+      "textId": null
+    },
+    {
+      "id": "c1-mise_en_relief-059",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "mise_en_relief",
+      "question": "Ce qui m’étonne, c’est ___ il n’ait pas appelé.",
+      "options": [
+        "de",
+        "qui",
+        "qu’",
+        "dont"
+      ],
+      "answer": 2,
+      "explanation": "When the highlighted element is a clause with its own subject, it is introduced by que.",
+      "textId": null
+    },
+    {
+      "id": "c1-mise_en_relief-060",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "mise_en_relief",
+      "question": "___ mes parents qui ont payé.",
+      "options": [
+        "C’est eux",
+        "Ce est",
+        "Ils sont",
+        "Ce sont"
+      ],
+      "answer": 3,
+      "explanation": "Ce sont is used before a plural noun or eux / elles; c’est before moi, toi, lui, elle, nous, vous, and in everyday speech.",
+      "textId": null
+    },
+    {
+      "id": "c1-mise_en_relief-061",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "mise_en_relief",
+      "question": "___ eux qui ont commencé.",
+      "options": [
+        "Ce sont",
+        "Ils sont",
+        "Ce est",
+        "C’étaient à"
+      ],
+      "answer": 0,
+      "explanation": "Ce sont is used before a plural noun or eux / elles; c’est before moi, toi, lui, elle, nous, vous, and in everyday speech.",
+      "textId": null
+    },
+    {
+      "id": "c1-mise_en_relief-062",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "mise_en_relief",
+      "question": "___ nous qui avons gagné.",
+      "options": [
+        "Ce sont",
+        "C’est",
+        "Nous sommes",
+        "Ce est"
+      ],
+      "answer": 1,
+      "explanation": "Ce sont is used before a plural noun or eux / elles; c’est before moi, toi, lui, elle, nous, vous, and in everyday speech.",
+      "textId": null
+    },
+    {
+      "id": "c1-mise_en_relief-063",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "mise_en_relief",
+      "question": "___ les meilleurs moments de ma vie.",
+      "options": [
+        "Ils sont",
+        "Ce est",
+        "Ce sont",
+        "C’est à"
+      ],
+      "answer": 2,
+      "explanation": "Ce sont is used before a plural noun or eux / elles; c’est before moi, toi, lui, elle, nous, vous, and in everyday speech.",
+      "textId": null
+    },
+    {
+      "id": "c1-mise_en_relief-064",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "mise_en_relief",
+      "question": "Ce film, je ___ ai adoré.",
+      "options": [
+        "lui",
+        "en",
+        "y",
+        "l’"
+      ],
+      "answer": 3,
+      "explanation": "A noun placed at the start or end of the sentence for emphasis is picked up by a pronoun: ce film, je l’ai adoré.",
+      "textId": null
+    },
+    {
+      "id": "c1-mise_en_relief-065",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "mise_en_relief",
+      "question": "Les épinards, je ___ déteste.",
+      "options": [
+        "les",
+        "leur",
+        "en",
+        "y"
+      ],
+      "answer": 0,
+      "explanation": "A noun placed at the start or end of the sentence for emphasis is picked up by a pronoun: ce film, je l’ai adoré.",
+      "textId": null
+    },
+    {
+      "id": "c1-mise_en_relief-066",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "mise_en_relief",
+      "question": "À Paris, j’___ vais souvent.",
+      "options": [
+        "en",
+        "y",
+        "le",
+        "lui"
+      ],
+      "answer": 1,
+      "explanation": "A noun placed at the start or end of the sentence for emphasis is picked up by a pronoun: ce film, je l’ai adoré.",
+      "textId": null
+    },
+    {
+      "id": "c1-mise_en_relief-067",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "mise_en_relief",
+      "question": "Du café, j’___ bois trop.",
+      "options": [
+        "y",
+        "le",
+        "en",
+        "lui"
+      ],
+      "answer": 2,
+      "explanation": "A noun placed at the start or end of the sentence for emphasis is picked up by a pronoun: ce film, je l’ai adoré.",
+      "textId": null
+    },
+    {
+      "id": "c1-mise_en_relief-068",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "mise_en_relief",
+      "question": "Ta sœur, je ___ ai parlé hier.",
+      "options": [
+        "l’",
+        "en",
+        "y",
+        "lui"
+      ],
+      "answer": 3,
+      "explanation": "A noun placed at the start or end of the sentence for emphasis is picked up by a pronoun: ce film, je l’ai adoré.",
+      "textId": null
+    },
+    {
+      "id": "c1-mise_en_relief-069",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "mise_en_relief",
+      "question": "De ce problème, nous ___ avons déjà discuté.",
+      "options": [
+        "en",
+        "y",
+        "le",
+        "lui"
+      ],
+      "answer": 0,
+      "explanation": "A noun placed at the start or end of the sentence for emphasis is picked up by a pronoun: ce film, je l’ai adoré.",
+      "textId": null
+    },
+    {
+      "id": "c1-mise_en_relief-070",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "mise_en_relief",
+      "question": "Moi, ___ préfère rester ici.",
+      "options": [
+        "me",
+        "je",
+        "moi",
+        "c’est"
+      ],
+      "answer": 1,
+      "explanation": "A noun placed at the start or end of the sentence for emphasis is picked up by a pronoun: ce film, je l’ai adoré.",
+      "textId": null
+    },
+    {
+      "id": "c1-mise_en_relief-071",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "mise_en_relief",
+      "question": "Lui, il ne dit jamais rien ; ___, elle parle tout le temps.",
+      "options": [
+        "la",
+        "lui",
+        "elle",
+        "sa"
+      ],
+      "answer": 2,
+      "explanation": "A stressed pronoun (moi, toi, lui, elle, eux) at the start marks a contrast and is repeated by the subject pronoun.",
+      "textId": null
+    },
+    {
+      "id": "c1-mise_en_relief-072",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "mise_en_relief",
+      "question": "Je la connais bien, ___.",
+      "options": [
+        "de cette fille",
+        "à cette fille",
+        "que cette fille",
+        "cette fille"
+      ],
+      "answer": 3,
+      "explanation": "A noun placed at the start or end of the sentence for emphasis is picked up by a pronoun: ce film, je l’ai adoré.",
+      "textId": null
+    },
+    {
+      "id": "c1-mise_en_relief-073",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "mise_en_relief",
+      "question": "___ dix ans que j’habite ici.",
+      "options": [
+        "Voilà",
+        "C’est depuis",
+        "Ce sont",
+        "Il est"
+      ],
+      "answer": 0,
+      "explanation": "Voilà / voici … que, il y a … qui and c’est … que are presentative structures that bring one element forward.",
+      "textId": null
+    },
+    {
+      "id": "c1-mise_en_relief-074",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "mise_en_relief",
+      "question": "___ quelqu’un qui te demande.",
+      "options": [
+        "C’est il y a",
+        "Il y a",
+        "Voilà que",
+        "Ce sont"
+      ],
+      "answer": 1,
+      "explanation": "Voilà / voici … que, il y a … qui and c’est … que are presentative structures that bring one element forward.",
+      "textId": null
+    },
+    {
+      "id": "c1-mise_en_relief-075",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "mise_en_relief",
+      "question": "___ longtemps que je ne l’ai pas vu.",
+      "options": [
+        "C’est il",
+        "Voici qui",
+        "Il y a",
+        "Ce sont"
+      ],
+      "answer": 2,
+      "explanation": "Voilà / voici … que, il y a … qui and c’est … que are presentative structures that bring one element forward.",
+      "textId": null
+    },
+    {
+      "id": "c1-mise_en_relief-076",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "mise_en_relief",
+      "question": "Voilà ___ j’avais peur.",
+      "options": [
+        "ce que",
+        "ce qui",
+        "ce à quoi",
+        "ce dont"
+      ],
+      "answer": 3,
+      "explanation": "Ce dont …, c’est … is used when the first verb takes de: ce dont j’ai besoin, c’est…",
+      "textId": null
+    },
+    {
+      "id": "c1-mise_en_relief-077",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "mise_en_relief",
+      "question": "Voilà ___ je voulais te dire.",
+      "options": [
+        "ce que",
+        "ce qui",
+        "ce dont",
+        "ce à quoi"
+      ],
+      "answer": 0,
+      "explanation": "Ce que …, c’est … highlights the direct object of the first verb: ce que j’aime, c’est…",
+      "textId": null
+    },
+    {
+      "id": "c1-mise_en_relief-078",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "mise_en_relief",
+      "question": "Voilà ___ est fait.",
+      "options": [
+        "que",
+        "qui",
+        "dont",
+        "où"
+      ],
+      "answer": 1,
+      "explanation": "Voilà qui est fait = that’s that done. Qui is the subject of est.",
+      "textId": null
+    },
+    {
+      "id": "c1-mise_en_relief-079",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "mise_en_relief",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "C’est toi à qui je parle que.",
+        "C’est à toi à qui je parle.",
+        "C’est à toi que je parle.",
+        "C’est toi que je parle."
+      ],
+      "answer": 2,
+      "explanation": "When the highlighted element has a preposition, the preposition stays with it, and the second part is always que: c’est à lui que je parle, c’est de ça que je parle.",
+      "textId": null
+    },
+    {
+      "id": "c1-mise_en_relief-080",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "mise_en_relief",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "C’est moi qui a raison.",
+        "C’est moi que j’ai raison.",
+        "C’est je qui ai raison.",
+        "C’est moi qui ai raison."
+      ],
+      "answer": 3,
+      "explanation": "C’est … qui highlights the subject. The verb agrees with the highlighted word: c’est moi qui ai, c’est nous qui sommes. Here: C’est moi qui ai raison..",
+      "textId": null
+    },
+    {
+      "id": "c1-mise_en_relief-081",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "mise_en_relief",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "Ce dont je rêve, c’est d’un long voyage.",
+        "Ce que je rêve, c’est d’un long voyage.",
+        "Ce dont je rêve, c’est un long voyage de.",
+        "Ce à quoi je rêve, c’est d’un long voyage."
+      ],
+      "answer": 0,
+      "explanation": "Ce dont …, c’est … is used when the first verb takes de: ce dont j’ai besoin, c’est…",
+      "textId": null
+    },
+    {
+      "id": "c1-mise_en_relief-082",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "mise_en_relief",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "C’est cela dont je voulais parler de.",
+        "C’est de cela que je voulais parler.",
+        "C’est de cela dont je voulais parler.",
+        "C’est cela que je voulais parler."
+      ],
+      "answer": 1,
+      "explanation": "When the highlighted element has a preposition, the preposition stays with it, and the second part is always que: c’est à lui que je parle, c’est de ça que je parle.",
+      "textId": null
+    }
+  ]
+}

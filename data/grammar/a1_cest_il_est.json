@@ -1,0 +1,1285 @@
+{
+  "texts": [],
+  "questions": [
+    {
+      "id": "a1-cest_il_est-001",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "cest_il_est",
+      "question": "Voici Paul. ___ un ami de mon frère.",
+      "options": [
+        "C’est",
+        "Il est",
+        "Ce sont",
+        "Ils sont"
+      ],
+      "answer": 0,
+      "explanation": "Use c’est before a noun with an article or possessive (un, une, le, la, mon…): c’est un ami.",
+      "textId": null
+    },
+    {
+      "id": "a1-cest_il_est-002",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "cest_il_est",
+      "question": "Voici Paul. ___ très gentil.",
+      "options": [
+        "C’est",
+        "Il est",
+        "Ce sont",
+        "Ils sont"
+      ],
+      "answer": 1,
+      "explanation": "Use il est / elle est before an adjective that describes a specific person or thing just mentioned.",
+      "textId": null
+    },
+    {
+      "id": "a1-cest_il_est-003",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "cest_il_est",
+      "question": "Voici Marie. ___ ma voisine.",
+      "options": [
+        "Elle est",
+        "Ce sont",
+        "C’est",
+        "Elles sont"
+      ],
+      "answer": 2,
+      "explanation": "Use c’est before a noun with an article or possessive (un, une, le, la, mon…): c’est un ami.",
+      "textId": null
+    },
+    {
+      "id": "a1-cest_il_est-004",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "cest_il_est",
+      "question": "Voici Marie. ___ canadienne.",
+      "options": [
+        "C’est",
+        "Ce sont",
+        "Il est",
+        "Elle est"
+      ],
+      "answer": 3,
+      "explanation": "For a job, nationality or religion with no article, use il est / elle est: elle est médecin.",
+      "textId": null
+    },
+    {
+      "id": "a1-cest_il_est-005",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "cest_il_est",
+      "question": "Qui est-ce ? — ___ mon professeur.",
+      "options": [
+        "C’est",
+        "Il est",
+        "Ce sont",
+        "Ils sont"
+      ],
+      "answer": 0,
+      "explanation": "Use c’est before a noun with an article or possessive (un, une, le, la, mon…): c’est un ami.",
+      "textId": null
+    },
+    {
+      "id": "a1-cest_il_est-006",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "cest_il_est",
+      "question": "Mon père ? ___ médecin.",
+      "options": [
+        "C’est",
+        "Il est",
+        "Ce sont",
+        "Ils sont"
+      ],
+      "answer": 1,
+      "explanation": "For a job, nationality or religion with no article, use il est / elle est: elle est médecin.",
+      "textId": null
+    },
+    {
+      "id": "a1-cest_il_est-007",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "cest_il_est",
+      "question": "Mon père ? ___ un bon médecin.",
+      "options": [
+        "Il est",
+        "Ce sont",
+        "C’est",
+        "Ils sont"
+      ],
+      "answer": 2,
+      "explanation": "With an article (un bon médecin), use c’est, even for a job.",
+      "textId": null
+    },
+    {
+      "id": "a1-cest_il_est-008",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "cest_il_est",
+      "question": "Ma sœur ? ___ étudiante.",
+      "options": [
+        "C’est",
+        "Ce sont",
+        "Il est",
+        "Elle est"
+      ],
+      "answer": 3,
+      "explanation": "For a job, nationality or religion with no article, use il est / elle est: elle est médecin.",
+      "textId": null
+    },
+    {
+      "id": "a1-cest_il_est-009",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "cest_il_est",
+      "question": "Ma sœur ? ___ une étudiante sérieuse.",
+      "options": [
+        "C’est",
+        "Elle est",
+        "Ce sont",
+        "Elles sont"
+      ],
+      "answer": 0,
+      "explanation": "With an article (une étudiante…), use c’est, even for a job.",
+      "textId": null
+    },
+    {
+      "id": "a1-cest_il_est-010",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "cest_il_est",
+      "question": "Regarde ces photos. ___ mes parents.",
+      "options": [
+        "C’est",
+        "Ce sont",
+        "Ils sont",
+        "Il est"
+      ],
+      "answer": 1,
+      "explanation": "Use ce sont before a plural noun with an article or possessive: ce sont mes amis.",
+      "textId": null
+    },
+    {
+      "id": "a1-cest_il_est-011",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "cest_il_est",
+      "question": "Mes parents ? ___ à la retraite.",
+      "options": [
+        "Ce sont",
+        "C’est",
+        "Ils sont",
+        "Il est"
+      ],
+      "answer": 2,
+      "explanation": "For several people or things, the plural is ils sont / elles sont before an adjective or job.",
+      "textId": null
+    },
+    {
+      "id": "a1-cest_il_est-012",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "cest_il_est",
+      "question": "Qu’est-ce que c’est ? — ___ un cadeau pour toi.",
+      "options": [
+        "Il est",
+        "Ce sont",
+        "Elle est",
+        "C’est"
+      ],
+      "answer": 3,
+      "explanation": "Use c’est before a noun with an article or possessive (un, une, le, la, mon…): c’est un ami.",
+      "textId": null
+    },
+    {
+      "id": "a1-cest_il_est-013",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "cest_il_est",
+      "question": "Qu’est-ce que c’est ? — ___ des chocolats.",
+      "options": [
+        "Ce sont",
+        "C’est",
+        "Ils sont",
+        "Il est"
+      ],
+      "answer": 0,
+      "explanation": "Use ce sont before a plural noun with an article or possessive: ce sont mes amis.",
+      "textId": null
+    },
+    {
+      "id": "a1-cest_il_est-014",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "cest_il_est",
+      "question": "Tu connais Léa ? ___ très drôle.",
+      "options": [
+        "C’est",
+        "Elle est",
+        "Ce sont",
+        "Il est"
+      ],
+      "answer": 1,
+      "explanation": "Use il est / elle est before an adjective that describes a specific person or thing just mentioned.",
+      "textId": null
+    },
+    {
+      "id": "a1-cest_il_est-015",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "cest_il_est",
+      "question": "Tu connais Léa ? ___ une fille très drôle.",
+      "options": [
+        "Elle est",
+        "Ce sont",
+        "C’est",
+        "Elles sont"
+      ],
+      "answer": 2,
+      "explanation": "Use c’est before a noun with an article or possessive (un, une, le, la, mon…): c’est un ami.",
+      "textId": null
+    },
+    {
+      "id": "a1-cest_il_est-016",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "cest_il_est",
+      "question": "J’adore ce film. ___ génial !",
+      "options": [
+        "Ce sont",
+        "Ils sont",
+        "Elle est",
+        "Il est"
+      ],
+      "answer": 3,
+      "explanation": "Use il est / elle est before an adjective that describes a specific person or thing just mentioned.",
+      "textId": null
+    },
+    {
+      "id": "a1-cest_il_est-017",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "cest_il_est",
+      "question": "Apprendre le français, ___ difficile ?",
+      "options": [
+        "c’est",
+        "il est",
+        "ce sont",
+        "elle est"
+      ],
+      "answer": 0,
+      "explanation": "Use c’est + adjective to react to a situation or an idea in general: c’est super, c’est difficile.",
+      "textId": null
+    },
+    {
+      "id": "a1-cest_il_est-018",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "cest_il_est",
+      "question": "Voyager, ___ super !",
+      "options": [
+        "il est",
+        "c’est",
+        "ce sont",
+        "elles sont"
+      ],
+      "answer": 1,
+      "explanation": "Use c’est + adjective to react to a situation or an idea in general: c’est super, c’est difficile.",
+      "textId": null
+    },
+    {
+      "id": "a1-cest_il_est-019",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "cest_il_est",
+      "question": "Tu viens ce soir ? ___ une bonne idée !",
+      "options": [
+        "Il est",
+        "Ce sont",
+        "C’est",
+        "Elle est"
+      ],
+      "answer": 2,
+      "explanation": "Use c’est before a noun with an article or possessive (un, une, le, la, mon…): c’est un ami.",
+      "textId": null
+    },
+    {
+      "id": "a1-cest_il_est-020",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "cest_il_est",
+      "question": "On va à la plage ? — Oui, ___ génial !",
+      "options": [
+        "il est",
+        "ce sont",
+        "elle est",
+        "c’est"
+      ],
+      "answer": 3,
+      "explanation": "Use c’est + adjective to react to a situation or an idea in general: c’est super, c’est difficile.",
+      "textId": null
+    },
+    {
+      "id": "a1-cest_il_est-021",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "cest_il_est",
+      "question": "___ huit heures. On y va !",
+      "options": [
+        "Il est",
+        "C’est",
+        "Ce sont",
+        "Elle est"
+      ],
+      "answer": 0,
+      "explanation": "Use il est to tell the time: il est huit heures.",
+      "textId": null
+    },
+    {
+      "id": "a1-cest_il_est-022",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "cest_il_est",
+      "question": "Quelle heure est-il ? — ___ midi.",
+      "options": [
+        "C’est",
+        "Il est",
+        "Ce sont",
+        "Elle est"
+      ],
+      "answer": 1,
+      "explanation": "Use il est to tell the time: il est huit heures.",
+      "textId": null
+    },
+    {
+      "id": "a1-cest_il_est-023",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "cest_il_est",
+      "question": "___ tard, je rentre.",
+      "options": [
+        "Ce sont",
+        "Ils sont",
+        "Il est",
+        "Elle est"
+      ],
+      "answer": 2,
+      "explanation": "For time in general (tard, tôt), use il est: il est tard.",
+      "textId": null
+    },
+    {
+      "id": "a1-cest_il_est-024",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "cest_il_est",
+      "question": "Aujourd’hui, ___ lundi.",
+      "options": [
+        "il est",
+        "ce sont",
+        "elle est",
+        "c’est"
+      ],
+      "answer": 3,
+      "explanation": "Use c’est with dates and days: c’est lundi.",
+      "textId": null
+    },
+    {
+      "id": "a1-cest_il_est-025",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "cest_il_est",
+      "question": "Demain, ___ mon anniversaire.",
+      "options": [
+        "c’est",
+        "il est",
+        "ce sont",
+        "elle est"
+      ],
+      "answer": 0,
+      "explanation": "Use c’est before a noun with an article or possessive (un, une, le, la, mon…): c’est un ami.",
+      "textId": null
+    },
+    {
+      "id": "a1-cest_il_est-026",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "cest_il_est",
+      "question": "___ le 14 juillet aujourd’hui.",
+      "options": [
+        "Il est",
+        "C’est",
+        "Ce sont",
+        "Elle est"
+      ],
+      "answer": 1,
+      "explanation": "Use c’est with dates and days: c’est lundi.",
+      "textId": null
+    },
+    {
+      "id": "a1-cest_il_est-027",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "cest_il_est",
+      "question": "Allô ? ___ Daniel à l’appareil.",
+      "options": [
+        "Il est",
+        "Ce sont",
+        "C’est",
+        "Je suis"
+      ],
+      "answer": 2,
+      "explanation": "Use c’est to say who someone is or to identify by name: c’est Paul.",
+      "textId": null
+    },
+    {
+      "id": "a1-cest_il_est-028",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "cest_il_est",
+      "question": "Qui est à la porte ? — ___ Julie.",
+      "options": [
+        "Elle est",
+        "Ce sont",
+        "Il est",
+        "C’est"
+      ],
+      "answer": 3,
+      "explanation": "Use c’est to say who someone is or to identify by name: c’est Paul.",
+      "textId": null
+    },
+    {
+      "id": "a1-cest_il_est-029",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "cest_il_est",
+      "question": "Qui est-ce ? — ___ moi !",
+      "options": [
+        "C’est",
+        "Il est",
+        "Je suis",
+        "Ce sont"
+      ],
+      "answer": 0,
+      "explanation": "Use c’est before a stressed pronoun: c’est moi, c’est toi, c’est lui.",
+      "textId": null
+    },
+    {
+      "id": "a1-cest_il_est-030",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "cest_il_est",
+      "question": "___ toi sur la photo ?",
+      "options": [
+        "Il est",
+        "C’est",
+        "Tu es",
+        "Ce sont"
+      ],
+      "answer": 1,
+      "explanation": "Use c’est before a stressed pronoun: c’est moi, c’est toi, c’est lui.",
+      "textId": null
+    },
+    {
+      "id": "a1-cest_il_est-031",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "cest_il_est",
+      "question": "Ces chaussures ? ___ trop petites.",
+      "options": [
+        "Ce sont",
+        "C’est",
+        "Elles sont",
+        "Ils sont"
+      ],
+      "answer": 2,
+      "explanation": "For several people or things, the plural is ils sont / elles sont before an adjective or job.",
+      "textId": null
+    },
+    {
+      "id": "a1-cest_il_est-032",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "cest_il_est",
+      "question": "Ces livres ? ___ très intéressants.",
+      "options": [
+        "Ce sont",
+        "C’est",
+        "Elles sont",
+        "Ils sont"
+      ],
+      "answer": 3,
+      "explanation": "For several people or things, the plural is ils sont / elles sont before an adjective or job.",
+      "textId": null
+    },
+    {
+      "id": "a1-cest_il_est-033",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "cest_il_est",
+      "question": "Ces livres ? ___ des romans policiers.",
+      "options": [
+        "Ce sont",
+        "Ils sont",
+        "C’est",
+        "Elles sont"
+      ],
+      "answer": 0,
+      "explanation": "Use ce sont before a plural noun with an article or possessive: ce sont mes amis.",
+      "textId": null
+    },
+    {
+      "id": "a1-cest_il_est-034",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "cest_il_est",
+      "question": "Mes voisins ? ___ italiens.",
+      "options": [
+        "Ce sont",
+        "Ils sont",
+        "C’est",
+        "Il est"
+      ],
+      "answer": 1,
+      "explanation": "For several people or things, the plural is ils sont / elles sont before an adjective or job.",
+      "textId": null
+    },
+    {
+      "id": "a1-cest_il_est-035",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "cest_il_est",
+      "question": "Mes voisins ? ___ des Italiens très sympas.",
+      "options": [
+        "Ils sont",
+        "C’est",
+        "Ce sont",
+        "Il est"
+      ],
+      "answer": 2,
+      "explanation": "Use ce sont before a plural noun with an article or possessive: ce sont mes amis.",
+      "textId": null
+    },
+    {
+      "id": "a1-cest_il_est-036",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "cest_il_est",
+      "question": "Mon frère ? ___ ingénieur.",
+      "options": [
+        "C’est",
+        "Ce sont",
+        "Elle est",
+        "Il est"
+      ],
+      "answer": 3,
+      "explanation": "For a job, nationality or religion with no article, use il est / elle est: elle est médecin.",
+      "textId": null
+    },
+    {
+      "id": "a1-cest_il_est-037",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "cest_il_est",
+      "question": "Mon frère ? ___ un ingénieur très connu.",
+      "options": [
+        "C’est",
+        "Il est",
+        "Ce sont",
+        "Ils sont"
+      ],
+      "answer": 0,
+      "explanation": "With an article (un ingénieur…), use c’est, even for a job.",
+      "textId": null
+    },
+    {
+      "id": "a1-cest_il_est-038",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "cest_il_est",
+      "question": "Ta mère ? ___ professeure, non ?",
+      "options": [
+        "C’est",
+        "Elle est",
+        "Ce sont",
+        "Il est"
+      ],
+      "answer": 1,
+      "explanation": "For a job, nationality or religion with no article, use il est / elle est: elle est médecin.",
+      "textId": null
+    },
+    {
+      "id": "a1-cest_il_est-039",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "cest_il_est",
+      "question": "Ta mère ? ___ une excellente professeure.",
+      "options": [
+        "Elle est",
+        "Ce sont",
+        "C’est",
+        "Elles sont"
+      ],
+      "answer": 2,
+      "explanation": "With an article (une excellente…), use c’est, even for a job.",
+      "textId": null
+    },
+    {
+      "id": "a1-cest_il_est-040",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "cest_il_est",
+      "question": "Thomas ? ___ français.",
+      "options": [
+        "C’est",
+        "Ce sont",
+        "Ils sont",
+        "Il est"
+      ],
+      "answer": 3,
+      "explanation": "For a job, nationality or religion with no article, use il est / elle est: elle est médecin.",
+      "textId": null
+    },
+    {
+      "id": "a1-cest_il_est-041",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "cest_il_est",
+      "question": "Thomas ? ___ un Français de Lyon.",
+      "options": [
+        "C’est",
+        "Il est",
+        "Ce sont",
+        "Ils sont"
+      ],
+      "answer": 0,
+      "explanation": "Use c’est before a noun with an article or possessive (un, une, le, la, mon…): c’est un ami.",
+      "textId": null
+    },
+    {
+      "id": "a1-cest_il_est-042",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "cest_il_est",
+      "question": "Voilà ma voiture. ___ neuve.",
+      "options": [
+        "C’est",
+        "Elle est",
+        "Ce sont",
+        "Il est"
+      ],
+      "answer": 1,
+      "explanation": "Use il est / elle est before an adjective that describes a specific person or thing just mentioned.",
+      "textId": null
+    },
+    {
+      "id": "a1-cest_il_est-043",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "cest_il_est",
+      "question": "Voilà ma voiture. ___ une petite voiture électrique.",
+      "options": [
+        "Elle est",
+        "Ce sont",
+        "C’est",
+        "Il est"
+      ],
+      "answer": 2,
+      "explanation": "Use c’est before a noun with an article or possessive (un, une, le, la, mon…): c’est un ami.",
+      "textId": null
+    },
+    {
+      "id": "a1-cest_il_est-044",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "cest_il_est",
+      "question": "Ce gâteau ? ___ délicieux.",
+      "options": [
+        "Ce sont",
+        "Elle est",
+        "Ils sont",
+        "Il est"
+      ],
+      "answer": 3,
+      "explanation": "Use il est / elle est before an adjective that describes a specific person or thing just mentioned.",
+      "textId": null
+    },
+    {
+      "id": "a1-cest_il_est-045",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "cest_il_est",
+      "question": "Cette maison ? ___ très grande.",
+      "options": [
+        "Elle est",
+        "Il est",
+        "Ce sont",
+        "Ils sont"
+      ],
+      "answer": 0,
+      "explanation": "Use il est / elle est before an adjective that describes a specific person or thing just mentioned.",
+      "textId": null
+    },
+    {
+      "id": "a1-cest_il_est-046",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "cest_il_est",
+      "question": "Cette maison ? ___ la maison de mes grands-parents.",
+      "options": [
+        "Elle est",
+        "C’est",
+        "Ce sont",
+        "Il est"
+      ],
+      "answer": 1,
+      "explanation": "Use c’est before a noun with an article or possessive (un, une, le, la, mon…): c’est un ami.",
+      "textId": null
+    },
+    {
+      "id": "a1-cest_il_est-047",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "cest_il_est",
+      "question": "Qui sont ces gens ? — ___ mes collègues.",
+      "options": [
+        "C’est",
+        "Ils sont",
+        "Ce sont",
+        "Il est"
+      ],
+      "answer": 2,
+      "explanation": "Use ce sont before a plural noun with an article or possessive: ce sont mes amis.",
+      "textId": null
+    },
+    {
+      "id": "a1-cest_il_est-048",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "cest_il_est",
+      "question": "Qui est cette dame ? — ___ ma tante.",
+      "options": [
+        "Elle est",
+        "Ce sont",
+        "Il est",
+        "C’est"
+      ],
+      "answer": 3,
+      "explanation": "Use c’est before a noun with an article or possessive (un, une, le, la, mon…): c’est un ami.",
+      "textId": null
+    },
+    {
+      "id": "a1-cest_il_est-049",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "cest_il_est",
+      "question": "Mon chien ? ___ très calme.",
+      "options": [
+        "Il est",
+        "C’est",
+        "Ce sont",
+        "Elle est"
+      ],
+      "answer": 0,
+      "explanation": "Use il est / elle est before an adjective that describes a specific person or thing just mentioned.",
+      "textId": null
+    },
+    {
+      "id": "a1-cest_il_est-050",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "cest_il_est",
+      "question": "Mon chien ? ___ un labrador.",
+      "options": [
+        "Il est",
+        "C’est",
+        "Ce sont",
+        "Ils sont"
+      ],
+      "answer": 1,
+      "explanation": "Use c’est before a noun with an article or possessive (un, une, le, la, mon…): c’est un ami.",
+      "textId": null
+    },
+    {
+      "id": "a1-cest_il_est-051",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "cest_il_est",
+      "question": "___ vrai ? Tu pars demain ?",
+      "options": [
+        "Il est",
+        "Ce sont",
+        "C’est",
+        "Elle est"
+      ],
+      "answer": 2,
+      "explanation": "Use c’est + adjective to react to a situation or an idea in general: c’est super, c’est difficile.",
+      "textId": null
+    },
+    {
+      "id": "a1-cest_il_est-052",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "cest_il_est",
+      "question": "Merci beaucoup, ___ très gentil !",
+      "options": [
+        "il est",
+        "ce sont",
+        "elle est",
+        "c’est"
+      ],
+      "answer": 3,
+      "explanation": "Use c’est + adjective to react to a situation or an idea in general: c’est super, c’est difficile.",
+      "textId": null
+    },
+    {
+      "id": "a1-cest_il_est-053",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "cest_il_est",
+      "question": "Dix euros pour un café ? ___ trop cher !",
+      "options": [
+        "C’est",
+        "Ce sont",
+        "Elle est",
+        "Ils sont"
+      ],
+      "answer": 0,
+      "explanation": "Use c’est + adjective to react to a situation or an idea in general: c’est super, c’est difficile.",
+      "textId": null
+    },
+    {
+      "id": "a1-cest_il_est-054",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "cest_il_est",
+      "question": "___ facile, regarde !",
+      "options": [
+        "Ce sont",
+        "C’est",
+        "Elle est",
+        "Ils sont"
+      ],
+      "answer": 1,
+      "explanation": "Use c’est + adjective to react to a situation or an idea in general: c’est super, c’est difficile.",
+      "textId": null
+    },
+    {
+      "id": "a1-cest_il_est-055",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "cest_il_est",
+      "question": "Parler devant la classe, ___ stressant.",
+      "options": [
+        "il est",
+        "ce sont",
+        "c’est",
+        "elle est"
+      ],
+      "answer": 2,
+      "explanation": "Use c’est + adjective to react to a situation or an idea in general: c’est super, c’est difficile.",
+      "textId": null
+    },
+    {
+      "id": "a1-cest_il_est-056",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "cest_il_est",
+      "question": "___ ici, la boulangerie ?",
+      "options": [
+        "Il est",
+        "Ce sont",
+        "Ils sont",
+        "C’est"
+      ],
+      "answer": 3,
+      "explanation": "Use c’est to point to a place or thing: c’est ici, c’est là.",
+      "textId": null
+    },
+    {
+      "id": "a1-cest_il_est-057",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "cest_il_est",
+      "question": "Les toilettes ? ___ là-bas, à droite.",
+      "options": [
+        "C’est",
+        "Il est",
+        "Ce sont",
+        "Elle est"
+      ],
+      "answer": 0,
+      "explanation": "Use c’est to point to a place: c’est là-bas.",
+      "textId": null
+    },
+    {
+      "id": "a1-cest_il_est-058",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "cest_il_est",
+      "question": "___ combien ? — Douze euros.",
+      "options": [
+        "Il est",
+        "C’est",
+        "Ce sont",
+        "Elle est"
+      ],
+      "answer": 1,
+      "explanation": "To ask a price, use c’est combien ?",
+      "textId": null
+    },
+    {
+      "id": "a1-cest_il_est-059",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "cest_il_est",
+      "question": "Non, ___ mon sac, c’est le sac de Léa.",
+      "options": [
+        "il n’est pas",
+        "ce ne sont pas",
+        "ce n’est pas",
+        "elle n’est pas"
+      ],
+      "answer": 2,
+      "explanation": "The negative of c’est is ce n’est pas; of ce sont, ce ne sont pas.",
+      "textId": null
+    },
+    {
+      "id": "a1-cest_il_est-060",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "cest_il_est",
+      "question": "Non, ___ mes clés.",
+      "options": [
+        "ce n’est pas",
+        "ils ne sont pas",
+        "il n’est pas",
+        "ce ne sont pas"
+      ],
+      "answer": 3,
+      "explanation": "The negative of c’est is ce n’est pas; of ce sont, ce ne sont pas.",
+      "textId": null
+    },
+    {
+      "id": "a1-cest_il_est-061",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "cest_il_est",
+      "question": "Lui ? Non, ___ mon frère, c’est mon cousin.",
+      "options": [
+        "ce n’est pas",
+        "il n’est pas",
+        "ce ne sont pas",
+        "ils ne sont pas"
+      ],
+      "answer": 0,
+      "explanation": "The negative of c’est is ce n’est pas; of ce sont, ce ne sont pas.",
+      "textId": null
+    },
+    {
+      "id": "a1-cest_il_est-062",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "cest_il_est",
+      "question": "Paul ? Non, ___ professeur, il est étudiant.",
+      "options": [
+        "ce n’est pas",
+        "il n’est pas",
+        "ce ne sont pas",
+        "ils ne sont pas"
+      ],
+      "answer": 1,
+      "explanation": "With a job and no article, use il est, so the negative is il n’est pas.",
+      "textId": null
+    },
+    {
+      "id": "a1-cest_il_est-063",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "cest_il_est",
+      "question": "___ grave, ne t’inquiète pas.",
+      "options": [
+        "Il n’est pas",
+        "Ce ne sont pas",
+        "Ce n’est pas",
+        "Elle n’est pas"
+      ],
+      "answer": 2,
+      "explanation": "The negative of c’est is ce n’est pas; of ce sont, ce ne sont pas.",
+      "textId": null
+    },
+    {
+      "id": "a1-cest_il_est-064",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "cest_il_est",
+      "question": "Elle s’appelle Nina. ___ ma meilleure amie.",
+      "options": [
+        "Elle est",
+        "Ce sont",
+        "Il est",
+        "C’est"
+      ],
+      "answer": 3,
+      "explanation": "Use c’est before a noun with an article or possessive (un, une, le, la, mon…): c’est un ami.",
+      "textId": null
+    },
+    {
+      "id": "a1-cest_il_est-065",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "cest_il_est",
+      "question": "Il s’appelle Hugo. ___ avocat.",
+      "options": [
+        "Il est",
+        "C’est",
+        "Ce sont",
+        "Elle est"
+      ],
+      "answer": 0,
+      "explanation": "For a job, nationality or religion with no article, use il est / elle est: elle est médecin.",
+      "textId": null
+    },
+    {
+      "id": "a1-cest_il_est-066",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "cest_il_est",
+      "question": "Elles s’appellent Zoé et Emma. ___ sœurs.",
+      "options": [
+        "Ce sont",
+        "Elles sont",
+        "C’est",
+        "Ils sont"
+      ],
+      "answer": 1,
+      "explanation": "For several people or things, the plural is ils sont / elles sont before an adjective or job.",
+      "textId": null
+    },
+    {
+      "id": "a1-cest_il_est-067",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "cest_il_est",
+      "question": "Elles s’appellent Zoé et Emma. ___ mes cousines.",
+      "options": [
+        "Elles sont",
+        "C’est",
+        "Ce sont",
+        "Ils sont"
+      ],
+      "answer": 2,
+      "explanation": "Use ce sont before a plural noun with an article or possessive: ce sont mes amis.",
+      "textId": null
+    },
+    {
+      "id": "a1-cest_il_est-068",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "cest_il_est",
+      "question": "Ils s’appellent Karim et Luc. ___ musiciens.",
+      "options": [
+        "Ce sont",
+        "C’est",
+        "Il est",
+        "Ils sont"
+      ],
+      "answer": 3,
+      "explanation": "For several people or things, the plural is ils sont / elles sont before an adjective or job.",
+      "textId": null
+    },
+    {
+      "id": "a1-cest_il_est-069",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "cest_il_est",
+      "question": "Ils s’appellent Karim et Luc. ___ des musiciens célèbres.",
+      "options": [
+        "Ce sont",
+        "Ils sont",
+        "C’est",
+        "Il est"
+      ],
+      "answer": 0,
+      "explanation": "Use ce sont before a plural noun with an article or possessive: ce sont mes amis.",
+      "textId": null
+    },
+    {
+      "id": "a1-cest_il_est-070",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "cest_il_est",
+      "question": "Tu vois cet homme ? ___ le directeur.",
+      "options": [
+        "Il est",
+        "C’est",
+        "Ce sont",
+        "Ils sont"
+      ],
+      "answer": 1,
+      "explanation": "Use c’est before a noun with an article or possessive (un, une, le, la, mon…): c’est un ami.",
+      "textId": null
+    },
+    {
+      "id": "a1-cest_il_est-071",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "cest_il_est",
+      "question": "Tu vois cet homme ? ___ très grand.",
+      "options": [
+        "C’est",
+        "Ce sont",
+        "Il est",
+        "Elle est"
+      ],
+      "answer": 2,
+      "explanation": "Use il est / elle est before an adjective that describes a specific person or thing just mentioned.",
+      "textId": null
+    },
+    {
+      "id": "a1-cest_il_est-072",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "cest_il_est",
+      "question": "Et cette femme ? ___ qui ?",
+      "options": [
+        "Elle est",
+        "Ce sont",
+        "Il est",
+        "C’est"
+      ],
+      "answer": 3,
+      "explanation": "To ask who someone is, use c’est qui ? or qui est-ce ?",
+      "textId": null
+    },
+    {
+      "id": "a1-cest_il_est-073",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "cest_il_est",
+      "question": "Ma grand-mère ? ___ âgée, mais en pleine forme.",
+      "options": [
+        "Elle est",
+        "C’est",
+        "Ce sont",
+        "Il est"
+      ],
+      "answer": 0,
+      "explanation": "Use il est / elle est before an adjective that describes a specific person or thing just mentioned.",
+      "textId": null
+    },
+    {
+      "id": "a1-cest_il_est-074",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "cest_il_est",
+      "question": "Ma grand-mère ? ___ une femme formidable.",
+      "options": [
+        "Elle est",
+        "C’est",
+        "Ce sont",
+        "Il est"
+      ],
+      "answer": 1,
+      "explanation": "Use c’est before a noun with an article or possessive (un, une, le, la, mon…): c’est un ami.",
+      "textId": null
+    },
+    {
+      "id": "a1-cest_il_est-075",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "cest_il_est",
+      "question": "Le restaurant ? ___ fermé le lundi.",
+      "options": [
+        "Ce sont",
+        "Elle est",
+        "Il est",
+        "Ils sont"
+      ],
+      "answer": 2,
+      "explanation": "Use il est / elle est before an adjective that describes a specific person or thing just mentioned.",
+      "textId": null
+    },
+    {
+      "id": "a1-cest_il_est-076",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "cest_il_est",
+      "question": "Paris ? ___ une ville magnifique.",
+      "options": [
+        "Elle est",
+        "Ce sont",
+        "Il est",
+        "C’est"
+      ],
+      "answer": 3,
+      "explanation": "Use c’est before a noun with an article or possessive (un, une, le, la, mon…): c’est un ami.",
+      "textId": null
+    },
+    {
+      "id": "a1-cest_il_est-077",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "cest_il_est",
+      "question": "La tour Eiffel ? ___ à Paris.",
+      "options": [
+        "Elle est",
+        "Ce sont",
+        "Il est",
+        "Ils sont"
+      ],
+      "answer": 0,
+      "explanation": "To say where a specific thing is, use il est / elle est: elle est à Paris.",
+      "textId": null
+    },
+    {
+      "id": "a1-cest_il_est-078",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "cest_il_est",
+      "question": "Mes clés ? ___ dans mon sac.",
+      "options": [
+        "Ce sont",
+        "Elles sont",
+        "C’est",
+        "Ils sont"
+      ],
+      "answer": 1,
+      "explanation": "To say where specific things are, use ils sont / elles sont.",
+      "textId": null
+    },
+    {
+      "id": "a1-cest_il_est-079",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "cest_il_est",
+      "question": "___ l’heure de partir.",
+      "options": [
+        "Elle est",
+        "Ce sont",
+        "C’est",
+        "Ils sont"
+      ],
+      "answer": 2,
+      "explanation": "C’est l’heure de + infinitive = it’s time to.",
+      "textId": null
+    },
+    {
+      "id": "a1-cest_il_est-080",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "cest_il_est",
+      "question": "___ la vie !",
+      "options": [
+        "Il est",
+        "Ce sont",
+        "Elle est",
+        "C’est"
+      ],
+      "answer": 3,
+      "explanation": "Use c’est before a noun with an article or possessive (un, une, le, la, mon…): c’est un ami.",
+      "textId": null
+    }
+  ]
+}

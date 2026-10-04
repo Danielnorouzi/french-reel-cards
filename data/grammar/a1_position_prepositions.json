@@ -1,0 +1,1285 @@
+{
+  "texts": [],
+  "questions": [
+    {
+      "id": "a1-position_prepositions-001",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "position_prepositions",
+      "question": "Le livre est ___ la table.",
+      "options": [
+        "sur",
+        "dans",
+        "entre",
+        "chez"
+      ],
+      "answer": 0,
+      "explanation": "Sur = on, on top of.",
+      "textId": null
+    },
+    {
+      "id": "a1-position_prepositions-002",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "position_prepositions",
+      "question": "Le chat dort ___ le lit, par terre.",
+      "options": [
+        "sur",
+        "sous",
+        "entre",
+        "chez"
+      ],
+      "answer": 1,
+      "explanation": "Sous = under.",
+      "textId": null
+    },
+    {
+      "id": "a1-position_prepositions-003",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "position_prepositions",
+      "question": "Les clés sont ___ mon sac.",
+      "options": [
+        "sur",
+        "entre",
+        "dans",
+        "chez"
+      ],
+      "answer": 2,
+      "explanation": "Dans = in, inside.",
+      "textId": null
+    },
+    {
+      "id": "a1-position_prepositions-004",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "position_prepositions",
+      "question": "La voiture est garée ___ la maison, dans la rue.",
+      "options": [
+        "dans",
+        "sous",
+        "entre",
+        "devant"
+      ],
+      "answer": 3,
+      "explanation": "Devant = in front of.",
+      "textId": null
+    },
+    {
+      "id": "a1-position_prepositions-005",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "position_prepositions",
+      "question": "Le jardin est ___ la maison, on ne le voit pas de la rue.",
+      "options": [
+        "derrière",
+        "devant",
+        "sur",
+        "entre"
+      ],
+      "answer": 0,
+      "explanation": "Derrière = behind.",
+      "textId": null
+    },
+    {
+      "id": "a1-position_prepositions-006",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "position_prepositions",
+      "question": "La pharmacie est ___ la banque et la poste.",
+      "options": [
+        "sur",
+        "entre",
+        "dans",
+        "chez"
+      ],
+      "answer": 1,
+      "explanation": "Entre = between (two things).",
+      "textId": null
+    },
+    {
+      "id": "a1-position_prepositions-007",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "position_prepositions",
+      "question": "Il y a un tapis ___ la table basse.",
+      "options": [
+        "chez",
+        "entre",
+        "sous",
+        "avec"
+      ],
+      "answer": 2,
+      "explanation": "Sous = under.",
+      "textId": null
+    },
+    {
+      "id": "a1-position_prepositions-008",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "position_prepositions",
+      "question": "Mets les assiettes ___ la table.",
+      "options": [
+        "sous",
+        "chez",
+        "entre",
+        "sur"
+      ],
+      "answer": 3,
+      "explanation": "Sur = on, on top of.",
+      "textId": null
+    },
+    {
+      "id": "a1-position_prepositions-009",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "position_prepositions",
+      "question": "Le lait est ___ le frigo.",
+      "options": [
+        "dans",
+        "sur",
+        "sous",
+        "chez"
+      ],
+      "answer": 0,
+      "explanation": "Dans = in, inside.",
+      "textId": null
+    },
+    {
+      "id": "a1-position_prepositions-010",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "position_prepositions",
+      "question": "Il y a une photo ___ le mur.",
+      "options": [
+        "dans",
+        "sur",
+        "sous",
+        "entre"
+      ],
+      "answer": 1,
+      "explanation": "For something hanging on a wall, French uses sur: sur le mur.",
+      "textId": null
+    },
+    {
+      "id": "a1-position_prepositions-011",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "position_prepositions",
+      "question": "Les enfants jouent ___ le jardin.",
+      "options": [
+        "sur",
+        "sous",
+        "dans",
+        "chez"
+      ],
+      "answer": 2,
+      "explanation": "Dans = in, inside.",
+      "textId": null
+    },
+    {
+      "id": "a1-position_prepositions-012",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "position_prepositions",
+      "question": "Je suis assis ___ Paul et Marie.",
+      "options": [
+        "dans",
+        "sur",
+        "sous",
+        "entre"
+      ],
+      "answer": 3,
+      "explanation": "Entre = between (two things).",
+      "textId": null
+    },
+    {
+      "id": "a1-position_prepositions-013",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "position_prepositions",
+      "question": "Le prof est debout ___ la classe.",
+      "options": [
+        "devant",
+        "sous",
+        "entre",
+        "chez"
+      ],
+      "answer": 0,
+      "explanation": "Devant = in front of.",
+      "textId": null
+    },
+    {
+      "id": "a1-position_prepositions-014",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "position_prepositions",
+      "question": "Cache-toi ___ la porte !",
+      "options": [
+        "sur",
+        "derrière",
+        "entre",
+        "chez"
+      ],
+      "answer": 1,
+      "explanation": "Derrière = behind.",
+      "textId": null
+    },
+    {
+      "id": "a1-position_prepositions-015",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "position_prepositions",
+      "question": "Mes chaussures sont ___ le lit.",
+      "options": [
+        "entre",
+        "chez",
+        "sous",
+        "avec"
+      ],
+      "answer": 2,
+      "explanation": "Sous = under.",
+      "textId": null
+    },
+    {
+      "id": "a1-position_prepositions-016",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "position_prepositions",
+      "question": "Il y a du monde ___ le bus.",
+      "options": [
+        "sur",
+        "sous",
+        "entre",
+        "dans"
+      ],
+      "answer": 3,
+      "explanation": "Dans = in, inside.",
+      "textId": null
+    },
+    {
+      "id": "a1-position_prepositions-017",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "position_prepositions",
+      "question": "Mon téléphone est ___ ma poche.",
+      "options": [
+        "dans",
+        "sur",
+        "sous",
+        "entre"
+      ],
+      "answer": 0,
+      "explanation": "Dans = in, inside.",
+      "textId": null
+    },
+    {
+      "id": "a1-position_prepositions-018",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "position_prepositions",
+      "question": "Le chat est monté ___ le toit.",
+      "options": [
+        "sous",
+        "sur",
+        "dans",
+        "entre"
+      ],
+      "answer": 1,
+      "explanation": "Sur = on, on top of.",
+      "textId": null
+    },
+    {
+      "id": "a1-position_prepositions-019",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "position_prepositions",
+      "question": "Le parking est ___ l’immeuble, au sous-sol.",
+      "options": [
+        "sur",
+        "entre",
+        "sous",
+        "chez"
+      ],
+      "answer": 2,
+      "explanation": "Sous = under.",
+      "textId": null
+    },
+    {
+      "id": "a1-position_prepositions-020",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "position_prepositions",
+      "question": "Attends-moi ___ le cinéma, à l’entrée.",
+      "options": [
+        "sous",
+        "sur",
+        "entre",
+        "devant"
+      ],
+      "answer": 3,
+      "explanation": "Devant = in front of.",
+      "textId": null
+    },
+    {
+      "id": "a1-position_prepositions-021",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "position_prepositions",
+      "question": "La boulangerie est à côté ___ cinéma.",
+      "options": [
+        "du",
+        "de la",
+        "de",
+        "des"
+      ],
+      "answer": 0,
+      "explanation": "À côté de = next to. De contracts with le / les: à côté du, à côté des.",
+      "textId": null
+    },
+    {
+      "id": "a1-position_prepositions-022",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "position_prepositions",
+      "question": "J’habite à côté ___ gare.",
+      "options": [
+        "du",
+        "de la",
+        "de",
+        "des"
+      ],
+      "answer": 1,
+      "explanation": "À côté de = next to. De contracts with le / les: à côté du, à côté des.",
+      "textId": null
+    },
+    {
+      "id": "a1-position_prepositions-023",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "position_prepositions",
+      "question": "Assieds-toi à côté ___ moi.",
+      "options": [
+        "du",
+        "de la",
+        "de",
+        "des"
+      ],
+      "answer": 2,
+      "explanation": "Before a pronoun or a name, à côté de stays as it is: à côté de moi.",
+      "textId": null
+    },
+    {
+      "id": "a1-position_prepositions-024",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "position_prepositions",
+      "question": "L’hôtel est en face ___ musée.",
+      "options": [
+        "de la",
+        "de",
+        "des",
+        "du"
+      ],
+      "answer": 3,
+      "explanation": "En face de = across from, opposite.",
+      "textId": null
+    },
+    {
+      "id": "a1-position_prepositions-025",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "position_prepositions",
+      "question": "La poste est en face ___ école.",
+      "options": [
+        "de l’",
+        "du",
+        "de la",
+        "des"
+      ],
+      "answer": 0,
+      "explanation": "En face de = across from, opposite.",
+      "textId": null
+    },
+    {
+      "id": "a1-position_prepositions-026",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "position_prepositions",
+      "question": "Le café est en face ___ toilettes publiques.",
+      "options": [
+        "du",
+        "des",
+        "de la",
+        "de l’"
+      ],
+      "answer": 1,
+      "explanation": "En face de = across from, opposite.",
+      "textId": null
+    },
+    {
+      "id": "a1-position_prepositions-027",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "position_prepositions",
+      "question": "J’habite près ___ centre-ville.",
+      "options": [
+        "de la",
+        "de",
+        "du",
+        "des"
+      ],
+      "answer": 2,
+      "explanation": "Près de = near. Loin de = far from.",
+      "textId": null
+    },
+    {
+      "id": "a1-position_prepositions-028",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "position_prepositions",
+      "question": "Elle travaille près ___ université.",
+      "options": [
+        "du",
+        "de la",
+        "des",
+        "de l’"
+      ],
+      "answer": 3,
+      "explanation": "Près de = near. Loin de = far from.",
+      "textId": null
+    },
+    {
+      "id": "a1-position_prepositions-029",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "position_prepositions",
+      "question": "Mon bureau est loin ___ maison.",
+      "options": [
+        "de la",
+        "du",
+        "de",
+        "des"
+      ],
+      "answer": 0,
+      "explanation": "Près de = near. Loin de = far from.",
+      "textId": null
+    },
+    {
+      "id": "a1-position_prepositions-030",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "position_prepositions",
+      "question": "L’aéroport est loin ___ centre.",
+      "options": [
+        "de la",
+        "du",
+        "de",
+        "des"
+      ],
+      "answer": 1,
+      "explanation": "Près de = near. Loin de = far from.",
+      "textId": null
+    },
+    {
+      "id": "a1-position_prepositions-031",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "position_prepositions",
+      "question": "La banque est ___ de la pharmacie, juste à côté.",
+      "options": [
+        "entre",
+        "dans",
+        "à gauche",
+        "sur"
+      ],
+      "answer": 2,
+      "explanation": "À gauche de = to the left of. À droite de = to the right of.",
+      "textId": null
+    },
+    {
+      "id": "a1-position_prepositions-032",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "position_prepositions",
+      "question": "Tournez ___ au feu.",
+      "options": [
+        "sur",
+        "dans",
+        "entre",
+        "à droite"
+      ],
+      "answer": 3,
+      "explanation": "À droite = to the right. À gauche = to the left.",
+      "textId": null
+    },
+    {
+      "id": "a1-position_prepositions-033",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "position_prepositions",
+      "question": "Continuez tout ___ jusqu’à la place.",
+      "options": [
+        "droit",
+        "droite",
+        "sur",
+        "dans"
+      ],
+      "answer": 0,
+      "explanation": "Tout droit = straight ahead. Do not confuse it with à droite (to the right).",
+      "textId": null
+    },
+    {
+      "id": "a1-position_prepositions-034",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "position_prepositions",
+      "question": "Ce soir, je dîne ___ mes parents.",
+      "options": [
+        "dans",
+        "chez",
+        "sur",
+        "à"
+      ],
+      "answer": 1,
+      "explanation": "Chez = at / to someone’s home or business: chez moi, chez le médecin.",
+      "textId": null
+    },
+    {
+      "id": "a1-position_prepositions-035",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "position_prepositions",
+      "question": "J’ai rendez-vous ___ le dentiste.",
+      "options": [
+        "dans",
+        "sur",
+        "chez",
+        "à"
+      ],
+      "answer": 2,
+      "explanation": "Chez = at / to someone’s home or business: chez moi, chez le médecin.",
+      "textId": null
+    },
+    {
+      "id": "a1-position_prepositions-036",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "position_prepositions",
+      "question": "Tu viens ___ moi après le cours ?",
+      "options": [
+        "dans",
+        "sur",
+        "à",
+        "chez"
+      ],
+      "answer": 3,
+      "explanation": "Chez = at / to someone’s home or business: chez moi, chez le médecin.",
+      "textId": null
+    },
+    {
+      "id": "a1-position_prepositions-037",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "position_prepositions",
+      "question": "Elle habite ___ sa tante.",
+      "options": [
+        "chez",
+        "dans",
+        "sur",
+        "à"
+      ],
+      "answer": 0,
+      "explanation": "Chez = at / to someone’s home or business: chez moi, chez le médecin.",
+      "textId": null
+    },
+    {
+      "id": "a1-position_prepositions-038",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "position_prepositions",
+      "question": "Je vais ___ le coiffeur demain.",
+      "options": [
+        "à",
+        "chez",
+        "dans",
+        "sur"
+      ],
+      "answer": 1,
+      "explanation": "Chez = at / to someone’s home or business: chez moi, chez le médecin.",
+      "textId": null
+    },
+    {
+      "id": "a1-position_prepositions-039",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "position_prepositions",
+      "question": "On se retrouve ___ Léa à vingt heures.",
+      "options": [
+        "dans",
+        "sur",
+        "chez",
+        "entre"
+      ],
+      "answer": 2,
+      "explanation": "Chez = at / to someone’s home or business: chez moi, chez le médecin.",
+      "textId": null
+    },
+    {
+      "id": "a1-position_prepositions-040",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "position_prepositions",
+      "question": "Je rentre ___ moi.",
+      "options": [
+        "à",
+        "dans",
+        "sur",
+        "chez"
+      ],
+      "answer": 3,
+      "explanation": "Chez = at / to someone’s home or business: chez moi, chez le médecin.",
+      "textId": null
+    },
+    {
+      "id": "a1-position_prepositions-041",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "position_prepositions",
+      "question": "Je prends mon café ___ sucre, merci.",
+      "options": [
+        "sans",
+        "sous",
+        "sur",
+        "chez"
+      ],
+      "answer": 0,
+      "explanation": "Avec = with. Sans = without.",
+      "textId": null
+    },
+    {
+      "id": "a1-position_prepositions-042",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "position_prepositions",
+      "question": "Je vais au cinéma ___ mes amis.",
+      "options": [
+        "chez",
+        "avec",
+        "entre",
+        "sur"
+      ],
+      "answer": 1,
+      "explanation": "Avec = with. Sans = without.",
+      "textId": null
+    },
+    {
+      "id": "a1-position_prepositions-043",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "position_prepositions",
+      "question": "Un thé ___ du lait, s’il vous plaît.",
+      "options": [
+        "chez",
+        "entre",
+        "avec",
+        "sous"
+      ],
+      "answer": 2,
+      "explanation": "Avec = with. Sans = without.",
+      "textId": null
+    },
+    {
+      "id": "a1-position_prepositions-044",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "position_prepositions",
+      "question": "Ne sors pas ___ ton manteau, il fait froid !",
+      "options": [
+        "avec",
+        "sur",
+        "dans",
+        "sans"
+      ],
+      "answer": 3,
+      "explanation": "Avec = with. Sans = without.",
+      "textId": null
+    },
+    {
+      "id": "a1-position_prepositions-045",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "position_prepositions",
+      "question": "Elle habite ___ son copain.",
+      "options": [
+        "avec",
+        "sur",
+        "entre",
+        "sous"
+      ],
+      "answer": 0,
+      "explanation": "Avec = with. Sans = without.",
+      "textId": null
+    },
+    {
+      "id": "a1-position_prepositions-046",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "position_prepositions",
+      "question": "Il travaille ___ un grand bureau.",
+      "options": [
+        "sur",
+        "dans",
+        "sous",
+        "entre"
+      ],
+      "answer": 1,
+      "explanation": "Dans = in, inside.",
+      "textId": null
+    },
+    {
+      "id": "a1-position_prepositions-047",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "position_prepositions",
+      "question": "Le chien est ___ la table, il attend.",
+      "options": [
+        "entre",
+        "chez",
+        "sous",
+        "avec"
+      ],
+      "answer": 2,
+      "explanation": "Sous = under.",
+      "textId": null
+    },
+    {
+      "id": "a1-position_prepositions-048",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "position_prepositions",
+      "question": "Le restaurant est ___ la rue Victor-Hugo.",
+      "options": [
+        "sous",
+        "entre",
+        "chez",
+        "dans"
+      ],
+      "answer": 3,
+      "explanation": "For streets, French uses dans la rue (or just the street name), not sur.",
+      "textId": null
+    },
+    {
+      "id": "a1-position_prepositions-049",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "position_prepositions",
+      "question": "Je marche ___ la rue.",
+      "options": [
+        "dans",
+        "sur",
+        "sous",
+        "chez"
+      ],
+      "answer": 0,
+      "explanation": "For streets, French uses dans la rue, not sur.",
+      "textId": null
+    },
+    {
+      "id": "a1-position_prepositions-050",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "position_prepositions",
+      "question": "Les enfants jouent ___ la plage.",
+      "options": [
+        "dans",
+        "sur",
+        "sous",
+        "chez"
+      ],
+      "answer": 1,
+      "explanation": "For a beach, French uses sur: sur la plage.",
+      "textId": null
+    },
+    {
+      "id": "a1-position_prepositions-051",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "position_prepositions",
+      "question": "Il y a des nuages ___ le ciel.",
+      "options": [
+        "sur",
+        "sous",
+        "dans",
+        "entre"
+      ],
+      "answer": 2,
+      "explanation": "For the sky, French uses dans: dans le ciel.",
+      "textId": null
+    },
+    {
+      "id": "a1-position_prepositions-052",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "position_prepositions",
+      "question": "Je lis un article ___ le journal.",
+      "options": [
+        "sur",
+        "sous",
+        "chez",
+        "dans"
+      ],
+      "answer": 3,
+      "explanation": "For newspapers and books, French uses dans: dans le journal.",
+      "textId": null
+    },
+    {
+      "id": "a1-position_prepositions-053",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "position_prepositions",
+      "question": "J’ai vu ça ___ Internet.",
+      "options": [
+        "sur",
+        "dans",
+        "sous",
+        "chez"
+      ],
+      "answer": 0,
+      "explanation": "For the internet, TV channels and the phone screen, French uses sur: sur Internet.",
+      "textId": null
+    },
+    {
+      "id": "a1-position_prepositions-054",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "position_prepositions",
+      "question": "Elle est assise ___ une chaise.",
+      "options": [
+        "dans",
+        "sur",
+        "sous",
+        "entre"
+      ],
+      "answer": 1,
+      "explanation": "For a chair or a sofa, French uses sur; for an armchair, dans.",
+      "textId": null
+    },
+    {
+      "id": "a1-position_prepositions-055",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "position_prepositions",
+      "question": "Il est assis ___ un fauteuil.",
+      "options": [
+        "sous",
+        "entre",
+        "dans",
+        "chez"
+      ],
+      "answer": 2,
+      "explanation": "For an armchair, French uses dans: dans un fauteuil.",
+      "textId": null
+    },
+    {
+      "id": "a1-position_prepositions-056",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "position_prepositions",
+      "question": "Le cours commence ___ neuf heures.",
+      "options": [
+        "en",
+        "dans",
+        "sur",
+        "à"
+      ],
+      "answer": 3,
+      "explanation": "À + a clock time (à huit heures), en + month, year or season (en mai, en 2024, en été), but au printemps.",
+      "textId": null
+    },
+    {
+      "id": "a1-position_prepositions-057",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "position_prepositions",
+      "question": "Mon anniversaire est ___ juillet.",
+      "options": [
+        "en",
+        "à",
+        "sur",
+        "au"
+      ],
+      "answer": 0,
+      "explanation": "À + a clock time (à huit heures), en + month, year or season (en mai, en 2024, en été), but au printemps.",
+      "textId": null
+    },
+    {
+      "id": "a1-position_prepositions-058",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "position_prepositions",
+      "question": "Il fait chaud ___ été.",
+      "options": [
+        "au",
+        "en",
+        "à",
+        "sur"
+      ],
+      "answer": 1,
+      "explanation": "À + a clock time (à huit heures), en + month, year or season (en mai, en 2024, en été), but au printemps.",
+      "textId": null
+    },
+    {
+      "id": "a1-position_prepositions-059",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "position_prepositions",
+      "question": "Les fleurs poussent ___ printemps.",
+      "options": [
+        "en",
+        "à",
+        "au",
+        "dans"
+      ],
+      "answer": 2,
+      "explanation": "À + a clock time (à huit heures), en + month, year or season (en mai, en 2024, en été), but au printemps.",
+      "textId": null
+    },
+    {
+      "id": "a1-position_prepositions-060",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "position_prepositions",
+      "question": "Il neige ___ hiver.",
+      "options": [
+        "au",
+        "à",
+        "sur",
+        "en"
+      ],
+      "answer": 3,
+      "explanation": "À + a clock time (à huit heures), en + month, year or season (en mai, en 2024, en été), but au printemps.",
+      "textId": null
+    },
+    {
+      "id": "a1-position_prepositions-061",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "position_prepositions",
+      "question": "Je suis né ___ 2006.",
+      "options": [
+        "en",
+        "à",
+        "au",
+        "sur"
+      ],
+      "answer": 0,
+      "explanation": "À + a clock time (à huit heures), en + month, year or season (en mai, en 2024, en été), but au printemps.",
+      "textId": null
+    },
+    {
+      "id": "a1-position_prepositions-062",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "position_prepositions",
+      "question": "Les cours reprennent ___ septembre.",
+      "options": [
+        "à",
+        "en",
+        "au",
+        "sur"
+      ],
+      "answer": 1,
+      "explanation": "À + a clock time (à huit heures), en + month, year or season (en mai, en 2024, en été), but au printemps.",
+      "textId": null
+    },
+    {
+      "id": "a1-position_prepositions-063",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "position_prepositions",
+      "question": "On se voit ___ midi ?",
+      "options": [
+        "en",
+        "dans",
+        "à",
+        "sur"
+      ],
+      "answer": 2,
+      "explanation": "À + a clock time (à huit heures), en + month, year or season (en mai, en 2024, en été), but au printemps.",
+      "textId": null
+    },
+    {
+      "id": "a1-position_prepositions-064",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "position_prepositions",
+      "question": "Les feuilles tombent ___ automne.",
+      "options": [
+        "au",
+        "à",
+        "sur",
+        "en"
+      ],
+      "answer": 3,
+      "explanation": "À + a clock time (à huit heures), en + month, year or season (en mai, en 2024, en été), but au printemps.",
+      "textId": null
+    },
+    {
+      "id": "a1-position_prepositions-065",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "position_prepositions",
+      "question": "Le train part ___ dix minutes.",
+      "options": [
+        "dans",
+        "en",
+        "à",
+        "sur"
+      ],
+      "answer": 0,
+      "explanation": "Dans + a length of time says when something will happen: dans dix minutes = in ten minutes from now.",
+      "textId": null
+    },
+    {
+      "id": "a1-position_prepositions-066",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "position_prepositions",
+      "question": "Je reviens ___ une heure.",
+      "options": [
+        "à",
+        "dans",
+        "sur",
+        "chez"
+      ],
+      "answer": 1,
+      "explanation": "Dans + a length of time says when something will happen: dans une heure.",
+      "textId": null
+    },
+    {
+      "id": "a1-position_prepositions-067",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "position_prepositions",
+      "question": "Le magasin est ouvert ___ lundi au samedi.",
+      "options": [
+        "de",
+        "à",
+        "du",
+        "en"
+      ],
+      "answer": 2,
+      "explanation": "Du … au … = from … to … with days: du lundi au samedi.",
+      "textId": null
+    },
+    {
+      "id": "a1-position_prepositions-068",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "position_prepositions",
+      "question": "Je travaille de neuf heures ___ dix-sept heures.",
+      "options": [
+        "au",
+        "en",
+        "dans",
+        "à"
+      ],
+      "answer": 3,
+      "explanation": "De … à … = from … to … with clock times.",
+      "textId": null
+    },
+    {
+      "id": "a1-position_prepositions-069",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "position_prepositions",
+      "question": "Le supermarché est ___ coin de la rue.",
+      "options": [
+        "au",
+        "sur le",
+        "dans le",
+        "à la"
+      ],
+      "answer": 0,
+      "explanation": "Au coin de = at the corner of.",
+      "textId": null
+    },
+    {
+      "id": "a1-position_prepositions-070",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "position_prepositions",
+      "question": "La boulangerie est ___ bout de la rue.",
+      "options": [
+        "sur le",
+        "au",
+        "dans le",
+        "à la"
+      ],
+      "answer": 1,
+      "explanation": "Au bout de = at the end of.",
+      "textId": null
+    },
+    {
+      "id": "a1-position_prepositions-071",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "position_prepositions",
+      "question": "Le musée est ___ centre de la ville.",
+      "options": [
+        "sur le",
+        "à la",
+        "au",
+        "entre le"
+      ],
+      "answer": 2,
+      "explanation": "Au centre de = in the centre of.",
+      "textId": null
+    },
+    {
+      "id": "a1-position_prepositions-072",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "position_prepositions",
+      "question": "Il y a un parc ___ milieu de la ville.",
+      "options": [
+        "sur le",
+        "à la",
+        "entre le",
+        "au"
+      ],
+      "answer": 3,
+      "explanation": "Au milieu de = in the middle of.",
+      "textId": null
+    },
+    {
+      "id": "a1-position_prepositions-073",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "position_prepositions",
+      "question": "Le salon est ___ premier étage.",
+      "options": [
+        "au",
+        "sur le",
+        "dans le",
+        "à la"
+      ],
+      "answer": 0,
+      "explanation": "For floors, French uses au: au premier étage.",
+      "textId": null
+    },
+    {
+      "id": "a1-position_prepositions-074",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "position_prepositions",
+      "question": "Ma chambre est ___ rez-de-chaussée.",
+      "options": [
+        "sur le",
+        "au",
+        "à la",
+        "en"
+      ],
+      "answer": 1,
+      "explanation": "For floors, French uses au: au rez-de-chaussée.",
+      "textId": null
+    },
+    {
+      "id": "a1-position_prepositions-075",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "position_prepositions",
+      "question": "Mets ton manteau ___ l’armoire.",
+      "options": [
+        "sur",
+        "entre",
+        "dans",
+        "chez"
+      ],
+      "answer": 2,
+      "explanation": "Dans = in, inside.",
+      "textId": null
+    },
+    {
+      "id": "a1-position_prepositions-076",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "position_prepositions",
+      "question": "Le stylo est tombé ___ le bureau, par terre.",
+      "options": [
+        "sur",
+        "entre",
+        "chez",
+        "sous"
+      ],
+      "answer": 3,
+      "explanation": "Sous = under.",
+      "textId": null
+    },
+    {
+      "id": "a1-position_prepositions-077",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "position_prepositions",
+      "question": "La lampe est ___ la table de nuit.",
+      "options": [
+        "sur",
+        "sous",
+        "entre",
+        "chez"
+      ],
+      "answer": 0,
+      "explanation": "Sur = on, on top of.",
+      "textId": null
+    },
+    {
+      "id": "a1-position_prepositions-078",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "position_prepositions",
+      "question": "Je t’attends ___ la gare, devant l’entrée.",
+      "options": [
+        "chez",
+        "à",
+        "sur",
+        "sous"
+      ],
+      "answer": 1,
+      "explanation": "À + a public place means \"at\": à la gare.",
+      "textId": null
+    },
+    {
+      "id": "a1-position_prepositions-079",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "position_prepositions",
+      "question": "Il y a un pont ___ la rivière.",
+      "options": [
+        "dans",
+        "chez",
+        "sur",
+        "entre"
+      ],
+      "answer": 2,
+      "explanation": "Sur = on, on top of.",
+      "textId": null
+    },
+    {
+      "id": "a1-position_prepositions-080",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "position_prepositions",
+      "question": "Le Canada est ___ l’océan Atlantique et l’océan Pacifique.",
+      "options": [
+        "sur",
+        "sous",
+        "chez",
+        "entre"
+      ],
+      "answer": 3,
+      "explanation": "Entre = between (two things).",
+      "textId": null
+    }
+  ]
+}

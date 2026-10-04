@@ -1,0 +1,1285 @@
+{
+  "texts": [],
+  "questions": [
+    {
+      "id": "b2-passive-001",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "passive",
+      "question": "Le président ___ par les citoyens tous les cinq ans.",
+      "options": [
+        "est élu",
+        "a élu",
+        "élit",
+        "est élire"
+      ],
+      "answer": 0,
+      "explanation": "The passive is être (in the tense you need) + past participle, which agrees with the subject. Here: est élu.",
+      "textId": null
+    },
+    {
+      "id": "b2-passive-002",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "passive",
+      "question": "Cette maison ___ en 1900.",
+      "options": [
+        "a construit",
+        "a été construite",
+        "est construit",
+        "a été construit"
+      ],
+      "answer": 1,
+      "explanation": "The tense is carried by être only: present est, passé composé a été, imparfait était, future sera, conditional serait. Here: a été construite.",
+      "textId": null
+    },
+    {
+      "id": "b2-passive-003",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "passive",
+      "question": "Le suspect ___ par la police hier soir.",
+      "options": [
+        "a arrêté",
+        "est arrêter",
+        "a été arrêté",
+        "a été arrêtée"
+      ],
+      "answer": 2,
+      "explanation": "The tense is carried by être only: present est, passé composé a été, imparfait était, future sera, conditional serait. Here: a été arrêté.",
+      "textId": null
+    },
+    {
+      "id": "b2-passive-004",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "passive",
+      "question": "Les lettres ___ chaque matin par le facteur.",
+      "options": [
+        "sont distribué",
+        "ont distribué",
+        "sont distribués",
+        "sont distribuées"
+      ],
+      "answer": 3,
+      "explanation": "In the passive, the past participle always agrees with the subject, like an adjective. Here: sont distribuées.",
+      "textId": null
+    },
+    {
+      "id": "b2-passive-005",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "passive",
+      "question": "La décision ___ demain par le directeur.",
+      "options": [
+        "sera prise",
+        "sera pris",
+        "prendra",
+        "aura pris"
+      ],
+      "answer": 0,
+      "explanation": "The tense is carried by être only: present est, passé composé a été, imparfait était, future sera, conditional serait. Here: sera prise.",
+      "textId": null
+    },
+    {
+      "id": "b2-passive-006",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "passive",
+      "question": "Ce roman ___ par Victor Hugo.",
+      "options": [
+        "a écrit",
+        "a été écrit",
+        "est écrire",
+        "a été écrite"
+      ],
+      "answer": 1,
+      "explanation": "The tense is carried by être only: present est, passé composé a été, imparfait était, future sera, conditional serait. Here: a été écrit.",
+      "textId": null
+    },
+    {
+      "id": "b2-passive-007",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "passive",
+      "question": "La tour Eiffel ___ chaque année par des millions de touristes.",
+      "options": [
+        "est visité",
+        "a visité",
+        "est visitée",
+        "visite"
+      ],
+      "answer": 2,
+      "explanation": "In the passive, the past participle always agrees with the subject, like an adjective. Here: est visitée.",
+      "textId": null
+    },
+    {
+      "id": "b2-passive-008",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "passive",
+      "question": "Les résultats ___ la semaine prochaine.",
+      "options": [
+        "seront annoncé",
+        "annonceront",
+        "seront annoncées",
+        "seront annoncés"
+      ],
+      "answer": 3,
+      "explanation": "In the passive, the past participle always agrees with the subject, like an adjective. Here: seront annoncés.",
+      "textId": null
+    },
+    {
+      "id": "b2-passive-009",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "passive",
+      "question": "À cette époque, les lettres ___ à la main.",
+      "options": [
+        "étaient écrites",
+        "étaient écrit",
+        "écrivaient",
+        "ont écrit"
+      ],
+      "answer": 0,
+      "explanation": "The tense is carried by être only: present est, passé composé a été, imparfait était, future sera, conditional serait. Here: étaient écrites.",
+      "textId": null
+    },
+    {
+      "id": "b2-passive-010",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "passive",
+      "question": "La voiture ___ par un mécanicien demain matin.",
+      "options": [
+        "sera réparé",
+        "sera réparée",
+        "réparera",
+        "est réparer"
+      ],
+      "answer": 1,
+      "explanation": "The tense is carried by être only: present est, passé composé a été, imparfait était, future sera, conditional serait. Here: sera réparée.",
+      "textId": null
+    },
+    {
+      "id": "b2-passive-011",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "passive",
+      "question": "Ces maisons ___ par un architecte célèbre.",
+      "options": [
+        "ont été dessiné",
+        "ont dessiné",
+        "ont été dessinées",
+        "ont été dessinés"
+      ],
+      "answer": 2,
+      "explanation": "In the passive, the past participle always agrees with the subject, like an adjective. Here: ont été dessinées.",
+      "textId": null
+    },
+    {
+      "id": "b2-passive-012",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "passive",
+      "question": "Le français ___ dans de nombreux pays.",
+      "options": [
+        "a parlé",
+        "est parler",
+        "parle",
+        "est parlé"
+      ],
+      "answer": 3,
+      "explanation": "The passive is être (in the tense you need) + past participle, which agrees with the subject. Here: est parlé.",
+      "textId": null
+    },
+    {
+      "id": "b2-passive-013",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "passive",
+      "question": "La réunion ___ à cause de la grève.",
+      "options": [
+        "a été annulée",
+        "a été annulé",
+        "a annulé",
+        "est annuler"
+      ],
+      "answer": 0,
+      "explanation": "In the passive, the past participle always agrees with the subject, like an adjective. Here: a été annulée.",
+      "textId": null
+    },
+    {
+      "id": "b2-passive-014",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "passive",
+      "question": "Les enfants ___ par leur grand-mère après l’école.",
+      "options": [
+        "sont gardé",
+        "sont gardés",
+        "ont gardé",
+        "sont gardées"
+      ],
+      "answer": 1,
+      "explanation": "In the passive, the past participle always agrees with the subject, like an adjective. Here: sont gardés.",
+      "textId": null
+    },
+    {
+      "id": "b2-passive-015",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "passive",
+      "question": "Ma voiture ___ la nuit dernière.",
+      "options": [
+        "a été volé",
+        "a volé",
+        "a été volée",
+        "est voler"
+      ],
+      "answer": 2,
+      "explanation": "In the passive, the past participle always agrees with the subject, like an adjective. Here: a été volée.",
+      "textId": null
+    },
+    {
+      "id": "b2-passive-016",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "passive",
+      "question": "Le match ___ en direct à la télévision ce soir.",
+      "options": [
+        "sera diffusée",
+        "diffusera",
+        "a diffusé",
+        "sera diffusé"
+      ],
+      "answer": 3,
+      "explanation": "The tense is carried by être only: present est, passé composé a été, imparfait était, future sera, conditional serait. Here: sera diffusé.",
+      "textId": null
+    },
+    {
+      "id": "b2-passive-017",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "passive",
+      "question": "Deux personnes ___ dans l’accident.",
+      "options": [
+        "ont été blessées",
+        "ont été blessé",
+        "ont blessé",
+        "ont été blessés"
+      ],
+      "answer": 0,
+      "explanation": "In the passive, the past participle always agrees with the subject, like an adjective. Here: ont été blessées.",
+      "textId": null
+    },
+    {
+      "id": "b2-passive-018",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "passive",
+      "question": "La porte ___ à clé tous les soirs.",
+      "options": [
+        "est fermé",
+        "est fermée",
+        "a fermé",
+        "ferme"
+      ],
+      "answer": 1,
+      "explanation": "In the passive, the past participle always agrees with the subject, like an adjective. Here: est fermée.",
+      "textId": null
+    },
+    {
+      "id": "b2-passive-019",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "passive",
+      "question": "Le pont ___ par la tempête.",
+      "options": [
+        "a détruit",
+        "est détruire",
+        "a été détruit",
+        "a été détruite"
+      ],
+      "answer": 2,
+      "explanation": "The tense is carried by être only: present est, passé composé a été, imparfait était, future sera, conditional serait. Here: a été détruit.",
+      "textId": null
+    },
+    {
+      "id": "b2-passive-020",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "passive",
+      "question": "Les invitations ___ la semaine dernière.",
+      "options": [
+        "ont été envoyé",
+        "ont envoyé",
+        "ont été envoyés",
+        "ont été envoyées"
+      ],
+      "answer": 3,
+      "explanation": "In the passive, the past participle always agrees with the subject, like an adjective. Here: ont été envoyées.",
+      "textId": null
+    },
+    {
+      "id": "b2-passive-021",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "passive",
+      "question": "Si le projet était accepté, l’école ___ en mars.",
+      "options": [
+        "serait construite",
+        "serait construit",
+        "construirait",
+        "aurait construire"
+      ],
+      "answer": 0,
+      "explanation": "The tense is carried by être only: present est, passé composé a été, imparfait était, future sera, conditional serait. Here: serait construite.",
+      "textId": null
+    },
+    {
+      "id": "b2-passive-022",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "passive",
+      "question": "Le voleur aurait ___ par un voisin.",
+      "options": [
+        "vu",
+        "été vu",
+        "était vu",
+        "été voir"
+      ],
+      "answer": 1,
+      "explanation": "The passive is être (in the tense you need) + past participle, which agrees with the subject. Here: été vu.",
+      "textId": null
+    },
+    {
+      "id": "b2-passive-023",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "passive",
+      "question": "Ce tableau ___ par Monet en 1872.",
+      "options": [
+        "a peint",
+        "est peindre",
+        "a été peint",
+        "a été peinte"
+      ],
+      "answer": 2,
+      "explanation": "The tense is carried by être only: present est, passé composé a été, imparfait était, future sera, conditional serait. Here: a été peint.",
+      "textId": null
+    },
+    {
+      "id": "b2-passive-024",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "passive",
+      "question": "La loi ___ par le Parlement hier.",
+      "options": [
+        "a été voté",
+        "a voté",
+        "est voter",
+        "a été votée"
+      ],
+      "answer": 3,
+      "explanation": "In the passive, the past participle always agrees with the subject, like an adjective. Here: a été votée.",
+      "textId": null
+    },
+    {
+      "id": "b2-passive-025",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "passive",
+      "question": "Les blessés ___ à l’hôpital.",
+      "options": [
+        "ont été transportés",
+        "ont été transporté",
+        "ont transporté",
+        "ont été transportées"
+      ],
+      "answer": 0,
+      "explanation": "In the passive, the past participle always agrees with the subject, like an adjective. Here: ont été transportés.",
+      "textId": null
+    },
+    {
+      "id": "b2-passive-026",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "passive",
+      "question": "La pièce ___ par des élèves du lycée.",
+      "options": [
+        "est joué",
+        "est jouée",
+        "a joué",
+        "joue"
+      ],
+      "answer": 1,
+      "explanation": "In the passive, the past participle always agrees with the subject, like an adjective. Here: est jouée.",
+      "textId": null
+    },
+    {
+      "id": "b2-passive-027",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "passive",
+      "question": "Ce film a été réalisé ___ un jeune cinéaste québécois.",
+      "options": [
+        "de",
+        "à",
+        "par",
+        "pour"
+      ],
+      "answer": 2,
+      "explanation": "The person or thing doing the action (the agent) is introduced by par.",
+      "textId": null
+    },
+    {
+      "id": "b2-passive-028",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "passive",
+      "question": "La souris a été mangée ___ le chat.",
+      "options": [
+        "de",
+        "avec",
+        "pour",
+        "par"
+      ],
+      "answer": 3,
+      "explanation": "The person or thing doing the action (the agent) is introduced by par.",
+      "textId": null
+    },
+    {
+      "id": "b2-passive-029",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "passive",
+      "question": "Le vaccin a été découvert ___ une équipe de chercheurs.",
+      "options": [
+        "par",
+        "de",
+        "à",
+        "chez"
+      ],
+      "answer": 0,
+      "explanation": "The person or thing doing the action (the agent) is introduced by par.",
+      "textId": null
+    },
+    {
+      "id": "b2-passive-030",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "passive",
+      "question": "La fenêtre a été cassée ___ des enfants.",
+      "options": [
+        "de",
+        "par",
+        "avec",
+        "à"
+      ],
+      "answer": 1,
+      "explanation": "The person or thing doing the action (the agent) is introduced by par.",
+      "textId": null
+    },
+    {
+      "id": "b2-passive-031",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "passive",
+      "question": "Cet article a été écrit ___ une journaliste connue.",
+      "options": [
+        "de",
+        "à",
+        "par",
+        "pour"
+      ],
+      "answer": 2,
+      "explanation": "The person or thing doing the action (the agent) is introduced by par.",
+      "textId": null
+    },
+    {
+      "id": "b2-passive-032",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "passive",
+      "question": "Le professeur est respecté ___ tous ses élèves.",
+      "options": [
+        "pour",
+        "à",
+        "avec",
+        "de"
+      ],
+      "answer": 3,
+      "explanation": "With verbs of feeling or description (aimer, respecter, connaître, entourer, couvrir, accompagner), the agent is usually introduced by de, not par.",
+      "textId": null
+    },
+    {
+      "id": "b2-passive-033",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "passive",
+      "question": "Cette actrice est aimée ___ tous.",
+      "options": [
+        "de",
+        "pour",
+        "à",
+        "avec"
+      ],
+      "answer": 0,
+      "explanation": "With verbs of feeling or description (aimer, respecter, connaître, entourer, couvrir, accompagner), the agent is usually introduced by de, not par.",
+      "textId": null
+    },
+    {
+      "id": "b2-passive-034",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "passive",
+      "question": "La maison est entourée ___ arbres.",
+      "options": [
+        "pour des",
+        "d’",
+        "à des",
+        "avec"
+      ],
+      "answer": 1,
+      "explanation": "With verbs of feeling or description (aimer, respecter, connaître, entourer, couvrir, accompagner), the agent is usually introduced by de, not par.",
+      "textId": null
+    },
+    {
+      "id": "b2-passive-035",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "passive",
+      "question": "La montagne est couverte ___ neige.",
+      "options": [
+        "en",
+        "à la",
+        "de",
+        "pour"
+      ],
+      "answer": 2,
+      "explanation": "With verbs of feeling or description (aimer, respecter, connaître, entourer, couvrir, accompagner), the agent is usually introduced by de, not par.",
+      "textId": null
+    },
+    {
+      "id": "b2-passive-036",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "passive",
+      "question": "Le ministre était accompagné ___ sa femme.",
+      "options": [
+        "pour",
+        "à",
+        "avec",
+        "de"
+      ],
+      "answer": 3,
+      "explanation": "With verbs of feeling or description (aimer, respecter, connaître, entourer, couvrir, accompagner), the agent is usually introduced by de, not par.",
+      "textId": null
+    },
+    {
+      "id": "b2-passive-037",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "passive",
+      "question": "Il est connu ___ tout le monde dans le village.",
+      "options": [
+        "de",
+        "pour",
+        "à",
+        "avec"
+      ],
+      "answer": 0,
+      "explanation": "With verbs of feeling or description (aimer, respecter, connaître, entourer, couvrir, accompagner), the agent is usually introduced by de, not par.",
+      "textId": null
+    },
+    {
+      "id": "b2-passive-038",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "passive",
+      "question": "Le chat mange la souris. → La souris ___ par le chat.",
+      "options": [
+        "a mangé",
+        "est mangée",
+        "est mangé",
+        "a été mangée"
+      ],
+      "answer": 1,
+      "explanation": "The active verb is in the present, so être is in the present: est mangée.",
+      "textId": null
+    },
+    {
+      "id": "b2-passive-039",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "passive",
+      "question": "Le chat a mangé la souris. → La souris ___ par le chat.",
+      "options": [
+        "est mangée",
+        "était mangée",
+        "a été mangée",
+        "a mangé"
+      ],
+      "answer": 2,
+      "explanation": "The active verb is in the passé composé, so être is in the passé composé: a été mangée.",
+      "textId": null
+    },
+    {
+      "id": "b2-passive-040",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "passive",
+      "question": "Le chat mangera la souris. → La souris ___ par le chat.",
+      "options": [
+        "est mangée",
+        "a été mangée",
+        "mangera",
+        "sera mangée"
+      ],
+      "answer": 3,
+      "explanation": "The active verb is in the future, so être is in the future: sera mangée.",
+      "textId": null
+    },
+    {
+      "id": "b2-passive-041",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "passive",
+      "question": "Le chat mangeait la souris. → La souris ___ par le chat.",
+      "options": [
+        "était mangée",
+        "a été mangée",
+        "est mangée",
+        "mangeait"
+      ],
+      "answer": 0,
+      "explanation": "The active verb is in the imparfait, so être is in the imparfait: était mangée.",
+      "textId": null
+    },
+    {
+      "id": "b2-passive-042",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "passive",
+      "question": "Le maire inaugurera l’école. → L’école ___ par le maire.",
+      "options": [
+        "est inaugurée",
+        "sera inaugurée",
+        "a été inaugurée",
+        "inaugurera"
+      ],
+      "answer": 1,
+      "explanation": "The active verb is in the future, so être is in the future: sera inaugurée.",
+      "textId": null
+    },
+    {
+      "id": "b2-passive-043",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "passive",
+      "question": "Un incendie a détruit l’usine. → L’usine ___ par un incendie.",
+      "options": [
+        "est détruite",
+        "sera détruite",
+        "a été détruite",
+        "a détruit"
+      ],
+      "answer": 2,
+      "explanation": "The active verb is in the passé composé, so être is in the passé composé: a été détruite.",
+      "textId": null
+    },
+    {
+      "id": "b2-passive-044",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "passive",
+      "question": "Tout le monde admire cette artiste. → Cette artiste ___ de tout le monde.",
+      "options": [
+        "a été admirée",
+        "sera admirée",
+        "admire",
+        "est admirée"
+      ],
+      "answer": 3,
+      "explanation": "The active verb is in the present, so être is in the present: est admirée.",
+      "textId": null
+    },
+    {
+      "id": "b2-passive-045",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "passive",
+      "question": "La police avait arrêté le voleur. → Le voleur ___ par la police.",
+      "options": [
+        "avait été arrêté",
+        "a été arrêté",
+        "était arrêté",
+        "avait arrêté"
+      ],
+      "answer": 0,
+      "explanation": "The active verb is in the plus-que-parfait, so être is in the plus-que-parfait: avait été arrêté.",
+      "textId": null
+    },
+    {
+      "id": "b2-passive-046",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "passive",
+      "question": "Les élèves ont posé beaucoup de questions. → Beaucoup de questions ___ par les élèves.",
+      "options": [
+        "sont posées",
+        "ont été posées",
+        "ont posé",
+        "ont été posé"
+      ],
+      "answer": 1,
+      "explanation": "The active verb is in the passé composé, so être is in the passé composé, and the participle agrees: ont été posées.",
+      "textId": null
+    },
+    {
+      "id": "b2-passive-047",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "passive",
+      "question": "Le vent a cassé ces branches. → Ces branches ___ par le vent.",
+      "options": [
+        "sont cassées",
+        "ont cassé",
+        "ont été cassées",
+        "ont été cassé"
+      ],
+      "answer": 2,
+      "explanation": "The active verb is in the passé composé, so être is in the passé composé, and the participle agrees: ont été cassées.",
+      "textId": null
+    },
+    {
+      "id": "b2-passive-048",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "passive",
+      "question": "La lettre a été écrite par Marie. → Marie ___ la lettre.",
+      "options": [
+        "écrit",
+        "a été écrite",
+        "écrivait",
+        "a écrit"
+      ],
+      "answer": 3,
+      "explanation": "To go back to the active voice, the agent becomes the subject and the verb keeps the tense that être had.",
+      "textId": null
+    },
+    {
+      "id": "b2-passive-049",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "passive",
+      "question": "Le gâteau sera préparé par mon père. → Mon père ___ le gâteau.",
+      "options": [
+        "préparera",
+        "prépare",
+        "sera préparé",
+        "a préparé"
+      ],
+      "answer": 0,
+      "explanation": "To go back to the active voice, the agent becomes the subject and the verb keeps the tense that être had.",
+      "textId": null
+    },
+    {
+      "id": "b2-passive-050",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "passive",
+      "question": "Les enfants sont gardés par la voisine. → La voisine ___ les enfants.",
+      "options": [
+        "a gardé",
+        "garde",
+        "est gardée",
+        "gardera"
+      ],
+      "answer": 1,
+      "explanation": "To go back to the active voice, the agent becomes the subject and the verb keeps the tense that être had.",
+      "textId": null
+    },
+    {
+      "id": "b2-passive-051",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "passive",
+      "question": "Le voleur a été vu par deux témoins. → Deux témoins ___ le voleur.",
+      "options": [
+        "voient",
+        "ont été vus",
+        "ont vu",
+        "verront"
+      ],
+      "answer": 2,
+      "explanation": "To go back to the active voice, the agent becomes the subject and the verb keeps the tense that être had.",
+      "textId": null
+    },
+    {
+      "id": "b2-passive-052",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "passive",
+      "question": "Cette chanson était chantée par tous les enfants. → Tous les enfants ___ cette chanson.",
+      "options": [
+        "ont chanté",
+        "étaient chantés",
+        "chantent",
+        "chantaient"
+      ],
+      "answer": 3,
+      "explanation": "To go back to the active voice, the agent becomes the subject and the verb keeps the tense that être had.",
+      "textId": null
+    },
+    {
+      "id": "b2-passive-053",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "passive",
+      "question": "Mon vélo a été volé. = ___ mon vélo.",
+      "options": [
+        "On a volé",
+        "On est volé",
+        "On a été volé",
+        "Il a volé"
+      ],
+      "answer": 0,
+      "explanation": "When the agent is unknown, French often prefers on + active verb to the passive: on a volé mon vélo.",
+      "textId": null
+    },
+    {
+      "id": "b2-passive-054",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "passive",
+      "question": "Le français est parlé ici. = Ici, ___ français.",
+      "options": [
+        "on est parlé",
+        "on parle",
+        "il se parle le",
+        "on a parlé"
+      ],
+      "answer": 1,
+      "explanation": "When the agent is unknown, French often prefers on + active verb to the passive: on a volé mon vélo.",
+      "textId": null
+    },
+    {
+      "id": "b2-passive-055",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "passive",
+      "question": "Une nouvelle école sera construite. = ___ une nouvelle école.",
+      "options": [
+        "On sera construit",
+        "On construit",
+        "On construira",
+        "On a construit"
+      ],
+      "answer": 2,
+      "explanation": "When the agent is unknown, French often prefers on + active verb to the passive: on a volé mon vélo.",
+      "textId": null
+    },
+    {
+      "id": "b2-passive-056",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "passive",
+      "question": "On m’a donné ce livre. = Ce livre ___.",
+      "options": [
+        "m’a donné",
+        "m’est donner",
+        "a donné moi",
+        "m’a été donné"
+      ],
+      "answer": 3,
+      "explanation": "When the agent is unknown, French often prefers on + active verb to the passive: on a volé mon vélo.",
+      "textId": null
+    },
+    {
+      "id": "b2-passive-057",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "passive",
+      "question": "On a annulé le concert. = Le concert ___.",
+      "options": [
+        "a été annulé",
+        "a annulé",
+        "est annuler",
+        "annule"
+      ],
+      "answer": 0,
+      "explanation": "When the agent is unknown, French often prefers on + active verb to the passive: on a volé mon vélo.",
+      "textId": null
+    },
+    {
+      "id": "b2-passive-058",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "passive",
+      "question": "Ce vin ___ frais.",
+      "options": [
+        "est boire",
+        "se boit",
+        "se boivent",
+        "est bu par"
+      ],
+      "answer": 1,
+      "explanation": "A reflexive verb can replace the passive for general facts: ce vin se boit frais = this wine is drunk chilled.",
+      "textId": null
+    },
+    {
+      "id": "b2-passive-059",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "passive",
+      "question": "Ce mot ne ___ plus aujourd’hui.",
+      "options": [
+        "est utiliser",
+        "s’utilisent",
+        "s’utilise",
+        "utilise"
+      ],
+      "answer": 2,
+      "explanation": "A reflexive verb can replace the passive for general facts: ce vin se boit frais = this wine is drunk chilled.",
+      "textId": null
+    },
+    {
+      "id": "b2-passive-060",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "passive",
+      "question": "Les billets ___ en ligne.",
+      "options": [
+        "se vend",
+        "sont vendre",
+        "vendent",
+        "se vendent"
+      ],
+      "answer": 3,
+      "explanation": "A reflexive verb can replace the passive for general facts: ce vin se boit frais = this wine is drunk chilled.",
+      "textId": null
+    },
+    {
+      "id": "b2-passive-061",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "passive",
+      "question": "Ça ne ___ pas !",
+      "options": [
+        "se fait",
+        "est fait par",
+        "fait",
+        "se font"
+      ],
+      "answer": 0,
+      "explanation": "A reflexive verb can replace the passive for general facts: ce vin se boit frais = this wine is drunk chilled.",
+      "textId": null
+    },
+    {
+      "id": "b2-passive-062",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "passive",
+      "question": "Ce plat ___ avec les doigts.",
+      "options": [
+        "est manger",
+        "se mange",
+        "mange",
+        "se mangent"
+      ],
+      "answer": 1,
+      "explanation": "A reflexive verb can replace the passive for general facts: ce vin se boit frais = this wine is drunk chilled.",
+      "textId": null
+    },
+    {
+      "id": "b2-passive-063",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "passive",
+      "question": "Comment ça ___ ?",
+      "options": [
+        "est écrire",
+        "écrit",
+        "s’écrit",
+        "s’écrivent"
+      ],
+      "answer": 2,
+      "explanation": "A reflexive verb can replace the passive for general facts: ce vin se boit frais = this wine is drunk chilled.",
+      "textId": null
+    },
+    {
+      "id": "b2-passive-064",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "passive",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "Paul a été téléphoné.",
+        "Paul est téléphoné.",
+        "À Paul a été téléphoné.",
+        "On a téléphoné à Paul."
+      ],
+      "answer": 3,
+      "explanation": "Only a direct object can become the subject of a passive sentence. With verbs taking à + person (téléphoner à, répondre à, obéir à), use on instead.",
+      "textId": null
+    },
+    {
+      "id": "b2-passive-065",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "passive",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "On m’a répondu très vite.",
+        "J’ai été répondu très vite.",
+        "Je suis répondu très vite.",
+        "J’ai été répondue très vite."
+      ],
+      "answer": 0,
+      "explanation": "Only a direct object can become the subject of a passive sentence. With verbs taking à + person (téléphoner à, répondre à, obéir à), use on instead.",
+      "textId": null
+    },
+    {
+      "id": "b2-passive-066",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "passive",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "Il a été offert un livre.",
+        "On lui a offert un livre.",
+        "Il est offert un livre.",
+        "Lui a été offert un livre."
+      ],
+      "answer": 1,
+      "explanation": "Only a direct object can become the subject of a passive sentence. With verbs taking à + person (téléphoner à, répondre à, obéir à), use on instead.",
+      "textId": null
+    },
+    {
+      "id": "b2-passive-067",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "passive",
+      "question": "Ce travail doit ___ avant vendredi.",
+      "options": [
+        "finir par",
+        "avoir fini",
+        "être fini",
+        "est fini"
+      ],
+      "answer": 2,
+      "explanation": "After a modal verb (devoir, pouvoir, aller), the passive is être + past participle: doit être fait.",
+      "textId": null
+    },
+    {
+      "id": "b2-passive-068",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "passive",
+      "question": "Le problème peut ___ facilement.",
+      "options": [
+        "résoudre par",
+        "avoir résolu",
+        "est résolu",
+        "être résolu"
+      ],
+      "answer": 3,
+      "explanation": "After a modal verb (devoir, pouvoir, aller), the passive is être + past participle: doit être fait.",
+      "textId": null
+    },
+    {
+      "id": "b2-passive-069",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "passive",
+      "question": "La décision va ___ demain.",
+      "options": [
+        "être annoncée",
+        "annoncer par",
+        "avoir annoncé",
+        "est annoncée"
+      ],
+      "answer": 0,
+      "explanation": "After a modal verb (devoir, pouvoir, aller), the passive is être + past participle: doit être fait.",
+      "textId": null
+    },
+    {
+      "id": "b2-passive-070",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "passive",
+      "question": "Les règles doivent ___ par tous.",
+      "options": [
+        "respecter",
+        "être respectées",
+        "avoir respecté",
+        "être respecté"
+      ],
+      "answer": 1,
+      "explanation": "After a modal verb (devoir, pouvoir, aller), the passive is être + past participle: doit être fait.",
+      "textId": null
+    },
+    {
+      "id": "b2-passive-071",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "passive",
+      "question": "Cette porte ne peut pas ___ de l’extérieur.",
+      "options": [
+        "ouvrir par",
+        "avoir ouvert",
+        "être ouverte",
+        "être ouvert"
+      ],
+      "answer": 2,
+      "explanation": "After a modal verb (devoir, pouvoir, aller), the passive is être + past participle: doit être fait.",
+      "textId": null
+    },
+    {
+      "id": "b2-passive-072",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "passive",
+      "question": "Les documents viennent d’___.",
+      "options": [
+        "envoyer",
+        "avoir envoyé",
+        "être envoyé",
+        "être envoyés"
+      ],
+      "answer": 3,
+      "explanation": "After a modal verb (devoir, pouvoir, aller), the passive is être + past participle: doit être fait.",
+      "textId": null
+    },
+    {
+      "id": "b2-passive-073",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "passive",
+      "question": "Il veut ___ par un spécialiste.",
+      "options": [
+        "être soigné",
+        "soigner",
+        "avoir soigné",
+        "est soigné"
+      ],
+      "answer": 0,
+      "explanation": "After a modal verb (devoir, pouvoir, aller), the passive is être + past participle: doit être fait.",
+      "textId": null
+    },
+    {
+      "id": "b2-passive-074",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "passive",
+      "question": "Le bâtiment est en train d’___.",
+      "options": [
+        "rénover par",
+        "être rénové",
+        "avoir rénové",
+        "est rénové"
+      ],
+      "answer": 1,
+      "explanation": "After a modal verb (devoir, pouvoir, aller), the passive is être + past participle: doit être fait.",
+      "textId": null
+    },
+    {
+      "id": "b2-passive-075",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "passive",
+      "question": "Elle ___ au poste de directrice l’an dernier.",
+      "options": [
+        "a nommé",
+        "est nommer",
+        "a été nommée",
+        "a été nommé"
+      ],
+      "answer": 2,
+      "explanation": "In the passive, the past participle always agrees with the subject, like an adjective. Here: a été nommée.",
+      "textId": null
+    },
+    {
+      "id": "b2-passive-076",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "passive",
+      "question": "Les joueurs ___ par le public à la fin du match.",
+      "options": [
+        "ont applaudi",
+        "ont été applaudi",
+        "sont applaudir",
+        "ont été applaudis"
+      ],
+      "answer": 3,
+      "explanation": "In the passive, the past participle always agrees with the subject, like an adjective. Here: ont été applaudis.",
+      "textId": null
+    },
+    {
+      "id": "b2-passive-077",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "passive",
+      "question": "Les portes ___ à 20 heures précises.",
+      "options": [
+        "seront fermées",
+        "seront fermé",
+        "ont fermé",
+        "seront fermés"
+      ],
+      "answer": 0,
+      "explanation": "In the passive, the past participle always agrees with the subject, like an adjective. Here: seront fermées.",
+      "textId": null
+    },
+    {
+      "id": "b2-passive-078",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "passive",
+      "question": "Le coupable ___ à cinq ans de prison.",
+      "options": [
+        "a condamné",
+        "a été condamné",
+        "est condamner",
+        "a été condamnée"
+      ],
+      "answer": 1,
+      "explanation": "The tense is carried by être only: present est, passé composé a été, imparfait était, future sera, conditional serait. Here: a été condamné.",
+      "textId": null
+    },
+    {
+      "id": "b2-passive-079",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "passive",
+      "question": "Ces fruits ___ au Maroc.",
+      "options": [
+        "sont cultivé",
+        "ont cultivé",
+        "sont cultivés",
+        "cultivent"
+      ],
+      "answer": 2,
+      "explanation": "In the passive, the past participle always agrees with the subject, like an adjective. Here: sont cultivés.",
+      "textId": null
+    },
+    {
+      "id": "b2-passive-080",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "passive",
+      "question": "Nous ___ par un guide pendant toute la visite. (masculin)",
+      "options": [
+        "avons accompagné",
+        "avons été accompagné",
+        "sommes accompagner",
+        "avons été accompagnés"
+      ],
+      "answer": 3,
+      "explanation": "In the passive, the past participle always agrees with the subject, like an adjective. Here: avons été accompagnés.",
+      "textId": null
+    }
+  ]
+}

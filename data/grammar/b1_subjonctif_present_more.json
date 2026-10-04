@@ -1,0 +1,485 @@
+{
+  "texts": [],
+  "questions": [
+    {
+      "id": "b1-subjonctif_present-051",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "subjonctif_present",
+      "question": "Je suis content que tu ___ là.",
+      "options": [
+        "sois",
+        "es",
+        "seras",
+        "étais"
+      ],
+      "answer": 0,
+      "explanation": "An emotion or feeling about someone else’s action (être content que, avoir peur que, regretter que, être surpris que) takes the subjunctive. Here: sois.",
+      "textId": null
+    },
+    {
+      "id": "b1-subjonctif_present-052",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "subjonctif_present",
+      "question": "Elle a peur que nous ___ en retard.",
+      "options": [
+        "sommes",
+        "soyons",
+        "serons",
+        "étions"
+      ],
+      "answer": 1,
+      "explanation": "An emotion or feeling about someone else’s action (être content que, avoir peur que, regretter que, être surpris que) takes the subjunctive. Here: soyons.",
+      "textId": null
+    },
+    {
+      "id": "b1-subjonctif_present-053",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "subjonctif_present",
+      "question": "Je regrette qu’il ne ___ pas venir.",
+      "options": [
+        "peut",
+        "pourra",
+        "puisse",
+        "pouvait"
+      ],
+      "answer": 2,
+      "explanation": "An emotion or feeling about someone else’s action (être content que, avoir peur que, regretter que, être surpris que) takes the subjunctive. Here: puisse.",
+      "textId": null
+    },
+    {
+      "id": "b1-subjonctif_present-054",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "subjonctif_present",
+      "question": "Nous sommes surpris que vous ___ déjà.",
+      "options": [
+        "partez",
+        "partirez",
+        "êtes partis",
+        "partiez"
+      ],
+      "answer": 3,
+      "explanation": "An emotion or feeling about someone else’s action (être content que, avoir peur que, regretter que, être surpris que) takes the subjunctive. Here: partiez.",
+      "textId": null
+    },
+    {
+      "id": "b1-subjonctif_present-055",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "subjonctif_present",
+      "question": "C’est dommage qu’elle ___ malade.",
+      "options": [
+        "soit",
+        "est",
+        "sera",
+        "était"
+      ],
+      "answer": 0,
+      "explanation": "An emotion or feeling about someone else’s action (être content que, avoir peur que, regretter que, être surpris que) takes the subjunctive. Here: soit.",
+      "textId": null
+    },
+    {
+      "id": "b1-subjonctif_present-056",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "subjonctif_present",
+      "question": "Je suis triste que tu ___ si loin.",
+      "options": [
+        "habiteras",
+        "habites",
+        "habitais",
+        "habiter"
+      ],
+      "answer": 1,
+      "explanation": "An emotion or feeling about someone else’s action (être content que, avoir peur que, regretter que, être surpris que) takes the subjunctive. Here: habites.",
+      "textId": null
+    },
+    {
+      "id": "b1-subjonctif_present-057",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "subjonctif_present",
+      "question": "Je doute qu’il ___ la vérité.",
+      "options": [
+        "dit",
+        "dira",
+        "dise",
+        "disait"
+      ],
+      "answer": 2,
+      "explanation": "Doubt and uncertainty (douter que, ne pas penser que, ne pas croire que, il est possible que) take the subjunctive. Here: dise.",
+      "textId": null
+    },
+    {
+      "id": "b1-subjonctif_present-058",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "subjonctif_present",
+      "question": "Je ne pense pas qu’elle ___ raison.",
+      "options": [
+        "a",
+        "aura",
+        "avait",
+        "ait"
+      ],
+      "answer": 3,
+      "explanation": "Doubt and uncertainty (douter que, ne pas penser que, ne pas croire que, il est possible que) take the subjunctive. Here: ait.",
+      "textId": null
+    },
+    {
+      "id": "b1-subjonctif_present-059",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "subjonctif_present",
+      "question": "Il est possible qu’il ___ demain.",
+      "options": [
+        "pleuve",
+        "pleut",
+        "pleuvra",
+        "pleuvait"
+      ],
+      "answer": 0,
+      "explanation": "Doubt and uncertainty (douter que, ne pas penser que, ne pas croire que, il est possible que) take the subjunctive. Here: pleuve.",
+      "textId": null
+    },
+    {
+      "id": "b1-subjonctif_present-060",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "subjonctif_present",
+      "question": "Je ne crois pas que ce ___ une bonne idée.",
+      "options": [
+        "est",
+        "soit",
+        "sera",
+        "était"
+      ],
+      "answer": 1,
+      "explanation": "Doubt and uncertainty (douter que, ne pas penser que, ne pas croire que, il est possible que) take the subjunctive. Here: soit.",
+      "textId": null
+    },
+    {
+      "id": "b1-subjonctif_present-061",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "subjonctif_present",
+      "question": "Il est peu probable qu’ils ___ à l’heure.",
+      "options": [
+        "arriveront",
+        "arrivaient",
+        "arrivent",
+        "arriver"
+      ],
+      "answer": 2,
+      "explanation": "Doubt and uncertainty (douter que, ne pas penser que, ne pas croire que, il est possible que) take the subjunctive. Here: arrivent.",
+      "textId": null
+    },
+    {
+      "id": "b1-subjonctif_present-062",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "subjonctif_present",
+      "question": "Je t’explique pour que tu ___.",
+      "options": [
+        "comprends",
+        "comprendras",
+        "comprenais",
+        "comprennes"
+      ],
+      "answer": 3,
+      "explanation": "These conjunctions always take the subjunctive: pour que, afin que, bien que, avant que, jusqu’à ce que, à condition que, sans que. Here: comprennes.",
+      "textId": null
+    },
+    {
+      "id": "b1-subjonctif_present-063",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "subjonctif_present",
+      "question": "Bien qu’il ___ fatigué, il continue à travailler.",
+      "options": [
+        "soit",
+        "est",
+        "sera",
+        "était"
+      ],
+      "answer": 0,
+      "explanation": "These conjunctions always take the subjunctive: pour que, afin que, bien que, avant que, jusqu’à ce que, à condition que, sans que. Here: soit.",
+      "textId": null
+    },
+    {
+      "id": "b1-subjonctif_present-064",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "subjonctif_present",
+      "question": "Rentre avant qu’il ne ___ nuit.",
+      "options": [
+        "fait",
+        "fasse",
+        "fera",
+        "faisait"
+      ],
+      "answer": 1,
+      "explanation": "These conjunctions always take the subjunctive: pour que, afin que, bien que, avant que, jusqu’à ce que, à condition que, sans que. Here: fasse.",
+      "textId": null
+    },
+    {
+      "id": "b1-subjonctif_present-065",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "subjonctif_present",
+      "question": "Attends ici jusqu’à ce que je ___.",
+      "options": [
+        "reviens",
+        "reviendrai",
+        "revienne",
+        "revenais"
+      ],
+      "answer": 2,
+      "explanation": "These conjunctions always take the subjunctive: pour que, afin que, bien que, avant que, jusqu’à ce que, à condition que, sans que. Here: revienne.",
+      "textId": null
+    },
+    {
+      "id": "b1-subjonctif_present-066",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "subjonctif_present",
+      "question": "Tu peux sortir à condition que tu ___ tes devoirs.",
+      "options": [
+        "finis",
+        "finiras",
+        "finissais",
+        "finisses"
+      ],
+      "answer": 3,
+      "explanation": "These conjunctions always take the subjunctive: pour que, afin que, bien que, avant que, jusqu’à ce que, à condition que, sans que. Here: finisses.",
+      "textId": null
+    },
+    {
+      "id": "b1-subjonctif_present-067",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "subjonctif_present",
+      "question": "Il est parti sans que je le ___.",
+      "options": [
+        "sache",
+        "sais",
+        "saurai",
+        "savais"
+      ],
+      "answer": 0,
+      "explanation": "These conjunctions always take the subjunctive: pour que, afin que, bien que, avant que, jusqu’à ce que, à condition que, sans que. Here: sache.",
+      "textId": null
+    },
+    {
+      "id": "b1-subjonctif_present-068",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "subjonctif_present",
+      "question": "Je pense qu’il ___ raison.",
+      "options": [
+        "ait",
+        "a",
+        "aie",
+        "avoir"
+      ],
+      "answer": 1,
+      "explanation": "Penser que, croire que, être sûr que, espérer que and savoir que state something as real, so they take the indicative, not the subjunctive. Here: a.",
+      "textId": null
+    },
+    {
+      "id": "b1-subjonctif_present-069",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "subjonctif_present",
+      "question": "Je crois que tu ___ fatigué.",
+      "options": [
+        "sois",
+        "soit",
+        "es",
+        "être"
+      ],
+      "answer": 2,
+      "explanation": "Penser que, croire que, être sûr que, espérer que and savoir que state something as real, so they take the indicative, not the subjunctive. Here: es.",
+      "textId": null
+    },
+    {
+      "id": "b1-subjonctif_present-070",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "subjonctif_present",
+      "question": "Je suis sûr qu’elle ___ demain.",
+      "options": [
+        "vienne",
+        "viennes",
+        "venir",
+        "viendra"
+      ],
+      "answer": 3,
+      "explanation": "Penser que, croire que, être sûr que, espérer que and savoir que state something as real, so they take the indicative, not the subjunctive. Here: viendra.",
+      "textId": null
+    },
+    {
+      "id": "b1-subjonctif_present-071",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "subjonctif_present",
+      "question": "J’espère que vous ___ bien.",
+      "options": [
+        "allez",
+        "alliez",
+        "ailliez",
+        "aller"
+      ],
+      "answer": 0,
+      "explanation": "Penser que, croire que, être sûr que, espérer que and savoir que state something as real, so they take the indicative, not the subjunctive. Here: allez.",
+      "textId": null
+    },
+    {
+      "id": "b1-subjonctif_present-072",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "subjonctif_present",
+      "question": "Je sais qu’il ___ beaucoup de travail.",
+      "options": [
+        "ait",
+        "a",
+        "aie",
+        "avoir"
+      ],
+      "answer": 1,
+      "explanation": "Penser que, croire que, être sûr que, espérer que and savoir que state something as real, so they take the indicative, not the subjunctive. Here: a.",
+      "textId": null
+    },
+    {
+      "id": "b1-subjonctif_present-073",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "subjonctif_present",
+      "question": "Je veux que tu ___ avec moi.",
+      "options": [
+        "viens",
+        "viendras",
+        "viennes",
+        "venir"
+      ],
+      "answer": 2,
+      "explanation": "Wishes and wants about someone else (vouloir que, souhaiter que, aimer que, préférer que) take the subjunctive. Here: viennes.",
+      "textId": null
+    },
+    {
+      "id": "b1-subjonctif_present-074",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "subjonctif_present",
+      "question": "Elle aimerait que nous ___ plus souvent.",
+      "options": [
+        "venons",
+        "viendrons",
+        "venir",
+        "venions"
+      ],
+      "answer": 3,
+      "explanation": "Wishes and wants about someone else (vouloir que, souhaiter que, aimer que, préférer que) take the subjunctive. Here: venions.",
+      "textId": null
+    },
+    {
+      "id": "b1-subjonctif_present-075",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "subjonctif_present",
+      "question": "Mes parents préfèrent que je ___ à la maison.",
+      "options": [
+        "reste",
+        "resterai",
+        "restais",
+        "rester"
+      ],
+      "answer": 0,
+      "explanation": "Wishes and wants about someone else (vouloir que, souhaiter que, aimer que, préférer que) take the subjunctive. Here: reste.",
+      "textId": null
+    },
+    {
+      "id": "b1-subjonctif_present-076",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "subjonctif_present",
+      "question": "Je veux ___ ce soir.",
+      "options": [
+        "que je sorte",
+        "sortir",
+        "que je sors",
+        "sors"
+      ],
+      "answer": 1,
+      "explanation": "When both verbs have the same subject, use an infinitive instead of que + subjunctive: je veux partir (not \"je veux que je parte\").",
+      "textId": null
+    },
+    {
+      "id": "b1-subjonctif_present-077",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "subjonctif_present",
+      "question": "Elle est contente ___ ici.",
+      "options": [
+        "qu’elle soit",
+        "qu’elle est",
+        "d’être",
+        "être"
+      ],
+      "answer": 2,
+      "explanation": "When both verbs have the same subject, use an infinitive instead of que + subjunctive: je veux partir (not \"je veux que je parte\").",
+      "textId": null
+    },
+    {
+      "id": "b1-subjonctif_present-078",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "subjonctif_present",
+      "question": "Il faut que j’___ à la banque.",
+      "options": [
+        "vais",
+        "irai",
+        "allais",
+        "aille"
+      ],
+      "answer": 3,
+      "explanation": "Irregular subjunctive: être → sois, soit, soyons; avoir → aie, ait, ayons; aller → aille; faire → fasse; pouvoir → puisse; savoir → sache; vouloir → veuille. Here: aille.",
+      "textId": null
+    },
+    {
+      "id": "b1-subjonctif_present-079",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "subjonctif_present",
+      "question": "Il faut que tu ___ patient.",
+      "options": [
+        "sois",
+        "es",
+        "seras",
+        "étais"
+      ],
+      "answer": 0,
+      "explanation": "Irregular subjunctive: être → sois, soit, soyons; avoir → aie, ait, ayons; aller → aille; faire → fasse; pouvoir → puisse; savoir → sache; vouloir → veuille. Here: sois.",
+      "textId": null
+    },
+    {
+      "id": "b1-subjonctif_present-080",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "subjonctif_present",
+      "question": "Je veux que vous ___ la vérité.",
+      "options": [
+        "savez",
+        "sachiez",
+        "saurez",
+        "saviez"
+      ],
+      "answer": 1,
+      "explanation": "Irregular subjunctive: être → sois, soit, soyons; avoir → aie, ait, ayons; aller → aille; faire → fasse; pouvoir → puisse; savoir → sache; vouloir → veuille. Here: sachiez.",
+      "textId": null
+    }
+  ]
+}

@@ -1,0 +1,1301 @@
+{
+  "texts": [],
+  "questions": [
+    {
+      "id": "b1-time_expressions-001",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "time_expressions",
+      "question": "J’habite à Vancouver ___ trois ans.",
+      "options": [
+        "depuis",
+        "pendant",
+        "il y a",
+        "dans"
+      ],
+      "answer": 0,
+      "explanation": "Depuis + present = an action that started in the past and is still going on (for / since): j’habite ici depuis deux ans.",
+      "textId": null
+    },
+    {
+      "id": "b1-time_expressions-002",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "time_expressions",
+      "question": "Elle apprend le français ___ six mois.",
+      "options": [
+        "il y a",
+        "depuis",
+        "dans",
+        "en"
+      ],
+      "answer": 1,
+      "explanation": "Depuis + present = an action that started in the past and is still going on (for / since): j’habite ici depuis deux ans.",
+      "textId": null
+    },
+    {
+      "id": "b1-time_expressions-003",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "time_expressions",
+      "question": "Nous attendons le bus ___ vingt minutes !",
+      "options": [
+        "il y a",
+        "dans",
+        "depuis",
+        "en"
+      ],
+      "answer": 2,
+      "explanation": "Depuis + present = an action that started in the past and is still going on (for / since): j’habite ici depuis deux ans.",
+      "textId": null
+    },
+    {
+      "id": "b1-time_expressions-004",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "time_expressions",
+      "question": "Il travaille ici ___ 2020.",
+      "options": [
+        "pendant",
+        "il y a",
+        "dans",
+        "depuis"
+      ],
+      "answer": 3,
+      "explanation": "Depuis + present = an action that started in the past and is still going on (for / since): j’habite ici depuis deux ans.",
+      "textId": null
+    },
+    {
+      "id": "b1-time_expressions-005",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "time_expressions",
+      "question": "Tu es malade ___ quand ?",
+      "options": [
+        "depuis",
+        "pendant",
+        "il y a",
+        "dans"
+      ],
+      "answer": 0,
+      "explanation": "Depuis + present = an action that started in the past and is still going on (for / since): j’habite ici depuis deux ans.",
+      "textId": null
+    },
+    {
+      "id": "b1-time_expressions-006",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "time_expressions",
+      "question": "Ils sont mariés ___ dix ans.",
+      "options": [
+        "il y a",
+        "depuis",
+        "dans",
+        "en"
+      ],
+      "answer": 1,
+      "explanation": "Depuis + present = an action that started in the past and is still going on (for / since): j’habite ici depuis deux ans.",
+      "textId": null
+    },
+    {
+      "id": "b1-time_expressions-007",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "time_expressions",
+      "question": "Je ne fume plus ___ le mois de janvier.",
+      "options": [
+        "pendant",
+        "il y a",
+        "depuis",
+        "dans"
+      ],
+      "answer": 2,
+      "explanation": "Depuis + present = an action that started in the past and is still going on (for / since): j’habite ici depuis deux ans.",
+      "textId": null
+    },
+    {
+      "id": "b1-time_expressions-008",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "time_expressions",
+      "question": "___ combien de temps étudies-tu le français ?",
+      "options": [
+        "Pendant",
+        "Il y a",
+        "Dans",
+        "Depuis"
+      ],
+      "answer": 3,
+      "explanation": "Depuis + present = an action that started in the past and is still going on (for / since): j’habite ici depuis deux ans.",
+      "textId": null
+    },
+    {
+      "id": "b1-time_expressions-009",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "time_expressions",
+      "question": "Je connais Paul ___ l’école primaire.",
+      "options": [
+        "depuis",
+        "pendant",
+        "il y a",
+        "dans"
+      ],
+      "answer": 0,
+      "explanation": "Depuis + present = an action that started in the past and is still going on (for / since): j’habite ici depuis deux ans.",
+      "textId": null
+    },
+    {
+      "id": "b1-time_expressions-010",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "time_expressions",
+      "question": "Il pleut ___ ce matin.",
+      "options": [
+        "pendant",
+        "depuis",
+        "il y a",
+        "dans"
+      ],
+      "answer": 1,
+      "explanation": "Depuis + present = an action that started in the past and is still going on (for / since): j’habite ici depuis deux ans.",
+      "textId": null
+    },
+    {
+      "id": "b1-time_expressions-011",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "time_expressions",
+      "question": "J’ai habité à Lyon ___ deux ans, puis j’ai déménagé.",
+      "options": [
+        "depuis",
+        "il y a",
+        "pendant",
+        "dans"
+      ],
+      "answer": 2,
+      "explanation": "Pendant = during / for a length of time that is finished (or a planned length): j’ai habité là pendant deux ans.",
+      "textId": null
+    },
+    {
+      "id": "b1-time_expressions-012",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "time_expressions",
+      "question": "Hier, j’ai dormi ___ dix heures.",
+      "options": [
+        "depuis",
+        "il y a",
+        "dans",
+        "pendant"
+      ],
+      "answer": 3,
+      "explanation": "Pendant = during / for a length of time that is finished (or a planned length): j’ai habité là pendant deux ans.",
+      "textId": null
+    },
+    {
+      "id": "b1-time_expressions-013",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "time_expressions",
+      "question": "Elle a étudié ___ toute la nuit.",
+      "options": [
+        "pendant",
+        "depuis",
+        "il y a",
+        "dans"
+      ],
+      "answer": 0,
+      "explanation": "Pendant = during / for a length of time that is finished (or a planned length): j’ai habité là pendant deux ans.",
+      "textId": null
+    },
+    {
+      "id": "b1-time_expressions-014",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "time_expressions",
+      "question": "Nous avons parlé ___ une heure au téléphone.",
+      "options": [
+        "depuis",
+        "pendant",
+        "il y a",
+        "dans"
+      ],
+      "answer": 1,
+      "explanation": "Pendant = during / for a length of time that is finished (or a planned length): j’ai habité là pendant deux ans.",
+      "textId": null
+    },
+    {
+      "id": "b1-time_expressions-015",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "time_expressions",
+      "question": "Qu’est-ce que tu as fait ___ les vacances ?",
+      "options": [
+        "depuis",
+        "il y a",
+        "pendant",
+        "dans"
+      ],
+      "answer": 2,
+      "explanation": "Pendant = during / for a length of time that is finished (or a planned length): j’ai habité là pendant deux ans.",
+      "textId": null
+    },
+    {
+      "id": "b1-time_expressions-016",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "time_expressions",
+      "question": "Il a travaillé dans cette entreprise ___ dix ans, de 2005 à 2015.",
+      "options": [
+        "depuis",
+        "il y a",
+        "dans",
+        "pendant"
+      ],
+      "answer": 3,
+      "explanation": "Pendant = during / for a length of time that is finished (or a planned length): j’ai habité là pendant deux ans.",
+      "textId": null
+    },
+    {
+      "id": "b1-time_expressions-017",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "time_expressions",
+      "question": "Ne parle pas ___ le film !",
+      "options": [
+        "pendant",
+        "depuis",
+        "il y a",
+        "en"
+      ],
+      "answer": 0,
+      "explanation": "Pendant = during / for a length of time that is finished (or a planned length): j’ai habité là pendant deux ans.",
+      "textId": null
+    },
+    {
+      "id": "b1-time_expressions-018",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "time_expressions",
+      "question": "J’ai attendu ___ une demi-heure, puis je suis parti.",
+      "options": [
+        "depuis",
+        "pendant",
+        "il y a",
+        "dans"
+      ],
+      "answer": 1,
+      "explanation": "Pendant = during / for a length of time that is finished (or a planned length): j’ai habité là pendant deux ans.",
+      "textId": null
+    },
+    {
+      "id": "b1-time_expressions-019",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "time_expressions",
+      "question": "Je suis arrivé au Canada ___ cinq ans.",
+      "options": [
+        "dans",
+        "dès",
+        "il y a",
+        "jusqu’à"
+      ],
+      "answer": 2,
+      "explanation": "Il y a + length of time = ago. The verb is in a past tense: je suis arrivé il y a deux ans.",
+      "textId": null
+    },
+    {
+      "id": "b1-time_expressions-020",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "time_expressions",
+      "question": "Elle a téléphoné ___ dix minutes.",
+      "options": [
+        "dans",
+        "dès",
+        "jusqu’à",
+        "il y a"
+      ],
+      "answer": 3,
+      "explanation": "Il y a + length of time = ago. The verb is in a past tense: je suis arrivé il y a deux ans.",
+      "textId": null
+    },
+    {
+      "id": "b1-time_expressions-021",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "time_expressions",
+      "question": "Nous nous sommes rencontrés ___ longtemps.",
+      "options": [
+        "il y a",
+        "dans",
+        "dès",
+        "jusqu’à"
+      ],
+      "answer": 0,
+      "explanation": "Il y a + length of time = ago. The verb is in a past tense: je suis arrivé il y a deux ans.",
+      "textId": null
+    },
+    {
+      "id": "b1-time_expressions-022",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "time_expressions",
+      "question": "Le film a commencé ___ un quart d’heure.",
+      "options": [
+        "dans",
+        "il y a",
+        "dès",
+        "jusqu’à"
+      ],
+      "answer": 1,
+      "explanation": "Il y a + length of time = ago. The verb is in a past tense: je suis arrivé il y a deux ans.",
+      "textId": null
+    },
+    {
+      "id": "b1-time_expressions-023",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "time_expressions",
+      "question": "J’ai fini mes études ___ deux ans.",
+      "options": [
+        "dans",
+        "dès",
+        "il y a",
+        "jusqu’à"
+      ],
+      "answer": 2,
+      "explanation": "Il y a + length of time = ago. The verb is in a past tense: je suis arrivé il y a deux ans.",
+      "textId": null
+    },
+    {
+      "id": "b1-time_expressions-024",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "time_expressions",
+      "question": "Ils ont déménagé ___ trois mois.",
+      "options": [
+        "dans",
+        "dès",
+        "jusqu’à",
+        "il y a"
+      ],
+      "answer": 3,
+      "explanation": "Il y a + length of time = ago. The verb is in a past tense: je suis arrivé il y a deux ans.",
+      "textId": null
+    },
+    {
+      "id": "b1-time_expressions-025",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "time_expressions",
+      "question": "J’ai vu ce film ___ une semaine.",
+      "options": [
+        "il y a",
+        "dans",
+        "dès",
+        "jusqu’à"
+      ],
+      "answer": 0,
+      "explanation": "Il y a + length of time = ago. The verb is in a past tense: je suis arrivé il y a deux ans.",
+      "textId": null
+    },
+    {
+      "id": "b1-time_expressions-026",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "time_expressions",
+      "question": "Mon grand-père est mort ___ dix ans.",
+      "options": [
+        "dans",
+        "il y a",
+        "dès",
+        "jusqu’à"
+      ],
+      "answer": 1,
+      "explanation": "Il y a + length of time = ago. The verb is in a past tense: je suis arrivé il y a deux ans.",
+      "textId": null
+    },
+    {
+      "id": "b1-time_expressions-027",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "time_expressions",
+      "question": "Le train part ___ dix minutes.",
+      "options": [
+        "il y a",
+        "depuis",
+        "dans",
+        "pendant"
+      ],
+      "answer": 2,
+      "explanation": "Dans + length of time = in (from now), for something in the future: je pars dans deux jours.",
+      "textId": null
+    },
+    {
+      "id": "b1-time_expressions-028",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "time_expressions",
+      "question": "Je reviens ___ une heure.",
+      "options": [
+        "il y a",
+        "depuis",
+        "pendant",
+        "dans"
+      ],
+      "answer": 3,
+      "explanation": "Dans + length of time = in (from now), for something in the future: je pars dans deux jours.",
+      "textId": null
+    },
+    {
+      "id": "b1-time_expressions-029",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "time_expressions",
+      "question": "Nous partons en vacances ___ deux semaines.",
+      "options": [
+        "dans",
+        "il y a",
+        "depuis",
+        "en"
+      ],
+      "answer": 0,
+      "explanation": "Dans + length of time = in (from now), for something in the future: je pars dans deux jours.",
+      "textId": null
+    },
+    {
+      "id": "b1-time_expressions-030",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "time_expressions",
+      "question": "Elle aura son diplôme ___ un an.",
+      "options": [
+        "il y a",
+        "dans",
+        "depuis",
+        "pendant"
+      ],
+      "answer": 1,
+      "explanation": "Dans + length of time = in (from now), for something in the future: je pars dans deux jours.",
+      "textId": null
+    },
+    {
+      "id": "b1-time_expressions-031",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "time_expressions",
+      "question": "Le cours commence ___ cinq minutes, dépêche-toi !",
+      "options": [
+        "il y a",
+        "depuis",
+        "dans",
+        "pendant"
+      ],
+      "answer": 2,
+      "explanation": "Dans + length of time = in (from now), for something in the future: je pars dans deux jours.",
+      "textId": null
+    },
+    {
+      "id": "b1-time_expressions-032",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "time_expressions",
+      "question": "On se revoit ___ quelques jours.",
+      "options": [
+        "il y a",
+        "depuis",
+        "pendant",
+        "dans"
+      ],
+      "answer": 3,
+      "explanation": "Dans + length of time = in (from now), for something in the future: je pars dans deux jours.",
+      "textId": null
+    },
+    {
+      "id": "b1-time_expressions-033",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "time_expressions",
+      "question": "Je t’appelle ___ un quart d’heure.",
+      "options": [
+        "dans",
+        "il y a",
+        "depuis",
+        "pendant"
+      ],
+      "answer": 0,
+      "explanation": "Dans + length of time = in (from now), for something in the future: je pars dans deux jours.",
+      "textId": null
+    },
+    {
+      "id": "b1-time_expressions-034",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "time_expressions",
+      "question": "Le bébé va naître ___ trois mois.",
+      "options": [
+        "il y a",
+        "dans",
+        "depuis",
+        "pendant"
+      ],
+      "answer": 1,
+      "explanation": "Dans + length of time = in (from now), for something in the future: je pars dans deux jours.",
+      "textId": null
+    },
+    {
+      "id": "b1-time_expressions-035",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "time_expressions",
+      "question": "J’ai lu ce roman ___ deux jours seulement.",
+      "options": [
+        "dans",
+        "dès",
+        "en",
+        "jusqu’à"
+      ],
+      "answer": 2,
+      "explanation": "En + length of time = the time it takes to do something: j’ai lu ce livre en deux jours.",
+      "textId": null
+    },
+    {
+      "id": "b1-time_expressions-036",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "time_expressions",
+      "question": "Elle a fait l’exercice ___ cinq minutes.",
+      "options": [
+        "dans",
+        "dès",
+        "jusqu’à",
+        "en"
+      ],
+      "answer": 3,
+      "explanation": "En + length of time = the time it takes to do something: j’ai lu ce livre en deux jours.",
+      "textId": null
+    },
+    {
+      "id": "b1-time_expressions-037",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "time_expressions",
+      "question": "On peut aller à Montréal ___ une heure d’avion.",
+      "options": [
+        "en",
+        "dans",
+        "dès",
+        "jusqu’à"
+      ],
+      "answer": 0,
+      "explanation": "En + length of time = the time it takes to do something: j’ai lu ce livre en deux jours.",
+      "textId": null
+    },
+    {
+      "id": "b1-time_expressions-038",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "time_expressions",
+      "question": "Il a appris à nager ___ une semaine.",
+      "options": [
+        "dans",
+        "en",
+        "dès",
+        "jusqu’à"
+      ],
+      "answer": 1,
+      "explanation": "En + length of time = the time it takes to do something: j’ai lu ce livre en deux jours.",
+      "textId": null
+    },
+    {
+      "id": "b1-time_expressions-039",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "time_expressions",
+      "question": "Nous avons traversé la ville ___ vingt minutes.",
+      "options": [
+        "dans",
+        "dès",
+        "en",
+        "jusqu’à"
+      ],
+      "answer": 2,
+      "explanation": "En + length of time = the time it takes to do something: j’ai lu ce livre en deux jours.",
+      "textId": null
+    },
+    {
+      "id": "b1-time_expressions-040",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "time_expressions",
+      "question": "Il a écrit sa lettre ___ dix minutes, très vite.",
+      "options": [
+        "dans",
+        "dès",
+        "jusqu’à",
+        "en"
+      ],
+      "answer": 3,
+      "explanation": "En + length of time = the time it takes to do something: j’ai lu ce livre en deux jours.",
+      "textId": null
+    },
+    {
+      "id": "b1-time_expressions-041",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "time_expressions",
+      "question": "Je pars en France ___ trois semaines : je reviens le 30.",
+      "options": [
+        "pour",
+        "depuis",
+        "il y a",
+        "en"
+      ],
+      "answer": 0,
+      "explanation": "Pour + length of time = a planned length, mostly with partir, aller, venir, être là: je pars pour trois semaines.",
+      "textId": null
+    },
+    {
+      "id": "b1-time_expressions-042",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "time_expressions",
+      "question": "Elle est venue à Paris ___ un an, mais elle y est restée dix ans.",
+      "options": [
+        "depuis",
+        "pour",
+        "il y a",
+        "en"
+      ],
+      "answer": 1,
+      "explanation": "Pour + length of time = a planned length, mostly with partir, aller, venir, être là: je pars pour trois semaines.",
+      "textId": null
+    },
+    {
+      "id": "b1-time_expressions-043",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "time_expressions",
+      "question": "Je vous prête ma voiture ___ le week-end.",
+      "options": [
+        "depuis",
+        "il y a",
+        "pour",
+        "en"
+      ],
+      "answer": 2,
+      "explanation": "Pour + length of time = a planned length, mostly with partir, aller, venir, être là: je pars pour trois semaines.",
+      "textId": null
+    },
+    {
+      "id": "b1-time_expressions-044",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "time_expressions",
+      "question": "Il s’en va ___ quelques jours seulement.",
+      "options": [
+        "depuis",
+        "il y a",
+        "en",
+        "pour"
+      ],
+      "answer": 3,
+      "explanation": "Pour + length of time = a planned length, mostly with partir, aller, venir, être là: je pars pour trois semaines.",
+      "textId": null
+    },
+    {
+      "id": "b1-time_expressions-045",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "time_expressions",
+      "question": "Ça fait deux ans ___ j’habite ici.",
+      "options": [
+        "que",
+        "depuis",
+        "de",
+        "quand"
+      ],
+      "answer": 0,
+      "explanation": "Ça fait … que and il y a … que + present mean the same as depuis, but the length of time comes first: ça fait deux ans que j’habite ici.",
+      "textId": null
+    },
+    {
+      "id": "b1-time_expressions-046",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "time_expressions",
+      "question": "Il y a une heure ___ je t’attends !",
+      "options": [
+        "depuis",
+        "que",
+        "de",
+        "quand"
+      ],
+      "answer": 1,
+      "explanation": "Ça fait … que and il y a … que + present mean the same as depuis, but the length of time comes first: ça fait deux ans que j’habite ici.",
+      "textId": null
+    },
+    {
+      "id": "b1-time_expressions-047",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "time_expressions",
+      "question": "___ trois mois que je cherche du travail.",
+      "options": [
+        "Depuis",
+        "Pendant",
+        "Ça fait",
+        "Dans"
+      ],
+      "answer": 2,
+      "explanation": "Ça fait … que and il y a … que + present mean the same as depuis, but the length of time comes first: ça fait deux ans que j’habite ici.",
+      "textId": null
+    },
+    {
+      "id": "b1-time_expressions-048",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "time_expressions",
+      "question": "___ longtemps que tu es là ?",
+      "options": [
+        "Depuis",
+        "Pendant",
+        "Dans",
+        "Ça fait"
+      ],
+      "answer": 3,
+      "explanation": "Ça fait … que and il y a … que + present mean the same as depuis, but the length of time comes first: ça fait deux ans que j’habite ici.",
+      "textId": null
+    },
+    {
+      "id": "b1-time_expressions-049",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "time_expressions",
+      "question": "Ça fait dix minutes que le bus ___ en retard.",
+      "options": [
+        "est",
+        "a été",
+        "était",
+        "sera"
+      ],
+      "answer": 0,
+      "explanation": "Ça fait … que and il y a … que + present mean the same as depuis, but the length of time comes first: ça fait deux ans que j’habite ici.",
+      "textId": null
+    },
+    {
+      "id": "b1-time_expressions-050",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "time_expressions",
+      "question": "Ça fait longtemps que nous ne ___ pas vus.",
+      "options": [
+        "nous serons",
+        "nous sommes",
+        "nous étions",
+        "nous soyons"
+      ],
+      "answer": 1,
+      "explanation": "With ça fait … que and a negative verb, the passé composé is used for the last time something happened: ça fait longtemps que nous ne nous sommes pas vus.",
+      "textId": null
+    },
+    {
+      "id": "b1-time_expressions-051",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "time_expressions",
+      "question": "Le magasin est ouvert ___ dix-neuf heures.",
+      "options": [
+        "depuis",
+        "pendant",
+        "jusqu’à",
+        "il y a"
+      ],
+      "answer": 2,
+      "explanation": "Jusqu’à = until. À + le contracts: jusqu’au.",
+      "textId": null
+    },
+    {
+      "id": "b1-time_expressions-052",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "time_expressions",
+      "question": "Je reste ici ___ lundi.",
+      "options": [
+        "depuis",
+        "pendant",
+        "il y a",
+        "jusqu’à"
+      ],
+      "answer": 3,
+      "explanation": "Jusqu’à = until. À + le contracts: jusqu’au.",
+      "textId": null
+    },
+    {
+      "id": "b1-time_expressions-053",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "time_expressions",
+      "question": "Nous travaillons ___ soir.",
+      "options": [
+        "jusqu’au",
+        "jusqu’à",
+        "jusqu’à le",
+        "depuis le"
+      ],
+      "answer": 0,
+      "explanation": "Jusqu’à = until. À + le contracts: jusqu’au.",
+      "textId": null
+    },
+    {
+      "id": "b1-time_expressions-054",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "time_expressions",
+      "question": "Continuez tout droit ___ feu rouge.",
+      "options": [
+        "jusqu’à",
+        "jusqu’au",
+        "jusqu’à le",
+        "depuis le"
+      ],
+      "answer": 1,
+      "explanation": "Jusqu’à = until. À + le contracts: jusqu’au.",
+      "textId": null
+    },
+    {
+      "id": "b1-time_expressions-055",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "time_expressions",
+      "question": "J’ai attendu ___ minuit.",
+      "options": [
+        "depuis",
+        "dans",
+        "jusqu’à",
+        "il y a"
+      ],
+      "answer": 2,
+      "explanation": "Jusqu’à = until. À + le contracts: jusqu’au.",
+      "textId": null
+    },
+    {
+      "id": "b1-time_expressions-056",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "time_expressions",
+      "question": "Elle sera en vacances ___ fin du mois.",
+      "options": [
+        "jusqu’au",
+        "jusqu’à",
+        "depuis la",
+        "jusqu’à la"
+      ],
+      "answer": 3,
+      "explanation": "Jusqu’à = until. À + le contracts: jusqu’au.",
+      "textId": null
+    },
+    {
+      "id": "b1-time_expressions-057",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "time_expressions",
+      "question": "___ demain, le magasin fermera à vingt heures.",
+      "options": [
+        "À partir de",
+        "Depuis",
+        "Il y a",
+        "Pendant"
+      ],
+      "answer": 0,
+      "explanation": "À partir de = from … on, starting. Dès = as early as, right from.",
+      "textId": null
+    },
+    {
+      "id": "b1-time_expressions-058",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "time_expressions",
+      "question": "___ lundi prochain, je commence un nouveau travail.",
+      "options": [
+        "Depuis",
+        "À partir de",
+        "Il y a",
+        "Pendant"
+      ],
+      "answer": 1,
+      "explanation": "À partir de = from … on, starting. Dès = as early as, right from.",
+      "textId": null
+    },
+    {
+      "id": "b1-time_expressions-059",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "time_expressions",
+      "question": "Les soldes commencent ___ premier juillet.",
+      "options": [
+        "depuis le",
+        "il y a le",
+        "à partir du",
+        "pendant le"
+      ],
+      "answer": 2,
+      "explanation": "À partir de = from … on, starting. Dès = as early as, right from.",
+      "textId": null
+    },
+    {
+      "id": "b1-time_expressions-060",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "time_expressions",
+      "question": "Je t’appellerai ___ mon arrivée.",
+      "options": [
+        "depuis",
+        "pendant",
+        "il y a",
+        "dès"
+      ],
+      "answer": 3,
+      "explanation": "À partir de = from … on, starting. Dès = as early as, right from.",
+      "textId": null
+    },
+    {
+      "id": "b1-time_expressions-061",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "time_expressions",
+      "question": "___ son plus jeune âge, il voulait être pilote.",
+      "options": [
+        "Dès",
+        "Dans",
+        "Pendant",
+        "Il y a"
+      ],
+      "answer": 0,
+      "explanation": "À partir de = from … on, starting. Dès = as early as, right from.",
+      "textId": null
+    },
+    {
+      "id": "b1-time_expressions-062",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "time_expressions",
+      "question": "Je fais du sport ___ les jours.",
+      "options": [
+        "chaque",
+        "tous",
+        "tout",
+        "toutes"
+      ],
+      "answer": 1,
+      "explanation": "Tous les + plural (tous les jours) = every. Chaque + singular (chaque jour) = each.",
+      "textId": null
+    },
+    {
+      "id": "b1-time_expressions-063",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "time_expressions",
+      "question": "Elle appelle sa mère ___ semaine.",
+      "options": [
+        "tous",
+        "toutes",
+        "chaque",
+        "tout"
+      ],
+      "answer": 2,
+      "explanation": "Tous les + plural (tous les jours) = every. Chaque + singular (chaque jour) = each.",
+      "textId": null
+    },
+    {
+      "id": "b1-time_expressions-064",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "time_expressions",
+      "question": "Nous allons au marché ___ les samedis.",
+      "options": [
+        "chaque",
+        "tout",
+        "toutes",
+        "tous"
+      ],
+      "answer": 3,
+      "explanation": "Tous les + plural (tous les jours) = every. Chaque + singular (chaque jour) = each.",
+      "textId": null
+    },
+    {
+      "id": "b1-time_expressions-065",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "time_expressions",
+      "question": "Il prend ce médicament ___ les six heures.",
+      "options": [
+        "toutes",
+        "tous",
+        "chaque",
+        "tout"
+      ],
+      "answer": 0,
+      "explanation": "Heures is feminine plural, so \"every six hours\" is toutes les six heures.",
+      "textId": null
+    },
+    {
+      "id": "b1-time_expressions-066",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "time_expressions",
+      "question": "___ matin, je bois un café.",
+      "options": [
+        "Tous",
+        "Chaque",
+        "Toutes",
+        "Tout"
+      ],
+      "answer": 1,
+      "explanation": "Tous les + plural (tous les jours) = every. Chaque + singular (chaque jour) = each.",
+      "textId": null
+    },
+    {
+      "id": "b1-time_expressions-067",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "time_expressions",
+      "question": "Je vais chez le dentiste ___ les six mois.",
+      "options": [
+        "chaque",
+        "toutes",
+        "tous",
+        "tout"
+      ],
+      "answer": 2,
+      "explanation": "Tous les + plural (tous les jours) = every. Chaque + singular (chaque jour) = each.",
+      "textId": null
+    },
+    {
+      "id": "b1-time_expressions-068",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "time_expressions",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "J’ai habité ici depuis cinq ans et j’y suis encore.",
+        "J’habitais ici depuis cinq ans et j’y suis encore.",
+        "J’habiterai ici depuis cinq ans.",
+        "J’habite ici depuis cinq ans."
+      ],
+      "answer": 3,
+      "explanation": "With depuis, an action that is still going on is in the present in French (not the passé composé as in English \"have lived\").",
+      "textId": null
+    },
+    {
+      "id": "b1-time_expressions-069",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "time_expressions",
+      "question": "Elle ___ dans cette entreprise depuis 2019, et elle y est toujours.",
+      "options": [
+        "travaille",
+        "a travaillé",
+        "travaillera",
+        "avait travaillé"
+      ],
+      "answer": 0,
+      "explanation": "With depuis, an action that is still going on is in the present in French (not the passé composé as in English \"have lived\").",
+      "textId": null
+    },
+    {
+      "id": "b1-time_expressions-070",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "time_expressions",
+      "question": "Je ___ le français depuis deux ans, et je continue.",
+      "options": [
+        "ai étudié",
+        "étudie",
+        "étudierai",
+        "avais étudié"
+      ],
+      "answer": 1,
+      "explanation": "With depuis, an action that is still going on is in the present in French (not the passé composé as in English \"have lived\").",
+      "textId": null
+    },
+    {
+      "id": "b1-time_expressions-071",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "time_expressions",
+      "question": "Nous ___ ici depuis une heure. Quand est-ce que le médecin arrive ?",
+      "options": [
+        "avons attendu",
+        "attendrons",
+        "attendons",
+        "avions attendu"
+      ],
+      "answer": 2,
+      "explanation": "With depuis, an action that is still going on is in the present in French (not the passé composé as in English \"have lived\").",
+      "textId": null
+    },
+    {
+      "id": "b1-time_expressions-072",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "time_expressions",
+      "question": "Il ___ depuis ce matin, et ça ne s’arrête pas.",
+      "options": [
+        "a neigé",
+        "neigera",
+        "avait neigé",
+        "neige"
+      ],
+      "answer": 3,
+      "explanation": "With depuis, an action that is still going on is in the present in French (not the passé composé as in English \"have lived\").",
+      "textId": null
+    },
+    {
+      "id": "b1-time_expressions-073",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "time_expressions",
+      "question": "Je n’ai pas vu Paul ___ Noël.",
+      "options": [
+        "depuis",
+        "en",
+        "il y a",
+        "dans"
+      ],
+      "answer": 0,
+      "explanation": "With a negative verb, depuis can go with the passé composé: I haven’t seen him since Christmas.",
+      "textId": null
+    },
+    {
+      "id": "b1-time_expressions-074",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "time_expressions",
+      "question": "Elle n’a rien mangé ___ hier.",
+      "options": [
+        "pendant",
+        "depuis",
+        "il y a",
+        "dans"
+      ],
+      "answer": 1,
+      "explanation": "With a negative verb, depuis can go with the passé composé: she has eaten nothing since yesterday.",
+      "textId": null
+    },
+    {
+      "id": "b1-time_expressions-075",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "time_expressions",
+      "question": "Je me lève ___ sept heures tous les jours.",
+      "options": [
+        "en",
+        "dans",
+        "à",
+        "pendant"
+      ],
+      "answer": 2,
+      "explanation": "À + a clock time: à sept heures.",
+      "textId": null
+    },
+    {
+      "id": "b1-time_expressions-076",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "time_expressions",
+      "question": "Je suis né ___ 2006.",
+      "options": [
+        "à",
+        "dans",
+        "il y a",
+        "en"
+      ],
+      "answer": 3,
+      "explanation": "En + year: en 2006.",
+      "textId": null
+    },
+    {
+      "id": "b1-time_expressions-077",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "time_expressions",
+      "question": "Nous partons ___ 15 août.",
+      "options": [
+        "le",
+        "au",
+        "en",
+        "dans"
+      ],
+      "answer": 0,
+      "explanation": "Dates take le with no preposition: nous partons le 15 août.",
+      "textId": null
+    },
+    {
+      "id": "b1-time_expressions-078",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "time_expressions",
+      "question": "Le musée est fermé ___ lundi.",
+      "options": [
+        "à",
+        "le",
+        "en",
+        "dans"
+      ],
+      "answer": 1,
+      "explanation": "Le + day = every week on that day: fermé le lundi.",
+      "textId": null
+    },
+    {
+      "id": "b1-time_expressions-079",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "time_expressions",
+      "question": "Je t’ai attendu ___ 14 h à 16 h.",
+      "options": [
+        "depuis",
+        "dès",
+        "de",
+        "pendant"
+      ],
+      "answer": 2,
+      "explanation": "De … à … gives the start and the end: de 14 h à 16 h.",
+      "textId": null
+    },
+    {
+      "id": "b1-time_expressions-080",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "time_expressions",
+      "question": "Il est arrivé ___ 18 heures, je ne sais pas exactement.",
+      "options": [
+        "dans",
+        "en",
+        "pendant",
+        "vers"
+      ],
+      "answer": 3,
+      "explanation": "Vers + time = around, at about.",
+      "textId": null
+    },
+    {
+      "id": "b1-time_expressions-081",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "time_expressions",
+      "question": "J’ai tout fini ___ temps.",
+      "options": [
+        "à",
+        "en",
+        "dans",
+        "pendant"
+      ],
+      "answer": 0,
+      "explanation": "À temps = in time (not too late).",
+      "textId": null
+    }
+  ]
+}

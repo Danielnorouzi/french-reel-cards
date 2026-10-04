@@ -1,0 +1,1285 @@
+{
+  "texts": [],
+  "questions": [
+    {
+      "id": "a1-contractions-001",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "contractions",
+      "question": "Je vais ___ cinéma ce soir.",
+      "options": [
+        "au",
+        "à la",
+        "à l’",
+        "aux"
+      ],
+      "answer": 0,
+      "explanation": "À + le always contracts to au.",
+      "textId": null
+    },
+    {
+      "id": "a1-contractions-002",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "contractions",
+      "question": "Elle va ___ boulangerie.",
+      "options": [
+        "au",
+        "à la",
+        "à l’",
+        "aux"
+      ],
+      "answer": 1,
+      "explanation": "À + la does not change: à la.",
+      "textId": null
+    },
+    {
+      "id": "a1-contractions-003",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "contractions",
+      "question": "Nous allons ___ école à pied.",
+      "options": [
+        "au",
+        "à la",
+        "à l’",
+        "aux"
+      ],
+      "answer": 2,
+      "explanation": "À + l’ does not change: à l’ (before a vowel or silent h).",
+      "textId": null
+    },
+    {
+      "id": "a1-contractions-004",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "contractions",
+      "question": "Il parle ___ enfants.",
+      "options": [
+        "au",
+        "à la",
+        "à l’",
+        "aux"
+      ],
+      "answer": 3,
+      "explanation": "À + les always contracts to aux.",
+      "textId": null
+    },
+    {
+      "id": "a1-contractions-005",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "contractions",
+      "question": "Tu vas ___ supermarché ?",
+      "options": [
+        "au",
+        "à la",
+        "à l’",
+        "aux"
+      ],
+      "answer": 0,
+      "explanation": "À + le always contracts to au.",
+      "textId": null
+    },
+    {
+      "id": "a1-contractions-006",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "contractions",
+      "question": "Je suis ___ maison.",
+      "options": [
+        "au",
+        "à la",
+        "à l’",
+        "aux"
+      ],
+      "answer": 1,
+      "explanation": "À + la does not change: à la.",
+      "textId": null
+    },
+    {
+      "id": "a1-contractions-007",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "contractions",
+      "question": "Ils sont ___ hôpital.",
+      "options": [
+        "au",
+        "à la",
+        "à l’",
+        "aux"
+      ],
+      "answer": 2,
+      "explanation": "À + l’ does not change: à l’ (before a vowel or silent h).",
+      "textId": null
+    },
+    {
+      "id": "a1-contractions-008",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "contractions",
+      "question": "Je téléphone ___ parents de Léa.",
+      "options": [
+        "au",
+        "à la",
+        "à l’",
+        "aux"
+      ],
+      "answer": 3,
+      "explanation": "À + les always contracts to aux.",
+      "textId": null
+    },
+    {
+      "id": "a1-contractions-009",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "contractions",
+      "question": "On mange ___ restaurant ce midi.",
+      "options": [
+        "au",
+        "à la",
+        "à l’",
+        "aux"
+      ],
+      "answer": 0,
+      "explanation": "À + le always contracts to au.",
+      "textId": null
+    },
+    {
+      "id": "a1-contractions-010",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "contractions",
+      "question": "Elle travaille ___ banque.",
+      "options": [
+        "au",
+        "à la",
+        "à l’",
+        "aux"
+      ],
+      "answer": 1,
+      "explanation": "À + la does not change: à la.",
+      "textId": null
+    },
+    {
+      "id": "a1-contractions-011",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "contractions",
+      "question": "Vous allez ___ aéroport en taxi ?",
+      "options": [
+        "au",
+        "à la",
+        "à l’",
+        "aux"
+      ],
+      "answer": 2,
+      "explanation": "À + l’ does not change: à l’ (before a vowel or silent h).",
+      "textId": null
+    },
+    {
+      "id": "a1-contractions-012",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "contractions",
+      "question": "Le professeur répond ___ étudiants.",
+      "options": [
+        "au",
+        "à la",
+        "à l’",
+        "aux"
+      ],
+      "answer": 3,
+      "explanation": "À + les always contracts to aux.",
+      "textId": null
+    },
+    {
+      "id": "a1-contractions-013",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "contractions",
+      "question": "Je vais ___ travail en métro.",
+      "options": [
+        "au",
+        "à la",
+        "à l’",
+        "aux"
+      ],
+      "answer": 0,
+      "explanation": "À + le always contracts to au.",
+      "textId": null
+    },
+    {
+      "id": "a1-contractions-014",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "contractions",
+      "question": "Nous sommes ___ plage.",
+      "options": [
+        "au",
+        "à la",
+        "à l’",
+        "aux"
+      ],
+      "answer": 1,
+      "explanation": "À + la does not change: à la.",
+      "textId": null
+    },
+    {
+      "id": "a1-contractions-015",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "contractions",
+      "question": "Tu étudies ___ université ?",
+      "options": [
+        "au",
+        "à la",
+        "à l’",
+        "aux"
+      ],
+      "answer": 2,
+      "explanation": "À + l’ does not change: à l’ (before a vowel or silent h).",
+      "textId": null
+    },
+    {
+      "id": "a1-contractions-016",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "contractions",
+      "question": "Il va ___ toilettes.",
+      "options": [
+        "au",
+        "à la",
+        "à l’",
+        "aux"
+      ],
+      "answer": 3,
+      "explanation": "À + les always contracts to aux.",
+      "textId": null
+    },
+    {
+      "id": "a1-contractions-017",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "contractions",
+      "question": "Elle joue ___ tennis le samedi.",
+      "options": [
+        "au",
+        "à la",
+        "à l’",
+        "aux"
+      ],
+      "answer": 0,
+      "explanation": "Jouer à + a sport: à + le tennis = au tennis.",
+      "textId": null
+    },
+    {
+      "id": "a1-contractions-018",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "contractions",
+      "question": "Ils jouent ___ cartes.",
+      "options": [
+        "au",
+        "aux",
+        "à la",
+        "à l’"
+      ],
+      "answer": 1,
+      "explanation": "Jouer à + a game: à + les cartes = aux cartes.",
+      "textId": null
+    },
+    {
+      "id": "a1-contractions-019",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "contractions",
+      "question": "Je joue ___ football avec mes amis.",
+      "options": [
+        "à la",
+        "à l’",
+        "au",
+        "aux"
+      ],
+      "answer": 2,
+      "explanation": "Jouer à + a sport: à + le football = au football.",
+      "textId": null
+    },
+    {
+      "id": "a1-contractions-020",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "contractions",
+      "question": "Les enfants jouent ___ jeux vidéo.",
+      "options": [
+        "au",
+        "à la",
+        "à l’",
+        "aux"
+      ],
+      "answer": 3,
+      "explanation": "Jouer à + a game: à + les jeux = aux jeux.",
+      "textId": null
+    },
+    {
+      "id": "a1-contractions-021",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "contractions",
+      "question": "Je vais ___ marché le dimanche.",
+      "options": [
+        "au",
+        "à la",
+        "à l’",
+        "aux"
+      ],
+      "answer": 0,
+      "explanation": "À + le always contracts to au.",
+      "textId": null
+    },
+    {
+      "id": "a1-contractions-022",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "contractions",
+      "question": "Elle est ___ bibliothèque.",
+      "options": [
+        "au",
+        "à la",
+        "à l’",
+        "aux"
+      ],
+      "answer": 1,
+      "explanation": "À + la does not change: à la.",
+      "textId": null
+    },
+    {
+      "id": "a1-contractions-023",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "contractions",
+      "question": "Nous allons ___ hôtel.",
+      "options": [
+        "au",
+        "à la",
+        "à l’",
+        "aux"
+      ],
+      "answer": 2,
+      "explanation": "À + l’ does not change: à l’ (before a vowel or silent h).",
+      "textId": null
+    },
+    {
+      "id": "a1-contractions-024",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "contractions",
+      "question": "J’ai mal ___ dents.",
+      "options": [
+        "au",
+        "à la",
+        "à l’",
+        "aux"
+      ],
+      "answer": 3,
+      "explanation": "À + les always contracts to aux.",
+      "textId": null
+    },
+    {
+      "id": "a1-contractions-025",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "contractions",
+      "question": "J’ai mal ___ ventre.",
+      "options": [
+        "au",
+        "à la",
+        "à l’",
+        "aux"
+      ],
+      "answer": 0,
+      "explanation": "À + le always contracts to au.",
+      "textId": null
+    },
+    {
+      "id": "a1-contractions-026",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "contractions",
+      "question": "Elle a mal ___ tête.",
+      "options": [
+        "au",
+        "à la",
+        "à l’",
+        "aux"
+      ],
+      "answer": 1,
+      "explanation": "À + la does not change: à la.",
+      "textId": null
+    },
+    {
+      "id": "a1-contractions-027",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "contractions",
+      "question": "Il a mal ___ épaule.",
+      "options": [
+        "au",
+        "à la",
+        "à l’",
+        "aux"
+      ],
+      "answer": 2,
+      "explanation": "À + l’ does not change: à l’ (before a vowel or silent h).",
+      "textId": null
+    },
+    {
+      "id": "a1-contractions-028",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "contractions",
+      "question": "Tu as mal ___ pieds ?",
+      "options": [
+        "au",
+        "à la",
+        "à l’",
+        "aux"
+      ],
+      "answer": 3,
+      "explanation": "À + les always contracts to aux.",
+      "textId": null
+    },
+    {
+      "id": "a1-contractions-029",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "contractions",
+      "question": "Il a mal ___ dos.",
+      "options": [
+        "au",
+        "à la",
+        "à l’",
+        "aux"
+      ],
+      "answer": 0,
+      "explanation": "À + le always contracts to au.",
+      "textId": null
+    },
+    {
+      "id": "a1-contractions-030",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "contractions",
+      "question": "J’ai mal ___ gorge.",
+      "options": [
+        "au",
+        "à la",
+        "à l’",
+        "aux"
+      ],
+      "answer": 1,
+      "explanation": "À + la does not change: à la.",
+      "textId": null
+    },
+    {
+      "id": "a1-contractions-031",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "contractions",
+      "question": "Un café ___ lait, s’il vous plaît.",
+      "options": [
+        "à la",
+        "à l’",
+        "au",
+        "aux"
+      ],
+      "answer": 2,
+      "explanation": "À + le always contracts to au.",
+      "textId": null
+    },
+    {
+      "id": "a1-contractions-032",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "contractions",
+      "question": "Une tarte ___ pommes, s’il vous plaît.",
+      "options": [
+        "au",
+        "à la",
+        "à l’",
+        "aux"
+      ],
+      "answer": 3,
+      "explanation": "À + les always contracts to aux.",
+      "textId": null
+    },
+    {
+      "id": "a1-contractions-033",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "contractions",
+      "question": "Une glace ___ vanille.",
+      "options": [
+        "à la",
+        "au",
+        "à l’",
+        "aux"
+      ],
+      "answer": 0,
+      "explanation": "À + la does not change: à la.",
+      "textId": null
+    },
+    {
+      "id": "a1-contractions-034",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "contractions",
+      "question": "Un gâteau ___ chocolat.",
+      "options": [
+        "à la",
+        "au",
+        "à l’",
+        "aux"
+      ],
+      "answer": 1,
+      "explanation": "À + le always contracts to au.",
+      "textId": null
+    },
+    {
+      "id": "a1-contractions-035",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "contractions",
+      "question": "Un sandwich ___ fromage.",
+      "options": [
+        "à la",
+        "à l’",
+        "au",
+        "aux"
+      ],
+      "answer": 2,
+      "explanation": "À + le always contracts to au.",
+      "textId": null
+    },
+    {
+      "id": "a1-contractions-036",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "contractions",
+      "question": "Une soupe ___ oignon.",
+      "options": [
+        "au",
+        "à la",
+        "aux",
+        "à l’"
+      ],
+      "answer": 3,
+      "explanation": "À + l’ does not change: à l’ (before a vowel or silent h).",
+      "textId": null
+    },
+    {
+      "id": "a1-contractions-037",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "contractions",
+      "question": "Je parle ___ professeur après le cours.",
+      "options": [
+        "au",
+        "à la",
+        "à l’",
+        "aux"
+      ],
+      "answer": 0,
+      "explanation": "À + le always contracts to au.",
+      "textId": null
+    },
+    {
+      "id": "a1-contractions-038",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "contractions",
+      "question": "Elle parle ___ directrice.",
+      "options": [
+        "au",
+        "à la",
+        "à l’",
+        "aux"
+      ],
+      "answer": 1,
+      "explanation": "À + la does not change: à la.",
+      "textId": null
+    },
+    {
+      "id": "a1-contractions-039",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "contractions",
+      "question": "Je pense ___ vacances.",
+      "options": [
+        "au",
+        "à la",
+        "aux",
+        "à l’"
+      ],
+      "answer": 2,
+      "explanation": "À + les always contracts to aux.",
+      "textId": null
+    },
+    {
+      "id": "a1-contractions-040",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "contractions",
+      "question": "Il arrive ___ gare à midi.",
+      "options": [
+        "au",
+        "à l’",
+        "aux",
+        "à la"
+      ],
+      "answer": 3,
+      "explanation": "À + la does not change: à la.",
+      "textId": null
+    },
+    {
+      "id": "a1-contractions-041",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "contractions",
+      "question": "Je parle ___ Marie.",
+      "options": [
+        "à",
+        "au",
+        "à la",
+        "aux"
+      ],
+      "answer": 0,
+      "explanation": "Before a name or a city with no article there is nothing to contract: à.",
+      "textId": null
+    },
+    {
+      "id": "a1-contractions-042",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "contractions",
+      "question": "Nous habitons ___ Paris.",
+      "options": [
+        "au",
+        "à",
+        "à la",
+        "aux"
+      ],
+      "answer": 1,
+      "explanation": "Before a name or a city with no article there is nothing to contract: à.",
+      "textId": null
+    },
+    {
+      "id": "a1-contractions-043",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "contractions",
+      "question": "C’est le livre ___ professeur.",
+      "options": [
+        "de la",
+        "de l’",
+        "du",
+        "des"
+      ],
+      "answer": 2,
+      "explanation": "De + le always contracts to du.",
+      "textId": null
+    },
+    {
+      "id": "a1-contractions-044",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "contractions",
+      "question": "C’est la voiture ___ voisine.",
+      "options": [
+        "du",
+        "de l’",
+        "des",
+        "de la"
+      ],
+      "answer": 3,
+      "explanation": "De + la does not change: de la.",
+      "textId": null
+    },
+    {
+      "id": "a1-contractions-045",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "contractions",
+      "question": "Voici la chambre ___ enfants.",
+      "options": [
+        "des",
+        "du",
+        "de la",
+        "de l’"
+      ],
+      "answer": 0,
+      "explanation": "De + les always contracts to des.",
+      "textId": null
+    },
+    {
+      "id": "a1-contractions-046",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "contractions",
+      "question": "C’est l’entrée ___ hôtel.",
+      "options": [
+        "du",
+        "de l’",
+        "de la",
+        "des"
+      ],
+      "answer": 1,
+      "explanation": "De + l’ does not change: de l’ (before a vowel or silent h).",
+      "textId": null
+    },
+    {
+      "id": "a1-contractions-047",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "contractions",
+      "question": "Je viens ___ bureau.",
+      "options": [
+        "de la",
+        "de l’",
+        "du",
+        "des"
+      ],
+      "answer": 2,
+      "explanation": "De + le always contracts to du.",
+      "textId": null
+    },
+    {
+      "id": "a1-contractions-048",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "contractions",
+      "question": "Elle sort ___ banque.",
+      "options": [
+        "du",
+        "de l’",
+        "des",
+        "de la"
+      ],
+      "answer": 3,
+      "explanation": "De + la does not change: de la.",
+      "textId": null
+    },
+    {
+      "id": "a1-contractions-049",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "contractions",
+      "question": "Il rentre ___ école à seize heures.",
+      "options": [
+        "de l’",
+        "du",
+        "de la",
+        "des"
+      ],
+      "answer": 0,
+      "explanation": "De + l’ does not change: de l’ (before a vowel or silent h).",
+      "textId": null
+    },
+    {
+      "id": "a1-contractions-050",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "contractions",
+      "question": "Ils reviennent ___ États-Unis.",
+      "options": [
+        "du",
+        "des",
+        "de la",
+        "de l’"
+      ],
+      "answer": 1,
+      "explanation": "De + les always contracts to des.",
+      "textId": null
+    },
+    {
+      "id": "a1-contractions-051",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "contractions",
+      "question": "La porte ___ garage est ouverte.",
+      "options": [
+        "de la",
+        "de l’",
+        "du",
+        "des"
+      ],
+      "answer": 2,
+      "explanation": "De + le always contracts to du.",
+      "textId": null
+    },
+    {
+      "id": "a1-contractions-052",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "contractions",
+      "question": "Le nom ___ rue est sur le plan.",
+      "options": [
+        "du",
+        "de l’",
+        "des",
+        "de la"
+      ],
+      "answer": 3,
+      "explanation": "De + la does not change: de la.",
+      "textId": null
+    },
+    {
+      "id": "a1-contractions-053",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "contractions",
+      "question": "Le prix ___ billets est élevé.",
+      "options": [
+        "des",
+        "du",
+        "de la",
+        "de l’"
+      ],
+      "answer": 0,
+      "explanation": "De + les always contracts to des.",
+      "textId": null
+    },
+    {
+      "id": "a1-contractions-054",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "contractions",
+      "question": "Le numéro ___ appartement est le 12.",
+      "options": [
+        "du",
+        "de l’",
+        "de la",
+        "des"
+      ],
+      "answer": 1,
+      "explanation": "De + l’ does not change: de l’ (before a vowel or silent h).",
+      "textId": null
+    },
+    {
+      "id": "a1-contractions-055",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "contractions",
+      "question": "Je joue ___ piano.",
+      "options": [
+        "de la",
+        "de l’",
+        "du",
+        "des"
+      ],
+      "answer": 2,
+      "explanation": "Jouer de + an instrument: de + le piano = du piano.",
+      "textId": null
+    },
+    {
+      "id": "a1-contractions-056",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "contractions",
+      "question": "Elle joue ___ guitare.",
+      "options": [
+        "du",
+        "de l’",
+        "des",
+        "de la"
+      ],
+      "answer": 3,
+      "explanation": "Jouer de + an instrument: de + la guitare = de la guitare.",
+      "textId": null
+    },
+    {
+      "id": "a1-contractions-057",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "contractions",
+      "question": "Il joue ___ violon depuis dix ans.",
+      "options": [
+        "du",
+        "de la",
+        "de l’",
+        "des"
+      ],
+      "answer": 0,
+      "explanation": "Jouer de + an instrument: de + le violon = du violon.",
+      "textId": null
+    },
+    {
+      "id": "a1-contractions-058",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "contractions",
+      "question": "Tu joues ___ batterie ?",
+      "options": [
+        "du",
+        "de la",
+        "de l’",
+        "des"
+      ],
+      "answer": 1,
+      "explanation": "Jouer de + an instrument: de + la batterie = de la batterie.",
+      "textId": null
+    },
+    {
+      "id": "a1-contractions-059",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "contractions",
+      "question": "Le bureau ___ directeur est au premier étage.",
+      "options": [
+        "de la",
+        "de l’",
+        "du",
+        "des"
+      ],
+      "answer": 2,
+      "explanation": "De + le always contracts to du.",
+      "textId": null
+    },
+    {
+      "id": "a1-contractions-060",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "contractions",
+      "question": "La fin ___ film est triste.",
+      "options": [
+        "de la",
+        "de l’",
+        "des",
+        "du"
+      ],
+      "answer": 3,
+      "explanation": "De + le always contracts to du.",
+      "textId": null
+    },
+    {
+      "id": "a1-contractions-061",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "contractions",
+      "question": "Le début ___ semaine est difficile.",
+      "options": [
+        "de la",
+        "du",
+        "de l’",
+        "des"
+      ],
+      "answer": 0,
+      "explanation": "De + la does not change: de la.",
+      "textId": null
+    },
+    {
+      "id": "a1-contractions-062",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "contractions",
+      "question": "Les clés ___ voiture sont sur la table.",
+      "options": [
+        "du",
+        "de la",
+        "de l’",
+        "des"
+      ],
+      "answer": 1,
+      "explanation": "De + la does not change: de la.",
+      "textId": null
+    },
+    {
+      "id": "a1-contractions-063",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "contractions",
+      "question": "La capitale ___ Canada est Ottawa.",
+      "options": [
+        "de la",
+        "de l’",
+        "du",
+        "des"
+      ],
+      "answer": 2,
+      "explanation": "De + le always contracts to du.",
+      "textId": null
+    },
+    {
+      "id": "a1-contractions-064",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "contractions",
+      "question": "La capitale ___ France est Paris.",
+      "options": [
+        "du",
+        "de l’",
+        "des",
+        "de la"
+      ],
+      "answer": 3,
+      "explanation": "De + la does not change: de la.",
+      "textId": null
+    },
+    {
+      "id": "a1-contractions-065",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "contractions",
+      "question": "La capitale ___ Italie est Rome.",
+      "options": [
+        "de l’",
+        "du",
+        "de la",
+        "des"
+      ],
+      "answer": 0,
+      "explanation": "De + l’ does not change: de l’ (before a vowel or silent h).",
+      "textId": null
+    },
+    {
+      "id": "a1-contractions-066",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "contractions",
+      "question": "Le président ___ États-Unis habite à Washington.",
+      "options": [
+        "du",
+        "des",
+        "de la",
+        "de l’"
+      ],
+      "answer": 1,
+      "explanation": "De + les always contracts to des.",
+      "textId": null
+    },
+    {
+      "id": "a1-contractions-067",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "contractions",
+      "question": "Je parle ___ film d’hier.",
+      "options": [
+        "de la",
+        "de l’",
+        "du",
+        "des"
+      ],
+      "answer": 2,
+      "explanation": "De + le always contracts to du.",
+      "textId": null
+    },
+    {
+      "id": "a1-contractions-068",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "contractions",
+      "question": "Nous parlons ___ vacances.",
+      "options": [
+        "du",
+        "de la",
+        "de l’",
+        "des"
+      ],
+      "answer": 3,
+      "explanation": "De + les always contracts to des.",
+      "textId": null
+    },
+    {
+      "id": "a1-contractions-069",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "contractions",
+      "question": "Le café est près ___ gare.",
+      "options": [
+        "de la",
+        "du",
+        "de l’",
+        "des"
+      ],
+      "answer": 0,
+      "explanation": "Près de + la gare: de la does not change.",
+      "textId": null
+    },
+    {
+      "id": "a1-contractions-070",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "contractions",
+      "question": "La pharmacie est à côté ___ cinéma.",
+      "options": [
+        "de la",
+        "du",
+        "de l’",
+        "des"
+      ],
+      "answer": 1,
+      "explanation": "À côté de + le cinéma: de + le = du.",
+      "textId": null
+    },
+    {
+      "id": "a1-contractions-071",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "contractions",
+      "question": "La banque est en face ___ hôtel.",
+      "options": [
+        "du",
+        "de la",
+        "de l’",
+        "des"
+      ],
+      "answer": 2,
+      "explanation": "En face de + l’hôtel: de l’ does not change.",
+      "textId": null
+    },
+    {
+      "id": "a1-contractions-072",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "contractions",
+      "question": "Le parc est loin ___ magasins.",
+      "options": [
+        "du",
+        "de la",
+        "de l’",
+        "des"
+      ],
+      "answer": 3,
+      "explanation": "Loin de + les magasins: de + les = des.",
+      "textId": null
+    },
+    {
+      "id": "a1-contractions-073",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "contractions",
+      "question": "J’habite près ___ parc.",
+      "options": [
+        "du",
+        "de la",
+        "de l’",
+        "des"
+      ],
+      "answer": 0,
+      "explanation": "Près de + le parc: de + le = du.",
+      "textId": null
+    },
+    {
+      "id": "a1-contractions-074",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "contractions",
+      "question": "Le chat est à côté ___ fenêtre.",
+      "options": [
+        "du",
+        "de la",
+        "de l’",
+        "des"
+      ],
+      "answer": 1,
+      "explanation": "À côté de + la fenêtre: de la does not change.",
+      "textId": null
+    },
+    {
+      "id": "a1-contractions-075",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "contractions",
+      "question": "C’est le sac ___ Paul.",
+      "options": [
+        "du",
+        "de la",
+        "de",
+        "des"
+      ],
+      "answer": 2,
+      "explanation": "Before a name or a city with no article there is nothing to contract: de.",
+      "textId": null
+    },
+    {
+      "id": "a1-contractions-076",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "contractions",
+      "question": "Elle vient ___ Montréal.",
+      "options": [
+        "du",
+        "de la",
+        "des",
+        "de"
+      ],
+      "answer": 3,
+      "explanation": "Before a name or a city with no article there is nothing to contract: de.",
+      "textId": null
+    },
+    {
+      "id": "a1-contractions-077",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "contractions",
+      "question": "C’est la fête ___ musique.",
+      "options": [
+        "de la",
+        "du",
+        "de l’",
+        "des"
+      ],
+      "answer": 0,
+      "explanation": "De + la does not change: de la.",
+      "textId": null
+    },
+    {
+      "id": "a1-contractions-078",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "contractions",
+      "question": "C’est le jour ___ marché.",
+      "options": [
+        "de la",
+        "du",
+        "de l’",
+        "des"
+      ],
+      "answer": 1,
+      "explanation": "De + le always contracts to du.",
+      "textId": null
+    },
+    {
+      "id": "a1-contractions-079",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "contractions",
+      "question": "Les devoirs ___ étudiants sont sur le bureau.",
+      "options": [
+        "du",
+        "de la",
+        "des",
+        "de l’"
+      ],
+      "answer": 2,
+      "explanation": "De + les always contracts to des.",
+      "textId": null
+    },
+    {
+      "id": "a1-contractions-080",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "contractions",
+      "question": "La couleur ___ ciel est magnifique ce soir.",
+      "options": [
+        "de la",
+        "de l’",
+        "des",
+        "du"
+      ],
+      "answer": 3,
+      "explanation": "De + le always contracts to du.",
+      "textId": null
+    }
+  ]
+}

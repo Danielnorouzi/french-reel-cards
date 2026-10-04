@@ -1,7 +1,7 @@
 import { db } from './db.js';
 import { schedule, preview, newCardState, formatInterval } from './sm2.js';
 import { toAnkiCsv, article, frontText, posLabel } from './anki.js';
-import { recommend, topicProgress, pickQuestions, shuffleOptions, record, MASTERED } from './grammar.js';
+import { recommend, topicProgress, levelProgress, mistakes, pickQuestions, pickMixed, pickMistakes, shuffleOptions, record, levelCode, nearestLevel, MASTERED } from './grammar.js';
 
 const $ = sel => document.querySelector(sel);
 const $$ = sel => [...document.querySelectorAll(sel)];
@@ -1134,40 +1134,70 @@ $('#verb-add').addEventListener('click', async () => {
   showVerb(v);
 });
 
-// ---------------------------------------------------------------- GRAMMAR (practice + verbs)
-// 1,000 multiple-choice questions in public/grammar.json (built from data/grammar/*.json).
-// Everything runs on the phone: the file is cached offline and your answers live in IndexedDB.
+// ---------------------------------------------------------------- LEARN (grammar practice + vocab decks + verbs)
+// About 4,400 multiple-choice questions in public/grammar.json (built from data/grammar/*.json) and
+// about 2,500 level words in public/vocab.json (built from data/vocab/*.txt).
+// Everything runs on the phone: both files are cached offline and your answers live in IndexedDB.
 let grammarPane = 'practice';
 let gramData = null;
 let gramStats = {};
-let gramLevel = null;   // level shown in the topic list
+let gramLevel = null;    // level shown in the topic list
 let gramLevelFor = null; // profile level it was chosen for
-let quiz = null;        // { topic, items, i, right, answered, missed }
-const QUIZ_LEN = 10;
+let quiz = null;         // { spec, topic, title, items, i, right, streak, answered, results }
+let quizLen = 10;
+const QUIZ_LENGTHS = [5, 10, 20];
+const LEVEL_NAMES = { A1: 'Beginner', A2: 'Elementary', B1: 'Intermediate', B2: 'Upper intermediate', C1: 'Advanced', C2: 'Fluent' };
+const CHECK = '<svg viewBox="0 0 24 24"><path d="M6 12.5l4 4 8-9"/></svg>';
 
 async function loadGrammar() {
   if (gramData) return gramData;
   const r = await fetch('grammar.json');
   if (!r.ok) throw new Error('grammar.json');
-  gramData = await r.json();
-  gramData.byId = new Map(gramData.topics.map(t => [t.id, t]));
-  return gramData;
+  const d = await r.json();
+  d.byId = new Map(d.topics.map(t => [t.id, t]));
+  d.byTopic = new Map(d.topics.map(t => [t.id, []]));
+  for (const q of d.questions) d.byTopic.get(q.t)?.push(q);
+  gramData = d;
+  return d;
 }
+const explain = q => (typeof q.e === 'number' ? gramData.x?.[q.e] : q.e) || '';
+const progressOf = t => topicProgress(t, gramData.byTopic.get(t.id), gramStats);
+const catName = t => gramData.categories?.[t.cat] || '';
 
 function setGrammarPane(pane, save = true) {
+  if (!['practice', 'vocab', 'verbs'].includes(pane)) pane = 'practice';
   grammarPane = pane;
   for (const b of $$('#gram-seg button')) { const on = b.dataset.pane === pane; b.classList.toggle('on', on); b.setAttribute('aria-selected', on); }
   $('#pane-practice').hidden = pane !== 'practice';
+  $('#pane-vocab').hidden = pane !== 'vocab';
   $('#pane-verbs').hidden = pane !== 'verbs';
   if (save) db.setMeta('grammarPane', pane);
-  if (pane === 'verbs') renderVerbHome(); else renderPractice();
+  if (pane === 'verbs') renderVerbHome(); else if (pane === 'vocab') renderVocab(); else renderPractice();
 }
 $$('#gram-seg button').forEach(b => b.addEventListener('click', () => { if (b.dataset.pane !== grammarPane) { haptic(); setGrammarPane(b.dataset.pane); } }));
 
 function renderGrammar() { setGrammarPane(grammarPane, false); }
 
 const pct = x => `${Math.round(x * 100)}%`;
-const blankHtml = (text, fill = '', cls = '') => esc(text).replace(/_{2,}/, `<span class="blank ${cls}">${fill ? esc(fill) : '&nbsp;'}</span>`);
+const setRing = (el, share) => { requestAnimationFrame(() => el.style.setProperty('--p', Math.round(Math.max(0, Math.min(1, share)) * 100))); };
+// "Je ___ là" → the blank, empty or filled. Two blanks take an answer written "a / b".
+function blankHtml(text, fill = '', cls = '') {
+  const blanks = (text.match(/_{2,}/g) || []).length;
+  const parts = fill && blanks > 1 && fill.split(' / ').length === blanks ? fill.split(' / ') : null;
+  let i = 0;
+  return esc(text).replace(/_{2,}/g, () => {
+    const f = parts ? parts[i++] : (i++ === 0 ? fill : '');
+    return `<span class="blank ${cls}">${f ? esc(f) : '&nbsp;'}</span>`;
+  });
+}
+// one row of level buttons with a progress ring each (shared by Grammar and Vocab)
+function levelPathHtml(levels, current, info) {
+  return levels.map(l => {
+    const { share, sub } = info(l);
+    return `<button role="radio" data-lvl="${l}" class="lvl${l === current ? ' on' : ''}${share >= 1 ? ' full' : ''}" aria-checked="${l === current}">
+      <span class="pring lvl-ring" style="--p:${Math.round(Math.min(1, share) * 100)}"><b>${l}</b></span><small>${esc(sub)}</small></button>`;
+  }).join('');
+}
 
 async function renderPractice() {
   if (quiz) return; // mid-quiz: leave it as it is
@@ -1183,38 +1213,106 @@ async function renderPractice() {
   const levels = [...new Set(gramData.topics.map(t => t.level))];
   if (gramLevelFor !== profile.level || !levels.includes(gramLevel)) { gramLevel = rec.level; gramLevelFor = profile.level; }
 
-  // recommended card
+  // glass card: the one topic to do next
   const p = rec.progress;
+  $('#rec-card').dataset.cat = rec.topic.cat;
   $('#rec-level').textContent = rec.topic.level;
   $('#rec-title').textContent = rec.topic.title;
   $('#rec-hint').textContent = rec.topic.hint;
-  $('#rec-count').textContent = `${p.mastered} / ${p.count} mastered`;
-  $('#rec-acc').textContent = p.accuracy === null ? 'New' : `${pct(p.accuracy)} correct`;
   $('#rec-reason').textContent = rec.reason;
-  requestAnimationFrame(() => { $('#rec-bar').style.width = pct(p.share); });
+  $('#rec-pct').textContent = pct(p.share);
+  setRing($('#rec-ring'), p.share);
   const start = $('#rec-start');
   start.disabled = false;
-  start.textContent = p.seen ? 'Continue · 10 questions' : 'Start · 10 questions';
-  start.onclick = () => { haptic(); startQuiz(rec.topic.id); };
+  start.textContent = `${p.seen ? 'Continue' : 'Start'} · ${quizLen} questions`;
+  start.onclick = () => { haptic(); startQuiz({ kind: 'topic', topicId: rec.topic.id }); };
+  $('#rec-lesson').onclick = () => { haptic(); openTopicSheet(rec.topic); };
 
-  // level picker + topic list
-  $('#gram-levels').innerHTML = levels.map(l => `<button role="radio" data-lvl="${l}" class="${l === gramLevel ? 'on' : ''}" aria-checked="${l === gramLevel}">${l}</button>`).join('');
-  $('#gram-topics').innerHTML = gramData.topics.filter(t => t.level === gramLevel).map(t => {
-    const tp = topicProgress(t, gramData.questions, gramStats);
-    const done = tp.share >= MASTERED;
-    const sub = tp.seen ? `${tp.mastered}/${tp.count} mastered · ${pct(tp.accuracy)} correct` : t.hint;
-    return `<button class="row row-button topic-row${t.id === rec.topic.id ? ' is-rec' : ''}" data-topic="${esc(t.id)}">
-      <span class="row-main"><span class="row-title">${esc(t.title)}</span><span class="row-sub">${esc(sub)}</span></span>
-      <span class="topic-ring${done ? ' done' : ''}" style="--p:${Math.round(tp.share * 100)}">${done ? '<svg viewBox="0 0 24 24"><path d="M6 12.5l4 4 8-9"/></svg>' : ''}</span>
+  const all = Object.values(gramStats);
+  const answered = all.reduce((n, x) => n + x.c + x.w, 0);
+  const done = gramData.topics.filter(t => progressOf(t).share >= MASTERED).length;
+  $('#gs-mastered').textContent = `${done}/${gramData.topics.length}`;
+  $('#gs-acc').textContent = answered ? pct(all.reduce((n, x) => n + x.c, 0) / answered) : '–';
+  $('#gs-today').textContent = (activity[dayKey()]?.g || 0).toLocaleString();
+
+  // levels
+  $('#gram-levels').innerHTML = levelPathHtml(levels, gramLevel, l => {
+    const lp = levelProgress(l, gramData, gramStats);
+    return { share: lp.share, sub: `${lp.mastered}/${lp.topics}` };
+  });
+
+  // quick sessions
+  const wrong = mistakes(gramData, gramStats).length;
+  $('#quick-mixed-sub').textContent = `${gramLevel} · all topics together`;
+  $('#quick-mistakes-sub').textContent = wrong ? `${wrong} question${wrong === 1 ? '' : 's'} to get right` : 'Nothing to fix';
+  $('#quick-mistakes').disabled = !wrong;
+
+  // topics of the chosen level
+  const topics = gramData.topics.filter(t => t.level === gramLevel);
+  const lp = levelProgress(gramLevel, gramData, gramStats);
+  $('#gram-topics-title').textContent = `${gramLevel} · ${LEVEL_NAMES[gramLevel] || 'Topics'}`;
+  $('#gram-topics-meta').textContent = `${lp.mastered} of ${lp.topics} mastered`;
+  $('#gram-topics').innerHTML = topics.map((t, k) => {
+    const tp = progressOf(t);
+    const isDone = tp.share >= MASTERED;
+    const sub = tp.seen ? `${tp.mastered}/${tp.count} right · ${pct(tp.accuracy)} accuracy` : t.hint;
+    const side = isDone ? `<span class="topic-check">${CHECK}</span>` : tp.seen ? `<span class="topic-pct">${pct(tp.share)}</span>` : '<span class="topic-new">New</span>';
+    return `<button class="topic cat-${esc(t.cat)}${t.id === rec.topic.id ? ' is-rec' : ''}${isDone ? ' done' : ''}" data-topic="${esc(t.id)}" style="--i:${k}">
+      <span class="glyph${t.glyph.length > 4 ? ' sm' : ''}">${esc(t.glyph)}</span>
+      <span class="topic-main">
+        <span class="topic-title">${esc(t.title)}${t.id === rec.topic.id ? '<em>Up next</em>' : ''}</span>
+        <span class="topic-sub">${esc(sub)}</span>
+        <span class="meter"><i style="width:${Math.round(Math.min(1, tp.share / MASTERED) * 100)}%"></i></span>
+      </span>
+      ${side}
     </button>`;
   }).join('');
+  const cats = [...new Set(topics.map(t => t.cat))];
+  $('#cat-legend').innerHTML = cats.map(c => `<span class="cat-${esc(c)}"><i></i>${esc(gramData.categories?.[c] || c)}</span>`).join('');
 }
 $('#gram-levels').addEventListener('click', e => {
   const b = e.target.closest('[data-lvl]');
   if (!b || b.dataset.lvl === gramLevel) return;
   haptic(); gramLevel = b.dataset.lvl; renderPractice();
 });
-$('#gram-topics').addEventListener('click', e => { const b = e.target.closest('[data-topic]'); if (b) { haptic(); startQuiz(b.dataset.topic); } });
+$('#gram-topics').addEventListener('click', e => { const b = e.target.closest('[data-topic]'); if (b) { haptic(); openTopicSheet(gramData.byId.get(b.dataset.topic)); } });
+$('#quick-mixed').addEventListener('click', () => { haptic(); startQuiz({ kind: 'mixed', level: gramLevel }); });
+$('#quick-mistakes').addEventListener('click', () => { haptic(); startQuiz({ kind: 'mistakes' }); });
+
+// A topic's mini lesson: the rule in a few lines, examples, your numbers, and a Start button.
+function openTopicSheet(t, { readOnly = false } = {}) {
+  const tp = progressOf(t);
+  const lens = QUIZ_LENGTHS.map(n => `<button role="radio" data-len="${n}" class="${n === quizLen ? 'on' : ''}" aria-checked="${n === quizLen}">${n}</button>`).join('');
+  openSheet(t.title, `
+    <div class="lesson cat-${esc(t.cat)}">
+      <div class="lesson-head">
+        <span class="glyph big${t.glyph.length > 4 ? ' sm' : ''}">${esc(t.glyph)}</span>
+        <div><b>${esc(t.title)}</b><small>${esc(t.level)} · ${esc(catName(t))}</small><small>${esc(t.hint)}</small></div>
+      </div>
+      <div class="lesson-stats">
+        <div><b>${tp.mastered}<i>/${tp.count}</i></b><span>right last time</span></div>
+        <div><b>${tp.accuracy === null ? '–' : pct(tp.accuracy)}</b><span>accuracy</span></div>
+        <div><b>${tp.count - tp.seen}</b><span>not seen yet</span></div>
+      </div>
+      ${t.points?.length ? `<h3>The rule</h3><ul class="lesson-points">${t.points.map(x => `<li>${esc(x)}</li>`).join('')}</ul>` : ''}
+      ${t.examples?.length ? `<h3>Examples</h3><div class="lesson-examples">${t.examples.map(([fr, en]) => `<div><b lang="fr">${esc(fr)}</b><span>${esc(en)}</span></div>`).join('')}</div>` : ''}
+      ${readOnly ? '' : `
+        <h3>Questions per session</h3>
+        <div class="segmented len-seg" id="len-seg" role="radiogroup" aria-label="Questions per session">${lens}</div>
+        <button class="btn btn-primary btn-large lesson-start" id="lesson-start">${tp.seen ? 'Continue' : 'Start'} · ${quizLen} questions</button>`}
+    </div>`);
+  if (readOnly) return;
+  $('#len-seg').addEventListener('click', e => {
+    const b = e.target.closest('[data-len]');
+    if (!b) return;
+    haptic();
+    quizLen = Number(b.dataset.len);
+    db.setMeta('quizLen', quizLen);
+    for (const x of $$('#len-seg button')) { const on = x === b; x.classList.toggle('on', on); x.setAttribute('aria-checked', on); }
+    $('#lesson-start').textContent = `${tp.seen ? 'Continue' : 'Start'} · ${quizLen} questions`;
+  });
+  $('#lesson-start').addEventListener('click', async () => { haptic(); await closeSheet(); startQuiz({ kind: 'topic', topicId: t.id }); });
+}
 
 function showGramStage(stage) {
   $('#gram-home').hidden = stage !== 'home';
@@ -1224,26 +1322,41 @@ function showGramStage(stage) {
   window.scrollTo(0, 0);
 }
 
-function startQuiz(topicId) {
-  const topic = gramData.byId.get(topicId);
-  const items = pickQuestions(topicId, gramData.questions, gramStats, QUIZ_LEN).map(q => ({ q, ...shuffleOptions(q) }));
-  quiz = { topic, items, i: 0, right: 0, answered: false, missed: [] };
-  $('#grammar-nav-title').textContent = topic.title;
+// spec: { kind: 'topic', topicId } | { kind: 'mixed', level } | { kind: 'mistakes' }
+function startQuiz(spec) {
+  const topic = spec.kind === 'topic' ? gramData.byId.get(spec.topicId) : null;
+  const picked = spec.kind === 'topic' ? pickQuestions(spec.topicId, gramData.byTopic.get(spec.topicId), gramStats, quizLen)
+    : spec.kind === 'mixed' ? pickMixed(spec.level, gramData, gramStats, quizLen)
+    : pickMistakes(gramData, gramStats, quizLen);
+  if (!picked.length) { toast('Nothing to practise here yet'); return; }
+  const title = topic ? topic.title : spec.kind === 'mixed' ? `${spec.level} level mix` : 'Fix mistakes';
+  quiz = { spec, topic, title, items: picked.map(q => ({ q, ...shuffleOptions(q) })), i: 0, right: 0, streak: 0, answered: false, results: [] };
+  $('#grammar-nav-title').textContent = title;
   showGramStage('quiz');
   showQuestion();
 }
 
+function renderDots() {
+  const { items, i, results } = quiz;
+  $('#quiz-dots').innerHTML = items.map((_, k) =>
+    `<i class="${results[k] === true ? 'ok' : results[k] === false ? 'no' : k === i ? 'now' : ''}"></i>`).join('');
+}
+
 function showQuestion() {
-  const { topic, items, i } = quiz;
+  const { items, i } = quiz;
   const it = items[i];
+  const t = gramData.byId.get(it.q.t);
   quiz.answered = false;
-  $('#quiz-topic').textContent = `${topic.level} · ${topic.title}`;
+  $('#quiz-stage').dataset.cat = t.cat;
+  $('#quiz-topic').textContent = `${t.level} · ${t.title}`;
   $('#quiz-count').textContent = `${i + 1} / ${items.length}`;
-  $('#quiz-bar').style.width = pct(i / items.length);
-  $('#quiz-q').innerHTML = blankHtml(it.q.q);
-  $('#quiz-q').classList.remove('pop');
+  renderDots();
+  const q = $('#quiz-q');
+  q.innerHTML = blankHtml(it.q.q);
+  q.classList.remove('pop');
+  q.classList.toggle('long', it.q.q.length > 90);
   $('#quiz-options').innerHTML = it.options.map((o, k) =>
-    `<button class="opt" data-k="${k}"><span class="opt-key">${'ABCD'[k] || k + 1}</span><span class="opt-text">${esc(o)}</span></button>`).join('');
+    `<button class="opt" data-k="${k}" style="--i:${k}"><span class="opt-key">${'ABCD'[k] || k + 1}</span><span class="opt-text" lang="fr">${esc(o)}</span></button>`).join('');
   $('#quiz-feedback').hidden = true;
   $('#quiz-next').hidden = true;
   window.scrollTo(0, 0);
@@ -1265,20 +1378,32 @@ $('#quiz-options').addEventListener('click', async e => {
     x.classList.toggle('dim', xk !== it.answer && xk !== k);
   }
   const answerText = it.options[it.answer];
-  // short answers slot into the sentence; whole-sentence answers (negation) just get highlighted below
-  if (answerText.length <= 30) $('#quiz-q').innerHTML = blankHtml(it.q.q, answerText, 'filled');
+  // short answers slot into the sentence; whole-sentence answers just get highlighted below
+  if (answerText.length <= 30 && answerText !== '∅') $('#quiz-q').innerHTML = blankHtml(it.q.q, answerText, 'filled');
   $('#quiz-q').classList.add('pop');
-  if (ok) quiz.right++; else quiz.missed.push(it.q.id);
-  $('#quiz-verdict').textContent = ok ? 'Correct!' : `Answer: ${answerText}`;
+  quiz.results[quiz.i] = ok;
+  if (ok) { quiz.right++; quiz.streak++; } else quiz.streak = 0;
+  renderDots();
+  const streak = $('#quiz-streak');
+  streak.hidden = quiz.streak < 2;
+  streak.textContent = `🔥 ${quiz.streak}`;
+  if (quiz.streak >= 2) { streak.classList.remove('bump'); void streak.offsetWidth; streak.classList.add('bump'); }
+  $('#quiz-verdict').textContent = ok ? (quiz.streak >= 3 ? `Correct! ${quiz.streak} in a row` : 'Correct!') : `Answer: ${answerText === '∅' ? 'nothing (no preposition)' : answerText}`;
   $('#quiz-feedback').className = `quiz-feedback ${ok ? 'good' : 'bad'}`;
-  $('#quiz-expl').textContent = it.q.e;
-  $('#quiz-feedback').hidden = !(it.q.e || !ok);
+  const why = explain(it.q);
+  $('#quiz-expl').textContent = why;
+  $('#quiz-feedback').hidden = false;
   $('#quiz-next').hidden = false;
   $('#quiz-next').textContent = quiz.i + 1 < quiz.items.length ? 'Continue' : 'See Results';
   requestAnimationFrame(() => $('#quiz-next').scrollIntoView({ behavior: 'smooth', block: 'nearest' }));
   record(gramStats, it.q.id, ok);
   await db.setMeta('grammar', gramStats);
   logActivity('g');
+});
+$('#quiz-rule').addEventListener('click', () => {
+  if (!quiz) return;
+  haptic();
+  openTopicSheet(gramData.byId.get(quiz.items[quiz.i].q.t), { readOnly: true });
 });
 
 $('#quiz-next').addEventListener('click', () => {
@@ -1289,35 +1414,217 @@ $('#quiz-next').addEventListener('click', () => {
 });
 
 function finishQuiz() {
-  const { topic, right, items } = quiz;
+  const { spec, topic, title, right, items, results } = quiz;
   const n = items.length, share = n ? right / n : 0;
-  const [art, cls, h, line] = share >= 0.8 ? ['cool', 'm-cool', 150, 'Très bien !']
-    : share >= 0.5 ? ['coffee', 'm-coffee', 150, 'Pas mal !'] : ['belly', 'm-belly', 96, 'On continue !'];
+  const [art, cls, h, line] = share >= 0.8 ? ['cool', 'm-cool', 150, 'Très bien\u00a0!']
+    : share >= 0.5 ? ['coffee', 'm-coffee', 150, 'Pas mal\u00a0!'] : ['belly', 'm-belly', 96, 'On continue\u00a0!'];
   $('#gram-done-mascot').className = `mascot ${cls}`;
   $('#gram-done-mascot').innerHTML = `<img src="art/${art}.webp" alt="" height="${h}"><span class="bubble">${line}</span>`;
-  $('#gram-score').innerHTML = `<b>${right}</b><span>/ ${n}</span>`;
-  const tp = topicProgress(topic, gramData.questions, gramStats);
-  $('#gram-done-text').textContent = tp.share >= MASTERED
-    ? `${topic.title} is mastered: ${tp.mastered} of ${tp.count} questions right.`
-    : `${topic.title}: ${tp.mastered} of ${tp.count} mastered. ${share < 0.8 ? 'The ones you missed come back first next time.' : 'Keep going!'}`;
+  $('#gram-score').innerHTML = `${right}<i>/${n}</i>`;
+  const ring = $('#gram-score-ring');
+  ring.classList.toggle('great', share >= 0.8);
+  ring.style.setProperty('--p', 0);
+  setTimeout(() => setRing(ring, share), 120);
+  $('#gram-done-title').textContent = share === 1 ? 'Perfect score' : share >= 0.8 ? 'Great session' : share >= 0.5 ? 'Good work' : 'Keep going';
+  if (topic) {
+    const tp = progressOf(topic);
+    $('#gram-done-text').textContent = tp.share >= MASTERED
+      ? `${topic.title} is mastered: ${tp.mastered} of ${tp.count} questions right.`
+      : `${topic.title}: ${tp.mastered} of ${tp.count} right so far. ${share < 0.8 ? 'The ones you missed come back first next time.' : 'Keep going!'}`;
+  } else if (spec.kind === 'mistakes') {
+    const left = mistakes(gramData, gramStats).length;
+    $('#gram-done-text').textContent = left ? `${right} fixed. ${left} still to get right.` : 'Every mistake is fixed. Nothing left to repair!';
+  } else {
+    $('#gram-done-text').textContent = `${title}: ${right} of ${n} right across ${new Set(items.map(it => it.q.t)).size} topics.`;
+  }
+  // the ones to look at again, with the right answer in place
+  const missed = items.filter((_, k) => results[k] === false);
+  $('#gram-missed').hidden = !missed.length;
+  $('#gram-missed-list').innerHTML = missed.map(it => {
+    const ans = it.options[it.answer];
+    const t = gramData.byId.get(it.q.t);
+    const body = ans.length <= 30 && ans !== '∅' && /_{2,}/.test(it.q.q) ? blankHtml(it.q.q, ans, 'filled') : `${blankHtml(it.q.q)}<span class="missed-ans">${esc(ans === '∅' ? 'no preposition' : ans)}</span>`;
+    return `<div class="row missed"><span class="row-main"><span class="missed-q" lang="fr">${body}</span><span class="missed-why">${esc(explain(it.q))}</span>${topic ? '' : `<span class="missed-topic">${esc(t.title)}</span>`}</span></div>`;
+  }).join('');
+
   const rec = recommend(gramData, gramStats, profile.level);
   const next = $('#gram-next-topic');
-  next.hidden = !rec || rec.topic.id === topic.id;
-  if (rec) { next.textContent = `Next: ${rec.topic.title}`; next.onclick = () => { haptic(); startQuiz(rec.topic.id); }; }
-  $('#grammar-nav-title').textContent = 'Grammar';
-  $('#quiz-bar').style.width = '100%';
+  next.hidden = !rec || (topic && rec.topic.id === topic.id);
+  if (rec) { next.textContent = `Next: ${rec.topic.title}`; next.onclick = () => { haptic(); startQuiz({ kind: 'topic', topicId: rec.topic.id }); }; }
+  const again = $('#gram-again');
+  const canRepeat = spec.kind !== 'mistakes' || mistakes(gramData, gramStats).length > 0;
+  again.hidden = !canRepeat;
+  again.textContent = spec.kind === 'mistakes' ? 'Fix More' : 'Practice Again';
+  again.onclick = () => { haptic(); startQuiz(spec); };
+  $('#grammar-nav-title').textContent = 'Learn';
+  $('#quiz-streak').hidden = true;
   quiz = null;
   showGramStage('done');
-  $('#gram-again').onclick = () => { haptic(); startQuiz(topic.id); };
+  if (share >= 0.8) confetti($('.gram-done-card'));
+}
+
+// a small burst of paper for a good session (pure CSS animation, removed when it ends)
+function confetti(host) {
+  if (!host || matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+  host.querySelector('.confetti')?.remove();
+  const box = document.createElement('div');
+  box.className = 'confetti';
+  const colors = ['#ff9f43', '#5e8bff', '#ff6b8b', '#06d6a0', '#8f6bff', '#ffd166'];
+  box.innerHTML = Array.from({ length: 26 }, (_, k) =>
+    `<i style="--x:${Math.round(Math.random() * 100)}%;--d:${(Math.random() * 0.5).toFixed(2)}s;--r:${Math.round(Math.random() * 360)}deg;--dx:${Math.round(Math.random() * 80 - 40)}px;background:${colors[k % colors.length]}"></i>`).join('');
+  host.appendChild(box);
+  setTimeout(() => box.remove(), 2600);
 }
 
 function endQuiz() {
   quiz = null;
-  $('#grammar-nav-title').textContent = 'Grammar';
+  $('#grammar-nav-title').textContent = 'Learn';
+  $('#quiz-streak').hidden = true;
   renderPractice();
 }
 $('#quiz-end').addEventListener('click', () => { haptic(); endQuiz(); });
 $('#gram-back').addEventListener('click', () => { haptic(); renderPractice(); });
+
+// ---------------------------------------------------------------- VOCAB (words to know at each level)
+// Ready-made decks by level and theme. Adding a deck creates normal cards in a set named after it,
+// so they are reviewed, exported and managed exactly like words that came from a reel.
+let vocabData = null;
+let vocabLevel = null;
+let vocabLevelFor = null;
+
+async function loadVocab() {
+  if (vocabData) return vocabData;
+  const r = await fetch('vocab.json');
+  if (!r.ok) throw new Error('vocab.json');
+  vocabData = await r.json();
+  return vocabData;
+}
+const cardsByLemma = () => new Map(cards.map(c => [c.lemma.toLowerCase(), c]));
+const deckSetName = (level, theme) => `${level} · ${theme.title}`.slice(0, 40);
+function deckStats(words, idx, now = Date.now()) {
+  let added = 0, learned = 0, due = 0;
+  for (const w of words) {
+    const c = idx.get(w[0].toLowerCase());
+    if (!c) continue;
+    added++;
+    if (c.interval >= 21) learned++;
+    if (c.due <= now) due++;
+  }
+  return { total: words.length, added, learned, due };
+}
+
+async function renderVocab() {
+  try { await loadVocab(); }
+  catch {
+    $('#vocab-title').textContent = 'Couldn’t load the decks';
+    $('#vocab-sub').textContent = 'Open the app once while online and they’ll be saved for offline use.';
+    return;
+  }
+  const levels = vocabData.levels.map(l => l.level);
+  if (vocabLevelFor !== profile.level || !levels.includes(vocabLevel)) { vocabLevel = nearestLevel(levelCode(profile.level), levels); vocabLevelFor = profile.level; }
+  const idx = cardsByLemma();
+  const level = vocabData.levels.find(l => l.level === vocabLevel);
+  const all = deckStats(level.themes.flatMap(t => t.words), idx);
+
+  $('#vocab-level-badge').textContent = vocabLevel;
+  $('#vocab-title').textContent = `${LEVEL_NAMES[vocabLevel] || vocabLevel} essentials`;
+  $('#vocab-sub').textContent = all.added === all.total ? `All ${all.total} words are in your cards.`
+    : all.added ? `${all.total - all.added} of ${all.total} words still to add.` : `${all.total} words in ${level.themes.length} themed decks.`;
+  $('#vocab-pct').textContent = pct(all.total ? all.added / all.total : 0);
+  setRing($('#vocab-ring'), all.total ? all.added / all.total : 0);
+  $('#vs-added').textContent = all.added.toLocaleString();
+  $('#vs-learned').textContent = all.learned.toLocaleString();
+  $('#vs-due').textContent = all.due.toLocaleString();
+
+  $('#vocab-levels').innerHTML = levelPathHtml(levels, vocabLevel, l => {
+    const s = deckStats(vocabData.levels.find(x => x.level === l).themes.flatMap(t => t.words), idx);
+    return { share: s.total ? s.added / s.total : 0, sub: `${s.added}/${s.total}` };
+  });
+  $('#vocab-meta').textContent = `${level.themes.length} decks`;
+  $('#vocab-themes').innerHTML = level.themes.map((t, k) => {
+    const s = deckStats(t.words, idx);
+    const full = s.added === s.total;
+    return `<button class="deck${full ? ' full' : ''}" data-theme="${esc(t.id)}" style="--i:${k}">
+      <span class="deck-icon" aria-hidden="true">${esc(t.icon)}</span>
+      <b>${esc(t.title)}</b>
+      <small>${full ? 'All added' : s.added ? `${s.added} of ${s.total} added` : `${s.total} words`}</small>
+      <span class="meter"><i style="width:${Math.round((s.added / s.total) * 100)}%"></i></span>
+      ${full ? `<span class="deck-check">${CHECK}</span>` : ''}
+    </button>`;
+  }).join('');
+}
+$('#vocab-levels').addEventListener('click', e => {
+  const b = e.target.closest('[data-lvl]');
+  if (!b || b.dataset.lvl === vocabLevel) return;
+  haptic(); vocabLevel = b.dataset.lvl; renderVocab();
+});
+$('#vocab-themes').addEventListener('click', e => { const b = e.target.closest('[data-theme]'); if (b) { haptic(); openDeckSheet(b.dataset.theme); } });
+
+const wordFront = w => (w[2] === 'noun' && w[3] ? `<span class="art">${w[3] === 'm' ? 'un' : w[3] === 'f' ? 'une' : 'un/une'} </span>` : '') + esc(w[0]);
+
+function openDeckSheet(themeId) {
+  const level = vocabData.levels.find(l => l.themes.some(t => t.id === themeId));
+  const theme = level.themes.find(t => t.id === themeId);
+  const draw = () => {
+    const idx = cardsByLemma();
+    const s = deckStats(theme.words, idx);
+    const missing = s.total - s.added;
+    const set = sets.find(x => x.name === deckSetName(level.level, theme));
+    $('#sheet-body').innerHTML = `
+      <div class="deck-sheet">
+        <div class="lesson-head">
+          <span class="deck-icon big" aria-hidden="true">${esc(theme.icon)}</span>
+          <div><b>${esc(theme.title)}</b><small>${esc(level.level)} · ${s.total} words</small><small>${s.added ? `${s.added} in your cards${s.learned ? ` · ${s.learned} mastered` : ''}` : 'None in your cards yet'}</small></div>
+        </div>
+        ${missing ? `<button class="btn btn-primary btn-large" id="deck-add">Add ${missing === s.total ? `all ${missing}` : `${missing} more`} to Cards</button>` : ''}
+        ${s.added ? `<button class="btn ${missing ? 'btn-secondary' : 'btn-primary btn-large'}" id="deck-review">${s.due ? `Review ${s.due} due now` : 'Open in Review'}</button>` : ''}
+        <div class="list inset word-list">${theme.words.map((w, k) => `
+          <div class="row word-row${idx.has(w[0].toLowerCase()) ? ' in' : ''}">
+            <span class="row-main">
+              <span class="row-title" lang="fr">${wordFront(w)}</span>
+              <span class="row-sub">${esc(w[1])}</span>
+              ${w[4] ? `<span class="word-ex" lang="fr">${esc(w[4])}</span>` : ''}
+            </span>
+            <button class="word-add" data-w="${k}" aria-label="${idx.has(w[0].toLowerCase()) ? 'In your cards' : `Add ${esc(w[0])}`}" ${idx.has(w[0].toLowerCase()) ? 'disabled' : ''}>${idx.has(w[0].toLowerCase()) ? CHECK : '<svg viewBox="0 0 24 24"><path d="M12 6v12M6 12h12"/></svg>'}</button>
+          </div>`).join('')}
+        </div>
+      </div>`;
+    $('#deck-add')?.addEventListener('click', () => addWords(theme.words.filter(w => !idx.has(w[0].toLowerCase()))));
+    $('#deck-review')?.addEventListener('click', async () => {
+      haptic();
+      if (set) { reviewSet = set.id; await db.setMeta('reviewSet', reviewSet); }
+      await closeSheet();
+      showView('review');
+    });
+  };
+  const addWords = async words => {
+    if (!words.length) return;
+    haptic();
+    const name = deckSetName(level.level, theme);
+    let set = sets.find(x => x.name === name);
+    if (!set) { set = { id: uid(), name, createdAt: Date.now() }; sets.push(set); await saveSets(); }
+    const now = Date.now();
+    const added = await db.addCards(words.map((w, i) => ({
+      id: uid(), lemma: w[0], word: w[0], pos: w[2], gender: w[3], meaning: w[1], example: w[4] || '',
+      createdAt: now + i, setId: set.id, ...newCardState(now)
+    })));
+    if (added) await logActivity('n', added);
+    await reloadCards();
+    toast(added ? `${added} card${added === 1 ? '' : 's'} added` : 'Already in your cards');
+    const top = $('#sheet-body').scrollTop;
+    draw();
+    $('#sheet-body').scrollTop = top;
+    renderVocab();
+  };
+  openSheet(theme.title, '');
+  draw();
+  // one listener for the whole list (the list itself is redrawn after every add)
+  $('#sheet-body').onclick = e => {
+    const b = e.target.closest('.word-add');
+    if (b && !b.disabled && $('#sheet-body .deck-sheet')) addWords([theme.words[Number(b.dataset.w)]]);
+  };
+}
+$('#open-starter').addEventListener('click', () => { haptic(); grammarPane = 'vocab'; db.setMeta('grammarPane', 'vocab'); if (currentView === 'grammar') setGrammarPane('vocab'); else showView('grammar'); });
 
 // ---------------------------------------------------------------- PROFILE
 const AVATARS = [
@@ -1516,8 +1823,10 @@ document.addEventListener('visibilitychange', () => {
   await renderInboxBanner();
   grammarPane = (await db.getMeta('grammarPane')) || 'practice';
   gramStats = (await db.getMeta('grammar')) || {};
+  quizLen = QUIZ_LENGTHS.includes(await db.getMeta('quizLen')) ? await db.getMeta('quizLen') : 10;
   let tab = new URLSearchParams(location.search).get('tab');
-  if (tab === 'verbs' || tab === 'practice') { grammarPane = tab; tab = 'grammar'; }
+  if (tab === 'verbs' || tab === 'practice' || tab === 'vocab') { grammarPane = tab; tab = 'grammar'; }
+  if (tab === 'learn') tab = 'grammar';
   showView(tab || (dueCards().length ? 'review' : 'add'));
   ping(60_000); // start waking the free server right away, in the background
   checkInbox();

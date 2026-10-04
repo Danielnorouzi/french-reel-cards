@@ -1,0 +1,1301 @@
+{
+  "texts": [],
+  "questions": [
+    {
+      "id": "b2-verb_prepositions-001",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "verb_prepositions",
+      "question": "J’aime ___ nager dans la mer.",
+      "options": [
+        "∅",
+        "à",
+        "de",
+        "pour"
+      ],
+      "answer": 0,
+      "explanation": "This verb is followed directly by an infinitive, with no preposition (∅): aimer, adorer, détester, préférer, vouloir, pouvoir, devoir, savoir, espérer, compter, penser, sembler, oser, laisser, faire, aller.",
+      "textId": null
+    },
+    {
+      "id": "b2-verb_prepositions-002",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "verb_prepositions",
+      "question": "Elle veut ___ partir demain.",
+      "options": [
+        "à",
+        "∅",
+        "de",
+        "pour"
+      ],
+      "answer": 1,
+      "explanation": "This verb is followed directly by an infinitive, with no preposition (∅): aimer, adorer, détester, préférer, vouloir, pouvoir, devoir, savoir, espérer, compter, penser, sembler, oser, laisser, faire, aller.",
+      "textId": null
+    },
+    {
+      "id": "b2-verb_prepositions-003",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "verb_prepositions",
+      "question": "Nous espérons ___ vous revoir bientôt.",
+      "options": [
+        "à",
+        "de",
+        "∅",
+        "pour"
+      ],
+      "answer": 2,
+      "explanation": "This verb is followed directly by an infinitive, with no preposition (∅): aimer, adorer, détester, préférer, vouloir, pouvoir, devoir, savoir, espérer, compter, penser, sembler, oser, laisser, faire, aller.",
+      "textId": null
+    },
+    {
+      "id": "b2-verb_prepositions-004",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "verb_prepositions",
+      "question": "Il déteste ___ faire la vaisselle.",
+      "options": [
+        "à",
+        "de",
+        "pour",
+        "∅"
+      ],
+      "answer": 3,
+      "explanation": "This verb is followed directly by an infinitive, with no preposition (∅): aimer, adorer, détester, préférer, vouloir, pouvoir, devoir, savoir, espérer, compter, penser, sembler, oser, laisser, faire, aller.",
+      "textId": null
+    },
+    {
+      "id": "b2-verb_prepositions-005",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "verb_prepositions",
+      "question": "Je préfère ___ rester à la maison.",
+      "options": [
+        "∅",
+        "à",
+        "de",
+        "que"
+      ],
+      "answer": 0,
+      "explanation": "This verb is followed directly by an infinitive, with no preposition (∅): aimer, adorer, détester, préférer, vouloir, pouvoir, devoir, savoir, espérer, compter, penser, sembler, oser, laisser, faire, aller.",
+      "textId": null
+    },
+    {
+      "id": "b2-verb_prepositions-006",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "verb_prepositions",
+      "question": "Tu sais ___ conduire ?",
+      "options": [
+        "à",
+        "∅",
+        "de",
+        "pour"
+      ],
+      "answer": 1,
+      "explanation": "This verb is followed directly by an infinitive, with no preposition (∅): aimer, adorer, détester, préférer, vouloir, pouvoir, devoir, savoir, espérer, compter, penser, sembler, oser, laisser, faire, aller.",
+      "textId": null
+    },
+    {
+      "id": "b2-verb_prepositions-007",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "verb_prepositions",
+      "question": "Elle compte ___ déménager l’an prochain.",
+      "options": [
+        "à",
+        "de",
+        "∅",
+        "sur"
+      ],
+      "answer": 2,
+      "explanation": "This verb is followed directly by an infinitive, with no preposition (∅): aimer, adorer, détester, préférer, vouloir, pouvoir, devoir, savoir, espérer, compter, penser, sembler, oser, laisser, faire, aller.",
+      "textId": null
+    },
+    {
+      "id": "b2-verb_prepositions-008",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "verb_prepositions",
+      "question": "Il semble ___ avoir compris.",
+      "options": [
+        "à",
+        "d’",
+        "pour",
+        "∅"
+      ],
+      "answer": 3,
+      "explanation": "This verb is followed directly by an infinitive, with no preposition (∅): aimer, adorer, détester, préférer, vouloir, pouvoir, devoir, savoir, espérer, compter, penser, sembler, oser, laisser, faire, aller.",
+      "textId": null
+    },
+    {
+      "id": "b2-verb_prepositions-009",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "verb_prepositions",
+      "question": "Je n’ose pas ___ lui parler.",
+      "options": [
+        "∅",
+        "à",
+        "de",
+        "pour"
+      ],
+      "answer": 0,
+      "explanation": "This verb is followed directly by an infinitive, with no preposition (∅): aimer, adorer, détester, préférer, vouloir, pouvoir, devoir, savoir, espérer, compter, penser, sembler, oser, laisser, faire, aller.",
+      "textId": null
+    },
+    {
+      "id": "b2-verb_prepositions-010",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "verb_prepositions",
+      "question": "Laisse-moi ___ t’expliquer.",
+      "options": [
+        "à",
+        "∅",
+        "de",
+        "pour"
+      ],
+      "answer": 1,
+      "explanation": "This verb is followed directly by an infinitive, with no preposition (∅): aimer, adorer, détester, préférer, vouloir, pouvoir, devoir, savoir, espérer, compter, penser, sembler, oser, laisser, faire, aller.",
+      "textId": null
+    },
+    {
+      "id": "b2-verb_prepositions-011",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "verb_prepositions",
+      "question": "Nous devons ___ partir tôt.",
+      "options": [
+        "à",
+        "de",
+        "∅",
+        "pour"
+      ],
+      "answer": 2,
+      "explanation": "This verb is followed directly by an infinitive, with no preposition (∅): aimer, adorer, détester, préférer, vouloir, pouvoir, devoir, savoir, espérer, compter, penser, sembler, oser, laisser, faire, aller.",
+      "textId": null
+    },
+    {
+      "id": "b2-verb_prepositions-012",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "verb_prepositions",
+      "question": "Il faut ___ réserver à l’avance.",
+      "options": [
+        "à",
+        "de",
+        "pour",
+        "∅"
+      ],
+      "answer": 3,
+      "explanation": "Il faut is followed directly by an infinitive, with no preposition.",
+      "textId": null
+    },
+    {
+      "id": "b2-verb_prepositions-013",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "verb_prepositions",
+      "question": "Il commence ___ pleuvoir.",
+      "options": [
+        "à",
+        "de",
+        "∅",
+        "pour"
+      ],
+      "answer": 0,
+      "explanation": "This verb takes à before an infinitive: commencer à, apprendre à, réussir à, arriver à, hésiter à, continuer à, chercher à, se mettre à, s’habituer à, tenir à, renoncer à, aider / inviter / encourager / obliger quelqu’un à.",
+      "textId": null
+    },
+    {
+      "id": "b2-verb_prepositions-014",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "verb_prepositions",
+      "question": "J’apprends ___ jouer du piano.",
+      "options": [
+        "de",
+        "à",
+        "∅",
+        "pour"
+      ],
+      "answer": 1,
+      "explanation": "This verb takes à before an infinitive: commencer à, apprendre à, réussir à, arriver à, hésiter à, continuer à, chercher à, se mettre à, s’habituer à, tenir à, renoncer à, aider / inviter / encourager / obliger quelqu’un à.",
+      "textId": null
+    },
+    {
+      "id": "b2-verb_prepositions-015",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "verb_prepositions",
+      "question": "Elle a réussi ___ trouver un travail.",
+      "options": [
+        "de",
+        "∅",
+        "à",
+        "pour"
+      ],
+      "answer": 2,
+      "explanation": "This verb takes à before an infinitive: commencer à, apprendre à, réussir à, arriver à, hésiter à, continuer à, chercher à, se mettre à, s’habituer à, tenir à, renoncer à, aider / inviter / encourager / obliger quelqu’un à.",
+      "textId": null
+    },
+    {
+      "id": "b2-verb_prepositions-016",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "verb_prepositions",
+      "question": "Je n’arrive pas ___ dormir.",
+      "options": [
+        "de",
+        "∅",
+        "pour",
+        "à"
+      ],
+      "answer": 3,
+      "explanation": "This verb takes à before an infinitive: commencer à, apprendre à, réussir à, arriver à, hésiter à, continuer à, chercher à, se mettre à, s’habituer à, tenir à, renoncer à, aider / inviter / encourager / obliger quelqu’un à.",
+      "textId": null
+    },
+    {
+      "id": "b2-verb_prepositions-017",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "verb_prepositions",
+      "question": "Il hésite ___ accepter ce poste.",
+      "options": [
+        "à",
+        "d’",
+        "∅",
+        "pour"
+      ],
+      "answer": 0,
+      "explanation": "This verb takes à before an infinitive: commencer à, apprendre à, réussir à, arriver à, hésiter à, continuer à, chercher à, se mettre à, s’habituer à, tenir à, renoncer à, aider / inviter / encourager / obliger quelqu’un à.",
+      "textId": null
+    },
+    {
+      "id": "b2-verb_prepositions-018",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "verb_prepositions",
+      "question": "Elle apprend ___ conduire.",
+      "options": [
+        "de",
+        "à",
+        "∅",
+        "pour"
+      ],
+      "answer": 1,
+      "explanation": "This verb takes à before an infinitive: commencer à, apprendre à, réussir à, arriver à, hésiter à, continuer à, chercher à, se mettre à, s’habituer à, tenir à, renoncer à, aider / inviter / encourager / obliger quelqu’un à.",
+      "textId": null
+    },
+    {
+      "id": "b2-verb_prepositions-019",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "verb_prepositions",
+      "question": "Elle s’est mise ___ pleurer.",
+      "options": [
+        "de",
+        "∅",
+        "à",
+        "pour"
+      ],
+      "answer": 2,
+      "explanation": "This verb takes à before an infinitive: commencer à, apprendre à, réussir à, arriver à, hésiter à, continuer à, chercher à, se mettre à, s’habituer à, tenir à, renoncer à, aider / inviter / encourager / obliger quelqu’un à.",
+      "textId": null
+    },
+    {
+      "id": "b2-verb_prepositions-020",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "verb_prepositions",
+      "question": "Je me suis habitué ___ me lever tôt.",
+      "options": [
+        "de",
+        "∅",
+        "pour",
+        "à"
+      ],
+      "answer": 3,
+      "explanation": "This verb takes à before an infinitive: commencer à, apprendre à, réussir à, arriver à, hésiter à, continuer à, chercher à, se mettre à, s’habituer à, tenir à, renoncer à, aider / inviter / encourager / obliger quelqu’un à.",
+      "textId": null
+    },
+    {
+      "id": "b2-verb_prepositions-021",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "verb_prepositions",
+      "question": "Je tiens ___ vous remercier.",
+      "options": [
+        "à",
+        "de",
+        "∅",
+        "pour"
+      ],
+      "answer": 0,
+      "explanation": "This verb takes à before an infinitive: commencer à, apprendre à, réussir à, arriver à, hésiter à, continuer à, chercher à, se mettre à, s’habituer à, tenir à, renoncer à, aider / inviter / encourager / obliger quelqu’un à.",
+      "textId": null
+    },
+    {
+      "id": "b2-verb_prepositions-022",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "verb_prepositions",
+      "question": "Il a renoncé ___ fumer.",
+      "options": [
+        "de",
+        "à",
+        "∅",
+        "pour"
+      ],
+      "answer": 1,
+      "explanation": "This verb takes à before an infinitive: commencer à, apprendre à, réussir à, arriver à, hésiter à, continuer à, chercher à, se mettre à, s’habituer à, tenir à, renoncer à, aider / inviter / encourager / obliger quelqu’un à.",
+      "textId": null
+    },
+    {
+      "id": "b2-verb_prepositions-023",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "verb_prepositions",
+      "question": "Mon frère m’aide ___ déménager.",
+      "options": [
+        "de",
+        "∅",
+        "à",
+        "pour"
+      ],
+      "answer": 2,
+      "explanation": "This verb takes à before an infinitive: commencer à, apprendre à, réussir à, arriver à, hésiter à, continuer à, chercher à, se mettre à, s’habituer à, tenir à, renoncer à, aider / inviter / encourager / obliger quelqu’un à.",
+      "textId": null
+    },
+    {
+      "id": "b2-verb_prepositions-024",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "verb_prepositions",
+      "question": "Je t’invite ___ dîner samedi.",
+      "options": [
+        "de",
+        "∅",
+        "pour",
+        "à"
+      ],
+      "answer": 3,
+      "explanation": "This verb takes à before an infinitive: commencer à, apprendre à, réussir à, arriver à, hésiter à, continuer à, chercher à, se mettre à, s’habituer à, tenir à, renoncer à, aider / inviter / encourager / obliger quelqu’un à.",
+      "textId": null
+    },
+    {
+      "id": "b2-verb_prepositions-025",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "verb_prepositions",
+      "question": "Ses parents l’encouragent ___ continuer ses études.",
+      "options": [
+        "à",
+        "de",
+        "∅",
+        "pour"
+      ],
+      "answer": 0,
+      "explanation": "This verb takes à before an infinitive: commencer à, apprendre à, réussir à, arriver à, hésiter à, continuer à, chercher à, se mettre à, s’habituer à, tenir à, renoncer à, aider / inviter / encourager / obliger quelqu’un à.",
+      "textId": null
+    },
+    {
+      "id": "b2-verb_prepositions-026",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "verb_prepositions",
+      "question": "Il cherche ___ comprendre.",
+      "options": [
+        "de",
+        "à",
+        "∅",
+        "pour"
+      ],
+      "answer": 1,
+      "explanation": "This verb takes à before an infinitive: commencer à, apprendre à, réussir à, arriver à, hésiter à, continuer à, chercher à, se mettre à, s’habituer à, tenir à, renoncer à, aider / inviter / encourager / obliger quelqu’un à.",
+      "textId": null
+    },
+    {
+      "id": "b2-verb_prepositions-027",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "verb_prepositions",
+      "question": "Elle m’a aidé ___ porter mes valises.",
+      "options": [
+        "de",
+        "∅",
+        "à",
+        "pour"
+      ],
+      "answer": 2,
+      "explanation": "This verb takes à before an infinitive: commencer à, apprendre à, réussir à, arriver à, hésiter à, continuer à, chercher à, se mettre à, s’habituer à, tenir à, renoncer à, aider / inviter / encourager / obliger quelqu’un à.",
+      "textId": null
+    },
+    {
+      "id": "b2-verb_prepositions-028",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "verb_prepositions",
+      "question": "J’ai décidé ___ changer de travail.",
+      "options": [
+        "à",
+        "∅",
+        "pour",
+        "de"
+      ],
+      "answer": 3,
+      "explanation": "This verb takes de (d’) before an infinitive: décider de, essayer de, finir de, arrêter de, oublier de, refuser de, accepter de, promettre de, risquer de, éviter de, rêver de, regretter de, choisir de, se dépêcher de, mériter de.",
+      "textId": null
+    },
+    {
+      "id": "b2-verb_prepositions-029",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "verb_prepositions",
+      "question": "Essaie ___ dormir un peu.",
+      "options": [
+        "de",
+        "à",
+        "∅",
+        "pour"
+      ],
+      "answer": 0,
+      "explanation": "This verb takes de (d’) before an infinitive: décider de, essayer de, finir de, arrêter de, oublier de, refuser de, accepter de, promettre de, risquer de, éviter de, rêver de, regretter de, choisir de, se dépêcher de, mériter de.",
+      "textId": null
+    },
+    {
+      "id": "b2-verb_prepositions-030",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "verb_prepositions",
+      "question": "Tu as fini ___ manger ?",
+      "options": [
+        "à",
+        "de",
+        "∅",
+        "pour"
+      ],
+      "answer": 1,
+      "explanation": "This verb takes de (d’) before an infinitive: décider de, essayer de, finir de, arrêter de, oublier de, refuser de, accepter de, promettre de, risquer de, éviter de, rêver de, regretter de, choisir de, se dépêcher de, mériter de.",
+      "textId": null
+    },
+    {
+      "id": "b2-verb_prepositions-031",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "verb_prepositions",
+      "question": "Arrête ___ crier !",
+      "options": [
+        "à",
+        "∅",
+        "de",
+        "pour"
+      ],
+      "answer": 2,
+      "explanation": "This verb takes de (d’) before an infinitive: décider de, essayer de, finir de, arrêter de, oublier de, refuser de, accepter de, promettre de, risquer de, éviter de, rêver de, regretter de, choisir de, se dépêcher de, mériter de.",
+      "textId": null
+    },
+    {
+      "id": "b2-verb_prepositions-032",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "verb_prepositions",
+      "question": "J’ai oublié ___ fermer la porte.",
+      "options": [
+        "à",
+        "∅",
+        "pour",
+        "de"
+      ],
+      "answer": 3,
+      "explanation": "This verb takes de (d’) before an infinitive: décider de, essayer de, finir de, arrêter de, oublier de, refuser de, accepter de, promettre de, risquer de, éviter de, rêver de, regretter de, choisir de, se dépêcher de, mériter de.",
+      "textId": null
+    },
+    {
+      "id": "b2-verb_prepositions-033",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "verb_prepositions",
+      "question": "Elle refuse ___ répondre.",
+      "options": [
+        "de",
+        "à",
+        "∅",
+        "pour"
+      ],
+      "answer": 0,
+      "explanation": "This verb takes de (d’) before an infinitive: décider de, essayer de, finir de, arrêter de, oublier de, refuser de, accepter de, promettre de, risquer de, éviter de, rêver de, regretter de, choisir de, se dépêcher de, mériter de.",
+      "textId": null
+    },
+    {
+      "id": "b2-verb_prepositions-034",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "verb_prepositions",
+      "question": "Il a accepté ___ nous aider.",
+      "options": [
+        "à",
+        "de",
+        "∅",
+        "pour"
+      ],
+      "answer": 1,
+      "explanation": "This verb takes de (d’) before an infinitive: décider de, essayer de, finir de, arrêter de, oublier de, refuser de, accepter de, promettre de, risquer de, éviter de, rêver de, regretter de, choisir de, se dépêcher de, mériter de.",
+      "textId": null
+    },
+    {
+      "id": "b2-verb_prepositions-035",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "verb_prepositions",
+      "question": "Je te promets ___ venir.",
+      "options": [
+        "à",
+        "∅",
+        "de",
+        "pour"
+      ],
+      "answer": 2,
+      "explanation": "This verb takes de (d’) before an infinitive: décider de, essayer de, finir de, arrêter de, oublier de, refuser de, accepter de, promettre de, risquer de, éviter de, rêver de, regretter de, choisir de, se dépêcher de, mériter de.",
+      "textId": null
+    },
+    {
+      "id": "b2-verb_prepositions-036",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "verb_prepositions",
+      "question": "Tu risques ___ tomber.",
+      "options": [
+        "à",
+        "∅",
+        "pour",
+        "de"
+      ],
+      "answer": 3,
+      "explanation": "This verb takes de (d’) before an infinitive: décider de, essayer de, finir de, arrêter de, oublier de, refuser de, accepter de, promettre de, risquer de, éviter de, rêver de, regretter de, choisir de, se dépêcher de, mériter de.",
+      "textId": null
+    },
+    {
+      "id": "b2-verb_prepositions-037",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "verb_prepositions",
+      "question": "Évite ___ sortir ce soir.",
+      "options": [
+        "de",
+        "à",
+        "∅",
+        "pour"
+      ],
+      "answer": 0,
+      "explanation": "This verb takes de (d’) before an infinitive: décider de, essayer de, finir de, arrêter de, oublier de, refuser de, accepter de, promettre de, risquer de, éviter de, rêver de, regretter de, choisir de, se dépêcher de, mériter de.",
+      "textId": null
+    },
+    {
+      "id": "b2-verb_prepositions-038",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "verb_prepositions",
+      "question": "Elle rêve ___ devenir actrice.",
+      "options": [
+        "à",
+        "de",
+        "∅",
+        "pour"
+      ],
+      "answer": 1,
+      "explanation": "This verb takes de (d’) before an infinitive: décider de, essayer de, finir de, arrêter de, oublier de, refuser de, accepter de, promettre de, risquer de, éviter de, rêver de, regretter de, choisir de, se dépêcher de, mériter de.",
+      "textId": null
+    },
+    {
+      "id": "b2-verb_prepositions-039",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "verb_prepositions",
+      "question": "Je regrette ___ être parti si tôt.",
+      "options": [
+        "à",
+        "∅",
+        "d’",
+        "pour"
+      ],
+      "answer": 2,
+      "explanation": "This verb takes de (d’) before an infinitive: décider de, essayer de, finir de, arrêter de, oublier de, refuser de, accepter de, promettre de, risquer de, éviter de, rêver de, regretter de, choisir de, se dépêcher de, mériter de.",
+      "textId": null
+    },
+    {
+      "id": "b2-verb_prepositions-040",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "verb_prepositions",
+      "question": "Dépêche-toi ___ finir !",
+      "options": [
+        "à",
+        "∅",
+        "pour",
+        "de"
+      ],
+      "answer": 3,
+      "explanation": "This verb takes de (d’) before an infinitive: décider de, essayer de, finir de, arrêter de, oublier de, refuser de, accepter de, promettre de, risquer de, éviter de, rêver de, regretter de, choisir de, se dépêcher de, mériter de.",
+      "textId": null
+    },
+    {
+      "id": "b2-verb_prepositions-041",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "verb_prepositions",
+      "question": "Nous avons choisi ___ rester.",
+      "options": [
+        "de",
+        "à",
+        "∅",
+        "pour"
+      ],
+      "answer": 0,
+      "explanation": "This verb takes de (d’) before an infinitive: décider de, essayer de, finir de, arrêter de, oublier de, refuser de, accepter de, promettre de, risquer de, éviter de, rêver de, regretter de, choisir de, se dépêcher de, mériter de.",
+      "textId": null
+    },
+    {
+      "id": "b2-verb_prepositions-042",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "verb_prepositions",
+      "question": "Il a cessé ___ pleuvoir.",
+      "options": [
+        "à",
+        "de",
+        "∅",
+        "pour"
+      ],
+      "answer": 1,
+      "explanation": "This verb takes de (d’) before an infinitive: décider de, essayer de, finir de, arrêter de, oublier de, refuser de, accepter de, promettre de, risquer de, éviter de, rêver de, regretter de, choisir de, se dépêcher de, mériter de.",
+      "textId": null
+    },
+    {
+      "id": "b2-verb_prepositions-043",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "verb_prepositions",
+      "question": "Tu mérites ___ réussir.",
+      "options": [
+        "à",
+        "∅",
+        "de",
+        "pour"
+      ],
+      "answer": 2,
+      "explanation": "This verb takes de (d’) before an infinitive: décider de, essayer de, finir de, arrêter de, oublier de, refuser de, accepter de, promettre de, risquer de, éviter de, rêver de, regretter de, choisir de, se dépêcher de, mériter de.",
+      "textId": null
+    },
+    {
+      "id": "b2-verb_prepositions-044",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "verb_prepositions",
+      "question": "Il a demandé ___ ses amis de l’attendre.",
+      "options": [
+        "de",
+        "∅",
+        "pour",
+        "à"
+      ],
+      "answer": 3,
+      "explanation": "Verbs of telling and asking follow the pattern à + person, de + infinitive: demander / dire / conseiller / permettre / proposer / interdire / promettre à quelqu’un de faire quelque chose.",
+      "textId": null
+    },
+    {
+      "id": "b2-verb_prepositions-045",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "verb_prepositions",
+      "question": "Il a demandé à ses amis ___ l’attendre.",
+      "options": [
+        "de",
+        "à",
+        "∅",
+        "pour"
+      ],
+      "answer": 0,
+      "explanation": "Verbs of telling and asking follow the pattern à + person, de + infinitive: demander / dire / conseiller / permettre / proposer / interdire / promettre à quelqu’un de faire quelque chose.",
+      "textId": null
+    },
+    {
+      "id": "b2-verb_prepositions-046",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "verb_prepositions",
+      "question": "Le médecin m’a conseillé ___ faire du sport.",
+      "options": [
+        "à",
+        "de",
+        "∅",
+        "pour"
+      ],
+      "answer": 1,
+      "explanation": "Verbs of telling and asking follow the pattern à + person, de + infinitive: demander / dire / conseiller / permettre / proposer / interdire / promettre à quelqu’un de faire quelque chose.",
+      "textId": null
+    },
+    {
+      "id": "b2-verb_prepositions-047",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "verb_prepositions",
+      "question": "Mes parents me permettent ___ sortir le samedi.",
+      "options": [
+        "à",
+        "∅",
+        "de",
+        "pour"
+      ],
+      "answer": 2,
+      "explanation": "Verbs of telling and asking follow the pattern à + person, de + infinitive: demander / dire / conseiller / permettre / proposer / interdire / promettre à quelqu’un de faire quelque chose.",
+      "textId": null
+    },
+    {
+      "id": "b2-verb_prepositions-048",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "verb_prepositions",
+      "question": "Je vous propose ___ commencer maintenant.",
+      "options": [
+        "à",
+        "∅",
+        "pour",
+        "de"
+      ],
+      "answer": 3,
+      "explanation": "Verbs of telling and asking follow the pattern à + person, de + infinitive: demander / dire / conseiller / permettre / proposer / interdire / promettre à quelqu’un de faire quelque chose.",
+      "textId": null
+    },
+    {
+      "id": "b2-verb_prepositions-049",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "verb_prepositions",
+      "question": "Elle a dit ___ enfants de se taire.",
+      "options": [
+        "aux",
+        "des",
+        "les",
+        "pour les"
+      ],
+      "answer": 0,
+      "explanation": "Verbs of telling and asking follow the pattern à + person, de + infinitive: demander / dire / conseiller / permettre / proposer / interdire / promettre à quelqu’un de faire quelque chose.",
+      "textId": null
+    },
+    {
+      "id": "b2-verb_prepositions-050",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "verb_prepositions",
+      "question": "Il est interdit ___ fumer ici.",
+      "options": [
+        "à",
+        "de",
+        "∅",
+        "pour"
+      ],
+      "answer": 1,
+      "explanation": "Verbs of telling and asking follow the pattern à + person, de + infinitive: demander / dire / conseiller / permettre / proposer / interdire / promettre à quelqu’un de faire quelque chose.",
+      "textId": null
+    },
+    {
+      "id": "b2-verb_prepositions-051",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "verb_prepositions",
+      "question": "J’ai envie ___ dormir.",
+      "options": [
+        "à",
+        "∅",
+        "de",
+        "pour"
+      ],
+      "answer": 2,
+      "explanation": "Expressions with avoir take de before an infinitive: avoir envie de, avoir besoin de, avoir peur de, avoir l’intention de, avoir le temps de, avoir raison de.",
+      "textId": null
+    },
+    {
+      "id": "b2-verb_prepositions-052",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "verb_prepositions",
+      "question": "Tu as besoin ___ te reposer.",
+      "options": [
+        "à",
+        "∅",
+        "pour",
+        "de"
+      ],
+      "answer": 3,
+      "explanation": "Expressions with avoir take de before an infinitive: avoir envie de, avoir besoin de, avoir peur de, avoir l’intention de, avoir le temps de, avoir raison de.",
+      "textId": null
+    },
+    {
+      "id": "b2-verb_prepositions-053",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "verb_prepositions",
+      "question": "Elle a peur ___ prendre l’avion.",
+      "options": [
+        "de",
+        "à",
+        "∅",
+        "pour"
+      ],
+      "answer": 0,
+      "explanation": "Expressions with avoir take de before an infinitive: avoir envie de, avoir besoin de, avoir peur de, avoir l’intention de, avoir le temps de, avoir raison de.",
+      "textId": null
+    },
+    {
+      "id": "b2-verb_prepositions-054",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "verb_prepositions",
+      "question": "Nous avons l’intention ___ voyager cet été.",
+      "options": [
+        "à",
+        "de",
+        "∅",
+        "pour"
+      ],
+      "answer": 1,
+      "explanation": "Expressions with avoir take de before an infinitive: avoir envie de, avoir besoin de, avoir peur de, avoir l’intention de, avoir le temps de, avoir raison de.",
+      "textId": null
+    },
+    {
+      "id": "b2-verb_prepositions-055",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "verb_prepositions",
+      "question": "Je n’ai pas le temps ___ cuisiner.",
+      "options": [
+        "à",
+        "∅",
+        "de",
+        "pour"
+      ],
+      "answer": 2,
+      "explanation": "Expressions with avoir take de before an infinitive: avoir envie de, avoir besoin de, avoir peur de, avoir l’intention de, avoir le temps de, avoir raison de.",
+      "textId": null
+    },
+    {
+      "id": "b2-verb_prepositions-056",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "verb_prepositions",
+      "question": "Tu as raison ___ insister.",
+      "options": [
+        "à",
+        "∅",
+        "pour",
+        "d’"
+      ],
+      "answer": 3,
+      "explanation": "Expressions with avoir take de before an infinitive: avoir envie de, avoir besoin de, avoir peur de, avoir l’intention de, avoir le temps de, avoir raison de.",
+      "textId": null
+    },
+    {
+      "id": "b2-verb_prepositions-057",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "verb_prepositions",
+      "question": "Je pense souvent ___ mes vacances.",
+      "options": [
+        "à",
+        "de",
+        "∅",
+        "sur"
+      ],
+      "answer": 0,
+      "explanation": "This verb takes à before a noun or person: penser à, s’intéresser à, participer à, assister à, répondre à, téléphoner à, ressembler à, obéir à, plaire à, s’habituer à, tenir à, croire à, réfléchir à, renoncer à.",
+      "textId": null
+    },
+    {
+      "id": "b2-verb_prepositions-058",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "verb_prepositions",
+      "question": "Elle s’intéresse ___ la peinture.",
+      "options": [
+        "de",
+        "à",
+        "∅",
+        "pour"
+      ],
+      "answer": 1,
+      "explanation": "This verb takes à before a noun or person: penser à, s’intéresser à, participer à, assister à, répondre à, téléphoner à, ressembler à, obéir à, plaire à, s’habituer à, tenir à, croire à, réfléchir à, renoncer à.",
+      "textId": null
+    },
+    {
+      "id": "b2-verb_prepositions-059",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "verb_prepositions",
+      "question": "Nous avons assisté ___ un concert magnifique.",
+      "options": [
+        "de",
+        "∅",
+        "à",
+        "dans"
+      ],
+      "answer": 2,
+      "explanation": "This verb takes à before a noun or person: penser à, s’intéresser à, participer à, assister à, répondre à, téléphoner à, ressembler à, obéir à, plaire à, s’habituer à, tenir à, croire à, réfléchir à, renoncer à.",
+      "textId": null
+    },
+    {
+      "id": "b2-verb_prepositions-060",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "verb_prepositions",
+      "question": "Tu as répondu ___ sa lettre ?",
+      "options": [
+        "de",
+        "∅",
+        "sur",
+        "à"
+      ],
+      "answer": 3,
+      "explanation": "This verb takes à before a noun or person: penser à, s’intéresser à, participer à, assister à, répondre à, téléphoner à, ressembler à, obéir à, plaire à, s’habituer à, tenir à, croire à, réfléchir à, renoncer à.",
+      "textId": null
+    },
+    {
+      "id": "b2-verb_prepositions-061",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "verb_prepositions",
+      "question": "Il ressemble beaucoup ___ son père.",
+      "options": [
+        "à",
+        "de",
+        "∅",
+        "comme"
+      ],
+      "answer": 0,
+      "explanation": "This verb takes à before a noun or person: penser à, s’intéresser à, participer à, assister à, répondre à, téléphoner à, ressembler à, obéir à, plaire à, s’habituer à, tenir à, croire à, réfléchir à, renoncer à.",
+      "textId": null
+    },
+    {
+      "id": "b2-verb_prepositions-062",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "verb_prepositions",
+      "question": "Les enfants doivent obéir ___ leurs parents.",
+      "options": [
+        "de",
+        "à",
+        "∅",
+        "pour"
+      ],
+      "answer": 1,
+      "explanation": "This verb takes à before a noun or person: penser à, s’intéresser à, participer à, assister à, répondre à, téléphoner à, ressembler à, obéir à, plaire à, s’habituer à, tenir à, croire à, réfléchir à, renoncer à.",
+      "textId": null
+    },
+    {
+      "id": "b2-verb_prepositions-063",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "verb_prepositions",
+      "question": "Ce film a beaucoup plu ___ mes amis.",
+      "options": [
+        "de",
+        "∅",
+        "à",
+        "pour"
+      ],
+      "answer": 2,
+      "explanation": "This verb takes à before a noun or person: penser à, s’intéresser à, participer à, assister à, répondre à, téléphoner à, ressembler à, obéir à, plaire à, s’habituer à, tenir à, croire à, réfléchir à, renoncer à.",
+      "textId": null
+    },
+    {
+      "id": "b2-verb_prepositions-064",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "verb_prepositions",
+      "question": "J’ai participé ___ une course hier.",
+      "options": [
+        "de",
+        "∅",
+        "dans",
+        "à"
+      ],
+      "answer": 3,
+      "explanation": "This verb takes à before a noun or person: penser à, s’intéresser à, participer à, assister à, répondre à, téléphoner à, ressembler à, obéir à, plaire à, s’habituer à, tenir à, croire à, réfléchir à, renoncer à.",
+      "textId": null
+    },
+    {
+      "id": "b2-verb_prepositions-065",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "verb_prepositions",
+      "question": "Je me souviens ___ ce voyage.",
+      "options": [
+        "de",
+        "à",
+        "∅",
+        "sur"
+      ],
+      "answer": 0,
+      "explanation": "This verb takes de before a noun: parler de, s’occuper de, se souvenir de, dépendre de, se servir de, profiter de, se moquer de, douter de, changer de, manquer de, s’approcher de, rêver de, avoir besoin de.",
+      "textId": null
+    },
+    {
+      "id": "b2-verb_prepositions-066",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "verb_prepositions",
+      "question": "Elle s’occupe ___ ses petits frères.",
+      "options": [
+        "à",
+        "de",
+        "∅",
+        "pour"
+      ],
+      "answer": 1,
+      "explanation": "This verb takes de before a noun: parler de, s’occuper de, se souvenir de, dépendre de, se servir de, profiter de, se moquer de, douter de, changer de, manquer de, s’approcher de, rêver de, avoir besoin de.",
+      "textId": null
+    },
+    {
+      "id": "b2-verb_prepositions-067",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "verb_prepositions",
+      "question": "Ça dépend ___ la météo.",
+      "options": [
+        "à",
+        "∅",
+        "de",
+        "sur"
+      ],
+      "answer": 2,
+      "explanation": "This verb takes de before a noun: parler de, s’occuper de, se souvenir de, dépendre de, se servir de, profiter de, se moquer de, douter de, changer de, manquer de, s’approcher de, rêver de, avoir besoin de.",
+      "textId": null
+    },
+    {
+      "id": "b2-verb_prepositions-068",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "verb_prepositions",
+      "question": "Je me sers ___ cet ordinateur tous les jours.",
+      "options": [
+        "à",
+        "∅",
+        "avec",
+        "de"
+      ],
+      "answer": 3,
+      "explanation": "This verb takes de before a noun: parler de, s’occuper de, se souvenir de, dépendre de, se servir de, profiter de, se moquer de, douter de, changer de, manquer de, s’approcher de, rêver de, avoir besoin de.",
+      "textId": null
+    },
+    {
+      "id": "b2-verb_prepositions-069",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "verb_prepositions",
+      "question": "Il faut profiter ___ la vie.",
+      "options": [
+        "de",
+        "à",
+        "∅",
+        "sur"
+      ],
+      "answer": 0,
+      "explanation": "This verb takes de before a noun: parler de, s’occuper de, se souvenir de, dépendre de, se servir de, profiter de, se moquer de, douter de, changer de, manquer de, s’approcher de, rêver de, avoir besoin de.",
+      "textId": null
+    },
+    {
+      "id": "b2-verb_prepositions-070",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "verb_prepositions",
+      "question": "Ne te moque pas ___ moi !",
+      "options": [
+        "à",
+        "de",
+        "∅",
+        "sur"
+      ],
+      "answer": 1,
+      "explanation": "This verb takes de before a noun: parler de, s’occuper de, se souvenir de, dépendre de, se servir de, profiter de, se moquer de, douter de, changer de, manquer de, s’approcher de, rêver de, avoir besoin de.",
+      "textId": null
+    },
+    {
+      "id": "b2-verb_prepositions-071",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "verb_prepositions",
+      "question": "J’ai changé ___ numéro de téléphone.",
+      "options": [
+        "à",
+        "∅",
+        "de",
+        "du"
+      ],
+      "answer": 2,
+      "explanation": "This verb takes de before a noun: parler de, s’occuper de, se souvenir de, dépendre de, se servir de, profiter de, se moquer de, douter de, changer de, manquer de, s’approcher de, rêver de, avoir besoin de.",
+      "textId": null
+    },
+    {
+      "id": "b2-verb_prepositions-072",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "verb_prepositions",
+      "question": "J’attends ___ le bus depuis vingt minutes.",
+      "options": [
+        "pour",
+        "à",
+        "de",
+        "∅"
+      ],
+      "answer": 3,
+      "explanation": "This verb takes a direct object in French, with no preposition (∅), unlike English: attendre (wait for), chercher (look for), écouter (listen to), regarder (look at), demander (ask for), payer (pay for).",
+      "textId": null
+    },
+    {
+      "id": "b2-verb_prepositions-073",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "verb_prepositions",
+      "question": "Elle cherche ___ ses clés.",
+      "options": [
+        "∅",
+        "pour",
+        "à",
+        "de"
+      ],
+      "answer": 0,
+      "explanation": "This verb takes a direct object in French, with no preposition (∅), unlike English: attendre (wait for), chercher (look for), écouter (listen to), regarder (look at), demander (ask for), payer (pay for).",
+      "textId": null
+    },
+    {
+      "id": "b2-verb_prepositions-074",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "verb_prepositions",
+      "question": "Nous écoutons ___ la radio.",
+      "options": [
+        "à",
+        "∅",
+        "de",
+        "sur"
+      ],
+      "answer": 1,
+      "explanation": "This verb takes a direct object in French, with no preposition (∅), unlike English: attendre (wait for), chercher (look for), écouter (listen to), regarder (look at), demander (ask for), payer (pay for).",
+      "textId": null
+    },
+    {
+      "id": "b2-verb_prepositions-075",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "verb_prepositions",
+      "question": "Il regarde ___ la télévision.",
+      "options": [
+        "à",
+        "de",
+        "∅",
+        "sur"
+      ],
+      "answer": 2,
+      "explanation": "This verb takes a direct object in French, with no preposition (∅), unlike English: attendre (wait for), chercher (look for), écouter (listen to), regarder (look at), demander (ask for), payer (pay for).",
+      "textId": null
+    },
+    {
+      "id": "b2-verb_prepositions-076",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "verb_prepositions",
+      "question": "Elle joue ___ tennis tous les samedis.",
+      "options": [
+        "du",
+        "le",
+        "de",
+        "au"
+      ],
+      "answer": 3,
+      "explanation": "Jouer à + a sport or a game; jouer de + a musical instrument.",
+      "textId": null
+    },
+    {
+      "id": "b2-verb_prepositions-077",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "verb_prepositions",
+      "question": "Il joue ___ guitare dans un groupe.",
+      "options": [
+        "de la",
+        "à la",
+        "la",
+        "au"
+      ],
+      "answer": 0,
+      "explanation": "Jouer à + a sport or a game; jouer de + a musical instrument.",
+      "textId": null
+    },
+    {
+      "id": "b2-verb_prepositions-078",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "verb_prepositions",
+      "question": "Que penses-tu ___ ce film ?",
+      "options": [
+        "à",
+        "de",
+        "∅",
+        "sur"
+      ],
+      "answer": 1,
+      "explanation": "Penser à = to have in mind; penser de = to have an opinion about (in questions: que penses-tu de… ?).",
+      "textId": null
+    },
+    {
+      "id": "b2-verb_prepositions-079",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "verb_prepositions",
+      "question": "Je pense beaucoup ___ toi.",
+      "options": [
+        "de",
+        "∅",
+        "à",
+        "sur"
+      ],
+      "answer": 2,
+      "explanation": "Penser à = to have in mind; penser de = to have an opinion about (in questions: que penses-tu de… ?).",
+      "textId": null
+    },
+    {
+      "id": "b2-verb_prepositions-080",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "verb_prepositions",
+      "question": "Mes amis ___ manquent beaucoup. (= I miss my friends)",
+      "options": [
+        "je",
+        "moi",
+        "à moi",
+        "me"
+      ],
+      "answer": 3,
+      "explanation": "Manquer à quelqu’un = to be missed by someone (tu me manques = I miss you); manquer de = to lack; manquer + direct object = to miss (a train).",
+      "textId": null
+    },
+    {
+      "id": "b2-verb_prepositions-081",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "verb_prepositions",
+      "question": "Il manque ___ patience avec les enfants.",
+      "options": [
+        "de",
+        "à",
+        "∅",
+        "la"
+      ],
+      "answer": 0,
+      "explanation": "Manquer à quelqu’un = to be missed by someone (tu me manques = I miss you); manquer de = to lack; manquer + direct object = to miss (a train).",
+      "textId": null
+    }
+  ]
+}

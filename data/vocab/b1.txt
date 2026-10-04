@@ -1,0 +1,523 @@
+## opinions | Opinions & discussion | 💬
+l'avis | opinion | m | À mon avis, c'est une erreur.
+l'opinion | opinion | f | Chacun a son opinion.
+le point de vue | point of view | m | Je comprends ton point de vue.
+être d'accord | to agree | phr | Je suis d'accord avec toi.
+le désaccord | disagreement | m | Nous sommes en désaccord.
+convaincre | to convince | v | Il m'a convaincu de venir.
+persuader | to persuade | v | Je suis persuadé qu'il a raison.
+l'argument | argument (reasoning) | m | C'est un bon argument.
+le débat | debate | m | Le débat était intéressant.
+le sujet | subject, topic | m | Changeons de sujet.
+le pour et le contre | pros and cons | m | Il faut peser le pour et le contre.
+l'avantage | advantage | m | Quels sont les avantages ?
+l'inconvénient | drawback | m | Le seul inconvénient, c'est le prix.
+affirmer | to state, to claim | v | Il affirme qu'il est innocent.
+prétendre | to claim | v | Elle prétend tout savoir.
+supposer | to suppose | v | Je suppose que tu as raison.
+douter | to doubt | v | Je doute qu'il vienne.
+admettre | to admit | v | J'admets que j'avais tort.
+reconnaître | to recognise, to admit | v | Je reconnais mon erreur.
+souligner | to underline, to stress | v | Je voudrais souligner un point.
+ajouter que | to add that | phr | J'ajoute que c'est urgent.
+critiquer | to criticise | v | Il critique tout le monde.
+se plaindre | to complain | v | Elle se plaint du bruit.
+exprimer | to express | v | Il exprime ses sentiments.
+partager un avis | to share an opinion | phr | Je partage ton avis.
+en effet | indeed | adv | En effet, c'est possible.
+en fait | actually, in fact | adv | En fait, je ne sais pas.
+d'ailleurs | besides, by the way | adv | D'ailleurs, il me l'a dit.
+par contre | on the other hand | adv | Par contre, c'est très cher.
+en revanche | on the other hand | adv | En revanche, le service est excellent.
+au contraire | on the contrary | adv | Au contraire, j'adore ça.
+d'un côté | on the one hand | phr | D'un côté, c'est pratique.
+de l'autre côté | on the other hand | phr | De l'autre côté, c'est cher.
+en général | in general | adv | En général, je me lève tôt.
+évidemment | obviously | adv | Évidemment, il est en retard.
+franchement | frankly | adv | Franchement, je n'aime pas ça.
+personnellement | personally | adv | Personnellement, je préfère le train.
+à vrai dire | to tell the truth | phr | À vrai dire, je m'en fiche.
+ça dépend | it depends | phr | Ça dépend du prix.
+tant pis | too bad | phr | Tant pis, on ira demain.
+tant mieux | so much the better | phr | Tu viens ? Tant mieux !
+peu importe | it doesn't matter | phr | Peu importe le prix.
+
+## career | Work & career | 📈
+la carrière | career | f | Elle a fait une belle carrière.
+le candidat | candidate, applicant | m | Il y a dix candidats.
+la candidature | application | f | J'ai envoyé ma candidature.
+postuler | to apply (for a job) | v | Je postule à cette offre.
+l'offre d'emploi | job offer | f | J'ai vu une offre d'emploi.
+le recrutement | recruitment | m | Le recrutement est terminé.
+le contrat | contract | m | J'ai signé mon contrat.
+le CDI | permanent contract | m | Elle a enfin un CDI.
+licencier | to lay off, to dismiss | v | L'usine a licencié cent personnes.
+démissionner | to resign | v | Il a démissionné hier.
+la promotion | promotion | f | Elle a eu une promotion.
+l'augmentation | raise, increase | f | Je demande une augmentation.
+les compétences | skills | f | Il a de bonnes compétences.
+la responsabilité | responsibility | f | C'est une grande responsabilité.
+le responsable | manager, person in charge | m | Je voudrais parler au responsable.
+le salarié | employee | m | Les salariés sont en grève.
+le syndicat | trade union | m | Le syndicat négocie les salaires.
+la grève | strike | f | Les transports sont en grève.
+l'usine | factory | f | Il travaille dans une usine.
+le chantier | building site | m | Le chantier dure six mois.
+l'ouvrier | worker | m | Les ouvriers construisent un pont.
+le cadre | executive, frame | m | Elle est cadre dans une banque.
+le fonctionnaire | civil servant | m | Mon père est fonctionnaire.
+le commerçant | shopkeeper | m | Les commerçants du quartier.
+l'artisan | craftsman | m | C'est un artisan boulanger.
+à son compte | self-employed | phr | Il travaille à son compte.
+le télétravail | remote work | m | Je fais du télétravail le vendredi.
+la tâche | task | f | J'ai beaucoup de tâches aujourd'hui.
+le délai | deadline, time limit | m | Le délai est trop court.
+gérer | to manage | v | Elle gère une équipe de dix personnes.
+diriger | to run, to lead | v | Il dirige l'entreprise.
+organiser | to organise | v | J'organise une réunion.
+prévoir | to plan, to forecast | v | Nous prévoyons de finir en mai.
+négocier | to negotiate | v | Je négocie mon salaire.
+se former | to train | v | Je me forme au marketing.
+être chargé de | to be in charge of | phr | Je suis chargé du projet.
+l'objectif | goal | m | Mon objectif est clair.
+le résultat | result | m | Les résultats sont bons.
+le bénéfice | profit, benefit | m | L'entreprise fait des bénéfices.
+le marché du travail | job market | m | Le marché du travail est difficile.
+la concurrence | competition | f | La concurrence est forte.
+efficace | efficient, effective | adj | C'est une méthode efficace.
+
+## education | Education & learning | 🎓
+l'enseignement | teaching, education | m | L'enseignement est gratuit.
+l'enseignant | teacher | m | Les enseignants sont en réunion.
+l'éducation | education, upbringing | f | L'éducation est une priorité.
+la rentrée | start of the school year | f | La rentrée est en septembre.
+le collège | middle school | m | Mon fils entre au collège.
+le baccalauréat | high-school diploma | m | Elle passe le baccalauréat.
+la licence | bachelor's degree | f | J'ai une licence d'histoire.
+la bourse | scholarship, stock exchange | f | Il a obtenu une bourse.
+les frais | fees, costs | m | Les frais d'inscription sont élevés.
+l'inscription | enrolment | f | L'inscription est ouverte.
+le concours | competitive exam, contest | m | Elle prépare un concours.
+l'épreuve | test, ordeal | f | L'épreuve dure trois heures.
+la moyenne | average, pass mark | f | J'ai eu la moyenne.
+échouer | to fail | v | Il a échoué à l'examen.
+tricher | to cheat | v | Il a triché pendant le test.
+la connaissance | knowledge, acquaintance | f | Il a de bonnes connaissances.
+la recherche | research, search | f | Elle fait de la recherche.
+le mémoire | dissertation | m | J'écris mon mémoire.
+la thèse | thesis | f | Il prépare une thèse.
+l'exposé | presentation | m | Je fais un exposé demain.
+le brouillon | draft | m | Écris d'abord un brouillon.
+la rédaction | essay, writing | f | J'ai une rédaction à faire.
+résumer | to summarise | v | Résume le texte en dix lignes.
+prendre des notes | to take notes | phr | Je prends des notes en cours.
+par cœur | by heart | phr | Je connais ce poème par cœur.
+la faute | mistake, fault | f | J'ai fait une faute.
+corriger | to correct | v | Le professeur corrige les copies.
+progresser | to make progress | v | Tu as bien progressé.
+s'améliorer | to improve | v | Mon français s'améliore.
+la méthode | method | f | J'ai une bonne méthode.
+l'effort | effort | m | Fais un effort !
+se concentrer | to concentrate | v | Je n'arrive pas à me concentrer.
+doué | gifted | adj | Elle est douée pour les langues.
+bilingue | bilingual | adj | Il est bilingue.
+la langue maternelle | mother tongue | f | Ma langue maternelle est le persan.
+l'accent | accent | m | Tu as un bon accent.
+prononcer | to pronounce | v | Comment prononcer ce mot ?
+traduire | to translate | v | Je traduis le texte.
+la traduction | translation | f | La traduction est correcte.
+couramment | fluently | adv | Elle parle couramment anglais.
+
+## relationships | Relationships & emotions | ❤️
+la relation | relationship | f | Nous avons une bonne relation.
+le couple | couple | m | C'est un couple heureux.
+le mariage | wedding, marriage | m | Le mariage est en juin.
+se marier | to get married | v | Ils se marient en été.
+divorcer | to divorce | v | Ses parents ont divorcé.
+se séparer | to split up | v | Ils se sont séparés.
+tomber amoureux | to fall in love | phr | Il est tombé amoureux d'elle.
+s'entendre | to get along | v | Je m'entends bien avec lui.
+se disputer | to argue | v | Ils se disputent souvent.
+se réconcilier | to make up | v | Ils se sont réconciliés.
+la confiance | trust, confidence | f | J'ai confiance en toi.
+faire confiance | to trust | phr | Je te fais confiance.
+mentir | to lie | v | Il m'a menti.
+le mensonge | lie | m | C'est un mensonge.
+la vérité | truth | f | Dis-moi la vérité.
+tromper | to deceive, to cheat on | v | Il a trompé sa femme.
+pardonner | to forgive | v | Je te pardonne.
+soutenir | to support | v | Mes amis me soutiennent.
+le soutien | support | m | Merci pour ton soutien.
+encourager | to encourage | v | Elle m'encourage toujours.
+embrasser | to kiss | v | Il embrasse sa mère.
+le sentiment | feeling | m | J'ai un sentiment bizarre.
+l'émotion | emotion | f | Il cache ses émotions.
+le bonheur | happiness | m | Je te souhaite du bonheur.
+la tristesse | sadness | f | Je comprends ta tristesse.
+la honte | shame | f | J'ai honte de moi.
+la fierté | pride | f | C'est une grande fierté.
+la jalousie | jealousy | f | La jalousie détruit tout.
+l'amitié | friendship | f | Notre amitié est solide.
+la solitude | loneliness | f | Il souffre de la solitude.
+le chagrin | sorrow | m | Elle a du chagrin.
+l'espoir | hope | m | Il y a encore de l'espoir.
+le regret | regret | m | Je n'ai aucun regret.
+regretter | to regret, to miss | v | Je regrette mes paroles.
+soulagé | relieved | adj | Je suis soulagé.
+ému | moved (emotionally) | adj | J'étais très ému.
+gêné | embarrassed | adj | Je suis un peu gêné.
+vexé | offended | adj | Il est vexé.
+reconnaissant | grateful | adj | Je te suis reconnaissant.
+sensible | sensitive | adj | Elle est très sensible.
+égoïste | selfish | adj | Ne sois pas égoïste.
+fidèle | faithful | adj | C'est un ami fidèle.
+avoir le moral | to be in good spirits | phr | Je n'ai pas le moral aujourd'hui.
+en avoir marre | to be fed up | phr | J'en ai marre de ce bruit.
+
+## wellbeing | Health & well-being | 🧘
+le bien-être | well-being | m | Le sport est bon pour le bien-être.
+l'alimentation | diet, food | f | Une alimentation équilibrée.
+équilibré | balanced | adj | Je mange équilibré.
+sain | healthy | adj | C'est un mode de vie sain.
+le mode de vie | lifestyle | m | Il a changé son mode de vie.
+la fatigue | tiredness | f | La fatigue s'accumule.
+le stress | stress | m | Le stress est mauvais pour la santé.
+l'angoisse | anxiety | f | J'ai des crises d'angoisse.
+la dépression | depression | f | Il souffre de dépression.
+souffrir | to suffer | v | Elle souffre du dos.
+le symptôme | symptom | m | Quels sont vos symptômes ?
+le traitement | treatment | m | Le traitement dure un mois.
+la consultation | consultation | f | La consultation coûte 25 euros.
+le généraliste | general practitioner | m | Je vais voir mon généraliste.
+le chirurgien | surgeon | m | Le chirurgien l'a opéré.
+opérer | to operate | v | On l'a opéré du genou.
+l'opération | operation | f | L'opération s'est bien passée.
+la piqûre | injection, sting | f | L'infirmière me fait une piqûre.
+le vaccin | vaccine | m | Le vaccin est gratuit.
+le pansement | bandage, plaster | m | Mets un pansement.
+l'allergie | allergy | f | J'ai une allergie au pollen.
+allergique | allergic | adj | Je suis allergique aux noix.
+la sécurité sociale | social security | f | La sécurité sociale rembourse.
+la mutuelle | health insurance | f | Ma mutuelle est chère.
+le handicap | disability | m | Il vit avec un handicap.
+le tabac | tobacco | m | Le tabac est dangereux.
+la drogue | drug | f | La drogue détruit des vies.
+l'alcool | alcohol | m | Je ne bois pas d'alcool.
+la dépendance | addiction, dependence | f | Il lutte contre sa dépendance.
+le poids | weight | m | J'ai pris du poids.
+les courbatures | aches, stiffness | f | J'ai des courbatures après le sport.
+s'évanouir | to faint | v | Elle s'est évanouie.
+vomir | to vomit | v | J'ai envie de vomir.
+avoir le vertige | to feel dizzy | phr | J'ai le vertige en haut.
+se soigner | to treat oneself | v | Il faut te soigner.
+prévenir | to prevent, to warn | v | Mieux vaut prévenir que guérir.
+la prévention | prevention | f | La prévention est essentielle.
+le sommeil réparateur | restful sleep | m | J'ai besoin d'un sommeil réparateur.
+se relaxer | to relax | v | Je me relaxe en lisant.
+méditer | to meditate | v | Je médite chaque matin.
+
+## environment | Environment | 🌍
+l'environnement | environment | m | Il faut protéger l'environnement.
+la pollution | pollution | f | La pollution augmente.
+polluer | to pollute | v | Les voitures polluent l'air.
+le réchauffement climatique | global warming | m | Le réchauffement climatique s'accélère.
+le changement climatique | climate change | m | Le changement climatique est un défi.
+la planète | planet | f | Il faut sauver la planète.
+les déchets | waste, rubbish | m | Nous produisons trop de déchets.
+recycler | to recycle | v | Je recycle le verre.
+le recyclage | recycling | m | Le recyclage est important.
+trier | to sort | v | Je trie mes déchets.
+gaspiller | to waste | v | Ne gaspille pas l'eau.
+le gaspillage | waste (wasting) | m | Le gaspillage alimentaire est énorme.
+l'énergie | energy | f | Il faut économiser l'énergie.
+renouvelable | renewable | adj | Les énergies renouvelables.
+l'électricité | electricity | f | L'électricité coûte cher.
+le pétrole | oil (petroleum) | m | Le prix du pétrole augmente.
+le gaz | gas | m | Nous nous chauffons au gaz.
+le charbon | coal | m | Le charbon pollue beaucoup.
+le nucléaire | nuclear power | m | Le débat sur le nucléaire continue.
+la ressource | resource | f | L'eau est une ressource précieuse.
+protéger | to protect | v | Il faut protéger les forêts.
+détruire | to destroy | v | L'incendie a détruit la forêt.
+disparaître | to disappear | v | Cette espèce va disparaître.
+l'espèce | species | f | C'est une espèce menacée.
+menacer | to threaten | v | La pollution menace les océans.
+la sécheresse | drought | f | La sécheresse dure depuis des mois.
+l'inondation | flood | f | Les inondations ont fait des dégâts.
+l'incendie | fire | m | Un incendie a détruit l'usine.
+la tempête | storm | f | La tempête arrive.
+le tremblement de terre | earthquake | m | Il y a eu un tremblement de terre.
+la catastrophe | disaster | f | C'est une catastrophe naturelle.
+les dégâts | damage | m | Les dégâts sont importants.
+durable | sustainable, lasting | adj | Le développement durable.
+bio | organic | adj | J'achète des légumes bio.
+écologique | ecological, green | adj | C'est un produit écologique.
+le covoiturage | car sharing | m | Je fais du covoiturage.
+les transports en commun | public transport | m | Je prends les transports en commun.
+la couche d'ozone | ozone layer | f | La couche d'ozone se reconstitue.
+l'effet de serre | greenhouse effect | m | Les gaz à effet de serre.
+la biodiversité | biodiversity | f | La biodiversité est en danger.
+
+## culture | Media & culture | 🎬
+la culture | culture | f | J'aime la culture française.
+l'œuvre | work (of art) | f | C'est une œuvre magnifique.
+le chef-d'œuvre | masterpiece | m | Ce film est un chef-d'œuvre.
+l'écrivain | writer | m | C'est un écrivain célèbre.
+l'auteur | author | m | Qui est l'auteur de ce livre ?
+le réalisateur | film director | m | Le réalisateur a gagné un prix.
+l'acteur | actor | m | Mon acteur préféré.
+le personnage | character | m | Le personnage principal est une femme.
+l'intrigue | plot | f | L'intrigue est compliquée.
+la scène | scene, stage | f | Cette scène est très drôle.
+le rôle | role | m | Il joue le rôle du père.
+le tournage | filming | m | Le tournage a duré trois mois.
+le court-métrage | short film | m | J'ai vu un court-métrage.
+le dessin animé | cartoon | m | Les enfants regardent un dessin animé.
+la bande dessinée | comic book | f | J'adore les bandes dessinées.
+la bande-annonce | trailer | f | Tu as vu la bande-annonce ?
+les sous-titres | subtitles | m | Je regarde avec les sous-titres.
+la version originale | original version | f | Je préfère la version originale.
+le public | audience, public | m | Le public a applaudi.
+le spectateur | spectator, viewer | m | Les spectateurs étaient ravis.
+applaudir | to applaud | v | Tout le monde a applaudi.
+le succès | success | m | Le film a eu du succès.
+l'échec | failure | m | Le film a été un échec.
+la critique | review, criticism | f | Les critiques sont bonnes.
+le prix littéraire | literary prize | m | Elle a reçu un prix littéraire.
+le tableau | painting, board | m | J'aime ce tableau.
+le peintre | painter | m | Monet est un grand peintre.
+la sculpture | sculpture | f | Une sculpture en bronze.
+le patrimoine | heritage | m | Ce château fait partie du patrimoine.
+le festival | festival | m | Le festival de Cannes.
+la tournée | tour | f | Le groupe est en tournée.
+le groupe | band, group | m | C'est mon groupe préféré.
+enregistrer un album | to record an album | phr | Ils enregistrent un album.
+le reportage | report (news) | m | J'ai vu un reportage sur l'Afrique.
+le documentaire | documentary | m | Un documentaire sur les océans.
+le présentateur | presenter, host | m | Le présentateur est très connu.
+diffuser | to broadcast | v | Le match est diffusé en direct.
+en direct | live | phr | L'émission est en direct.
+le titre | title, headline | m | Quel est le titre du film ?
+la une | front page | f | C'est à la une des journaux.
+célèbre | famous | adj | C'est un chanteur célèbre.
+émouvant | moving | adj | Ce film est très émouvant.
+
+## cityservices | City life & services | 🏛️
+la mairie | town hall | f | Je vais à la mairie.
+le maire | mayor | m | Le maire a parlé.
+l'habitant | inhabitant | m | La ville a dix mille habitants.
+le citoyen | citizen | m | Tous les citoyens peuvent voter.
+la banlieue | suburbs | f | J'habite en banlieue.
+le centre-ville | city centre | m | Le centre-ville est piéton.
+le trottoir | pavement | m | Marche sur le trottoir.
+le carrefour | crossroads | m | Tournez au carrefour.
+le rond-point | roundabout | m | Au rond-point, prenez la deuxième sortie.
+la circulation | traffic | f | Il y a beaucoup de circulation.
+les heures de pointe | rush hour | f | J'évite les heures de pointe.
+le piéton | pedestrian | m | Attention aux piétons.
+l'amende | fine | f | J'ai reçu une amende.
+le commissariat | police station | m | Je vais au commissariat.
+le policier | police officer | m | Le policier m'a arrêté.
+le pompier | firefighter | m | Les pompiers sont arrivés vite.
+le vol à la tire | pickpocketing | m | Attention au vol à la tire.
+voler | to steal, to fly | v | On m'a volé mon portefeuille.
+le portefeuille | wallet | m | J'ai perdu mon portefeuille.
+porter plainte | to file a complaint | phr | J'ai porté plainte.
+le guichet | counter, ticket office | m | Adressez-vous au guichet.
+le formulaire | form | m | Remplissez ce formulaire.
+remplir | to fill in, to fill | v | Je remplis le formulaire.
+la signature | signature | f | Il manque votre signature.
+signer | to sign | v | Signez ici.
+la pièce d'identité | ID | f | Avez-vous une pièce d'identité ?
+le justificatif de domicile | proof of address | m | Il faut un justificatif de domicile.
+le titre de séjour | residence permit | m | Je renouvelle mon titre de séjour.
+les impôts | taxes | m | Je paie mes impôts.
+l'assurance | insurance | f | J'ai une assurance habitation.
+le courrier | mail | m | Tu as du courrier.
+le timbre | stamp | m | Il me faut un timbre.
+l'abonnement | subscription, pass | m | J'ai un abonnement de métro.
+les travaux | roadworks, building work | m | La rue est fermée pour travaux.
+l'espace vert | green space | m | Il manque des espaces verts.
+la piste cyclable | cycle lane | f | Il y a une piste cyclable.
+le voisinage | neighbourhood | m | Le voisinage est agréable.
+animé | lively | adj | C'est un quartier animé.
+la zone piétonne | pedestrian area | f | La zone piétonne est agréable.
+le sans-abri | homeless person | m | Il aide les sans-abri.
+
+## experiences | Travel & experiences | 🧭
+l'aventure | adventure | f | C'est une belle aventure.
+découvrir | to discover | v | J'ai découvert un petit village.
+la découverte | discovery | f | Quelle belle découverte !
+le dépaysement | change of scene | m | J'ai besoin de dépaysement.
+l'itinéraire | route, itinerary | m | On prépare l'itinéraire.
+l'étape | stage, stopover | f | Lyon est la première étape.
+le trajet | journey, trip | m | Le trajet dure deux heures.
+le décalage horaire | time difference, jet lag | m | Je souffre du décalage horaire.
+atterrir | to land | v | L'avion atterrit à midi.
+décoller | to take off | v | L'avion décolle dans dix minutes.
+l'escale | stopover | f | On fait escale à Montréal.
+embarquer | to board | v | Nous embarquons porte 12.
+la croisière | cruise | f | Ils font une croisière.
+le paysage urbain | cityscape | m | J'aime ce paysage urbain.
+le site touristique | tourist site | m | C'est un site touristique connu.
+le monument | monument | m | On visite les monuments.
+le château | castle | m | Le château date du Moyen Âge.
+l'église | church | f | L'église est très ancienne.
+la cathédrale | cathedral | f | La cathédrale est magnifique.
+la vue | view | f | La vue est superbe.
+l'hébergement | accommodation | m | L'hébergement est compris.
+la chambre d'hôtes | bed and breakfast | f | On dort dans une chambre d'hôtes.
+la demi-pension | half board | f | Nous avons pris la demi-pension.
+le dépliant | leaflet | m | Prenez un dépliant à l'accueil.
+la spécialité | speciality | f | C'est la spécialité de la région.
+goûter à | to try (food) | phr | Il faut goûter à ce fromage.
+l'accueil | welcome, reception | m | L'accueil était chaleureux.
+accueillir | to welcome | v | Ils nous ont bien accueillis.
+chaleureux | warm, friendly | adj | Les gens sont chaleureux.
+dépaysant | exotic, different | adj | C'est un pays très dépaysant.
+inoubliable | unforgettable | adj | Un voyage inoubliable.
+pittoresque | picturesque | adj | Un village pittoresque.
+bondé | packed, crowded | adj | Le train était bondé.
+l'imprévu | unexpected event | m | Il y a toujours des imprévus.
+annuler | to cancel | v | Le vol est annulé.
+reporter | to postpone | v | La réunion est reportée.
+profiter de | to make the most of | phr | Profite de tes vacances !
+faire du stop | to hitchhike | phr | On a fait du stop.
+se débrouiller | to manage, to get by | v | Je me débrouille en espagnol.
+s'habituer | to get used to | v | Je m'habitue au climat.
+
+## consumption | Money & consumption | 💶
+le budget | budget | m | J'ai un petit budget.
+les revenus | income | m | Ses revenus sont modestes.
+la dépense | expense | f | Les dépenses augmentent.
+les économies | savings | f | J'ai quelques économies.
+épargner | to save (money) | v | J'épargne chaque mois.
+le prêt bancaire | bank loan | m | J'ai un prêt bancaire à rembourser.
+la dette | debt | f | Il a beaucoup de dettes.
+les intérêts | interest (money) | m | Les intérêts sont élevés.
+le virement | bank transfer | m | Je fais un virement.
+le chèque | cheque | m | Vous acceptez les chèques ?
+le découvert | overdraft | m | Je suis à découvert.
+le pouvoir d'achat | purchasing power | m | Le pouvoir d'achat baisse.
+la hausse | rise | f | La hausse des prix inquiète.
+la baisse | drop, fall | f | Une baisse des salaires.
+augmenter | to increase | v | Les loyers augmentent.
+baisser | to lower, to drop | v | Les prix ont baissé.
+le coût de la vie | cost of living | m | Le coût de la vie est élevé.
+élevé | high | adj | Les prix sont élevés.
+abordable | affordable | adj | C'est un prix abordable.
+le consommateur | consumer | m | Les consommateurs sont inquiets.
+la consommation | consumption | f | Notre consommation d'eau baisse.
+consommer | to consume | v | Nous consommons trop.
+le produit | product | m | C'est un produit local.
+la garantie | guarantee | f | Il y a une garantie de deux ans.
+la promotion en magasin | special offer | f | Il y a une promotion en magasin.
+le rabais | discount | m | J'ai eu un rabais.
+marchander | to haggle | v | Au marché, on peut marchander.
+la livraison | delivery | f | La livraison est gratuite.
+le remboursement | refund | m | Je demande un remboursement.
+la réclamation | complaint | f | Je fais une réclamation.
+se faire avoir | to get ripped off | phr | Je me suis fait avoir.
+l'arnaque | scam | f | C'est une arnaque !
+le luxe | luxury | m | C'est un produit de luxe.
+le besoin | need | m | C'est un besoin réel.
+se permettre | to afford | v | Je ne peux pas me le permettre.
+valoir | to be worth | v | Ça vaut cent euros.
+ça vaut le coup | it's worth it | phr | Ça vaut le coup d'essayer.
+rentable | profitable | adj | Ce n'est pas rentable.
+radin | stingy | adj | Il est un peu radin.
+fauché | broke | adj | Je suis fauché ce mois-ci.
+
+## thinking | Thinking & doing verbs | 🧠
+réfléchir | to think, to reflect | v | Je dois réfléchir.
+se rendre compte | to realise | phr | Je me rends compte de mon erreur.
+s'apercevoir | to notice | v | Je me suis aperçu qu'il mentait.
+remarquer | to notice | v | Tu as remarqué quelque chose ?
+se demander | to wonder | v | Je me demande pourquoi.
+deviner | to guess | v | Devine qui est là !
+imaginer | to imagine | v | Imagine la scène.
+rêver | to dream | v | Je rêve de voyager.
+envisager | to consider | v | J'envisage de déménager.
+hésiter | to hesitate | v | J'hésite entre les deux.
+avoir l'intention de | to intend to | phr | J'ai l'intention de partir.
+compter | to count, to intend | v | Je compte rester un mois.
+tenter | to attempt, to tempt | v | Je vais tenter ma chance.
+réussir à | to manage to | phr | J'ai réussi à le convaincre.
+arriver à | to manage to | phr | Je n'arrive pas à dormir.
+parvenir | to reach, to succeed | v | Il est parvenu à ses fins.
+éviter | to avoid | v | J'évite le sucre.
+empêcher | to prevent | v | Le bruit m'empêche de dormir.
+obliger | to force | v | Rien ne t'oblige à venir.
+conseiller | to advise | v | Je te conseille ce film.
+prévenir quelqu'un | to let someone know | phr | Préviens-moi quand tu arrives.
+avertir | to warn | v | Je t'avais averti.
+rassurer | to reassure | v | Ça me rassure.
+déranger | to disturb | v | Je ne te dérange pas ?
+gêner | to bother | v | Le bruit me gêne.
+énerver | to annoy | v | Ça m'énerve !
+plaire | to please | v | Ce film m'a beaucoup plu.
+manquer de | to lack | phr | Je manque de temps.
+profiter | to enjoy, to benefit | v | Il faut en profiter.
+s'occuper de | to take care of | phr | Je m'occupe des enfants.
+se servir de | to use | phr | Je me sers de ton stylo.
+s'attendre à | to expect | phr | Je ne m'attendais pas à ça.
+avoir lieu | to take place | phr | Le concert a lieu samedi.
+faire semblant | to pretend | phr | Il fait semblant de dormir.
+faire exprès | to do on purpose | phr | Je ne l'ai pas fait exprès.
+mériter | to deserve | v | Tu mérites des vacances.
+appartenir | to belong | v | Ce livre m'appartient.
+dépendre | to depend | v | Tout dépend de toi.
+concerner | to concern | v | Ça ne me concerne pas.
+résoudre | to solve | v | J'ai résolu le problème.
+améliorer | to improve | v | Je veux améliorer mon français.
+réaliser | to carry out, to realise | v | Il a réalisé son rêve.
+atteindre | to reach | v | J'ai atteint mon objectif.
+obtenir | to obtain | v | J'ai obtenu mon visa.
+
+## idioms | Everyday expressions | 🗣️
+ça marche | okay, that works | phr | On se voit à huit heures ? — Ça marche !
+ça m'est égal | I don't mind | phr | Thé ou café ? — Ça m'est égal.
+ça ne fait rien | it doesn't matter | phr | Désolé ! — Ça ne fait rien.
+n'importe quoi | nonsense, anything | phr | Tu dis n'importe quoi !
+n'importe qui | anyone | phr | N'importe qui peut le faire.
+n'importe où | anywhere | phr | Pose ça n'importe où.
+quand même | still, anyway | adv | Il pleut, mais je sors quand même.
+tout à fait | absolutely, quite | adv | Je suis tout à fait d'accord.
+pas du tout | not at all | adv | Ça ne me dérange pas du tout.
+tout de suite | right away | adv | J'arrive tout de suite.
+tout à l'heure | in a moment, a moment ago | adv | À tout à l'heure !
+en tout cas | in any case | adv | En tout cas, merci.
+au fait | by the way | adv | Au fait, tu as appelé Marie ?
+bref | in short | adv | Bref, c'était génial.
+du coup | so, as a result | adv | J'ai raté le bus, du coup je suis en retard.
+en même temps | at the same time | adv | Je ne peux pas tout faire en même temps.
+au moins | at least | adv | Il y avait au moins cent personnes.
+à peine | hardly, barely | adv | Je le connais à peine.
+à peu près | roughly | adv | Il y a à peu près une heure.
+par hasard | by chance | adv | Je l'ai rencontré par hasard.
+exprès | on purpose | adv | Tu l'as fait exprès ?
+avoir hâte | to look forward to | phr | J'ai hâte de te voir.
+avoir de la chance | to be lucky | phr | Tu as de la chance.
+avoir du mal à | to have trouble | phr | J'ai du mal à comprendre.
+avoir l'air | to look, to seem | phr | Tu as l'air fatigué.
+faire attention | to be careful | phr | Fais attention à la marche.
+faire la queue | to queue | phr | On fait la queue depuis une heure.
+faire la grasse matinée | to have a lie-in | phr | Dimanche, je fais la grasse matinée.
+faire la tête | to sulk | phr | Pourquoi tu fais la tête ?
+prendre son temps | to take one's time | phr | Prends ton temps.
+passer un coup de fil | to make a phone call | phr | Je te passe un coup de fil ce soir.
+donner un coup de main | to give a hand | phr | Tu peux me donner un coup de main ?
+tomber en panne | to break down | phr | La voiture est tombée en panne.
+être en train de | to be in the middle of | phr | Je suis en train de manger.
+venir de | to have just | phr | Je viens d'arriver.
+se mettre à | to start | phr | Il s'est mis à pleuvoir.
+ça y est | that's it, done | phr | Ça y est, j'ai fini !
+c'est pas grave | it's no big deal | phr | Tu as oublié ? C'est pas grave.
+laisse tomber | forget it, drop it | phr | Laisse tomber, ce n'est pas important.
+c'est dommage | it's a pity | phr | Tu ne viens pas ? C'est dommage.
+ça suffit | that's enough | phr | Ça suffit, arrêtez !
+il vaut mieux | it's better to | phr | Il vaut mieux partir tôt.
+on verra | we'll see | phr | On verra demain.
+je t'en prie | you're welcome, please do | phr | Merci ! — Je t'en prie.
+ça me dit | I feel like it, sounds good | phr | Un ciné ce soir ? — Oui, ça me dit !
+ça tombe bien | that's good timing | phr | Tu es libre ? Ça tombe bien, moi aussi.

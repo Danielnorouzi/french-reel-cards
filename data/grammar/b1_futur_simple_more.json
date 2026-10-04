@@ -1,0 +1,485 @@
+{
+  "texts": [],
+  "questions": [
+    {
+      "id": "b1-futur_simple-051",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "futur_simple",
+      "question": "Complète au futur simple : Demain, je ___ à la maison toute la journée.",
+      "options": [
+        "serai",
+        "serais",
+        "suis",
+        "étais"
+      ],
+      "answer": 0,
+      "explanation": "Irregular future stem: serai. The endings are always -ai, -as, -a, -ons, -ez, -ont.",
+      "textId": null
+    },
+    {
+      "id": "b1-futur_simple-052",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "futur_simple",
+      "question": "Complète au futur simple : Tu ___ le temps de m’aider ce soir ?",
+      "options": [
+        "aurais",
+        "auras",
+        "as",
+        "avais"
+      ],
+      "answer": 1,
+      "explanation": "Irregular future stem: auras. The endings are always -ai, -as, -a, -ons, -ez, -ont.",
+      "textId": null
+    },
+    {
+      "id": "b1-futur_simple-053",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "futur_simple",
+      "question": "Complète au futur simple : L’année prochaine, elle ___ au Japon.",
+      "options": [
+        "irait",
+        "va",
+        "ira",
+        "allait"
+      ],
+      "answer": 2,
+      "explanation": "Irregular future stem: ira. The endings are always -ai, -as, -a, -ons, -ez, -ont.",
+      "textId": null
+    },
+    {
+      "id": "b1-futur_simple-054",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "futur_simple",
+      "question": "Complète au futur simple : Nous ___ un gâteau pour ton anniversaire.",
+      "options": [
+        "ferions",
+        "faisons",
+        "faisions",
+        "ferons"
+      ],
+      "answer": 3,
+      "explanation": "Irregular future stem: ferons. The endings are always -ai, -as, -a, -ons, -ez, -ont.",
+      "textId": null
+    },
+    {
+      "id": "b1-futur_simple-055",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "futur_simple",
+      "question": "Complète au futur simple : Vous ___ nous voir cet été ?",
+      "options": [
+        "viendrez",
+        "viendriez",
+        "venez",
+        "veniez"
+      ],
+      "answer": 0,
+      "explanation": "Irregular future stem: viendrez. The endings are always -ai, -as, -a, -ons, -ez, -ont.",
+      "textId": null
+    },
+    {
+      "id": "b1-futur_simple-056",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "futur_simple",
+      "question": "Complète au futur simple : Ils ___ le résultat demain.",
+      "options": [
+        "verraient",
+        "verront",
+        "voient",
+        "voyaient"
+      ],
+      "answer": 1,
+      "explanation": "Irregular future stem: verront. The endings are always -ai, -as, -a, -ons, -ez, -ont.",
+      "textId": null
+    },
+    {
+      "id": "b1-futur_simple-057",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "futur_simple",
+      "question": "Complète au futur simple : Je ne ___ pas venir samedi.",
+      "options": [
+        "pourrais",
+        "peux",
+        "pourrai",
+        "pouvais"
+      ],
+      "answer": 2,
+      "explanation": "Irregular future stem: pourrai. The endings are always -ai, -as, -a, -ons, -ez, -ont.",
+      "textId": null
+    },
+    {
+      "id": "b1-futur_simple-058",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "futur_simple",
+      "question": "Complète au futur simple : Un jour, tu ___ comprendre.",
+      "options": [
+        "voudrais",
+        "veux",
+        "voulais",
+        "voudras"
+      ],
+      "answer": 3,
+      "explanation": "Irregular future stem: voudras. The endings are always -ai, -as, -a, -ons, -ez, -ont.",
+      "textId": null
+    },
+    {
+      "id": "b1-futur_simple-059",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "futur_simple",
+      "question": "Complète au futur simple : Il ___ partir avant midi.",
+      "options": [
+        "devra",
+        "devrait",
+        "doit",
+        "devait"
+      ],
+      "answer": 0,
+      "explanation": "Irregular future stem: devra. The endings are always -ai, -as, -a, -ons, -ez, -ont.",
+      "textId": null
+    },
+    {
+      "id": "b1-futur_simple-060",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "futur_simple",
+      "question": "Complète au futur simple : Nous ___ bientôt la vérité.",
+      "options": [
+        "saurions",
+        "saurons",
+        "savons",
+        "savions"
+      ],
+      "answer": 1,
+      "explanation": "Irregular future stem: saurons. The endings are always -ai, -as, -a, -ons, -ez, -ont.",
+      "textId": null
+    },
+    {
+      "id": "b1-futur_simple-061",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "futur_simple",
+      "question": "Complète au futur simple : Il ___ réserver une table.",
+      "options": [
+        "faudrait",
+        "faut",
+        "faudra",
+        "fallait"
+      ],
+      "answer": 2,
+      "explanation": "Irregular future stem: faudra. The endings are always -ai, -as, -a, -ons, -ez, -ont.",
+      "textId": null
+    },
+    {
+      "id": "b1-futur_simple-062",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "futur_simple",
+      "question": "Complète au futur simple : Je t’___ un message en arrivant.",
+      "options": [
+        "enverrais",
+        "envoie",
+        "envoyais",
+        "enverrai"
+      ],
+      "answer": 3,
+      "explanation": "Irregular future stem: enverrai. The endings are always -ai, -as, -a, -ons, -ez, -ont.",
+      "textId": null
+    },
+    {
+      "id": "b1-futur_simple-063",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "futur_simple",
+      "question": "Complète au futur simple : Demain, il ___ toute la journée.",
+      "options": [
+        "pleuvra",
+        "pleuvrait",
+        "pleut",
+        "pleuvait"
+      ],
+      "answer": 0,
+      "explanation": "Irregular future stem: pleuvra. The endings are always -ai, -as, -a, -ons, -ez, -ont.",
+      "textId": null
+    },
+    {
+      "id": "b1-futur_simple-064",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "futur_simple",
+      "question": "Complète au futur simple : Elle ___ son diplôme en juin.",
+      "options": [
+        "recevrait",
+        "recevra",
+        "reçoit",
+        "recevait"
+      ],
+      "answer": 1,
+      "explanation": "Irregular future stem: recevra. The endings are always -ai, -as, -a, -ons, -ez, -ont.",
+      "textId": null
+    },
+    {
+      "id": "b1-futur_simple-065",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "futur_simple",
+      "question": "Complète au futur simple : Nous ___ très tôt demain matin.",
+      "options": [
+        "partirions",
+        "partons",
+        "partirons",
+        "partions"
+      ],
+      "answer": 2,
+      "explanation": "Partir is regular in the future: infinitive + endings → nous partirons.",
+      "textId": null
+    },
+    {
+      "id": "b1-futur_simple-066",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "futur_simple",
+      "question": "Quand tu ___ à la gare, je viendrai te chercher.",
+      "options": [
+        "arrives",
+        "arriverais",
+        "es arrivé",
+        "arriveras"
+      ],
+      "answer": 3,
+      "explanation": "After quand, lorsque, dès que and aussitôt que, French uses the future (not the present) when the action is in the future: quand tu arriveras.",
+      "textId": null
+    },
+    {
+      "id": "b1-futur_simple-067",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "futur_simple",
+      "question": "Je te le dirai quand je le ___.",
+      "options": [
+        "saurai",
+        "sais",
+        "saurais",
+        "savais"
+      ],
+      "answer": 0,
+      "explanation": "After quand, lorsque, dès que and aussitôt que, French uses the future (not the present) when the action is in the future: quand tu arriveras.",
+      "textId": null
+    },
+    {
+      "id": "b1-futur_simple-068",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "futur_simple",
+      "question": "Dès qu’il ___ beau, nous irons à la plage.",
+      "options": [
+        "fait",
+        "fera",
+        "ferait",
+        "faisait"
+      ],
+      "answer": 1,
+      "explanation": "After quand, lorsque, dès que and aussitôt que, French uses the future (not the present) when the action is in the future: quand tu arriveras.",
+      "textId": null
+    },
+    {
+      "id": "b1-futur_simple-069",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "futur_simple",
+      "question": "Quand je ___ grand, je serai médecin.",
+      "options": [
+        "suis",
+        "serais",
+        "serai",
+        "étais"
+      ],
+      "answer": 2,
+      "explanation": "After quand, lorsque, dès que and aussitôt que, French uses the future (not the present) when the action is in the future: quand tu arriveras.",
+      "textId": null
+    },
+    {
+      "id": "b1-futur_simple-070",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "futur_simple",
+      "question": "Lorsque vous ___ prêts, nous partirons.",
+      "options": [
+        "êtes",
+        "seriez",
+        "étiez",
+        "serez"
+      ],
+      "answer": 3,
+      "explanation": "After quand, lorsque, dès que and aussitôt que, French uses the future (not the present) when the action is in the future: quand tu arriveras.",
+      "textId": null
+    },
+    {
+      "id": "b1-futur_simple-071",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "futur_simple",
+      "question": "Si tu ___, je serai content.",
+      "options": [
+        "viens",
+        "viendras",
+        "viendrais",
+        "venais"
+      ],
+      "answer": 0,
+      "explanation": "After si (if), use the present, never the future. The result clause takes the future: si tu viens, je serai content.",
+      "textId": null
+    },
+    {
+      "id": "b1-futur_simple-072",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "futur_simple",
+      "question": "S’il ___ demain, nous resterons à la maison.",
+      "options": [
+        "pleuvra",
+        "pleut",
+        "pleuvrait",
+        "pleuvait"
+      ],
+      "answer": 1,
+      "explanation": "After si (if), use the present, never the future. The result clause takes the future: si tu viens, je serai content.",
+      "textId": null
+    },
+    {
+      "id": "b1-futur_simple-073",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "futur_simple",
+      "question": "Si vous étudiez, vous ___ l’examen.",
+      "options": [
+        "avez réussi",
+        "réussiriez",
+        "réussirez",
+        "réussissiez"
+      ],
+      "answer": 2,
+      "explanation": "After si (if), use the present, never the future. The result clause takes the future: si tu viens, je serai content.",
+      "textId": null
+    },
+    {
+      "id": "b1-futur_simple-074",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "futur_simple",
+      "question": "Si j’ai le temps, je ___ te voir.",
+      "options": [
+        "suis passé",
+        "passerais",
+        "passais",
+        "passerai"
+      ],
+      "answer": 3,
+      "explanation": "After si (if), use the present, never the future. The result clause takes the future: si tu viens, je serai content.",
+      "textId": null
+    },
+    {
+      "id": "b1-futur_simple-075",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "futur_simple",
+      "question": "Si nous ___ maintenant, nous arriverons à l’heure.",
+      "options": [
+        "partons",
+        "partirons",
+        "partirions",
+        "partions"
+      ],
+      "answer": 0,
+      "explanation": "After si (if), use the present, never the future. The result clause takes the future: si tu viens, je serai content.",
+      "textId": null
+    },
+    {
+      "id": "b1-futur_simple-076",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "futur_simple",
+      "question": "Complète au futur simple : Je ___ le train de huit heures.",
+      "options": [
+        "prenderai",
+        "prendrai",
+        "prendrais",
+        "prends"
+      ],
+      "answer": 1,
+      "explanation": "Verbs in -re drop the final e before the future endings: prendre → je prendrai. Here: prendrai.",
+      "textId": null
+    },
+    {
+      "id": "b1-futur_simple-077",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "futur_simple",
+      "question": "Complète au futur simple : Elle ___ sa voiture le mois prochain.",
+      "options": [
+        "vendera",
+        "vendrait",
+        "vendra",
+        "vend"
+      ],
+      "answer": 2,
+      "explanation": "Verbs in -re drop the final e before the future endings: prendre → je prendrai. Here: vendra.",
+      "textId": null
+    },
+    {
+      "id": "b1-futur_simple-078",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "futur_simple",
+      "question": "Complète au futur simple : Nous vous ___ demain.",
+      "options": [
+        "réponderons",
+        "répondrions",
+        "répondons",
+        "répondrons"
+      ],
+      "answer": 3,
+      "explanation": "Verbs in -re drop the final e before the future endings: prendre → je prendrai. Here: répondrons.",
+      "textId": null
+    },
+    {
+      "id": "b1-futur_simple-079",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "futur_simple",
+      "question": "Complète au futur simple : J’___ du pain en rentrant.",
+      "options": [
+        "achèterai",
+        "acheterai",
+        "achèterais",
+        "achète"
+      ],
+      "answer": 0,
+      "explanation": "Verbs like acheter, appeler, payer keep their spelling change in every person of the future: j’achèterai, j’appellerai, je paierai. Here: achèterai.",
+      "textId": null
+    },
+    {
+      "id": "b1-futur_simple-080",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "futur_simple",
+      "question": "Complète au futur simple : Je t’___ ce soir.",
+      "options": [
+        "appelerai",
+        "appellerai",
+        "appellerais",
+        "appelle"
+      ],
+      "answer": 1,
+      "explanation": "Verbs like acheter, appeler, payer keep their spelling change in every person of the future: j’achèterai, j’appellerai, je paierai. Here: appellerai.",
+      "textId": null
+    }
+  ]
+}

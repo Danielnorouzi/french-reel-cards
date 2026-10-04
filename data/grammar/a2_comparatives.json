@@ -1,0 +1,1285 @@
+{
+  "texts": [],
+  "questions": [
+    {
+      "id": "a2-comparatives-001",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "comparatives",
+      "question": "Paul a 20 ans, Luc a 18 ans. Paul est ___ âgé que Luc.",
+      "options": [
+        "plus",
+        "moins",
+        "aussi",
+        "autant"
+      ],
+      "answer": 0,
+      "explanation": "Plus + adjective / adverb + que = more … than.",
+      "textId": null
+    },
+    {
+      "id": "a2-comparatives-002",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "comparatives",
+      "question": "Paul a 20 ans, Luc a 18 ans. Luc est ___ âgé que Paul.",
+      "options": [
+        "plus",
+        "moins",
+        "aussi",
+        "autant"
+      ],
+      "answer": 1,
+      "explanation": "Moins + adjective / adverb + que = less … than.",
+      "textId": null
+    },
+    {
+      "id": "a2-comparatives-003",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "comparatives",
+      "question": "Léa mesure 1,70 m et Zoé aussi. Léa est ___ grande que Zoé.",
+      "options": [
+        "plus",
+        "moins",
+        "aussi",
+        "autant"
+      ],
+      "answer": 2,
+      "explanation": "Aussi + adjective / adverb + que = as … as.",
+      "textId": null
+    },
+    {
+      "id": "a2-comparatives-004",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "comparatives",
+      "question": "Le train roule à 300 km/h, la voiture à 130. Le train est ___ rapide que la voiture.",
+      "options": [
+        "moins",
+        "aussi",
+        "autant",
+        "plus"
+      ],
+      "answer": 3,
+      "explanation": "Plus + adjective / adverb + que = more … than.",
+      "textId": null
+    },
+    {
+      "id": "a2-comparatives-005",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "comparatives",
+      "question": "Ce pull coûte 20 euros, cette veste 80. Le pull est ___ cher que la veste.",
+      "options": [
+        "moins",
+        "plus",
+        "aussi",
+        "autant"
+      ],
+      "answer": 0,
+      "explanation": "Moins + adjective / adverb + que = less … than.",
+      "textId": null
+    },
+    {
+      "id": "a2-comparatives-006",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "comparatives",
+      "question": "En hiver, il fait ___ froid qu’en été.",
+      "options": [
+        "moins",
+        "plus",
+        "aussi",
+        "autant"
+      ],
+      "answer": 1,
+      "explanation": "Plus + adjective / adverb + que = more … than.",
+      "textId": null
+    },
+    {
+      "id": "a2-comparatives-007",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "comparatives",
+      "question": "En été, les journées sont ___ longues qu’en hiver.",
+      "options": [
+        "moins",
+        "aussi",
+        "plus",
+        "autant de"
+      ],
+      "answer": 2,
+      "explanation": "Plus + adjective / adverb + que = more … than.",
+      "textId": null
+    },
+    {
+      "id": "a2-comparatives-008",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "comparatives",
+      "question": "Un vélo est ___ rapide qu’un avion.",
+      "options": [
+        "plus",
+        "aussi",
+        "autant",
+        "moins"
+      ],
+      "answer": 3,
+      "explanation": "Moins + adjective / adverb + que = less … than.",
+      "textId": null
+    },
+    {
+      "id": "a2-comparatives-009",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "comparatives",
+      "question": "Un kilo de plumes est ___ lourd qu’un kilo de fer.",
+      "options": [
+        "aussi",
+        "plus",
+        "moins",
+        "autant de"
+      ],
+      "answer": 0,
+      "explanation": "Aussi + adjective / adverb + que = as … as.",
+      "textId": null
+    },
+    {
+      "id": "a2-comparatives-010",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "comparatives",
+      "question": "Une souris est ___ petite qu’un éléphant.",
+      "options": [
+        "moins",
+        "plus",
+        "aussi",
+        "autant"
+      ],
+      "answer": 1,
+      "explanation": "Plus + adjective / adverb + que = more … than.",
+      "textId": null
+    },
+    {
+      "id": "a2-comparatives-011",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "comparatives",
+      "question": "Marie est plus grande ___ sa sœur.",
+      "options": [
+        "de",
+        "comme",
+        "que",
+        "qu’"
+      ],
+      "answer": 2,
+      "explanation": "The second part of every comparison is introduced by que (qu’ before a vowel), never de or comme.",
+      "textId": null
+    },
+    {
+      "id": "a2-comparatives-012",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "comparatives",
+      "question": "Il est moins patient ___ moi.",
+      "options": [
+        "de",
+        "comme",
+        "à",
+        "que"
+      ],
+      "answer": 3,
+      "explanation": "The second part of every comparison is introduced by que (qu’ before a vowel), never de or comme.",
+      "textId": null
+    },
+    {
+      "id": "a2-comparatives-013",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "comparatives",
+      "question": "Ce film est aussi bon ___ le premier.",
+      "options": [
+        "que",
+        "de",
+        "comme",
+        "à"
+      ],
+      "answer": 0,
+      "explanation": "The second part of every comparison is introduced by que (qu’ before a vowel), never de or comme.",
+      "textId": null
+    },
+    {
+      "id": "a2-comparatives-014",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "comparatives",
+      "question": "Elle court plus vite ___ son frère.",
+      "options": [
+        "de",
+        "que",
+        "comme",
+        "à"
+      ],
+      "answer": 1,
+      "explanation": "The second part of every comparison is introduced by que (qu’ before a vowel), never de or comme.",
+      "textId": null
+    },
+    {
+      "id": "a2-comparatives-015",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "comparatives",
+      "question": "Il fait plus chaud ___ hier.",
+      "options": [
+        "que",
+        "de",
+        "qu’",
+        "comme"
+      ],
+      "answer": 2,
+      "explanation": "The second part of every comparison is introduced by que (qu’ before a vowel), never de or comme.",
+      "textId": null
+    },
+    {
+      "id": "a2-comparatives-016",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "comparatives",
+      "question": "Tu es aussi têtu ___ ton père !",
+      "options": [
+        "de",
+        "comme",
+        "à",
+        "que"
+      ],
+      "answer": 3,
+      "explanation": "The second part of every comparison is introduced by que (qu’ before a vowel), never de or comme.",
+      "textId": null
+    },
+    {
+      "id": "a2-comparatives-017",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "comparatives",
+      "question": "Ce quartier est plus calme ___ avant.",
+      "options": [
+        "qu’",
+        "que",
+        "de",
+        "comme"
+      ],
+      "answer": 0,
+      "explanation": "The second part of every comparison is introduced by que (qu’ before a vowel), never de or comme.",
+      "textId": null
+    },
+    {
+      "id": "a2-comparatives-018",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "comparatives",
+      "question": "Mon frère est plus jeune ___ moi.",
+      "options": [
+        "de",
+        "que",
+        "comme",
+        "qu’"
+      ],
+      "answer": 1,
+      "explanation": "The second part of every comparison is introduced by que (qu’ before a vowel), never de or comme.",
+      "textId": null
+    },
+    {
+      "id": "a2-comparatives-019",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "comparatives",
+      "question": "J’ai ___ travail que toi.",
+      "options": [
+        "plus",
+        "plus que",
+        "plus de",
+        "aussi"
+      ],
+      "answer": 2,
+      "explanation": "With a noun, use plus de, moins de, autant de … que.",
+      "textId": null
+    },
+    {
+      "id": "a2-comparatives-020",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "comparatives",
+      "question": "Il y a ___ voitures qu’avant dans cette rue.",
+      "options": [
+        "moins",
+        "moins que",
+        "aussi",
+        "moins de"
+      ],
+      "answer": 3,
+      "explanation": "With a noun, use plus de, moins de, autant de … que.",
+      "textId": null
+    },
+    {
+      "id": "a2-comparatives-021",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "comparatives",
+      "question": "Elle a ___ amis que son frère : ils en ont dix chacun.",
+      "options": [
+        "autant d’",
+        "aussi",
+        "autant",
+        "aussi d’"
+      ],
+      "answer": 0,
+      "explanation": "With a noun, use plus de, moins de, autant de … que.",
+      "textId": null
+    },
+    {
+      "id": "a2-comparatives-022",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "comparatives",
+      "question": "Nous avons ___ temps que vous.",
+      "options": [
+        "moins",
+        "moins de",
+        "moins que",
+        "aussi de"
+      ],
+      "answer": 1,
+      "explanation": "With a noun, use plus de, moins de, autant de … que.",
+      "textId": null
+    },
+    {
+      "id": "a2-comparatives-023",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "comparatives",
+      "question": "Tu manges ___ légumes que moi.",
+      "options": [
+        "plus",
+        "plus que",
+        "plus de",
+        "aussi"
+      ],
+      "answer": 2,
+      "explanation": "With a noun, use plus de, moins de, autant de … que.",
+      "textId": null
+    },
+    {
+      "id": "a2-comparatives-024",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "comparatives",
+      "question": "Il gagne ___ argent que sa femme : ils ont le même salaire.",
+      "options": [
+        "aussi",
+        "aussi d’",
+        "autant",
+        "autant d’"
+      ],
+      "answer": 3,
+      "explanation": "With a noun, use plus de, moins de, autant de … que.",
+      "textId": null
+    },
+    {
+      "id": "a2-comparatives-025",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "comparatives",
+      "question": "Il y a ___ touristes en été qu’en hiver.",
+      "options": [
+        "plus de",
+        "plus",
+        "plus que",
+        "aussi"
+      ],
+      "answer": 0,
+      "explanation": "With a noun, use plus de, moins de, autant de … que.",
+      "textId": null
+    },
+    {
+      "id": "a2-comparatives-026",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "comparatives",
+      "question": "Je bois ___ café qu’avant.",
+      "options": [
+        "moins",
+        "moins de",
+        "moins que",
+        "aussi de"
+      ],
+      "answer": 1,
+      "explanation": "With a noun, use plus de, moins de, autant de … que.",
+      "textId": null
+    },
+    {
+      "id": "a2-comparatives-027",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "comparatives",
+      "question": "Elle travaille ___ que moi.",
+      "options": [
+        "plus de",
+        "aussi de",
+        "plus",
+        "autant de"
+      ],
+      "answer": 2,
+      "explanation": "With a verb, the comparison goes after it: plus que, moins que, autant que.",
+      "textId": null
+    },
+    {
+      "id": "a2-comparatives-028",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "comparatives",
+      "question": "Il dort ___ que son frère.",
+      "options": [
+        "moins de",
+        "aussi",
+        "autant de",
+        "moins"
+      ],
+      "answer": 3,
+      "explanation": "With a verb, the comparison goes after it: plus que, moins que, autant que.",
+      "textId": null
+    },
+    {
+      "id": "a2-comparatives-029",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "comparatives",
+      "question": "Je lis ___ que toi : un livre par mois, comme toi.",
+      "options": [
+        "autant",
+        "aussi",
+        "autant de",
+        "aussi de"
+      ],
+      "answer": 0,
+      "explanation": "With a verb, the comparison goes after it: plus que, moins que, autant que.",
+      "textId": null
+    },
+    {
+      "id": "a2-comparatives-030",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "comparatives",
+      "question": "Tu parles ___ que moi !",
+      "options": [
+        "plus de",
+        "plus",
+        "aussi de",
+        "autant de"
+      ],
+      "answer": 1,
+      "explanation": "With a verb, the comparison goes after it: plus que, moins que, autant que.",
+      "textId": null
+    },
+    {
+      "id": "a2-comparatives-031",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "comparatives",
+      "question": "Il mange ___ qu’avant, il a perdu dix kilos.",
+      "options": [
+        "moins de",
+        "aussi",
+        "moins",
+        "autant de"
+      ],
+      "answer": 2,
+      "explanation": "With a verb, the comparison goes after it: plus que, moins que, autant que.",
+      "textId": null
+    },
+    {
+      "id": "a2-comparatives-032",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "comparatives",
+      "question": "Elle voyage ___ que nous : trois fois par an, comme nous.",
+      "options": [
+        "aussi",
+        "autant de",
+        "aussi de",
+        "autant"
+      ],
+      "answer": 3,
+      "explanation": "With a verb, the comparison goes after it: plus que, moins que, autant que.",
+      "textId": null
+    },
+    {
+      "id": "a2-comparatives-033",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "comparatives",
+      "question": "Ce gâteau est ___ que l’autre.",
+      "options": [
+        "meilleur",
+        "plus bon",
+        "mieux",
+        "plus bien"
+      ],
+      "answer": 0,
+      "explanation": "The comparative of bon (adjective) is meilleur, which agrees with the noun: meilleur, meilleure, meilleurs, meilleures. Never \"plus bon\".",
+      "textId": null
+    },
+    {
+      "id": "a2-comparatives-034",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "comparatives",
+      "question": "Cette pizza est ___ que la mienne.",
+      "options": [
+        "meilleur",
+        "meilleure",
+        "mieux",
+        "plus bonne"
+      ],
+      "answer": 1,
+      "explanation": "The comparative of bon (adjective) is meilleur, which agrees with the noun: meilleur, meilleure, meilleurs, meilleures. Never \"plus bon\".",
+      "textId": null
+    },
+    {
+      "id": "a2-comparatives-035",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "comparatives",
+      "question": "Ces pommes sont ___ que les autres.",
+      "options": [
+        "meilleurs",
+        "mieux",
+        "meilleures",
+        "plus bonnes"
+      ],
+      "answer": 2,
+      "explanation": "The comparative of bon (adjective) is meilleur, which agrees with the noun: meilleur, meilleure, meilleurs, meilleures. Never \"plus bon\".",
+      "textId": null
+    },
+    {
+      "id": "a2-comparatives-036",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "comparatives",
+      "question": "Les croissants d’ici sont ___ qu’à Paris.",
+      "options": [
+        "meilleures",
+        "mieux",
+        "plus bons",
+        "meilleurs"
+      ],
+      "answer": 3,
+      "explanation": "The comparative of bon (adjective) is meilleur, which agrees with the noun: meilleur, meilleure, meilleurs, meilleures. Never \"plus bon\".",
+      "textId": null
+    },
+    {
+      "id": "a2-comparatives-037",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "comparatives",
+      "question": "Le café italien est ___ que le café américain.",
+      "options": [
+        "meilleur",
+        "mieux",
+        "plus bon",
+        "meilleure"
+      ],
+      "answer": 0,
+      "explanation": "The comparative of bon (adjective) is meilleur, which agrees with the noun: meilleur, meilleure, meilleurs, meilleures. Never \"plus bon\".",
+      "textId": null
+    },
+    {
+      "id": "a2-comparatives-038",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "comparatives",
+      "question": "C’est une ___ idée que la mienne.",
+      "options": [
+        "meilleur",
+        "meilleure",
+        "mieux",
+        "plus bonne"
+      ],
+      "answer": 1,
+      "explanation": "The comparative of bon (adjective) is meilleur, which agrees with the noun: meilleur, meilleure, meilleurs, meilleures. Never \"plus bon\".",
+      "textId": null
+    },
+    {
+      "id": "a2-comparatives-039",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "comparatives",
+      "question": "Elle chante ___ que moi.",
+      "options": [
+        "meilleure",
+        "plus bien",
+        "mieux",
+        "meilleur"
+      ],
+      "answer": 2,
+      "explanation": "The comparative of bien (adverb) is mieux, which never changes. Never \"plus bien\".",
+      "textId": null
+    },
+    {
+      "id": "a2-comparatives-040",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "comparatives",
+      "question": "Tu parles français ___ que moi.",
+      "options": [
+        "meilleur",
+        "plus bien",
+        "plus bon",
+        "mieux"
+      ],
+      "answer": 3,
+      "explanation": "The comparative of bien (adverb) is mieux, which never changes. Never \"plus bien\".",
+      "textId": null
+    },
+    {
+      "id": "a2-comparatives-041",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "comparatives",
+      "question": "Je dors ___ depuis que je fais du sport.",
+      "options": [
+        "mieux",
+        "meilleur",
+        "plus bien",
+        "plus bon"
+      ],
+      "answer": 0,
+      "explanation": "The comparative of bien (adverb) is mieux, which never changes. Never \"plus bien\".",
+      "textId": null
+    },
+    {
+      "id": "a2-comparatives-042",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "comparatives",
+      "question": "Il cuisine ___ que sa mère.",
+      "options": [
+        "meilleur",
+        "mieux",
+        "plus bien",
+        "plus bon"
+      ],
+      "answer": 1,
+      "explanation": "The comparative of bien (adverb) is mieux, which never changes. Never \"plus bien\".",
+      "textId": null
+    },
+    {
+      "id": "a2-comparatives-043",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "comparatives",
+      "question": "Ça va ___ aujourd’hui ?",
+      "options": [
+        "meilleur",
+        "plus bien",
+        "mieux",
+        "plus bon"
+      ],
+      "answer": 2,
+      "explanation": "The comparative of bien (adverb) is mieux, which never changes. Never \"plus bien\".",
+      "textId": null
+    },
+    {
+      "id": "a2-comparatives-044",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "comparatives",
+      "question": "Tu comprends ___ maintenant ?",
+      "options": [
+        "meilleur",
+        "plus bien",
+        "meilleure",
+        "mieux"
+      ],
+      "answer": 3,
+      "explanation": "The comparative of bien (adverb) is mieux, which never changes. Never \"plus bien\".",
+      "textId": null
+    },
+    {
+      "id": "a2-comparatives-045",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "comparatives",
+      "question": "Je vois ___ avec mes lunettes.",
+      "options": [
+        "mieux",
+        "meilleur",
+        "plus bien",
+        "plus bon"
+      ],
+      "answer": 0,
+      "explanation": "The comparative of bien (adverb) is mieux, which never changes. Never \"plus bien\".",
+      "textId": null
+    },
+    {
+      "id": "a2-comparatives-046",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "comparatives",
+      "question": "Ce restaurant est bon, mais l’autre est ___.",
+      "options": [
+        "mieux",
+        "meilleur",
+        "plus bon",
+        "plus bien"
+      ],
+      "answer": 1,
+      "explanation": "The comparative of bon (adjective) is meilleur, which agrees with the noun: meilleur, meilleure, meilleurs, meilleures. Never \"plus bon\".",
+      "textId": null
+    },
+    {
+      "id": "a2-comparatives-047",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "comparatives",
+      "question": "Il joue bien, mais elle joue ___.",
+      "options": [
+        "meilleure",
+        "plus bien",
+        "mieux",
+        "plus bonne"
+      ],
+      "answer": 2,
+      "explanation": "The comparative of bien (adverb) is mieux, which never changes. Never \"plus bien\".",
+      "textId": null
+    },
+    {
+      "id": "a2-comparatives-048",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "comparatives",
+      "question": "C’est ___ grande ville du pays.",
+      "options": [
+        "le plus",
+        "plus",
+        "la plus de",
+        "la plus"
+      ],
+      "answer": 3,
+      "explanation": "The superlative uses le / la / les + plus or moins + adjective, and \"in\" is de: la plus grande ville du monde.",
+      "textId": null
+    },
+    {
+      "id": "a2-comparatives-049",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "comparatives",
+      "question": "C’est ___ film de l’année.",
+      "options": [
+        "le meilleur",
+        "le mieux",
+        "le plus bon",
+        "la meilleure"
+      ],
+      "answer": 0,
+      "explanation": "The superlative uses le / la / les + plus or moins + adjective, and \"in\" is de: la plus grande ville du monde.",
+      "textId": null
+    },
+    {
+      "id": "a2-comparatives-050",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "comparatives",
+      "question": "Paris est la plus belle ville ___ monde.",
+      "options": [
+        "dans le",
+        "du",
+        "en",
+        "que le"
+      ],
+      "answer": 1,
+      "explanation": "The superlative uses le / la / les + plus or moins + adjective, and \"in\" is de: la plus grande ville du monde.",
+      "textId": null
+    },
+    {
+      "id": "a2-comparatives-051",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "comparatives",
+      "question": "C’est l’étudiant le plus sérieux ___ classe.",
+      "options": [
+        "en",
+        "à la",
+        "de la",
+        "que la"
+      ],
+      "answer": 2,
+      "explanation": "The superlative uses le / la / les + plus or moins + adjective, and \"in\" is de: la plus grande ville du monde.",
+      "textId": null
+    },
+    {
+      "id": "a2-comparatives-052",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "comparatives",
+      "question": "C’est le restaurant ___ cher du quartier.",
+      "options": [
+        "la moins",
+        "moins",
+        "le moins de",
+        "le moins"
+      ],
+      "answer": 3,
+      "explanation": "The superlative uses le / la / les + plus or moins + adjective, and \"in\" is de: la plus grande ville du monde.",
+      "textId": null
+    },
+    {
+      "id": "a2-comparatives-053",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "comparatives",
+      "question": "Ce sont ___ beaux jours de ma vie.",
+      "options": [
+        "les plus",
+        "le plus",
+        "la plus",
+        "plus"
+      ],
+      "answer": 0,
+      "explanation": "The superlative uses le / la / les + plus or moins + adjective, and \"in\" is de: la plus grande ville du monde.",
+      "textId": null
+    },
+    {
+      "id": "a2-comparatives-054",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "comparatives",
+      "question": "C’est ___ montagne d’Europe.",
+      "options": [
+        "le plus haut",
+        "la plus haute",
+        "la plus haut",
+        "plus haute"
+      ],
+      "answer": 1,
+      "explanation": "The superlative uses le / la / les + plus or moins + adjective, and \"in\" is de: la plus grande ville du monde.",
+      "textId": null
+    },
+    {
+      "id": "a2-comparatives-055",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "comparatives",
+      "question": "Qui est ___ élève de la classe ?",
+      "options": [
+        "le mieux",
+        "le plus bon",
+        "le meilleur",
+        "meilleur"
+      ],
+      "answer": 2,
+      "explanation": "The superlative uses le / la / les + plus or moins + adjective, and \"in\" is de: la plus grande ville du monde.",
+      "textId": null
+    },
+    {
+      "id": "a2-comparatives-056",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "comparatives",
+      "question": "C’est elle qui chante ___.",
+      "options": [
+        "la meilleure",
+        "le plus bien",
+        "la mieux",
+        "le mieux"
+      ],
+      "answer": 3,
+      "explanation": "The superlative of bien is le mieux. It never changes.",
+      "textId": null
+    },
+    {
+      "id": "a2-comparatives-057",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "comparatives",
+      "question": "C’est le jour le plus long ___ année.",
+      "options": [
+        "de l’",
+        "en",
+        "à l’",
+        "que l’"
+      ],
+      "answer": 0,
+      "explanation": "The superlative uses le / la / les + plus or moins + adjective, and \"in\" is de: la plus grande ville du monde.",
+      "textId": null
+    },
+    {
+      "id": "a2-comparatives-058",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "comparatives",
+      "question": "Voici ___ plage de la région.",
+      "options": [
+        "le plus beau",
+        "la plus belle",
+        "la plus beau",
+        "plus belle"
+      ],
+      "answer": 1,
+      "explanation": "The superlative uses le / la / les + plus or moins + adjective, and \"in\" is de: la plus grande ville du monde.",
+      "textId": null
+    },
+    {
+      "id": "a2-comparatives-059",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "comparatives",
+      "question": "Ma sœur est plus ___ que moi.",
+      "options": [
+        "grand",
+        "grands",
+        "grande",
+        "grandes"
+      ],
+      "answer": 2,
+      "explanation": "In a comparison the adjective still agrees with the first noun. Here: grande.",
+      "textId": null
+    },
+    {
+      "id": "a2-comparatives-060",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "comparatives",
+      "question": "Ces chaussures sont moins ___ que les autres.",
+      "options": [
+        "cher",
+        "chère",
+        "chers",
+        "chères"
+      ],
+      "answer": 3,
+      "explanation": "In a comparison the adjective still agrees with the first noun. Here: chères.",
+      "textId": null
+    },
+    {
+      "id": "a2-comparatives-061",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "comparatives",
+      "question": "Mes frères sont plus ___ que moi.",
+      "options": [
+        "sportifs",
+        "sportif",
+        "sportive",
+        "sportives"
+      ],
+      "answer": 0,
+      "explanation": "In a comparison the adjective still agrees with the first noun. Here: sportifs.",
+      "textId": null
+    },
+    {
+      "id": "a2-comparatives-062",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "comparatives",
+      "question": "Cette valise est aussi ___ que la tienne.",
+      "options": [
+        "lourd",
+        "lourde",
+        "lourds",
+        "lourdes"
+      ],
+      "answer": 1,
+      "explanation": "In a comparison the adjective still agrees with the first noun. Here: lourde.",
+      "textId": null
+    },
+    {
+      "id": "a2-comparatives-063",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "comparatives",
+      "question": "Les filles sont aussi ___ que les garçons.",
+      "options": [
+        "fort",
+        "forte",
+        "fortes",
+        "forts"
+      ],
+      "answer": 2,
+      "explanation": "In a comparison the adjective still agrees with the first noun. Here: fortes.",
+      "textId": null
+    },
+    {
+      "id": "a2-comparatives-064",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "comparatives",
+      "question": "Le temps est ___ qu’hier : il pleut encore plus.",
+      "options": [
+        "mieux",
+        "meilleur",
+        "plus bien",
+        "pire"
+      ],
+      "answer": 3,
+      "explanation": "The comparative of mauvais is plus mauvais or pire.",
+      "textId": null
+    },
+    {
+      "id": "a2-comparatives-065",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "comparatives",
+      "question": "Sa note est ___ que la mienne : 6 sur 20 contre 12.",
+      "options": [
+        "plus mauvaise",
+        "plus mal",
+        "mieux",
+        "meilleure"
+      ],
+      "answer": 0,
+      "explanation": "The comparative of mauvais is plus mauvais or pire.",
+      "textId": null
+    },
+    {
+      "id": "a2-comparatives-066",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "comparatives",
+      "question": "C’est ___ film que j’ai vu cette année : vraiment nul.",
+      "options": [
+        "le mieux",
+        "le pire",
+        "le meilleur",
+        "le plus mal"
+      ],
+      "answer": 1,
+      "explanation": "The comparative of mauvais is plus mauvais or pire.",
+      "textId": null
+    },
+    {
+      "id": "a2-comparatives-067",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "comparatives",
+      "question": "Il conduit ___ que moi : il a déjà eu trois accidents.",
+      "options": [
+        "plus mauvais",
+        "pire que",
+        "plus mal",
+        "meilleur"
+      ],
+      "answer": 2,
+      "explanation": "The comparative of the adverb mal is plus mal.",
+      "textId": null
+    },
+    {
+      "id": "a2-comparatives-068",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "comparatives",
+      "question": "Elle parle ___ lentement que le professeur.",
+      "options": [
+        "plus de",
+        "autant",
+        "meilleur",
+        "plus"
+      ],
+      "answer": 3,
+      "explanation": "Plus + adjective / adverb + que = more … than.",
+      "textId": null
+    },
+    {
+      "id": "a2-comparatives-069",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "comparatives",
+      "question": "Je me lève ___ tôt que toi : à huit heures, comme toi.",
+      "options": [
+        "aussi",
+        "autant",
+        "autant de",
+        "aussi de"
+      ],
+      "answer": 0,
+      "explanation": "Aussi + adjective / adverb + que = as … as.",
+      "textId": null
+    },
+    {
+      "id": "a2-comparatives-070",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "comparatives",
+      "question": "Viens ___ vite possible !",
+      "options": [
+        "la plus",
+        "le plus",
+        "plus de",
+        "le mieux"
+      ],
+      "answer": 1,
+      "explanation": "Le plus + adverb + possible = as … as possible.",
+      "textId": null
+    },
+    {
+      "id": "a2-comparatives-071",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "comparatives",
+      "question": "Il travaille de plus ___ plus.",
+      "options": [
+        "à",
+        "de",
+        "en",
+        "que"
+      ],
+      "answer": 2,
+      "explanation": "De plus en plus = more and more.",
+      "textId": null
+    },
+    {
+      "id": "a2-comparatives-072",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "comparatives",
+      "question": "Il y a de moins ___ moins de neige en hiver.",
+      "options": [
+        "à",
+        "de",
+        "que",
+        "en"
+      ],
+      "answer": 3,
+      "explanation": "De moins en moins = less and less.",
+      "textId": null
+    },
+    {
+      "id": "a2-comparatives-073",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "comparatives",
+      "question": "Mon frère est ___ grand que moi : 1,90 m contre 1,75 m.",
+      "options": [
+        "beaucoup plus",
+        "beaucoup de plus",
+        "très plus",
+        "beaucoup"
+      ],
+      "answer": 0,
+      "explanation": "Beaucoup or bien can make a comparison stronger: beaucoup plus grand. Très cannot.",
+      "textId": null
+    },
+    {
+      "id": "a2-comparatives-074",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "comparatives",
+      "question": "Ce livre est ___ plus intéressant que le film.",
+      "options": [
+        "très",
+        "bien",
+        "beaucoup de",
+        "trop de"
+      ],
+      "answer": 1,
+      "explanation": "Beaucoup or bien can make a comparison stronger: bien plus intéressant. Très cannot.",
+      "textId": null
+    },
+    {
+      "id": "a2-comparatives-075",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "comparatives",
+      "question": "Elle est ___ moins stressée qu’avant.",
+      "options": [
+        "un peu de",
+        "très",
+        "un peu",
+        "peu de"
+      ],
+      "answer": 2,
+      "explanation": "Un peu can soften a comparison: un peu moins stressée.",
+      "textId": null
+    },
+    {
+      "id": "a2-comparatives-076",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "comparatives",
+      "question": "Il a deux ans ___ plus que moi.",
+      "options": [
+        "en",
+        "à",
+        "que",
+        "de"
+      ],
+      "answer": 3,
+      "explanation": "After a number, \"more than me\" is de plus que moi: deux ans de plus.",
+      "textId": null
+    },
+    {
+      "id": "a2-comparatives-077",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "comparatives",
+      "question": "Il est le plus jeune ___ la famille.",
+      "options": [
+        "de",
+        "en",
+        "à",
+        "que"
+      ],
+      "answer": 0,
+      "explanation": "The superlative uses le / la / les + plus or moins + adjective, and \"in\" is de: la plus grande ville du monde.",
+      "textId": null
+    },
+    {
+      "id": "a2-comparatives-078",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "comparatives",
+      "question": "C’est le pays le plus peuplé ___ Europe.",
+      "options": [
+        "dans l’",
+        "d’",
+        "à l’",
+        "que l’"
+      ],
+      "answer": 1,
+      "explanation": "The superlative uses le / la / les + plus or moins + adjective, and \"in\" is de: la plus grande ville du monde.",
+      "textId": null
+    },
+    {
+      "id": "a2-comparatives-079",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "comparatives",
+      "question": "C’est la ___ chose à faire.",
+      "options": [
+        "mieux",
+        "plus bonne",
+        "meilleure",
+        "meilleur"
+      ],
+      "answer": 2,
+      "explanation": "The comparative of bon (adjective) is meilleur, which agrees with the noun: meilleur, meilleure, meilleurs, meilleures. Never \"plus bon\".",
+      "textId": null
+    },
+    {
+      "id": "a2-comparatives-080",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "comparatives",
+      "question": "Plus tu pratiques, ___ tu progresses.",
+      "options": [
+        "le plus",
+        "mieux que",
+        "autant",
+        "plus"
+      ],
+      "answer": 3,
+      "explanation": "Plus …, plus … = the more …, the more ….",
+      "textId": null
+    }
+  ]
+}

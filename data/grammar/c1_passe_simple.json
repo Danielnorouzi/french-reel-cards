@@ -1,0 +1,1285 @@
+{
+  "texts": [],
+  "questions": [
+    {
+      "id": "c1-passe_simple-001",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "passe_simple",
+      "question": "Complète au passé simple : Il ___ la porte et sortit.",
+      "options": [
+        "ferma",
+        "fermait",
+        "fermera",
+        "fermât"
+      ],
+      "answer": 0,
+      "explanation": "-er verbs in the passé simple: -ai, -as, -a, -âmes, -âtes, -èrent. Here: ferma.",
+      "textId": null
+    },
+    {
+      "id": "c1-passe_simple-002",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "passe_simple",
+      "question": "Complète au passé simple : Elle ___ longtemps à la fenêtre.",
+      "options": [
+        "restait",
+        "resta",
+        "restera",
+        "restât"
+      ],
+      "answer": 1,
+      "explanation": "-er verbs in the passé simple: -ai, -as, -a, -âmes, -âtes, -èrent. Here: resta.",
+      "textId": null
+    },
+    {
+      "id": "c1-passe_simple-003",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "passe_simple",
+      "question": "Complète au passé simple : Ils ___ toute la nuit.",
+      "options": [
+        "marchaient",
+        "marcheront",
+        "marchèrent",
+        "marchassent"
+      ],
+      "answer": 2,
+      "explanation": "-er verbs in the passé simple: -ai, -as, -a, -âmes, -âtes, -èrent. Here: marchèrent.",
+      "textId": null
+    },
+    {
+      "id": "c1-passe_simple-004",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "passe_simple",
+      "question": "Complète au passé simple : Je ___ la lettre sur la table.",
+      "options": [
+        "posais",
+        "poserai",
+        "posa",
+        "posai"
+      ],
+      "answer": 3,
+      "explanation": "-er verbs in the passé simple: -ai, -as, -a, -âmes, -âtes, -èrent. Here: posai.",
+      "textId": null
+    },
+    {
+      "id": "c1-passe_simple-005",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "passe_simple",
+      "question": "Complète au passé simple : Nous ___ au village à l’aube.",
+      "options": [
+        "arrivâmes",
+        "arrivions",
+        "arriverons",
+        "arrivèrent"
+      ],
+      "answer": 0,
+      "explanation": "-er verbs in the passé simple: -ai, -as, -a, -âmes, -âtes, -èrent. Here: arrivâmes.",
+      "textId": null
+    },
+    {
+      "id": "c1-passe_simple-006",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "passe_simple",
+      "question": "Complète au passé simple : Le roi ___ ses ministres.",
+      "options": [
+        "appelait",
+        "appela",
+        "appellera",
+        "appelât"
+      ],
+      "answer": 1,
+      "explanation": "-er verbs in the passé simple: -ai, -as, -a, -âmes, -âtes, -èrent. Here: appela.",
+      "textId": null
+    },
+    {
+      "id": "c1-passe_simple-007",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "passe_simple",
+      "question": "Complète au passé simple : Les soldats ___ la ville.",
+      "options": [
+        "quittaient",
+        "quitteront",
+        "quittèrent",
+        "quittâmes"
+      ],
+      "answer": 2,
+      "explanation": "-er verbs in the passé simple: -ai, -as, -a, -âmes, -âtes, -èrent. Here: quittèrent.",
+      "textId": null
+    },
+    {
+      "id": "c1-passe_simple-008",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "passe_simple",
+      "question": "Complète au passé simple : Elle ___ les yeux vers le ciel.",
+      "options": [
+        "levait",
+        "lèvera",
+        "levât",
+        "leva"
+      ],
+      "answer": 3,
+      "explanation": "-er verbs in the passé simple: -ai, -as, -a, -âmes, -âtes, -èrent. Here: leva.",
+      "textId": null
+    },
+    {
+      "id": "c1-passe_simple-009",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "passe_simple",
+      "question": "Complète au passé simple : Tu ___ trop tard.",
+      "options": [
+        "arrivas",
+        "arrivais",
+        "arriveras",
+        "arriva"
+      ],
+      "answer": 0,
+      "explanation": "-er verbs in the passé simple: -ai, -as, -a, -âmes, -âtes, -èrent. Here: arrivas.",
+      "textId": null
+    },
+    {
+      "id": "c1-passe_simple-010",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "passe_simple",
+      "question": "Complète au passé simple : Vous ___ sans hésiter.",
+      "options": [
+        "acceptiez",
+        "acceptâtes",
+        "accepterez",
+        "acceptèrent"
+      ],
+      "answer": 1,
+      "explanation": "-er verbs in the passé simple: -ai, -as, -a, -âmes, -âtes, -èrent. Here: acceptâtes.",
+      "textId": null
+    },
+    {
+      "id": "c1-passe_simple-011",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "passe_simple",
+      "question": "Complète au passé simple : Il ___ à courir.",
+      "options": [
+        "commençait",
+        "commencera",
+        "commença",
+        "commenca"
+      ],
+      "answer": 2,
+      "explanation": "-er verbs in the passé simple: -ai, -as, -a, -âmes, -âtes, -èrent. Here: commença.",
+      "textId": null
+    },
+    {
+      "id": "c1-passe_simple-012",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "passe_simple",
+      "question": "Complète au passé simple : Elle ___ un morceau de pain.",
+      "options": [
+        "mangeait",
+        "mangera",
+        "manga",
+        "mangea"
+      ],
+      "answer": 3,
+      "explanation": "-er verbs in the passé simple: -ai, -as, -a, -âmes, -âtes, -èrent. Here: mangea.",
+      "textId": null
+    },
+    {
+      "id": "c1-passe_simple-013",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "passe_simple",
+      "question": "Complète au passé simple : Il ___ son travail avant midi.",
+      "options": [
+        "finit",
+        "finissait",
+        "finira",
+        "finît"
+      ],
+      "answer": 0,
+      "explanation": "Regular -ir and -re verbs in the passé simple: -is, -is, -it, -îmes, -îtes, -irent. Here: finit.",
+      "textId": null
+    },
+    {
+      "id": "c1-passe_simple-014",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "passe_simple",
+      "question": "Complète au passé simple : Ils ___ leur maison.",
+      "options": [
+        "vendaient",
+        "vendirent",
+        "vendront",
+        "vendèrent"
+      ],
+      "answer": 1,
+      "explanation": "Regular -ir and -re verbs in the passé simple: -is, -is, -it, -îmes, -îtes, -irent. Here: vendirent.",
+      "textId": null
+    },
+    {
+      "id": "c1-passe_simple-015",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "passe_simple",
+      "question": "Complète au passé simple : Elle ___ à la question.",
+      "options": [
+        "répondait",
+        "répondra",
+        "répondit",
+        "réponda"
+      ],
+      "answer": 2,
+      "explanation": "Regular -ir and -re verbs in the passé simple: -is, -is, -it, -îmes, -îtes, -irent. Here: répondit.",
+      "textId": null
+    },
+    {
+      "id": "c1-passe_simple-016",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "passe_simple",
+      "question": "Complète au passé simple : Nous ___ le silence.",
+      "options": [
+        "choisissions",
+        "choisirons",
+        "choisirent",
+        "choisîmes"
+      ],
+      "answer": 3,
+      "explanation": "Regular -ir and -re verbs in the passé simple: -is, -is, -it, -îmes, -îtes, -irent. Here: choisîmes.",
+      "textId": null
+    },
+    {
+      "id": "c1-passe_simple-017",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "passe_simple",
+      "question": "Complète au passé simple : Ils ___ à s’échapper.",
+      "options": [
+        "réussirent",
+        "réussissaient",
+        "réussiront",
+        "réussèrent"
+      ],
+      "answer": 0,
+      "explanation": "Regular -ir and -re verbs in the passé simple: -is, -is, -it, -îmes, -îtes, -irent. Here: réussirent.",
+      "textId": null
+    },
+    {
+      "id": "c1-passe_simple-018",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "passe_simple",
+      "question": "Complète au passé simple : Il ___ un cri dans la nuit.",
+      "options": [
+        "entendait",
+        "entendit",
+        "entendra",
+        "entenda"
+      ],
+      "answer": 1,
+      "explanation": "Regular -ir and -re verbs in the passé simple: -is, -is, -it, -îmes, -îtes, -irent. Here: entendit.",
+      "textId": null
+    },
+    {
+      "id": "c1-passe_simple-019",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "passe_simple",
+      "question": "Complète au passé simple : Elle ___ de la maison en courant.",
+      "options": [
+        "sortait",
+        "sortira",
+        "sortit",
+        "sorta"
+      ],
+      "answer": 2,
+      "explanation": "Regular -ir and -re verbs in the passé simple: -is, -is, -it, -îmes, -îtes, -irent. Here: sortit.",
+      "textId": null
+    },
+    {
+      "id": "c1-passe_simple-020",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "passe_simple",
+      "question": "Complète au passé simple : Ils ___ à l’aube.",
+      "options": [
+        "partaient",
+        "partiront",
+        "partèrent",
+        "partirent"
+      ],
+      "answer": 3,
+      "explanation": "Regular -ir and -re verbs in the passé simple: -is, -is, -it, -îmes, -îtes, -irent. Here: partirent.",
+      "textId": null
+    },
+    {
+      "id": "c1-passe_simple-021",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "passe_simple",
+      "question": "Complète au passé simple : Il ___ longtemps son ami.",
+      "options": [
+        "attendit",
+        "attendait",
+        "attendra",
+        "attenda"
+      ],
+      "answer": 0,
+      "explanation": "Regular -ir and -re verbs in the passé simple: -is, -is, -it, -îmes, -îtes, -irent. Here: attendit.",
+      "textId": null
+    },
+    {
+      "id": "c1-passe_simple-022",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "passe_simple",
+      "question": "Complète au passé simple : Je ___ l’escalier quatre à quatre.",
+      "options": [
+        "descendais",
+        "descendis",
+        "descendrai",
+        "descendai"
+      ],
+      "answer": 1,
+      "explanation": "Regular -ir and -re verbs in the passé simple: -is, -is, -it, -îmes, -îtes, -irent. Here: descendis.",
+      "textId": null
+    },
+    {
+      "id": "c1-passe_simple-023",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "passe_simple",
+      "question": "Complète au passé simple : Il ___ roi à vingt ans.",
+      "options": [
+        "était",
+        "sera",
+        "fut",
+        "fût"
+      ],
+      "answer": 2,
+      "explanation": "Être in the passé simple: je fus, tu fus, il fut, nous fûmes, vous fûtes, ils furent.",
+      "textId": null
+    },
+    {
+      "id": "c1-passe_simple-024",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "passe_simple",
+      "question": "Complète au passé simple : Ils ___ très surpris.",
+      "options": [
+        "étaient",
+        "seront",
+        "fussent",
+        "furent"
+      ],
+      "answer": 3,
+      "explanation": "Être in the passé simple: je fus, tu fus, il fut, nous fûmes, vous fûtes, ils furent.",
+      "textId": null
+    },
+    {
+      "id": "c1-passe_simple-025",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "passe_simple",
+      "question": "Complète au passé simple : Ce ___ une longue journée.",
+      "options": [
+        "fut",
+        "était",
+        "sera",
+        "fus"
+      ],
+      "answer": 0,
+      "explanation": "Être in the passé simple: je fus, tu fus, il fut, nous fûmes, vous fûtes, ils furent.",
+      "textId": null
+    },
+    {
+      "id": "c1-passe_simple-026",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "passe_simple",
+      "question": "Complète au passé simple : Nous ___ les premiers à arriver.",
+      "options": [
+        "étions",
+        "fûmes",
+        "serons",
+        "furent"
+      ],
+      "answer": 1,
+      "explanation": "Être in the passé simple: je fus, tu fus, il fut, nous fûmes, vous fûtes, ils furent.",
+      "textId": null
+    },
+    {
+      "id": "c1-passe_simple-027",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "passe_simple",
+      "question": "Complète au passé simple : Elle ___ peur.",
+      "options": [
+        "avait",
+        "aura",
+        "eut",
+        "eût"
+      ],
+      "answer": 2,
+      "explanation": "Avoir in the passé simple: j’eus, tu eus, il eut, nous eûmes, vous eûtes, ils eurent.",
+      "textId": null
+    },
+    {
+      "id": "c1-passe_simple-028",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "passe_simple",
+      "question": "Complète au passé simple : Ils ___ trois enfants.",
+      "options": [
+        "avaient",
+        "auront",
+        "eussent",
+        "eurent"
+      ],
+      "answer": 3,
+      "explanation": "Avoir in the passé simple: j’eus, tu eus, il eut, nous eûmes, vous eûtes, ils eurent.",
+      "textId": null
+    },
+    {
+      "id": "c1-passe_simple-029",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "passe_simple",
+      "question": "Complète au passé simple : J’___ une idée.",
+      "options": [
+        "eus",
+        "avais",
+        "aurai",
+        "eut"
+      ],
+      "answer": 0,
+      "explanation": "Avoir in the passé simple: j’eus, tu eus, il eut, nous eûmes, vous eûtes, ils eurent.",
+      "textId": null
+    },
+    {
+      "id": "c1-passe_simple-030",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "passe_simple",
+      "question": "Complète au passé simple : Il ___ partir aussitôt.",
+      "options": [
+        "voulait",
+        "voulut",
+        "voudra",
+        "voulit"
+      ],
+      "answer": 1,
+      "explanation": "Many irregular verbs take the endings -us, -us, -ut, -ûmes, -ûtes, -urent, often built on the past participle (eu, pu, su, voulu, lu, bu, cru, vécu). Here: voulut.",
+      "textId": null
+    },
+    {
+      "id": "c1-passe_simple-031",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "passe_simple",
+      "question": "Complète au passé simple : Elle ne ___ pas répondre.",
+      "options": [
+        "pouvait",
+        "pourra",
+        "put",
+        "pouva"
+      ],
+      "answer": 2,
+      "explanation": "Many irregular verbs take the endings -us, -us, -ut, -ûmes, -ûtes, -urent, often built on the past participle (eu, pu, su, voulu, lu, bu, cru, vécu). Here: put.",
+      "textId": null
+    },
+    {
+      "id": "c1-passe_simple-032",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "passe_simple",
+      "question": "Complète au passé simple : Ils ___ la vérité trop tard.",
+      "options": [
+        "savaient",
+        "sauront",
+        "savèrent",
+        "surent"
+      ],
+      "answer": 3,
+      "explanation": "Many irregular verbs take the endings -us, -us, -ut, -ûmes, -ûtes, -urent, often built on the past participle (eu, pu, su, voulu, lu, bu, cru, vécu). Here: surent.",
+      "textId": null
+    },
+    {
+      "id": "c1-passe_simple-033",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "passe_simple",
+      "question": "Complète au passé simple : Il ___ la lettre d’un seul trait.",
+      "options": [
+        "lut",
+        "lisait",
+        "lira",
+        "lisit"
+      ],
+      "answer": 0,
+      "explanation": "Many irregular verbs take the endings -us, -us, -ut, -ûmes, -ûtes, -urent, often built on the past participle (eu, pu, su, voulu, lu, bu, cru, vécu). Here: lut.",
+      "textId": null
+    },
+    {
+      "id": "c1-passe_simple-034",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "passe_simple",
+      "question": "Complète au passé simple : Il ___ un verre d’eau.",
+      "options": [
+        "buvait",
+        "but",
+        "boira",
+        "buvit"
+      ],
+      "answer": 1,
+      "explanation": "Many irregular verbs take the endings -us, -us, -ut, -ûmes, -ûtes, -urent, often built on the past participle (eu, pu, su, voulu, lu, bu, cru, vécu). Here: but.",
+      "textId": null
+    },
+    {
+      "id": "c1-passe_simple-035",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "passe_simple",
+      "question": "Complète au passé simple : Elle ___ rêver.",
+      "options": [
+        "croyait",
+        "croira",
+        "crut",
+        "croyit"
+      ],
+      "answer": 2,
+      "explanation": "Many irregular verbs take the endings -us, -us, -ut, -ûmes, -ûtes, -urent, often built on the past participle (eu, pu, su, voulu, lu, bu, cru, vécu). Here: crut.",
+      "textId": null
+    },
+    {
+      "id": "c1-passe_simple-036",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "passe_simple",
+      "question": "Complète au passé simple : Ils ___ heureux de longues années.",
+      "options": [
+        "vivaient",
+        "vivront",
+        "vivèrent",
+        "vécurent"
+      ],
+      "answer": 3,
+      "explanation": "Many irregular verbs take the endings -us, -us, -ut, -ûmes, -ûtes, -urent, often built on the past participle (eu, pu, su, voulu, lu, bu, cru, vécu). Here: vécurent.",
+      "textId": null
+    },
+    {
+      "id": "c1-passe_simple-037",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "passe_simple",
+      "question": "Complète au passé simple : Il ___ partir avant la nuit.",
+      "options": [
+        "dut",
+        "devait",
+        "devra",
+        "devit"
+      ],
+      "answer": 0,
+      "explanation": "Many irregular verbs take the endings -us, -us, -ut, -ûmes, -ûtes, -urent, often built on the past participle (eu, pu, su, voulu, lu, bu, cru, vécu). Here: dut.",
+      "textId": null
+    },
+    {
+      "id": "c1-passe_simple-038",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "passe_simple",
+      "question": "Complète au passé simple : Elle ___ aussitôt son erreur.",
+      "options": [
+        "reconnaissait",
+        "reconnut",
+        "reconnaîtra",
+        "reconnaissa"
+      ],
+      "answer": 1,
+      "explanation": "Many irregular verbs take the endings -us, -us, -ut, -ûmes, -ûtes, -urent, often built on the past participle (eu, pu, su, voulu, lu, bu, cru, vécu). Here: reconnut.",
+      "textId": null
+    },
+    {
+      "id": "c1-passe_simple-039",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "passe_simple",
+      "question": "Complète au passé simple : Il ___ le lendemain.",
+      "options": [
+        "mourait",
+        "mourra",
+        "mourut",
+        "mourit"
+      ],
+      "answer": 2,
+      "explanation": "Irregular passé simple: faire → il fit, voir → il vit, prendre → il prit, mettre → il mit, dire → il dit, naître → il naquit, mourir → il mourut, écrire → il écrivit. Here: mourut.",
+      "textId": null
+    },
+    {
+      "id": "c1-passe_simple-040",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "passe_simple",
+      "question": "Complète au passé simple : Le soir ___ et tout devint calme.",
+      "options": [
+        "venait",
+        "viendra",
+        "vena",
+        "vint"
+      ],
+      "answer": 3,
+      "explanation": "Venir and tenir (and their compounds) have their own pattern: je vins, il vint, nous vînmes, ils vinrent; il tint, ils tinrent.",
+      "textId": null
+    },
+    {
+      "id": "c1-passe_simple-041",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "passe_simple",
+      "question": "Complète au passé simple : Ils ___ de très loin.",
+      "options": [
+        "vinrent",
+        "venaient",
+        "viendront",
+        "venèrent"
+      ],
+      "answer": 0,
+      "explanation": "Venir and tenir (and their compounds) have their own pattern: je vins, il vint, nous vînmes, ils vinrent; il tint, ils tinrent.",
+      "textId": null
+    },
+    {
+      "id": "c1-passe_simple-042",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "passe_simple",
+      "question": "Complète au passé simple : Elle ___ une femme célèbre.",
+      "options": [
+        "devenait",
+        "devint",
+        "deviendra",
+        "devena"
+      ],
+      "answer": 1,
+      "explanation": "Venir and tenir (and their compounds) have their own pattern: je vins, il vint, nous vînmes, ils vinrent; il tint, ils tinrent.",
+      "textId": null
+    },
+    {
+      "id": "c1-passe_simple-043",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "passe_simple",
+      "question": "Complète au passé simple : Il ___ sa promesse.",
+      "options": [
+        "tenait",
+        "tiendra",
+        "tint",
+        "tena"
+      ],
+      "answer": 2,
+      "explanation": "Venir and tenir (and their compounds) have their own pattern: je vins, il vint, nous vînmes, ils vinrent; il tint, ils tinrent.",
+      "textId": null
+    },
+    {
+      "id": "c1-passe_simple-044",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "passe_simple",
+      "question": "Complète au passé simple : Ils ___ chez eux à la nuit tombée.",
+      "options": [
+        "revenaient",
+        "reviendront",
+        "revenèrent",
+        "revinrent"
+      ],
+      "answer": 3,
+      "explanation": "Venir and tenir (and their compounds) have their own pattern: je vins, il vint, nous vînmes, ils vinrent; il tint, ils tinrent.",
+      "textId": null
+    },
+    {
+      "id": "c1-passe_simple-045",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "passe_simple",
+      "question": "Complète au passé simple : Elle ___ un geste de la main.",
+      "options": [
+        "fit",
+        "faisait",
+        "fera",
+        "faisa"
+      ],
+      "answer": 0,
+      "explanation": "Irregular passé simple: faire → il fit, voir → il vit, prendre → il prit, mettre → il mit, dire → il dit, naître → il naquit, mourir → il mourut, écrire → il écrivit. Here: fit.",
+      "textId": null
+    },
+    {
+      "id": "c1-passe_simple-046",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "passe_simple",
+      "question": "Complète au passé simple : Il ___ une lumière au loin.",
+      "options": [
+        "voyait",
+        "vit",
+        "verra",
+        "voya"
+      ],
+      "answer": 1,
+      "explanation": "Irregular passé simple: faire → il fit, voir → il vit, prendre → il prit, mettre → il mit, dire → il dit, naître → il naquit, mourir → il mourut, écrire → il écrivit. Here: vit.",
+      "textId": null
+    },
+    {
+      "id": "c1-passe_simple-047",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "passe_simple",
+      "question": "Complète au passé simple : Elle ___ son manteau et sortit.",
+      "options": [
+        "prenait",
+        "prendra",
+        "prit",
+        "prena"
+      ],
+      "answer": 2,
+      "explanation": "Irregular passé simple: faire → il fit, voir → il vit, prendre → il prit, mettre → il mit, dire → il dit, naître → il naquit, mourir → il mourut, écrire → il écrivit. Here: prit.",
+      "textId": null
+    },
+    {
+      "id": "c1-passe_simple-048",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "passe_simple",
+      "question": "Complète au passé simple : Il ___ la lettre dans sa poche.",
+      "options": [
+        "mettait",
+        "mettra",
+        "metta",
+        "mit"
+      ],
+      "answer": 3,
+      "explanation": "Irregular passé simple: faire → il fit, voir → il vit, prendre → il prit, mettre → il mit, dire → il dit, naître → il naquit, mourir → il mourut, écrire → il écrivit. Here: mit.",
+      "textId": null
+    },
+    {
+      "id": "c1-passe_simple-049",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "passe_simple",
+      "question": "Complète au passé simple : « Entrez », ___-il.",
+      "options": [
+        "dit",
+        "disait",
+        "dira",
+        "disa"
+      ],
+      "answer": 0,
+      "explanation": "Irregular passé simple: faire → il fit, voir → il vit, prendre → il prit, mettre → il mit, dire → il dit, naître → il naquit, mourir → il mourut, écrire → il écrivit. Here: dit.",
+      "textId": null
+    },
+    {
+      "id": "c1-passe_simple-050",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "passe_simple",
+      "question": "Complète au passé simple : Il ___ en 1802.",
+      "options": [
+        "naissait",
+        "naquit",
+        "naîtra",
+        "naissa"
+      ],
+      "answer": 1,
+      "explanation": "Irregular passé simple: faire → il fit, voir → il vit, prendre → il prit, mettre → il mit, dire → il dit, naître → il naquit, mourir → il mourut, écrire → il écrivit. Here: naquit.",
+      "textId": null
+    },
+    {
+      "id": "c1-passe_simple-051",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "passe_simple",
+      "question": "Complète au passé simple : Elle ___ une longue lettre.",
+      "options": [
+        "écrivait",
+        "écrira",
+        "écrivit",
+        "écriva"
+      ],
+      "answer": 2,
+      "explanation": "Irregular passé simple: faire → il fit, voir → il vit, prendre → il prit, mettre → il mit, dire → il dit, naître → il naquit, mourir → il mourut, écrire → il écrivit. Here: écrivit.",
+      "textId": null
+    },
+    {
+      "id": "c1-passe_simple-052",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "passe_simple",
+      "question": "Complète au passé simple : Ils ___ le château de loin.",
+      "options": [
+        "voyaient",
+        "verront",
+        "voyèrent",
+        "virent"
+      ],
+      "answer": 3,
+      "explanation": "Irregular passé simple: faire → il fit, voir → il vit, prendre → il prit, mettre → il mit, dire → il dit, naître → il naquit, mourir → il mourut, écrire → il écrivit. Here: virent.",
+      "textId": null
+    },
+    {
+      "id": "c1-passe_simple-053",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "passe_simple",
+      "question": "Complète au passé simple : Ils ___ la route du nord.",
+      "options": [
+        "prirent",
+        "prenaient",
+        "prendront",
+        "prenèrent"
+      ],
+      "answer": 0,
+      "explanation": "Irregular passé simple: faire → il fit, voir → il vit, prendre → il prit, mettre → il mit, dire → il dit, naître → il naquit, mourir → il mourut, écrire → il écrivit. Here: prirent.",
+      "textId": null
+    },
+    {
+      "id": "c1-passe_simple-054",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "passe_simple",
+      "question": "Complète au passé simple : Elles ___ leurs plus belles robes.",
+      "options": [
+        "mettaient",
+        "mirent",
+        "mettront",
+        "mettèrent"
+      ],
+      "answer": 1,
+      "explanation": "Irregular passé simple: faire → il fit, voir → il vit, prendre → il prit, mettre → il mit, dire → il dit, naître → il naquit, mourir → il mourut, écrire → il écrivit. Here: mirent.",
+      "textId": null
+    },
+    {
+      "id": "c1-passe_simple-055",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "passe_simple",
+      "question": "Complète au passé simple : Ils ___ la guerre pendant dix ans.",
+      "options": [
+        "faisaient",
+        "feront",
+        "firent",
+        "faisèrent"
+      ],
+      "answer": 2,
+      "explanation": "Irregular passé simple: faire → il fit, voir → il vit, prendre → il prit, mettre → il mit, dire → il dit, naître → il naquit, mourir → il mourut, écrire → il écrivit. Here: firent.",
+      "textId": null
+    },
+    {
+      "id": "c1-passe_simple-056",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "passe_simple",
+      "question": "Complète au passé simple : Il ___ la porte.",
+      "options": [
+        "ouvrait",
+        "ouvrira",
+        "ouvra",
+        "ouvrit"
+      ],
+      "answer": 3,
+      "explanation": "Regular -ir and -re verbs in the passé simple: -is, -is, -it, -îmes, -îtes, -irent. Here: ouvrit.",
+      "textId": null
+    },
+    {
+      "id": "c1-passe_simple-057",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "passe_simple",
+      "question": "Dans « ils furent », le verbe est :",
+      "options": [
+        "être",
+        "faire",
+        "avoir",
+        "fuir"
+      ],
+      "answer": 0,
+      "explanation": "The passé simple is a written, literary tense. To recognise it, find the verb behind the form: être.",
+      "textId": null
+    },
+    {
+      "id": "c1-passe_simple-058",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "passe_simple",
+      "question": "Dans « elle eut », le verbe est :",
+      "options": [
+        "être",
+        "avoir",
+        "aller",
+        "user"
+      ],
+      "answer": 1,
+      "explanation": "The passé simple is a written, literary tense. To recognise it, find the verb behind the form: avoir.",
+      "textId": null
+    },
+    {
+      "id": "c1-passe_simple-059",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "passe_simple",
+      "question": "Dans « ils vinrent », le verbe est :",
+      "options": [
+        "voir",
+        "vivre",
+        "venir",
+        "vendre"
+      ],
+      "answer": 2,
+      "explanation": "The passé simple is a written, literary tense. To recognise it, find the verb behind the form: venir.",
+      "textId": null
+    },
+    {
+      "id": "c1-passe_simple-060",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "passe_simple",
+      "question": "Dans « il vit une ombre », le verbe est :",
+      "options": [
+        "vivre",
+        "venir",
+        "vouloir",
+        "voir"
+      ],
+      "answer": 3,
+      "explanation": "The passé simple is a written, literary tense. To recognise it, find the verb behind the form: voir.",
+      "textId": null
+    },
+    {
+      "id": "c1-passe_simple-061",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "passe_simple",
+      "question": "Dans « ils vécurent longtemps », le verbe est :",
+      "options": [
+        "vivre",
+        "voir",
+        "venir",
+        "vaincre"
+      ],
+      "answer": 0,
+      "explanation": "The passé simple is a written, literary tense. To recognise it, find the verb behind the form: vivre.",
+      "textId": null
+    },
+    {
+      "id": "c1-passe_simple-062",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "passe_simple",
+      "question": "Dans « elle sut », le verbe est :",
+      "options": [
+        "suivre",
+        "savoir",
+        "être",
+        "servir"
+      ],
+      "answer": 1,
+      "explanation": "The passé simple is a written, literary tense. To recognise it, find the verb behind the form: savoir.",
+      "textId": null
+    },
+    {
+      "id": "c1-passe_simple-063",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "passe_simple",
+      "question": "Dans « il dut partir », le verbe est :",
+      "options": [
+        "dire",
+        "donner",
+        "devoir",
+        "dormir"
+      ],
+      "answer": 2,
+      "explanation": "The passé simple is a written, literary tense. To recognise it, find the verb behind the form: devoir.",
+      "textId": null
+    },
+    {
+      "id": "c1-passe_simple-064",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "passe_simple",
+      "question": "Dans « ils mirent », le verbe est :",
+      "options": [
+        "mentir",
+        "mourir",
+        "monter",
+        "mettre"
+      ],
+      "answer": 3,
+      "explanation": "The passé simple is a written, literary tense. To recognise it, find the verb behind the form: mettre.",
+      "textId": null
+    },
+    {
+      "id": "c1-passe_simple-065",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "passe_simple",
+      "question": "Dans « il naquit », le verbe est :",
+      "options": [
+        "naître",
+        "nager",
+        "nier",
+        "nuire"
+      ],
+      "answer": 0,
+      "explanation": "The passé simple is a written, literary tense. To recognise it, find the verb behind the form: naître.",
+      "textId": null
+    },
+    {
+      "id": "c1-passe_simple-066",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "passe_simple",
+      "question": "Dans « elle tint bon », le verbe est :",
+      "options": [
+        "tendre",
+        "tenir",
+        "tirer",
+        "taire"
+      ],
+      "answer": 1,
+      "explanation": "The passé simple is a written, literary tense. To recognise it, find the verb behind the form: tenir.",
+      "textId": null
+    },
+    {
+      "id": "c1-passe_simple-067",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "passe_simple",
+      "question": "Dans « ils crurent », le verbe est :",
+      "options": [
+        "craindre",
+        "créer",
+        "croire",
+        "croître"
+      ],
+      "answer": 2,
+      "explanation": "The passé simple is a written, literary tense. To recognise it, find the verb behind the form: croire.",
+      "textId": null
+    },
+    {
+      "id": "c1-passe_simple-068",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "passe_simple",
+      "question": "Dans « il plut toute la nuit », le verbe est :",
+      "options": [
+        "plaire",
+        "pleurer",
+        "plier",
+        "pleuvoir"
+      ],
+      "answer": 3,
+      "explanation": "The passé simple is a written, literary tense. To recognise it, find the verb behind the form: pleuvoir.",
+      "textId": null
+    },
+    {
+      "id": "c1-passe_simple-069",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "passe_simple",
+      "question": "« Il naquit à Paris. » = Il ___ à Paris.",
+      "options": [
+        "est né",
+        "naissait",
+        "était né",
+        "naîtra"
+      ],
+      "answer": 0,
+      "explanation": "In speech and everyday writing the passé simple is replaced by the passé composé: est né.",
+      "textId": null
+    },
+    {
+      "id": "c1-passe_simple-070",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "passe_simple",
+      "question": "« Elle fut surprise. » = Elle ___ surprise.",
+      "options": [
+        "était",
+        "a été",
+        "avait été",
+        "serait"
+      ],
+      "answer": 1,
+      "explanation": "In speech and everyday writing the passé simple is replaced by the passé composé: a été.",
+      "textId": null
+    },
+    {
+      "id": "c1-passe_simple-071",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "passe_simple",
+      "question": "« Ils eurent peur. » = Ils ___ peur.",
+      "options": [
+        "avaient",
+        "avaient eu",
+        "ont eu",
+        "auraient"
+      ],
+      "answer": 2,
+      "explanation": "In speech and everyday writing the passé simple is replaced by the passé composé: ont eu.",
+      "textId": null
+    },
+    {
+      "id": "c1-passe_simple-072",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "passe_simple",
+      "question": "« Il prit son chapeau. » = Il ___ son chapeau.",
+      "options": [
+        "prenait",
+        "avait pris",
+        "prendrait",
+        "a pris"
+      ],
+      "answer": 3,
+      "explanation": "In speech and everyday writing the passé simple is replaced by the passé composé: a pris.",
+      "textId": null
+    },
+    {
+      "id": "c1-passe_simple-073",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "passe_simple",
+      "question": "« Elles vinrent nous voir. » = Elles ___ nous voir.",
+      "options": [
+        "sont venues",
+        "venaient",
+        "étaient venues",
+        "viendraient"
+      ],
+      "answer": 0,
+      "explanation": "In speech and everyday writing the passé simple is replaced by the passé composé: sont venues.",
+      "textId": null
+    },
+    {
+      "id": "c1-passe_simple-074",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "passe_simple",
+      "question": "« Je fis un long voyage. » = J’___ un long voyage.",
+      "options": [
+        "faisais",
+        "ai fait",
+        "avais fait",
+        "ferais"
+      ],
+      "answer": 1,
+      "explanation": "In speech and everyday writing the passé simple is replaced by the passé composé: ai fait.",
+      "textId": null
+    },
+    {
+      "id": "c1-passe_simple-075",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "passe_simple",
+      "question": "« Nous vîmes la mer. » = Nous ___ la mer.",
+      "options": [
+        "voyions",
+        "avions vu",
+        "avons vu",
+        "verrions"
+      ],
+      "answer": 2,
+      "explanation": "In speech and everyday writing the passé simple is replaced by the passé composé: avons vu.",
+      "textId": null
+    },
+    {
+      "id": "c1-passe_simple-076",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "passe_simple",
+      "question": "« Il mourut en 1885. » = Il ___ en 1885.",
+      "options": [
+        "mourait",
+        "était mort",
+        "mourrait",
+        "est mort"
+      ],
+      "answer": 3,
+      "explanation": "In speech and everyday writing the passé simple is replaced by the passé composé: est mort.",
+      "textId": null
+    },
+    {
+      "id": "c1-passe_simple-077",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "passe_simple",
+      "question": "Il faisait nuit. Soudain, un cri ___.",
+      "options": [
+        "retentit",
+        "retentissait",
+        "retentirait",
+        "retentira"
+      ],
+      "answer": 0,
+      "explanation": "In a story, the passé simple tells the events (what happened next) and the imparfait gives the background.",
+      "textId": null
+    },
+    {
+      "id": "c1-passe_simple-078",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "passe_simple",
+      "question": "Elle lisait tranquillement quand on ___ à la porte.",
+      "options": [
+        "frappait",
+        "frappa",
+        "frappera",
+        "frapperait"
+      ],
+      "answer": 1,
+      "explanation": "In a story, the passé simple tells the events (what happened next) and the imparfait gives the background.",
+      "textId": null
+    },
+    {
+      "id": "c1-passe_simple-079",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "passe_simple",
+      "question": "Le soleil brillait et les oiseaux chantaient. Le prince ___ alors du château.",
+      "options": [
+        "sortait",
+        "sortira",
+        "sortit",
+        "sortirait"
+      ],
+      "answer": 2,
+      "explanation": "In a story, the passé simple tells the events (what happened next) and the imparfait gives the background.",
+      "textId": null
+    },
+    {
+      "id": "c1-passe_simple-080",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "passe_simple",
+      "question": "Il ouvrit la porte, ___ dans la pièce et s’assit.",
+      "options": [
+        "entrait",
+        "entrera",
+        "entrerait",
+        "entra"
+      ],
+      "answer": 3,
+      "explanation": "In a story, the passé simple tells the events (what happened next) and the imparfait gives the background.",
+      "textId": null
+    }
+  ]
+}

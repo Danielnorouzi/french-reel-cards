@@ -1,0 +1,1285 @@
+{
+  "texts": [],
+  "questions": [
+    {
+      "id": "a1-er_verbs-001",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "er_verbs",
+      "question": "Je ___ français et anglais.",
+      "options": [
+        "parle",
+        "parles",
+        "parlons",
+        "parlent"
+      ],
+      "answer": 0,
+      "explanation": "With je, regular -er verbs end in -e: parle.",
+      "textId": null
+    },
+    {
+      "id": "a1-er_verbs-002",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "er_verbs",
+      "question": "Tu ___ à Vancouver ?",
+      "options": [
+        "habite",
+        "habites",
+        "habitez",
+        "habitent"
+      ],
+      "answer": 1,
+      "explanation": "With tu, regular -er verbs end in -es: habites.",
+      "textId": null
+    },
+    {
+      "id": "a1-er_verbs-003",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "er_verbs",
+      "question": "Elle ___ dans une banque.",
+      "options": [
+        "travailles",
+        "travaillent",
+        "travaille",
+        "travaillez"
+      ],
+      "answer": 2,
+      "explanation": "With il, elle, on or a singular noun, regular -er verbs end in -e: travaille.",
+      "textId": null
+    },
+    {
+      "id": "a1-er_verbs-004",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "er_verbs",
+      "question": "Nous ___ la télévision le soir.",
+      "options": [
+        "regardez",
+        "regardent",
+        "regarde",
+        "regardons"
+      ],
+      "answer": 3,
+      "explanation": "With nous, regular -er verbs end in -ons: regardons.",
+      "textId": null
+    },
+    {
+      "id": "a1-er_verbs-005",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "er_verbs",
+      "question": "Vous ___ de la musique ?",
+      "options": [
+        "écoutez",
+        "écoutons",
+        "écoutes",
+        "écoutent"
+      ],
+      "answer": 0,
+      "explanation": "With vous, regular -er verbs end in -ez: écoutez.",
+      "textId": null
+    },
+    {
+      "id": "a1-er_verbs-006",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "er_verbs",
+      "question": "Ils ___ au football le samedi.",
+      "options": [
+        "joue",
+        "jouent",
+        "jouons",
+        "jouez"
+      ],
+      "answer": 1,
+      "explanation": "With ils, elles or a plural noun, regular -er verbs end in -ent (silent): jouent.",
+      "textId": null
+    },
+    {
+      "id": "a1-er_verbs-007",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "er_verbs",
+      "question": "J’___ le chocolat.",
+      "options": [
+        "aimes",
+        "aimons",
+        "aime",
+        "aiment"
+      ],
+      "answer": 2,
+      "explanation": "With je, regular -er verbs end in -e: aime.",
+      "textId": null
+    },
+    {
+      "id": "a1-er_verbs-008",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "er_verbs",
+      "question": "Tu ___ ton téléphone ?",
+      "options": [
+        "cherche",
+        "cherchez",
+        "cherchent",
+        "cherches"
+      ],
+      "answer": 3,
+      "explanation": "With tu, regular -er verbs end in -es: cherches.",
+      "textId": null
+    },
+    {
+      "id": "a1-er_verbs-009",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "er_verbs",
+      "question": "Mon père ___ très bien.",
+      "options": [
+        "cuisine",
+        "cuisines",
+        "cuisinent",
+        "cuisinez"
+      ],
+      "answer": 0,
+      "explanation": "With il, elle, on or a singular noun, regular -er verbs end in -e: cuisine.",
+      "textId": null
+    },
+    {
+      "id": "a1-er_verbs-010",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "er_verbs",
+      "question": "Nous ___ à huit heures.",
+      "options": [
+        "arrivez",
+        "arrivons",
+        "arrivent",
+        "arrive"
+      ],
+      "answer": 1,
+      "explanation": "With nous, regular -er verbs end in -ons: arrivons.",
+      "textId": null
+    },
+    {
+      "id": "a1-er_verbs-011",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "er_verbs",
+      "question": "Vous ___ le français à l’université ?",
+      "options": [
+        "étudions",
+        "étudies",
+        "étudiez",
+        "étudient"
+      ],
+      "answer": 2,
+      "explanation": "With vous, regular -er verbs end in -ez: étudiez.",
+      "textId": null
+    },
+    {
+      "id": "a1-er_verbs-012",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "er_verbs",
+      "question": "Les enfants ___ dans le parc.",
+      "options": [
+        "joue",
+        "jouez",
+        "jouons",
+        "jouent"
+      ],
+      "answer": 3,
+      "explanation": "With ils, elles or a plural noun, regular -er verbs end in -ent (silent): jouent.",
+      "textId": null
+    },
+    {
+      "id": "a1-er_verbs-013",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "er_verbs",
+      "question": "Je ___ mes clés partout.",
+      "options": [
+        "cherche",
+        "cherches",
+        "cherchez",
+        "cherchent"
+      ],
+      "answer": 0,
+      "explanation": "With je, regular -er verbs end in -e: cherche.",
+      "textId": null
+    },
+    {
+      "id": "a1-er_verbs-014",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "er_verbs",
+      "question": "Tu ___ beaucoup de questions.",
+      "options": [
+        "pose",
+        "poses",
+        "posez",
+        "posent"
+      ],
+      "answer": 1,
+      "explanation": "With tu, regular -er verbs end in -es: poses.",
+      "textId": null
+    },
+    {
+      "id": "a1-er_verbs-015",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "er_verbs",
+      "question": "Il ___ sa mère dans le jardin.",
+      "options": [
+        "aides",
+        "aidons",
+        "aide",
+        "aidez"
+      ],
+      "answer": 2,
+      "explanation": "With il, elle, on or a singular noun, regular -er verbs end in -e: aide.",
+      "textId": null
+    },
+    {
+      "id": "a1-er_verbs-016",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "er_verbs",
+      "question": "On ___ une pizza ce soir ?",
+      "options": [
+        "commandes",
+        "commandons",
+        "commandent",
+        "commande"
+      ],
+      "answer": 3,
+      "explanation": "On takes the il/elle form, ending in -e: commande.",
+      "textId": null
+    },
+    {
+      "id": "a1-er_verbs-017",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "er_verbs",
+      "question": "Nous ___ le dîner ensemble.",
+      "options": [
+        "préparons",
+        "préparez",
+        "prépare",
+        "préparent"
+      ],
+      "answer": 0,
+      "explanation": "With nous, regular -er verbs end in -ons: préparons.",
+      "textId": null
+    },
+    {
+      "id": "a1-er_verbs-018",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "er_verbs",
+      "question": "Vous ___ où ?",
+      "options": [
+        "habitons",
+        "habitez",
+        "habites",
+        "habite"
+      ],
+      "answer": 1,
+      "explanation": "With vous, regular -er verbs end in -ez: habitez.",
+      "textId": null
+    },
+    {
+      "id": "a1-er_verbs-019",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "er_verbs",
+      "question": "Elles ___ très bien.",
+      "options": [
+        "chante",
+        "chantez",
+        "chantent",
+        "chantons"
+      ],
+      "answer": 2,
+      "explanation": "With ils, elles or a plural noun, regular -er verbs end in -ent (silent): chantent.",
+      "textId": null
+    },
+    {
+      "id": "a1-er_verbs-020",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "er_verbs",
+      "question": "Je ___ mon ami à la gare.",
+      "options": [
+        "retrouves",
+        "retrouvons",
+        "retrouvez",
+        "retrouve"
+      ],
+      "answer": 3,
+      "explanation": "With je, regular -er verbs end in -e: retrouve.",
+      "textId": null
+    },
+    {
+      "id": "a1-er_verbs-021",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "er_verbs",
+      "question": "Tu ___ la porte, s’il te plaît ?",
+      "options": [
+        "fermes",
+        "ferme",
+        "fermez",
+        "ferment"
+      ],
+      "answer": 0,
+      "explanation": "With tu, regular -er verbs end in -es: fermes.",
+      "textId": null
+    },
+    {
+      "id": "a1-er_verbs-022",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "er_verbs",
+      "question": "Ma sœur ___ en ville.",
+      "options": [
+        "travailles",
+        "travaille",
+        "travaillons",
+        "travaillent"
+      ],
+      "answer": 1,
+      "explanation": "With il, elle, on or a singular noun, regular -er verbs end in -e: travaille.",
+      "textId": null
+    },
+    {
+      "id": "a1-er_verbs-023",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "er_verbs",
+      "question": "Nous ___ en français en classe.",
+      "options": [
+        "parlez",
+        "parlent",
+        "parlons",
+        "parle"
+      ],
+      "answer": 2,
+      "explanation": "With nous, regular -er verbs end in -ons: parlons.",
+      "textId": null
+    },
+    {
+      "id": "a1-er_verbs-024",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "er_verbs",
+      "question": "Vous ___ du sucre dans votre café ?",
+      "options": [
+        "ajoutons",
+        "ajoutes",
+        "ajoutent",
+        "ajoutez"
+      ],
+      "answer": 3,
+      "explanation": "With vous, regular -er verbs end in -ez: ajoutez.",
+      "textId": null
+    },
+    {
+      "id": "a1-er_verbs-025",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "er_verbs",
+      "question": "Mes parents ___ à Montréal.",
+      "options": [
+        "habitent",
+        "habite",
+        "habitons",
+        "habitez"
+      ],
+      "answer": 0,
+      "explanation": "With ils, elles or a plural noun, regular -er verbs end in -ent (silent): habitent.",
+      "textId": null
+    },
+    {
+      "id": "a1-er_verbs-026",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "er_verbs",
+      "question": "Je ___ le métro pour aller au travail.",
+      "options": [
+        "utilises",
+        "utilise",
+        "utilisons",
+        "utilisent"
+      ],
+      "answer": 1,
+      "explanation": "With je, regular -er verbs end in -e: utilise.",
+      "textId": null
+    },
+    {
+      "id": "a1-er_verbs-027",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "er_verbs",
+      "question": "Tu ___ trop vite !",
+      "options": [
+        "marche",
+        "marchez",
+        "marches",
+        "marchent"
+      ],
+      "answer": 2,
+      "explanation": "With tu, regular -er verbs end in -es: marches.",
+      "textId": null
+    },
+    {
+      "id": "a1-er_verbs-028",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "er_verbs",
+      "question": "Le cours ___ à neuf heures.",
+      "options": [
+        "commences",
+        "commencent",
+        "commencez",
+        "commence"
+      ],
+      "answer": 3,
+      "explanation": "With il, elle, on or a singular noun, regular -er verbs end in -e: commence.",
+      "textId": null
+    },
+    {
+      "id": "a1-er_verbs-029",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "er_verbs",
+      "question": "Nous ___ nos amis ce week-end.",
+      "options": [
+        "invitons",
+        "invitez",
+        "invitent",
+        "invite"
+      ],
+      "answer": 0,
+      "explanation": "With nous, regular -er verbs end in -ons: invitons.",
+      "textId": null
+    },
+    {
+      "id": "a1-er_verbs-030",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "er_verbs",
+      "question": "Vous ___ le menu ?",
+      "options": [
+        "regardons",
+        "regardez",
+        "regardes",
+        "regardent"
+      ],
+      "answer": 1,
+      "explanation": "With vous, regular -er verbs end in -ez: regardez.",
+      "textId": null
+    },
+    {
+      "id": "a1-er_verbs-031",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "er_verbs",
+      "question": "Les magasins ___ à dix-huit heures.",
+      "options": [
+        "ferme",
+        "fermons",
+        "ferment",
+        "fermez"
+      ],
+      "answer": 2,
+      "explanation": "With ils, elles or a plural noun, regular -er verbs end in -ent (silent): ferment.",
+      "textId": null
+    },
+    {
+      "id": "a1-er_verbs-032",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "er_verbs",
+      "question": "Je ___ un message à Léa.",
+      "options": [
+        "montres",
+        "montrons",
+        "montrent",
+        "montre"
+      ],
+      "answer": 3,
+      "explanation": "With je, regular -er verbs end in -e: montre.",
+      "textId": null
+    },
+    {
+      "id": "a1-er_verbs-033",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "er_verbs",
+      "question": "Tu ___ quelle langue à la maison ?",
+      "options": [
+        "parles",
+        "parle",
+        "parlez",
+        "parlent"
+      ],
+      "answer": 0,
+      "explanation": "With tu, regular -er verbs end in -es: parles.",
+      "textId": null
+    },
+    {
+      "id": "a1-er_verbs-034",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "er_verbs",
+      "question": "Elle ___ son petit frère.",
+      "options": [
+        "aides",
+        "aide",
+        "aident",
+        "aidez"
+      ],
+      "answer": 1,
+      "explanation": "With il, elle, on or a singular noun, regular -er verbs end in -e: aide.",
+      "textId": null
+    },
+    {
+      "id": "a1-er_verbs-035",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "er_verbs",
+      "question": "Nous ___ beaucoup en été.",
+      "options": [
+        "voyagons",
+        "voyagez",
+        "voyageons",
+        "voyagent"
+      ],
+      "answer": 2,
+      "explanation": "Verbs in -ger keep an e before -ons to keep the soft g sound: voyageons.",
+      "textId": null
+    },
+    {
+      "id": "a1-er_verbs-036",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "er_verbs",
+      "question": "Nous ___ des légumes tous les jours.",
+      "options": [
+        "mangons",
+        "mangez",
+        "mangent",
+        "mangeons"
+      ],
+      "answer": 3,
+      "explanation": "Verbs in -ger keep an e before -ons to keep the soft g sound: mangeons.",
+      "textId": null
+    },
+    {
+      "id": "a1-er_verbs-037",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "er_verbs",
+      "question": "Nous ___ dans la piscine.",
+      "options": [
+        "nageons",
+        "nagons",
+        "nagez",
+        "nagent"
+      ],
+      "answer": 0,
+      "explanation": "Verbs in -ger keep an e before -ons to keep the soft g sound: nageons.",
+      "textId": null
+    },
+    {
+      "id": "a1-er_verbs-038",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "er_verbs",
+      "question": "Nous ___ les valises ensemble.",
+      "options": [
+        "rangons",
+        "rangeons",
+        "rangez",
+        "rangent"
+      ],
+      "answer": 1,
+      "explanation": "Verbs in -ger keep an e before -ons to keep the soft g sound: rangeons.",
+      "textId": null
+    },
+    {
+      "id": "a1-er_verbs-039",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "er_verbs",
+      "question": "Nous ___ d’avis souvent.",
+      "options": [
+        "changons",
+        "changez",
+        "changeons",
+        "changent"
+      ],
+      "answer": 2,
+      "explanation": "Verbs in -ger keep an e before -ons to keep the soft g sound: changeons.",
+      "textId": null
+    },
+    {
+      "id": "a1-er_verbs-040",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "er_verbs",
+      "question": "Nous ___ le travail à neuf heures.",
+      "options": [
+        "commencons",
+        "commencez",
+        "commencent",
+        "commençons"
+      ],
+      "answer": 3,
+      "explanation": "Verbs in -cer change c to ç before -ons to keep the soft c sound: commençons.",
+      "textId": null
+    },
+    {
+      "id": "a1-er_verbs-041",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "er_verbs",
+      "question": "Nous ___ le ballon très loin.",
+      "options": [
+        "lançons",
+        "lancons",
+        "lancez",
+        "lancent"
+      ],
+      "answer": 0,
+      "explanation": "Verbs in -cer change c to ç before -ons to keep the soft c sound: lançons.",
+      "textId": null
+    },
+    {
+      "id": "a1-er_verbs-042",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "er_verbs",
+      "question": "Nous ___ les vieux meubles.",
+      "options": [
+        "remplacons",
+        "remplaçons",
+        "remplacez",
+        "remplacent"
+      ],
+      "answer": 1,
+      "explanation": "Verbs in -cer change c to ç before -ons to keep the soft c sound: remplaçons.",
+      "textId": null
+    },
+    {
+      "id": "a1-er_verbs-043",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "er_verbs",
+      "question": "J’___ du pain à la boulangerie.",
+      "options": [
+        "achete",
+        "achètes",
+        "achète",
+        "achetons"
+      ],
+      "answer": 2,
+      "explanation": "Verbs like acheter, lever, préférer change their accent when the ending is silent (je, tu, il, ils), but not with nous and vous: achète.",
+      "textId": null
+    },
+    {
+      "id": "a1-er_verbs-044",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "er_verbs",
+      "question": "Tu ___ quoi au marché ?",
+      "options": [
+        "achetes",
+        "achète",
+        "achetez",
+        "achètes"
+      ],
+      "answer": 3,
+      "explanation": "Verbs like acheter, lever, préférer change their accent when the ending is silent (je, tu, il, ils), but not with nous and vous: achètes.",
+      "textId": null
+    },
+    {
+      "id": "a1-er_verbs-045",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "er_verbs",
+      "question": "Nous ___ nos billets en ligne.",
+      "options": [
+        "achetons",
+        "achètons",
+        "achetez",
+        "achètent"
+      ],
+      "answer": 0,
+      "explanation": "Verbs like acheter, lever, préférer change their accent when the ending is silent (je, tu, il, ils), but not with nous and vous: achetons.",
+      "textId": null
+    },
+    {
+      "id": "a1-er_verbs-046",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "er_verbs",
+      "question": "Ils ___ une nouvelle voiture.",
+      "options": [
+        "achetent",
+        "achètent",
+        "achète",
+        "achetons"
+      ],
+      "answer": 1,
+      "explanation": "Verbs like acheter, lever, préférer change their accent when the ending is silent (je, tu, il, ils), but not with nous and vous: achètent.",
+      "textId": null
+    },
+    {
+      "id": "a1-er_verbs-047",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "er_verbs",
+      "question": "Je ___ le thé au café.",
+      "options": [
+        "préfére",
+        "préfères",
+        "préfère",
+        "préférons"
+      ],
+      "answer": 2,
+      "explanation": "Verbs like acheter, lever, préférer change their accent when the ending is silent (je, tu, il, ils), but not with nous and vous: préfère.",
+      "textId": null
+    },
+    {
+      "id": "a1-er_verbs-048",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "er_verbs",
+      "question": "Vous ___ la mer ou la montagne ?",
+      "options": [
+        "préfèrez",
+        "préférons",
+        "préfèrent",
+        "préférez"
+      ],
+      "answer": 3,
+      "explanation": "Verbs like acheter, lever, préférer change their accent when the ending is silent (je, tu, il, ils), but not with nous and vous: préférez.",
+      "textId": null
+    },
+    {
+      "id": "a1-er_verbs-049",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "er_verbs",
+      "question": "Elle ___ la main pour répondre.",
+      "options": [
+        "lève",
+        "leve",
+        "lèves",
+        "levons"
+      ],
+      "answer": 0,
+      "explanation": "Verbs like acheter, lever, préférer change their accent when the ending is silent (je, tu, il, ils), but not with nous and vous: lève.",
+      "textId": null
+    },
+    {
+      "id": "a1-er_verbs-050",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "er_verbs",
+      "question": "Tu ___ ton sac ? Il est lourd.",
+      "options": [
+        "leves",
+        "lèves",
+        "lève",
+        "levez"
+      ],
+      "answer": 1,
+      "explanation": "Verbs like acheter, lever, préférer change their accent when the ending is silent (je, tu, il, ils), but not with nous and vous: lèves.",
+      "textId": null
+    },
+    {
+      "id": "a1-er_verbs-051",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "er_verbs",
+      "question": "J’___ que tu es content.",
+      "options": [
+        "espére",
+        "espères",
+        "espère",
+        "espérons"
+      ],
+      "answer": 2,
+      "explanation": "Verbs like acheter, lever, préférer change their accent when the ending is silent (je, tu, il, ils), but not with nous and vous: espère.",
+      "textId": null
+    },
+    {
+      "id": "a1-er_verbs-052",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "er_verbs",
+      "question": "Nous ___ te voir bientôt.",
+      "options": [
+        "espèrons",
+        "espérez",
+        "espèrent",
+        "espérons"
+      ],
+      "answer": 3,
+      "explanation": "Verbs like acheter, lever, préférer change their accent when the ending is silent (je, tu, il, ils), but not with nous and vous: espérons.",
+      "textId": null
+    },
+    {
+      "id": "a1-er_verbs-053",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "er_verbs",
+      "question": "Je m’___ Daniel.",
+      "options": [
+        "appelle",
+        "appele",
+        "appelles",
+        "appelons"
+      ],
+      "answer": 0,
+      "explanation": "Appeler and jeter double the consonant when the ending is silent (je, tu, il, ils), but not with nous and vous: appelle.",
+      "textId": null
+    },
+    {
+      "id": "a1-er_verbs-054",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "er_verbs",
+      "question": "Tu t’___ comment ?",
+      "options": [
+        "appeles",
+        "appelles",
+        "appelle",
+        "appelez"
+      ],
+      "answer": 1,
+      "explanation": "Appeler and jeter double the consonant when the ending is silent (je, tu, il, ils), but not with nous and vous: appelles.",
+      "textId": null
+    },
+    {
+      "id": "a1-er_verbs-055",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "er_verbs",
+      "question": "Vous vous ___ comment ?",
+      "options": [
+        "appellez",
+        "appelons",
+        "appelez",
+        "appellent"
+      ],
+      "answer": 2,
+      "explanation": "Appeler and jeter double the consonant when the ending is silent (je, tu, il, ils), but not with nous and vous: appelez.",
+      "textId": null
+    },
+    {
+      "id": "a1-er_verbs-056",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "er_verbs",
+      "question": "Ils ___ leur chien Max.",
+      "options": [
+        "appelent",
+        "appelle",
+        "appelez",
+        "appellent"
+      ],
+      "answer": 3,
+      "explanation": "Appeler and jeter double the consonant when the ending is silent (je, tu, il, ils), but not with nous and vous: appellent.",
+      "textId": null
+    },
+    {
+      "id": "a1-er_verbs-057",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "er_verbs",
+      "question": "Elle ___ les papiers à la poubelle.",
+      "options": [
+        "jette",
+        "jete",
+        "jettes",
+        "jetons"
+      ],
+      "answer": 0,
+      "explanation": "Appeler and jeter double the consonant when the ending is silent (je, tu, il, ils), but not with nous and vous: jette.",
+      "textId": null
+    },
+    {
+      "id": "a1-er_verbs-058",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "er_verbs",
+      "question": "Nous ___ nos amis ce soir.",
+      "options": [
+        "appellons",
+        "appelons",
+        "appelez",
+        "appellent"
+      ],
+      "answer": 1,
+      "explanation": "Appeler and jeter double the consonant when the ending is silent (je, tu, il, ils), but not with nous and vous: appelons.",
+      "textId": null
+    },
+    {
+      "id": "a1-er_verbs-059",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "er_verbs",
+      "question": "Je ___ par carte.",
+      "options": [
+        "payes",
+        "payons",
+        "paie",
+        "paient"
+      ],
+      "answer": 2,
+      "explanation": "Verbs in -yer change y to i when the ending is silent (je, tu, il, ils), but not with nous and vous: paie.",
+      "textId": null
+    },
+    {
+      "id": "a1-er_verbs-060",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "er_verbs",
+      "question": "Vous ___ comment ?",
+      "options": [
+        "paiez",
+        "payons",
+        "paient",
+        "payez"
+      ],
+      "answer": 3,
+      "explanation": "Verbs in -yer change y to i when the ending is silent (je, tu, il, ils), but not with nous and vous: payez.",
+      "textId": null
+    },
+    {
+      "id": "a1-er_verbs-061",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "er_verbs",
+      "question": "Tu ___ ce nouveau restaurant ?",
+      "options": [
+        "essaies",
+        "essaie",
+        "essayez",
+        "essaient"
+      ],
+      "answer": 0,
+      "explanation": "Verbs in -yer change y to i when the ending is silent (je, tu, il, ils), but not with nous and vous: essaies.",
+      "textId": null
+    },
+    {
+      "id": "a1-er_verbs-062",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "er_verbs",
+      "question": "Elle ___ la table après le repas.",
+      "options": [
+        "nettoies",
+        "nettoie",
+        "nettoyons",
+        "nettoient"
+      ],
+      "answer": 1,
+      "explanation": "Verbs in -yer change y to i when the ending is silent (je, tu, il, ils), but not with nous and vous: nettoie.",
+      "textId": null
+    },
+    {
+      "id": "a1-er_verbs-063",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "er_verbs",
+      "question": "Nous ___ un courriel au professeur.",
+      "options": [
+        "envoions",
+        "envoyez",
+        "envoyons",
+        "envoient"
+      ],
+      "answer": 2,
+      "explanation": "Verbs in -yer change y to i when the ending is silent (je, tu, il, ils), but not with nous and vous: envoyons.",
+      "textId": null
+    },
+    {
+      "id": "a1-er_verbs-064",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "er_verbs",
+      "question": "Ils ___ des photos à leurs parents.",
+      "options": [
+        "envoyent",
+        "envoie",
+        "envoyons",
+        "envoient"
+      ],
+      "answer": 3,
+      "explanation": "Verbs in -yer change y to i when the ending is silent (je, tu, il, ils), but not with nous and vous: envoient.",
+      "textId": null
+    },
+    {
+      "id": "a1-er_verbs-065",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "er_verbs",
+      "question": "J’___ la radio le matin.",
+      "options": [
+        "écoute",
+        "écoutes",
+        "écoutons",
+        "écoutent"
+      ],
+      "answer": 0,
+      "explanation": "With je, regular -er verbs end in -e: écoute.",
+      "textId": null
+    },
+    {
+      "id": "a1-er_verbs-066",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "er_verbs",
+      "question": "Tu ___ le dessert ?",
+      "options": [
+        "goûte",
+        "goûtes",
+        "goûtez",
+        "goûtent"
+      ],
+      "answer": 1,
+      "explanation": "With tu, regular -er verbs end in -es: goûtes.",
+      "textId": null
+    },
+    {
+      "id": "a1-er_verbs-067",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "er_verbs",
+      "question": "Paul ___ sa chambre.",
+      "options": [
+        "ranges",
+        "rangent",
+        "range",
+        "rangez"
+      ],
+      "answer": 2,
+      "explanation": "With il, elle, on or a singular noun, regular -er verbs end in -e: range.",
+      "textId": null
+    },
+    {
+      "id": "a1-er_verbs-068",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "er_verbs",
+      "question": "Nous ___ la rue ici.",
+      "options": [
+        "traversez",
+        "traversent",
+        "traverse",
+        "traversons"
+      ],
+      "answer": 3,
+      "explanation": "With nous, regular -er verbs end in -ons: traversons.",
+      "textId": null
+    },
+    {
+      "id": "a1-er_verbs-069",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "er_verbs",
+      "question": "Vous ___ à quelle heure ?",
+      "options": [
+        "déjeunez",
+        "déjeunons",
+        "déjeunes",
+        "déjeunent"
+      ],
+      "answer": 0,
+      "explanation": "With vous, regular -er verbs end in -ez: déjeunez.",
+      "textId": null
+    },
+    {
+      "id": "a1-er_verbs-070",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "er_verbs",
+      "question": "Léa et Tom ___ ensemble.",
+      "options": [
+        "danse",
+        "dansent",
+        "dansons",
+        "dansez"
+      ],
+      "answer": 1,
+      "explanation": "With ils, elles or a plural noun, regular -er verbs end in -ent (silent): dansent.",
+      "textId": null
+    },
+    {
+      "id": "a1-er_verbs-071",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "er_verbs",
+      "question": "Je ___ toujours mon parapluie.",
+      "options": [
+        "oublies",
+        "oublions",
+        "oublie",
+        "oublient"
+      ],
+      "answer": 2,
+      "explanation": "With je, regular -er verbs end in -e: oublie.",
+      "textId": null
+    },
+    {
+      "id": "a1-er_verbs-072",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "er_verbs",
+      "question": "Tu ___ ton café ?",
+      "options": [
+        "termine",
+        "terminez",
+        "terminent",
+        "termines"
+      ],
+      "answer": 3,
+      "explanation": "With tu, regular -er verbs end in -es: termines.",
+      "textId": null
+    },
+    {
+      "id": "a1-er_verbs-073",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "er_verbs",
+      "question": "Le bébé ___ beaucoup la nuit.",
+      "options": [
+        "pleure",
+        "pleures",
+        "pleurent",
+        "pleurez"
+      ],
+      "answer": 0,
+      "explanation": "With il, elle, on or a singular noun, regular -er verbs end in -e: pleure.",
+      "textId": null
+    },
+    {
+      "id": "a1-er_verbs-074",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "er_verbs",
+      "question": "Nous ___ un film ce soir.",
+      "options": [
+        "regardez",
+        "regardons",
+        "regardent",
+        "regarde"
+      ],
+      "answer": 1,
+      "explanation": "With nous, regular -er verbs end in -ons: regardons.",
+      "textId": null
+    },
+    {
+      "id": "a1-er_verbs-075",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "er_verbs",
+      "question": "Vous ___ ici ?",
+      "options": [
+        "travaillons",
+        "travailles",
+        "travaillez",
+        "travaillent"
+      ],
+      "answer": 2,
+      "explanation": "With vous, regular -er verbs end in -ez: travaillez.",
+      "textId": null
+    },
+    {
+      "id": "a1-er_verbs-076",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "er_verbs",
+      "question": "Les touristes ___ la ville à pied.",
+      "options": [
+        "visite",
+        "visitons",
+        "visitez",
+        "visitent"
+      ],
+      "answer": 3,
+      "explanation": "With ils, elles or a plural noun, regular -er verbs end in -ent (silent): visitent.",
+      "textId": null
+    },
+    {
+      "id": "a1-er_verbs-077",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "er_verbs",
+      "question": "Je ___ à ma grand-mère le dimanche.",
+      "options": [
+        "téléphone",
+        "téléphones",
+        "téléphonons",
+        "téléphonent"
+      ],
+      "answer": 0,
+      "explanation": "With je, regular -er verbs end in -e: téléphone.",
+      "textId": null
+    },
+    {
+      "id": "a1-er_verbs-078",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "er_verbs",
+      "question": "Elle ___ une robe rouge.",
+      "options": [
+        "portes",
+        "porte",
+        "portent",
+        "portez"
+      ],
+      "answer": 1,
+      "explanation": "With il, elle, on or a singular noun, regular -er verbs end in -e: porte.",
+      "textId": null
+    },
+    {
+      "id": "a1-er_verbs-079",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "er_verbs",
+      "question": "Vous ___ le train de huit heures ?",
+      "options": [
+        "réservons",
+        "réserves",
+        "réservez",
+        "réservent"
+      ],
+      "answer": 2,
+      "explanation": "With vous, regular -er verbs end in -ez: réservez.",
+      "textId": null
+    },
+    {
+      "id": "a1-er_verbs-080",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "er_verbs",
+      "question": "Ils ___ le professeur attentivement.",
+      "options": [
+        "écoute",
+        "écoutons",
+        "écoutez",
+        "écoutent"
+      ],
+      "answer": 3,
+      "explanation": "With ils, elles or a plural noun, regular -er verbs end in -ent (silent): écoutent.",
+      "textId": null
+    }
+  ]
+}

@@ -1,0 +1,485 @@
+{
+  "texts": [],
+  "questions": [
+    {
+      "id": "a2-passe_compose-051",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "passe_compose",
+      "question": "Elle ___ à Paris l’année dernière.",
+      "options": [
+        "est allée",
+        "a allé",
+        "est allé",
+        "a allée"
+      ],
+      "answer": 0,
+      "explanation": "This verb of movement or change of state takes être in the passé composé, and the past participle agrees with the subject: est allée.",
+      "textId": null
+    },
+    {
+      "id": "a2-passe_compose-052",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "passe_compose",
+      "question": "Nous ___ très tard hier soir. (masculin)",
+      "options": [
+        "avons rentré",
+        "sommes rentrés",
+        "sommes rentré",
+        "avons rentrés"
+      ],
+      "answer": 1,
+      "explanation": "This verb of movement or change of state takes être in the passé composé, and the past participle agrees with the subject: sommes rentrés.",
+      "textId": null
+    },
+    {
+      "id": "a2-passe_compose-053",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "passe_compose",
+      "question": "Marie et Julie ___ à huit heures.",
+      "options": [
+        "ont arrivé",
+        "sont arrivés",
+        "sont arrivées",
+        "sont arrivée"
+      ],
+      "answer": 2,
+      "explanation": "This verb of movement or change of state takes être in the passé composé, and the past participle agrees with the subject: sont arrivées.",
+      "textId": null
+    },
+    {
+      "id": "a2-passe_compose-054",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "passe_compose",
+      "question": "Il ___ en 2006.",
+      "options": [
+        "a né",
+        "est née",
+        "a été né",
+        "est né"
+      ],
+      "answer": 3,
+      "explanation": "This verb of movement or change of state takes être in the passé composé, and the past participle agrees with the subject: est né.",
+      "textId": null
+    },
+    {
+      "id": "a2-passe_compose-055",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "passe_compose",
+      "question": "Mes parents ___ au Canada en 1998.",
+      "options": [
+        "sont venus",
+        "ont venu",
+        "sont venu",
+        "ont venus"
+      ],
+      "answer": 0,
+      "explanation": "This verb of movement or change of state takes être in the passé composé, and the past participle agrees with the subject: sont venus.",
+      "textId": null
+    },
+    {
+      "id": "a2-passe_compose-056",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "passe_compose",
+      "question": "Elle ___ de chez elle à sept heures.",
+      "options": [
+        "a parti",
+        "est partie",
+        "est parti",
+        "a partie"
+      ],
+      "answer": 1,
+      "explanation": "This verb of movement or change of state takes être in the passé composé, and the past participle agrees with the subject: est partie.",
+      "textId": null
+    },
+    {
+      "id": "a2-passe_compose-057",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "passe_compose",
+      "question": "Tu ___ où hier soir, Paul ?",
+      "options": [
+        "as sorti",
+        "es sortie",
+        "es sorti",
+        "es sortis"
+      ],
+      "answer": 2,
+      "explanation": "This verb of movement or change of state takes être in the passé composé, and the past participle agrees with the subject: es sorti.",
+      "textId": null
+    },
+    {
+      "id": "a2-passe_compose-058",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "passe_compose",
+      "question": "Ils ___ à la maison tout le week-end.",
+      "options": [
+        "ont resté",
+        "sont resté",
+        "ont restés",
+        "sont restés"
+      ],
+      "answer": 3,
+      "explanation": "This verb of movement or change of state takes être in the passé composé, and the past participle agrees with the subject: sont restés.",
+      "textId": null
+    },
+    {
+      "id": "a2-passe_compose-059",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "passe_compose",
+      "question": "Ma grand-mère ___ dans la rue.",
+      "options": [
+        "est tombée",
+        "a tombé",
+        "est tombé",
+        "a tombée"
+      ],
+      "answer": 0,
+      "explanation": "This verb of movement or change of state takes être in the passé composé, and the past participle agrees with the subject: est tombée.",
+      "textId": null
+    },
+    {
+      "id": "a2-passe_compose-060",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "passe_compose",
+      "question": "Le train ___ à l’heure.",
+      "options": [
+        "a parti",
+        "est parti",
+        "est partie",
+        "est partis"
+      ],
+      "answer": 1,
+      "explanation": "This verb of movement or change of state takes être in the passé composé, and the past participle agrees with the subject: est parti.",
+      "textId": null
+    },
+    {
+      "id": "a2-passe_compose-061",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "passe_compose",
+      "question": "Elles ___ en haut de la tour Eiffel.",
+      "options": [
+        "ont monté",
+        "sont montés",
+        "sont montées",
+        "sont montée"
+      ],
+      "answer": 2,
+      "explanation": "This verb of movement or change of state takes être in the passé composé, and the past participle agrees with the subject: sont montées.",
+      "textId": null
+    },
+    {
+      "id": "a2-passe_compose-062",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "passe_compose",
+      "question": "Je ___ chez moi vers minuit. (Léa parle)",
+      "options": [
+        "ai rentré",
+        "suis rentré",
+        "ai rentrée",
+        "suis rentrée"
+      ],
+      "answer": 3,
+      "explanation": "This verb of movement or change of state takes être in the passé composé, and the past participle agrees with the subject: suis rentrée.",
+      "textId": null
+    },
+    {
+      "id": "a2-passe_compose-063",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "passe_compose",
+      "question": "Je ___ à sept heures ce matin. (Paul parle)",
+      "options": [
+        "me suis levé",
+        "m’ai levé",
+        "me suis levée",
+        "m’est levé"
+      ],
+      "answer": 0,
+      "explanation": "Reflexive verbs always take être in the passé composé; the past participle normally agrees with the subject: me suis levé.",
+      "textId": null
+    },
+    {
+      "id": "a2-passe_compose-064",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "passe_compose",
+      "question": "Elle ___ très tard.",
+      "options": [
+        "s’a couché",
+        "s’est couchée",
+        "s’est couché",
+        "a se couché"
+      ],
+      "answer": 1,
+      "explanation": "Reflexive verbs always take être in the passé composé; the past participle normally agrees with the subject: s’est couchée.",
+      "textId": null
+    },
+    {
+      "id": "a2-passe_compose-065",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "passe_compose",
+      "question": "Nous ___ au parc. (féminin)",
+      "options": [
+        "nous avons promené",
+        "nous sommes promené",
+        "nous sommes promenées",
+        "sommes nous promenées"
+      ],
+      "answer": 2,
+      "explanation": "Reflexive verbs always take être in the passé composé; the past participle normally agrees with the subject: nous sommes promenées.",
+      "textId": null
+    },
+    {
+      "id": "a2-passe_compose-066",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "passe_compose",
+      "question": "Ils ___ en 2015.",
+      "options": [
+        "s’ont marié",
+        "se sont marié",
+        "se ont mariés",
+        "se sont mariés"
+      ],
+      "answer": 3,
+      "explanation": "Reflexive verbs always take être in the passé composé; the past participle normally agrees with the subject: se sont mariés.",
+      "textId": null
+    },
+    {
+      "id": "a2-passe_compose-067",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "passe_compose",
+      "question": "Tu ___ ce matin, Julie ?",
+      "options": [
+        "t’es réveillée",
+        "t’as réveillé",
+        "t’es réveillé",
+        "tu es réveillée"
+      ],
+      "answer": 0,
+      "explanation": "Reflexive verbs always take être in the passé composé; the past participle normally agrees with the subject: t’es réveillée.",
+      "textId": null
+    },
+    {
+      "id": "a2-passe_compose-068",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "passe_compose",
+      "question": "Les enfants ___ à la fête.",
+      "options": [
+        "s’ont amusé",
+        "se sont amusés",
+        "se sont amusé",
+        "sont s’amusés"
+      ],
+      "answer": 1,
+      "explanation": "Reflexive verbs always take être in the passé composé; the past participle normally agrees with the subject: se sont amusés.",
+      "textId": null
+    },
+    {
+      "id": "a2-passe_compose-069",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "passe_compose",
+      "question": "J’___ le bus ce matin.",
+      "options": [
+        "ai prendu",
+        "suis pris",
+        "ai pris",
+        "ai prit"
+      ],
+      "answer": 2,
+      "explanation": "Irregular past participle: ai pris.",
+      "textId": null
+    },
+    {
+      "id": "a2-passe_compose-070",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "passe_compose",
+      "question": "Tu ___ ce film ?",
+      "options": [
+        "as voyé",
+        "es vu",
+        "as vi",
+        "as vu"
+      ],
+      "answer": 3,
+      "explanation": "Irregular past participle: as vu.",
+      "textId": null
+    },
+    {
+      "id": "a2-passe_compose-071",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "passe_compose",
+      "question": "Nous ___ un café en terrasse.",
+      "options": [
+        "avons bu",
+        "avons boit",
+        "sommes bu",
+        "avons buvé"
+      ],
+      "answer": 0,
+      "explanation": "Irregular past participle: avons bu.",
+      "textId": null
+    },
+    {
+      "id": "a2-passe_compose-072",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "passe_compose",
+      "question": "Elle ___ un courriel à son professeur.",
+      "options": [
+        "a écrivé",
+        "a écrit",
+        "est écrit",
+        "a écri"
+      ],
+      "answer": 1,
+      "explanation": "Irregular past participle: a écrit.",
+      "textId": null
+    },
+    {
+      "id": "a2-passe_compose-073",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "passe_compose",
+      "question": "Ils ___ « bonjour » en entrant.",
+      "options": [
+        "ont disé",
+        "sont dit",
+        "ont dit",
+        "ont di"
+      ],
+      "answer": 2,
+      "explanation": "Irregular past participle: ont dit.",
+      "textId": null
+    },
+    {
+      "id": "a2-passe_compose-074",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "passe_compose",
+      "question": "J’___ trois livres cet été.",
+      "options": [
+        "ai lit",
+        "suis lu",
+        "ai lisé",
+        "ai lu"
+      ],
+      "answer": 3,
+      "explanation": "Irregular past participle: ai lu.",
+      "textId": null
+    },
+    {
+      "id": "a2-passe_compose-075",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "passe_compose",
+      "question": "Vous ___ la porte ?",
+      "options": [
+        "avez ouvert",
+        "avez ouvri",
+        "êtes ouvert",
+        "avez ouvré"
+      ],
+      "answer": 0,
+      "explanation": "Irregular past participle: avez ouvert.",
+      "textId": null
+    },
+    {
+      "id": "a2-passe_compose-076",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "passe_compose",
+      "question": "Il ___ malade toute la semaine.",
+      "options": [
+        "est été",
+        "a été",
+        "a était",
+        "a êté"
+      ],
+      "answer": 1,
+      "explanation": "The passé composé of être uses avoir: j’ai été, il a été.",
+      "textId": null
+    },
+    {
+      "id": "a2-passe_compose-077",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "passe_compose",
+      "question": "Nous ___ beaucoup de chance.",
+      "options": [
+        "sommes eu",
+        "avons avu",
+        "avons eu",
+        "avons eus"
+      ],
+      "answer": 2,
+      "explanation": "The passé composé of avoir uses avoir, with the past participle eu: nous avons eu.",
+      "textId": null
+    },
+    {
+      "id": "a2-passe_compose-078",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "passe_compose",
+      "question": "J’___ un cadeau pour mon anniversaire.",
+      "options": [
+        "ai recevu",
+        "suis reçu",
+        "ai reçoit",
+        "ai reçu"
+      ],
+      "answer": 3,
+      "explanation": "Irregular past participle: ai reçu.",
+      "textId": null
+    },
+    {
+      "id": "a2-passe_compose-079",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "passe_compose",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "Je n’ai pas compris la question.",
+        "Je n’ai compris pas la question.",
+        "J’ai ne pas compris la question.",
+        "Je ne pas ai compris la question."
+      ],
+      "answer": 0,
+      "explanation": "In the passé composé, ne … pas goes around the auxiliary (avoir or être), before the past participle.",
+      "textId": null
+    },
+    {
+      "id": "a2-passe_compose-080",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "passe_compose",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "Elle n’est venue pas hier.",
+        "Elle n’est pas venue hier.",
+        "Elle est ne pas venue hier.",
+        "Elle ne pas est venue hier."
+      ],
+      "answer": 1,
+      "explanation": "In the passé composé, ne … pas goes around the auxiliary (avoir or être), before the past participle.",
+      "textId": null
+    }
+  ]
+}

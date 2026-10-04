@@ -1,0 +1,1317 @@
+{
+  "texts": [],
+  "questions": [
+    {
+      "id": "c1-participe_present-001",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "participe_present",
+      "question": "C’est un film ___.",
+      "options": [
+        "passionnant",
+        "passionnante",
+        "passionnants",
+        "passionnantes"
+      ],
+      "answer": 0,
+      "explanation": "The verbal adjective works as an adjective: it describes a quality, it can be replaced by another adjective, and it agrees with the noun.",
+      "textId": null
+    },
+    {
+      "id": "c1-participe_present-002",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "participe_present",
+      "question": "C’est une histoire ___.",
+      "options": [
+        "passionnant",
+        "passionnante",
+        "passionnants",
+        "passionner"
+      ],
+      "answer": 1,
+      "explanation": "The verbal adjective works as an adjective: it describes a quality, it can be replaced by another adjective, and it agrees with the noun.",
+      "textId": null
+    },
+    {
+      "id": "c1-participe_present-003",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "participe_present",
+      "question": "Ce sont des enfants très ___.",
+      "options": [
+        "obéissant",
+        "obéissante",
+        "obéissants",
+        "obéir"
+      ],
+      "answer": 2,
+      "explanation": "The verbal adjective works as an adjective: it describes a quality, it can be replaced by another adjective, and it agrees with the noun.",
+      "textId": null
+    },
+    {
+      "id": "c1-participe_present-004",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "participe_present",
+      "question": "Elle a une voix ___.",
+      "options": [
+        "charmant",
+        "charmants",
+        "charmer",
+        "charmante"
+      ],
+      "answer": 3,
+      "explanation": "The verbal adjective works as an adjective: it describes a quality, it can be replaced by another adjective, and it agrees with the noun.",
+      "textId": null
+    },
+    {
+      "id": "c1-participe_present-005",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "participe_present",
+      "question": "Ce sont des nouvelles ___.",
+      "options": [
+        "inquiétantes",
+        "inquiétant",
+        "inquiétants",
+        "inquiéter"
+      ],
+      "answer": 0,
+      "explanation": "The verbal adjective works as an adjective: it describes a quality, it can be replaced by another adjective, and it agrees with the noun.",
+      "textId": null
+    },
+    {
+      "id": "c1-participe_present-006",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "participe_present",
+      "question": "Il nous a raconté une anecdote ___.",
+      "options": [
+        "amusant",
+        "amusante",
+        "amusants",
+        "amuser"
+      ],
+      "answer": 1,
+      "explanation": "The verbal adjective works as an adjective: it describes a quality, it can be replaced by another adjective, and it agrees with the noun.",
+      "textId": null
+    },
+    {
+      "id": "c1-participe_present-007",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "participe_present",
+      "question": "J’ai rencontré des gens ___.",
+      "options": [
+        "intéressant",
+        "intéressante",
+        "intéressants",
+        "intéresser"
+      ],
+      "answer": 2,
+      "explanation": "The verbal adjective works as an adjective: it describes a quality, it can be replaced by another adjective, and it agrees with the noun.",
+      "textId": null
+    },
+    {
+      "id": "c1-participe_present-008",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "participe_present",
+      "question": "La semaine a été ___.",
+      "options": [
+        "fatiguant",
+        "fatiguante",
+        "fatigant",
+        "fatigante"
+      ],
+      "answer": 3,
+      "explanation": "Some verbs spell the participle and the adjective differently. Participle / adjective: fatiguant / fatigant, communiquant / communicant, convainquant / convaincant, provoquant / provocant, négligeant / négligent, différant / différent, précédant / précédent, excellant / excellent, équivalant / équivalent, influant / influent.",
+      "textId": null
+    },
+    {
+      "id": "c1-participe_present-009",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "participe_present",
+      "question": "J’ai vu des enfants ___ dans la rue.",
+      "options": [
+        "jouant",
+        "jouants",
+        "jouante",
+        "jouantes"
+      ],
+      "answer": 0,
+      "explanation": "The present participle (-ant) works as a verb: it can take an object or a complement, it expresses an action, and it never agrees.",
+      "textId": null
+    },
+    {
+      "id": "c1-participe_present-010",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "participe_present",
+      "question": "Les personnes ___ un billet peuvent entrer.",
+      "options": [
+        "ayants",
+        "ayant",
+        "ayante",
+        "ayantes"
+      ],
+      "answer": 1,
+      "explanation": "The present participle (-ant) works as a verb: it can take an object or a complement, it expresses an action, and it never agrees.",
+      "textId": null
+    },
+    {
+      "id": "c1-participe_present-011",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "participe_present",
+      "question": "Nous cherchons une secrétaire ___ trois langues.",
+      "options": [
+        "parlante",
+        "parlants",
+        "parlant",
+        "parlantes"
+      ],
+      "answer": 2,
+      "explanation": "The present participle (-ant) works as a verb: it can take an object or a complement, it expresses an action, and it never agrees.",
+      "textId": null
+    },
+    {
+      "id": "c1-participe_present-012",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "participe_present",
+      "question": "Les élèves ___ ce cours doivent s’inscrire.",
+      "options": [
+        "suivants",
+        "suivante",
+        "suivantes",
+        "suivant"
+      ],
+      "answer": 3,
+      "explanation": "The present participle (-ant) works as a verb: it can take an object or a complement, it expresses an action, and it never agrees.",
+      "textId": null
+    },
+    {
+      "id": "c1-participe_present-013",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "participe_present",
+      "question": "Voici la liste des étudiants ___ réussi l’examen.",
+      "options": [
+        "ayant",
+        "ayants",
+        "ayante",
+        "étant"
+      ],
+      "answer": 0,
+      "explanation": "The present participle (-ant) works as a verb: it can take an object or a complement, it expresses an action, and it never agrees.",
+      "textId": null
+    },
+    {
+      "id": "c1-participe_present-014",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "participe_present",
+      "question": "Une femme ___ un chapeau rouge est entrée.",
+      "options": [
+        "portante",
+        "portant",
+        "portants",
+        "portée"
+      ],
+      "answer": 1,
+      "explanation": "The present participle (-ant) works as a verb: it can take an object or a complement, it expresses an action, and it never agrees.",
+      "textId": null
+    },
+    {
+      "id": "c1-participe_present-015",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "participe_present",
+      "question": "Les passagers ___ à Lyon sont priés de se présenter.",
+      "options": [
+        "descendants",
+        "descendante",
+        "descendant",
+        "descendre"
+      ],
+      "answer": 2,
+      "explanation": "The present participle (-ant) works as a verb: it can take an object or a complement, it expresses an action, and it never agrees.",
+      "textId": null
+    },
+    {
+      "id": "c1-participe_present-016",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "participe_present",
+      "question": "J’ai trouvé un chat ___ de faim.",
+      "options": [
+        "mourante",
+        "mourants",
+        "mourir",
+        "mourant"
+      ],
+      "answer": 3,
+      "explanation": "The present participle (-ant) works as a verb: it can take an object or a complement, it expresses an action, and it never agrees.",
+      "textId": null
+    },
+    {
+      "id": "c1-participe_present-017",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "participe_present",
+      "question": "C’est un travail très ___.",
+      "options": [
+        "fatigant",
+        "fatiguant",
+        "fatigante",
+        "fatiguante"
+      ],
+      "answer": 0,
+      "explanation": "Some verbs spell the participle and the adjective differently. Participle / adjective: fatiguant / fatigant, communiquant / communicant, convainquant / convaincant, provoquant / provocant, négligeant / négligent, différant / différent, précédant / précédent, excellant / excellent, équivalant / équivalent, influant / influent.",
+      "textId": null
+    },
+    {
+      "id": "c1-participe_present-018",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "participe_present",
+      "question": "___ tout le monde avec ses histoires, il n’avait plus d’amis.",
+      "options": [
+        "Fatigant",
+        "Fatiguant",
+        "Fatigants",
+        "Fatigante"
+      ],
+      "answer": 1,
+      "explanation": "Some verbs spell the participle and the adjective differently. Participle / adjective: fatiguant / fatigant, communiquant / communicant, convainquant / convaincant, provoquant / provocant, négligeant / négligent, différant / différent, précédant / précédent, excellant / excellent, équivalant / équivalent, influant / influent.",
+      "textId": null
+    },
+    {
+      "id": "c1-participe_present-019",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "participe_present",
+      "question": "Son argument est très ___.",
+      "options": [
+        "convainquant",
+        "convaincante",
+        "convaincant",
+        "convainquante"
+      ],
+      "answer": 2,
+      "explanation": "Some verbs spell the participle and the adjective differently. Participle / adjective: fatiguant / fatigant, communiquant / communicant, convainquant / convaincant, provoquant / provocant, négligeant / négligent, différant / différent, précédant / précédent, excellant / excellent, équivalant / équivalent, influant / influent.",
+      "textId": null
+    },
+    {
+      "id": "c1-participe_present-020",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "participe_present",
+      "question": "___ ses collègues par son discours, il a obtenu leur soutien.",
+      "options": [
+        "Convaincant",
+        "Convaincants",
+        "Convaincante",
+        "Convainquant"
+      ],
+      "answer": 3,
+      "explanation": "Some verbs spell the participle and the adjective differently. Participle / adjective: fatiguant / fatigant, communiquant / communicant, convainquant / convaincant, provoquant / provocant, négligeant / négligent, différant / différent, précédant / précédent, excellant / excellent, équivalant / équivalent, influant / influent.",
+      "textId": null
+    },
+    {
+      "id": "c1-participe_present-021",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "participe_present",
+      "question": "Elle porte une robe ___.",
+      "options": [
+        "provocante",
+        "provoquante",
+        "provocant",
+        "provoquant"
+      ],
+      "answer": 0,
+      "explanation": "Some verbs spell the participle and the adjective differently. Participle / adjective: fatiguant / fatigant, communiquant / communicant, convainquant / convaincant, provoquant / provocant, négligeant / négligent, différant / différent, précédant / précédent, excellant / excellent, équivalant / équivalent, influant / influent.",
+      "textId": null
+    },
+    {
+      "id": "c1-participe_present-022",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "participe_present",
+      "question": "___ ses adversaires, il a déclenché une dispute.",
+      "options": [
+        "Provocant",
+        "Provoquant",
+        "Provocante",
+        "Provoquants"
+      ],
+      "answer": 1,
+      "explanation": "Some verbs spell the participle and the adjective differently. Participle / adjective: fatiguant / fatigant, communiquant / communicant, convainquant / convaincant, provoquant / provocant, négligeant / négligent, différant / différent, précédant / précédent, excellant / excellent, équivalant / équivalent, influant / influent.",
+      "textId": null
+    },
+    {
+      "id": "c1-participe_present-023",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "participe_present",
+      "question": "Les deux pièces sont ___.",
+      "options": [
+        "communiquantes",
+        "communicant",
+        "communicantes",
+        "communiquant"
+      ],
+      "answer": 2,
+      "explanation": "Some verbs spell the participle and the adjective differently. Participle / adjective: fatiguant / fatigant, communiquant / communicant, convainquant / convaincant, provoquant / provocant, négligeant / négligent, différant / différent, précédant / précédent, excellant / excellent, équivalant / équivalent, influant / influent.",
+      "textId": null
+    },
+    {
+      "id": "c1-participe_present-024",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "participe_present",
+      "question": "___ avec ses clients par courriel, il gagne du temps.",
+      "options": [
+        "Communicant",
+        "Communicants",
+        "Communicante",
+        "Communiquant"
+      ],
+      "answer": 3,
+      "explanation": "Some verbs spell the participle and the adjective differently. Participle / adjective: fatiguant / fatigant, communiquant / communicant, convainquant / convaincant, provoquant / provocant, négligeant / négligent, différant / différent, précédant / précédent, excellant / excellent, équivalant / équivalent, influant / influent.",
+      "textId": null
+    },
+    {
+      "id": "c1-participe_present-025",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "participe_present",
+      "question": "C’est un employé ___.",
+      "options": [
+        "négligent",
+        "négligeant",
+        "négligente",
+        "négligeants"
+      ],
+      "answer": 0,
+      "explanation": "Some verbs spell the participle and the adjective differently. Participle / adjective: fatiguant / fatigant, communiquant / communicant, convainquant / convaincant, provoquant / provocant, négligeant / négligent, différant / différent, précédant / précédent, excellant / excellent, équivalant / équivalent, influant / influent.",
+      "textId": null
+    },
+    {
+      "id": "c1-participe_present-026",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "participe_present",
+      "question": "___ ses études, il a raté son année.",
+      "options": [
+        "Négligent",
+        "Négligeant",
+        "Négligents",
+        "Négligente"
+      ],
+      "answer": 1,
+      "explanation": "Some verbs spell the participle and the adjective differently. Participle / adjective: fatiguant / fatigant, communiquant / communicant, convainquant / convaincant, provoquant / provocant, négligeant / négligent, différant / différent, précédant / précédent, excellant / excellent, équivalant / équivalent, influant / influent.",
+      "textId": null
+    },
+    {
+      "id": "c1-participe_present-027",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "participe_present",
+      "question": "Nous avons des opinions ___.",
+      "options": [
+        "différantes",
+        "différant",
+        "différentes",
+        "différents"
+      ],
+      "answer": 2,
+      "explanation": "Some verbs spell the participle and the adjective differently. Participle / adjective: fatiguant / fatigant, communiquant / communicant, convainquant / convaincant, provoquant / provocant, négligeant / négligent, différant / différent, précédant / précédent, excellant / excellent, équivalant / équivalent, influant / influent.",
+      "textId": null
+    },
+    {
+      "id": "c1-participe_present-028",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "participe_present",
+      "question": "Leurs avis ___ sur ce point, ils n’ont pas pu se mettre d’accord.",
+      "options": [
+        "différent",
+        "différents",
+        "différentes",
+        "différant"
+      ],
+      "answer": 3,
+      "explanation": "Some verbs spell the participle and the adjective differently. Participle / adjective: fatiguant / fatigant, communiquant / communicant, convainquant / convaincant, provoquant / provocant, négligeant / négligent, différant / différent, précédant / précédent, excellant / excellent, équivalant / équivalent, influant / influent.",
+      "textId": null
+    },
+    {
+      "id": "c1-participe_present-029",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "participe_present",
+      "question": "Relisez le chapitre ___.",
+      "options": [
+        "précédent",
+        "précédant",
+        "précédente",
+        "précédants"
+      ],
+      "answer": 0,
+      "explanation": "Some verbs spell the participle and the adjective differently. Participle / adjective: fatiguant / fatigant, communiquant / communicant, convainquant / convaincant, provoquant / provocant, négligeant / négligent, différant / différent, précédant / précédent, excellant / excellent, équivalant / équivalent, influant / influent.",
+      "textId": null
+    },
+    {
+      "id": "c1-participe_present-030",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "participe_present",
+      "question": "Les jours ___ son départ ont été difficiles.",
+      "options": [
+        "précédent",
+        "précédant",
+        "précédents",
+        "précédente"
+      ],
+      "answer": 1,
+      "explanation": "Some verbs spell the participle and the adjective differently. Participle / adjective: fatiguant / fatigant, communiquant / communicant, convainquant / convaincant, provoquant / provocant, négligeant / négligent, différant / différent, précédant / précédent, excellant / excellent, équivalant / équivalent, influant / influent.",
+      "textId": null
+    },
+    {
+      "id": "c1-participe_present-031",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "participe_present",
+      "question": "C’est une élève ___.",
+      "options": [
+        "excellant",
+        "excellent",
+        "excellente",
+        "excellante"
+      ],
+      "answer": 2,
+      "explanation": "Some verbs spell the participle and the adjective differently. Participle / adjective: fatiguant / fatigant, communiquant / communicant, convainquant / convaincant, provoquant / provocant, négligeant / négligent, différant / différent, précédant / précédent, excellant / excellent, équivalant / équivalent, influant / influent.",
+      "textId": null
+    },
+    {
+      "id": "c1-participe_present-032",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "participe_present",
+      "question": "___ en mathématiques, elle a obtenu une bourse.",
+      "options": [
+        "Excellent",
+        "Excellente",
+        "Excellents",
+        "Excellant"
+      ],
+      "answer": 3,
+      "explanation": "Some verbs spell the participle and the adjective differently. Participle / adjective: fatiguant / fatigant, communiquant / communicant, convainquant / convaincant, provoquant / provocant, négligeant / négligent, différant / différent, précédant / précédent, excellant / excellent, équivalant / équivalent, influant / influent.",
+      "textId": null
+    },
+    {
+      "id": "c1-participe_present-033",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "participe_present",
+      "question": "Ces deux diplômes sont ___.",
+      "options": [
+        "équivalents",
+        "équivalant",
+        "équivalent",
+        "équivalants"
+      ],
+      "answer": 0,
+      "explanation": "Some verbs spell the participle and the adjective differently. Participle / adjective: fatiguant / fatigant, communiquant / communicant, convainquant / convaincant, provoquant / provocant, négligeant / négligent, différant / différent, précédant / précédent, excellant / excellent, équivalant / équivalent, influant / influent.",
+      "textId": null
+    },
+    {
+      "id": "c1-participe_present-034",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "participe_present",
+      "question": "Il a reçu une somme ___ à trois mois de salaire.",
+      "options": [
+        "équivalent",
+        "équivalant",
+        "équivalente",
+        "équivalents"
+      ],
+      "answer": 1,
+      "explanation": "Some verbs spell the participle and the adjective differently. Participle / adjective: fatiguant / fatigant, communiquant / communicant, convainquant / convaincant, provoquant / provocant, négligeant / négligent, différant / différent, précédant / précédent, excellant / excellent, équivalant / équivalent, influant / influent.",
+      "textId": null
+    },
+    {
+      "id": "c1-participe_present-035",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "participe_present",
+      "question": "C’est une personne très ___ dans la région.",
+      "options": [
+        "influant",
+        "influent",
+        "influente",
+        "influante"
+      ],
+      "answer": 2,
+      "explanation": "Some verbs spell the participle and the adjective differently. Participle / adjective: fatiguant / fatigant, communiquant / communicant, convainquant / convaincant, provoquant / provocant, négligeant / négligent, différant / différent, précédant / précédent, excellant / excellent, équivalant / équivalent, influant / influent.",
+      "textId": null
+    },
+    {
+      "id": "c1-participe_present-036",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "participe_present",
+      "question": "« Les étudiants ayant plus de 12 seront admis » = les étudiants ___ plus de 12.",
+      "options": [
+        "qui ayant",
+        "que ont",
+        "ayants",
+        "qui ont"
+      ],
+      "answer": 3,
+      "explanation": "A present participle can replace a relative clause with qui: les élèves ayant fini = les élèves qui ont fini.",
+      "textId": null
+    },
+    {
+      "id": "c1-participe_present-037",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "participe_present",
+      "question": "« Les personnes désirant participer » = les personnes ___ participer.",
+      "options": [
+        "qui désirent",
+        "qui désirant",
+        "que désirent",
+        "désirées de"
+      ],
+      "answer": 0,
+      "explanation": "A present participle can replace a relative clause with qui: les élèves ayant fini = les élèves qui ont fini.",
+      "textId": null
+    },
+    {
+      "id": "c1-participe_present-038",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "participe_present",
+      "question": "« Un train venant de Paris » = un train ___ de Paris.",
+      "options": [
+        "qui venant",
+        "qui vient",
+        "que vient",
+        "dont vient"
+      ],
+      "answer": 1,
+      "explanation": "A present participle can replace a relative clause with qui: les élèves ayant fini = les élèves qui ont fini.",
+      "textId": null
+    },
+    {
+      "id": "c1-participe_present-039",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "participe_present",
+      "question": "« Les candidats parlant anglais » = les candidats ___ anglais.",
+      "options": [
+        "qui parlant",
+        "que parlent",
+        "qui parlent",
+        "parlés"
+      ],
+      "answer": 2,
+      "explanation": "A present participle can replace a relative clause with qui: les élèves ayant fini = les élèves qui ont fini.",
+      "textId": null
+    },
+    {
+      "id": "c1-participe_present-040",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "participe_present",
+      "question": "« Une lettre contenant un chèque » = une lettre ___ un chèque.",
+      "options": [
+        "qui contenant",
+        "que contient",
+        "contenue",
+        "qui contient"
+      ],
+      "answer": 3,
+      "explanation": "A present participle can replace a relative clause with qui: les élèves ayant fini = les élèves qui ont fini.",
+      "textId": null
+    },
+    {
+      "id": "c1-participe_present-041",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "participe_present",
+      "question": "___ malade, il n’est pas venu travailler.",
+      "options": [
+        "Étant",
+        "En étant",
+        "Été",
+        "Est"
+      ],
+      "answer": 0,
+      "explanation": "At the start of a sentence, a present participle (without en) often gives the cause: étant malade, il est resté chez lui.",
+      "textId": null
+    },
+    {
+      "id": "c1-participe_present-042",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "participe_present",
+      "question": "___ que tu serais en retard, j’ai commencé sans toi.",
+      "options": [
+        "En savoir",
+        "Sachant",
+        "Su",
+        "Sait"
+      ],
+      "answer": 1,
+      "explanation": "At the start of a sentence, a present participle (without en) often gives the cause: étant malade, il est resté chez lui.",
+      "textId": null
+    },
+    {
+      "id": "c1-participe_present-043",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "participe_present",
+      "question": "___ peur d’arriver en retard, elle a pris un taxi.",
+      "options": [
+        "En avoir",
+        "Eu",
+        "Ayant",
+        "A"
+      ],
+      "answer": 2,
+      "explanation": "At the start of a sentence, a present participle (without en) often gives the cause: étant malade, il est resté chez lui.",
+      "textId": null
+    },
+    {
+      "id": "c1-participe_present-044",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "participe_present",
+      "question": "Ne ___ pas quoi faire, il a appelé un ami.",
+      "options": [
+        "savant",
+        "su",
+        "sait",
+        "sachant"
+      ],
+      "answer": 3,
+      "explanation": "At the start of a sentence, a present participle (without en) often gives the cause: étant malade, il est resté chez lui.",
+      "textId": null
+    },
+    {
+      "id": "c1-participe_present-045",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "participe_present",
+      "question": "___ trop loin, ils n’ont pas pu venir.",
+      "options": [
+        "Habitant",
+        "Habité",
+        "Habitent",
+        "En habiter"
+      ],
+      "answer": 0,
+      "explanation": "At the start of a sentence, a present participle (without en) often gives the cause: étant malade, il est resté chez lui.",
+      "textId": null
+    },
+    {
+      "id": "c1-participe_present-046",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "participe_present",
+      "question": "___ ton avis important, je te consulte d’abord.",
+      "options": [
+        "Jugé",
+        "Jugeant",
+        "Juge",
+        "En juger"
+      ],
+      "answer": 1,
+      "explanation": "At the start of a sentence, a present participle (without en) often gives the cause: étant malade, il est resté chez lui.",
+      "textId": null
+    },
+    {
+      "id": "c1-participe_present-047",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "participe_present",
+      "question": "___ son travail, il est rentré chez lui.",
+      "options": [
+        "Finissant",
+        "Étant fini",
+        "Ayant fini",
+        "En finir"
+      ],
+      "answer": 2,
+      "explanation": "The compound form ayant / étant + past participle shows an action finished before the main verb: ayant fini son travail, il est sorti.",
+      "textId": null
+    },
+    {
+      "id": "c1-participe_present-048",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "participe_present",
+      "question": "___ en retard, elle s’est excusée.",
+      "options": [
+        "Ayant arrivé",
+        "Étant arrivés",
+        "Étant arrivé",
+        "Étant arrivée"
+      ],
+      "answer": 3,
+      "explanation": "The compound form ayant / étant + past participle shows an action finished before the main verb: ayant fini son travail, il est sorti.",
+      "textId": null
+    },
+    {
+      "id": "c1-participe_present-049",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "participe_present",
+      "question": "___ toute la nuit, il était épuisé.",
+      "options": [
+        "Ayant travaillé",
+        "Étant travaillé",
+        "Travaillé",
+        "En travailler"
+      ],
+      "answer": 0,
+      "explanation": "The compound form ayant / étant + past participle shows an action finished before the main verb: ayant fini son travail, il est sorti.",
+      "textId": null
+    },
+    {
+      "id": "c1-participe_present-050",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "participe_present",
+      "question": "___ de bonne heure, ils sont arrivés les premiers.",
+      "options": [
+        "Ayant parti",
+        "Étant partis",
+        "Étant parti",
+        "Partis ayant"
+      ],
+      "answer": 1,
+      "explanation": "The compound form ayant / étant + past participle shows an action finished before the main verb: ayant fini son travail, il est sorti.",
+      "textId": null
+    },
+    {
+      "id": "c1-participe_present-051",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "participe_present",
+      "question": "___ ses clés, elle n’a pas pu entrer.",
+      "options": [
+        "Étant perdu",
+        "Perdu",
+        "Ayant perdu",
+        "En perdre"
+      ],
+      "answer": 2,
+      "explanation": "The compound form ayant / étant + past participle shows an action finished before the main verb: ayant fini son travail, il est sorti.",
+      "textId": null
+    },
+    {
+      "id": "c1-participe_present-052",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "participe_present",
+      "question": "N’___ pas reçu de réponse, je vous écris de nouveau.",
+      "options": [
+        "étant",
+        "avoir",
+        "avais",
+        "ayant"
+      ],
+      "answer": 3,
+      "explanation": "The compound form ayant / étant + past participle shows an action finished before the main verb: ayant fini son travail, il est sorti.",
+      "textId": null
+    },
+    {
+      "id": "c1-participe_present-053",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "participe_present",
+      "question": "___ levée trop tard, elle a raté son train.",
+      "options": [
+        "S’étant",
+        "S’ayant",
+        "Étant se",
+        "S’est"
+      ],
+      "answer": 0,
+      "explanation": "The compound form ayant / étant + past participle shows an action finished before the main verb: ayant fini son travail, il est sorti.",
+      "textId": null
+    },
+    {
+      "id": "c1-participe_present-054",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "participe_present",
+      "question": "___ lu le rapport, je peux vous donner mon avis.",
+      "options": [
+        "Étant",
+        "Ayant",
+        "Avoir",
+        "Avais"
+      ],
+      "answer": 1,
+      "explanation": "The compound form ayant / étant + past participle shows an action finished before the main verb: ayant fini son travail, il est sorti.",
+      "textId": null
+    },
+    {
+      "id": "c1-participe_present-055",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "participe_present",
+      "question": "Ne ___ pas la réponse, il s’est tu.",
+      "options": [
+        "connaissait",
+        "connu",
+        "connaissant",
+        "connaître"
+      ],
+      "answer": 2,
+      "explanation": "The negation goes around the participle: ne sachant pas, n’ayant pas compris.",
+      "textId": null
+    },
+    {
+      "id": "c1-participe_present-056",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "participe_present",
+      "question": "N’___ pas d’argent, il est resté chez lui.",
+      "options": [
+        "avoir",
+        "eu",
+        "a",
+        "ayant"
+      ],
+      "answer": 3,
+      "explanation": "The negation goes around the participle: ne sachant pas, n’ayant pas compris.",
+      "textId": null
+    },
+    {
+      "id": "c1-participe_present-057",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "participe_present",
+      "question": "Ne ___ rien à ajouter, je vous souhaite une bonne journée.",
+      "options": [
+        "voyant",
+        "voir",
+        "vu",
+        "vois"
+      ],
+      "answer": 0,
+      "explanation": "The negation goes around the participle: ne sachant pas, n’ayant pas compris.",
+      "textId": null
+    },
+    {
+      "id": "c1-participe_present-058",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "participe_present",
+      "question": "N’___ jamais voyagé, elle était très nerveuse.",
+      "options": [
+        "étant",
+        "ayant",
+        "avoir",
+        "a"
+      ],
+      "answer": 1,
+      "explanation": "The negation goes around the participle: ne sachant pas, n’ayant pas compris.",
+      "textId": null
+    },
+    {
+      "id": "c1-participe_present-059",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "participe_present",
+      "question": "Le temps ___ mauvais, nous sommes restés à la maison.",
+      "options": [
+        "est",
+        "était",
+        "étant",
+        "en étant"
+      ],
+      "answer": 2,
+      "explanation": "In an absolute participle clause, the participle has its own subject: le temps étant mauvais, nous sommes restés.",
+      "textId": null
+    },
+    {
+      "id": "c1-participe_present-060",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "participe_present",
+      "question": "Les magasins ___ fermés, nous sommes rentrés.",
+      "options": [
+        "sont",
+        "étaient",
+        "en étant",
+        "étant"
+      ],
+      "answer": 3,
+      "explanation": "In an absolute participle clause, the participle has its own subject: le temps étant mauvais, nous sommes restés.",
+      "textId": null
+    },
+    {
+      "id": "c1-participe_present-061",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "participe_present",
+      "question": "La réunion ___ terminée, tout le monde est parti.",
+      "options": [
+        "étant",
+        "est",
+        "était",
+        "en étant"
+      ],
+      "answer": 0,
+      "explanation": "In an absolute participle clause, the participle has its own subject: le temps étant mauvais, nous sommes restés.",
+      "textId": null
+    },
+    {
+      "id": "c1-participe_present-062",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "participe_present",
+      "question": "Son père ___ médecin, il connaît bien le milieu médical.",
+      "options": [
+        "est",
+        "étant",
+        "était",
+        "en étant"
+      ],
+      "answer": 1,
+      "explanation": "In an absolute participle clause, the participle has its own subject: le temps étant mauvais, nous sommes restés.",
+      "textId": null
+    },
+    {
+      "id": "c1-participe_present-063",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "participe_present",
+      "question": "Le directeur ___ absent, la réunion est reportée.",
+      "options": [
+        "est",
+        "sera",
+        "étant",
+        "en étant"
+      ],
+      "answer": 2,
+      "explanation": "In an absolute participle clause, the participle has its own subject: le temps étant mauvais, nous sommes restés.",
+      "textId": null
+    },
+    {
+      "id": "c1-participe_present-064",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "participe_present",
+      "question": "Les circonstances l’___, nous avons annulé le voyage.",
+      "options": [
+        "exige",
+        "exigé",
+        "exigeantes",
+        "exigeant"
+      ],
+      "answer": 3,
+      "explanation": "In an absolute participle clause, the participle has its own subject: le temps étant mauvais, nous sommes restés.",
+      "textId": null
+    },
+    {
+      "id": "c1-participe_present-065",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "participe_present",
+      "question": "J’ai vu Paul ___ du cinéma. (C’est Paul qui sort.)",
+      "options": [
+        "sortant",
+        "en sortant",
+        "sorti",
+        "sort"
+      ],
+      "answer": 0,
+      "explanation": "The gérondif (en + -ant) always refers to the subject of the main verb. The present participle alone refers to the noun right next to it.",
+      "textId": null
+    },
+    {
+      "id": "c1-participe_present-066",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "participe_present",
+      "question": "J’ai vu Paul ___ du cinéma. (C’est moi qui sors.)",
+      "options": [
+        "sortant",
+        "en sortant",
+        "sorti",
+        "sors"
+      ],
+      "answer": 1,
+      "explanation": "The gérondif (en + -ant) always refers to the subject of the main verb. The present participle alone refers to the noun right next to it.",
+      "textId": null
+    },
+    {
+      "id": "c1-participe_present-067",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "participe_present",
+      "question": "Elle a rencontré son voisin ___ au marché. (C’est elle qui va au marché.)",
+      "options": [
+        "allant",
+        "allé",
+        "en allant",
+        "va"
+      ],
+      "answer": 2,
+      "explanation": "The gérondif (en + -ant) always refers to the subject of the main verb. The present participle alone refers to the noun right next to it.",
+      "textId": null
+    },
+    {
+      "id": "c1-participe_present-068",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "participe_present",
+      "question": "J’ai aperçu une femme ___ dans le parc. (C’est la femme qui court.)",
+      "options": [
+        "en courant",
+        "couru",
+        "court",
+        "courant"
+      ],
+      "answer": 3,
+      "explanation": "The gérondif (en + -ant) always refers to the subject of the main verb. The present participle alone refers to the noun right next to it.",
+      "textId": null
+    },
+    {
+      "id": "c1-participe_present-069",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "participe_present",
+      "question": "___ arrivées en avance, elles ont attendu.",
+      "options": [
+        "Étant",
+        "Ayant",
+        "Étants",
+        "Étantes"
+      ],
+      "answer": 0,
+      "explanation": "With étant + past participle, the past participle agrees with the noun it refers to: étant arrivée en retard, elle…",
+      "textId": null
+    },
+    {
+      "id": "c1-participe_present-070",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "participe_present",
+      "question": "___ née à Montréal, elle parle français et anglais.",
+      "options": [
+        "Ayant",
+        "Étant",
+        "Étante",
+        "Est"
+      ],
+      "answer": 1,
+      "explanation": "With étant + past participle, the past participle agrees with the noun it refers to: étant arrivée en retard, elle…",
+      "textId": null
+    },
+    {
+      "id": "c1-participe_present-071",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "participe_present",
+      "question": "Étant ___ à l’étranger, mes parents connaissent bien d’autres cultures.",
+      "options": [
+        "né",
+        "née",
+        "nés",
+        "nées"
+      ],
+      "answer": 2,
+      "explanation": "With étant + past participle, the past participle agrees with the noun it refers to: étant arrivée en retard, elle…",
+      "textId": null
+    },
+    {
+      "id": "c1-participe_present-072",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "participe_present",
+      "question": "Étant ___ tard, Marie n’a pas vu le début.",
+      "options": [
+        "arrivé",
+        "arrivés",
+        "arrivant",
+        "arrivée"
+      ],
+      "answer": 3,
+      "explanation": "With étant + past participle, the past participle agrees with the noun it refers to: étant arrivée en retard, elle…",
+      "textId": null
+    },
+    {
+      "id": "c1-participe_present-073",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "participe_present",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "Les enfants obéissant à leurs parents seront récompensés.",
+        "Les enfants obéissants à leurs parents seront récompensés.",
+        "Les enfants obéissante à leurs parents seront récompensés.",
+        "Les enfants en obéissants à leurs parents seront récompensés."
+      ],
+      "answer": 0,
+      "explanation": "The present participle (-ant) works as a verb: it can take an object or a complement, it expresses an action, and it never agrees.",
+      "textId": null
+    },
+    {
+      "id": "c1-participe_present-074",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "participe_present",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "Ce sont des enfants obéissant.",
+        "Ce sont des enfants obéissants.",
+        "Ce sont des enfants en obéissant.",
+        "Ce sont des enfants obéissante."
+      ],
+      "answer": 1,
+      "explanation": "The verbal adjective works as an adjective: it describes a quality, it can be replaced by another adjective, and it agrees with the noun.",
+      "textId": null
+    },
+    {
+      "id": "c1-participe_present-075",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "participe_present",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "Les eaux dormant sont parfois dangereuses.",
+        "Les eaux dormants sont parfois dangereuses.",
+        "Les eaux dormantes sont parfois dangereuses.",
+        "Les eaux en dormant sont parfois dangereuses."
+      ],
+      "answer": 2,
+      "explanation": "The verbal adjective works as an adjective: it describes a quality, it can be replaced by another adjective, and it agrees with the noun.",
+      "textId": null
+    },
+    {
+      "id": "c1-participe_present-076",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "participe_present",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "Une étoile filant a traversé le ciel.",
+        "Une étoile filants a traversé le ciel.",
+        "Une étoile en filant a traversé le ciel.",
+        "Une étoile filante a traversé le ciel."
+      ],
+      "answer": 3,
+      "explanation": "The verbal adjective works as an adjective: it describes a quality, it can be replaced by another adjective, and it agrees with the noun.",
+      "textId": null
+    },
+    {
+      "id": "c1-participe_present-077",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "participe_present",
+      "question": "Elle est sortie ___ la porte.",
+      "options": [
+        "en claquant",
+        "claquante",
+        "claquée",
+        "claquer"
+      ],
+      "answer": 0,
+      "explanation": "The manner of the main action, done by the same subject, is expressed with the gérondif: en claquant.",
+      "textId": null
+    },
+    {
+      "id": "c1-participe_present-078",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "participe_present",
+      "question": "C’est en ___ qu’on devient forgeron.",
+      "options": [
+        "forgeants",
+        "forgeant",
+        "forgé",
+        "forger"
+      ],
+      "answer": 1,
+      "explanation": "After en, the form is the invariable present participle: en forgeant.",
+      "textId": null
+    },
+    {
+      "id": "c1-participe_present-079",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "participe_present",
+      "question": "Il a répondu d’une voix ___.",
+      "options": [
+        "tremblant",
+        "tremblants",
+        "tremblante",
+        "en tremblant"
+      ],
+      "answer": 2,
+      "explanation": "The verbal adjective works as an adjective: it describes a quality, it can be replaced by another adjective, and it agrees with the noun.",
+      "textId": null
+    },
+    {
+      "id": "c1-participe_present-080",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "participe_present",
+      "question": "Les voyageurs ___ une réduction doivent présenter leur carte.",
+      "options": [
+        "demandants",
+        "demandante",
+        "demandés",
+        "demandant"
+      ],
+      "answer": 3,
+      "explanation": "The present participle (-ant) works as a verb: it can take an object or a complement, it expresses an action, and it never agrees.",
+      "textId": null
+    },
+    {
+      "id": "c1-participe_present-081",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "participe_present",
+      "question": "Des tableaux ___ beaucoup d’argent ont été volés.",
+      "options": [
+        "valant",
+        "valants",
+        "valante",
+        "valus"
+      ],
+      "answer": 0,
+      "explanation": "The present participle (-ant) works as a verb: it can take an object or a complement, it expresses an action, and it never agrees.",
+      "textId": null
+    },
+    {
+      "id": "c1-participe_present-082",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "participe_present",
+      "question": "Les mesures ___ sont listées ci-dessous.",
+      "options": [
+        "suivant",
+        "suivantes",
+        "suivants",
+        "en suivant"
+      ],
+      "answer": 1,
+      "explanation": "The verbal adjective works as an adjective: it describes a quality, it can be replaced by another adjective, and it agrees with the noun.",
+      "textId": null
+    }
+  ]
+}

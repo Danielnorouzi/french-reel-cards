@@ -1,0 +1,1285 @@
+{
+  "texts": [],
+  "questions": [
+    {
+      "id": "b2-subjonctif_vs_indicatif-001",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_vs_indicatif",
+      "question": "Je pense qu’il ___ raison.",
+      "options": [
+        "a",
+        "ait",
+        "aie",
+        "avoir"
+      ],
+      "answer": 0,
+      "explanation": "Certainty and opinion in the affirmative (penser que, croire que, être sûr que, il est évident que, il est clair que, il paraît que) take the indicative. Here: a.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_vs_indicatif-002",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_vs_indicatif",
+      "question": "Je crois que tu ___ te reposer.",
+      "options": [
+        "doives",
+        "dois",
+        "doive",
+        "devoir"
+      ],
+      "answer": 1,
+      "explanation": "Certainty and opinion in the affirmative (penser que, croire que, être sûr que, il est évident que, il est clair que, il paraît que) take the indicative. Here: dois.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_vs_indicatif-003",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_vs_indicatif",
+      "question": "Je suis sûr qu’elle ___ demain.",
+      "options": [
+        "vienne",
+        "viennes",
+        "viendra",
+        "venir"
+      ],
+      "answer": 2,
+      "explanation": "Certainty and opinion in the affirmative (penser que, croire que, être sûr que, il est évident que, il est clair que, il paraît que) take the indicative. Here: viendra.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_vs_indicatif-004",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_vs_indicatif",
+      "question": "Il est évident qu’il ___ la vérité.",
+      "options": [
+        "dise",
+        "dises",
+        "dire",
+        "dit"
+      ],
+      "answer": 3,
+      "explanation": "Certainty and opinion in the affirmative (penser que, croire que, être sûr que, il est évident que, il est clair que, il paraît que) take the indicative. Here: dit.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_vs_indicatif-005",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_vs_indicatif",
+      "question": "Il est clair que nous ___ en retard.",
+      "options": [
+        "sommes",
+        "soyons",
+        "soyez",
+        "être"
+      ],
+      "answer": 0,
+      "explanation": "Certainty and opinion in the affirmative (penser que, croire que, être sûr que, il est évident que, il est clair que, il paraît que) take the indicative. Here: sommes.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_vs_indicatif-006",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_vs_indicatif",
+      "question": "Je trouve que ce film ___ trop long.",
+      "options": [
+        "soit",
+        "est",
+        "sois",
+        "être"
+      ],
+      "answer": 1,
+      "explanation": "Certainty and opinion in the affirmative (penser que, croire que, être sûr que, il est évident que, il est clair que, il paraît que) take the indicative. Here: est.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_vs_indicatif-007",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_vs_indicatif",
+      "question": "Il paraît qu’elle ___ en Italie.",
+      "options": [
+        "vive",
+        "vives",
+        "vit",
+        "vivre"
+      ],
+      "answer": 2,
+      "explanation": "Certainty and opinion in the affirmative (penser que, croire que, être sûr que, il est évident que, il est clair que, il paraît que) take the indicative. Here: vit.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_vs_indicatif-008",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_vs_indicatif",
+      "question": "Je sais que vous ___ beaucoup.",
+      "options": [
+        "travailliez",
+        "travaillent",
+        "travailler",
+        "travaillez"
+      ],
+      "answer": 3,
+      "explanation": "Certainty and opinion in the affirmative (penser que, croire que, être sûr que, il est évident que, il est clair que, il paraît que) take the indicative. Here: travaillez.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_vs_indicatif-009",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_vs_indicatif",
+      "question": "Il est certain qu’ils ___ gagner.",
+      "options": [
+        "vont",
+        "aillent",
+        "aille",
+        "aller"
+      ],
+      "answer": 0,
+      "explanation": "Certainty and opinion in the affirmative (penser que, croire que, être sûr que, il est évident que, il est clair que, il paraît que) take the indicative. Here: vont.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_vs_indicatif-010",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_vs_indicatif",
+      "question": "J’ai l’impression qu’il ___ fâché.",
+      "options": [
+        "soit",
+        "est",
+        "sois",
+        "être"
+      ],
+      "answer": 1,
+      "explanation": "Certainty and opinion in the affirmative (penser que, croire que, être sûr que, il est évident que, il est clair que, il paraît que) take the indicative. Here: est.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_vs_indicatif-011",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_vs_indicatif",
+      "question": "On dit que cette ville ___ très belle.",
+      "options": [
+        "soit",
+        "sois",
+        "est",
+        "être"
+      ],
+      "answer": 2,
+      "explanation": "Certainty and opinion in the affirmative (penser que, croire que, être sûr que, il est évident que, il est clair que, il paraît que) take the indicative. Here: est.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_vs_indicatif-012",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_vs_indicatif",
+      "question": "Je ne pense pas qu’il ___ raison.",
+      "options": [
+        "a",
+        "aura",
+        "avait",
+        "ait"
+      ],
+      "answer": 3,
+      "explanation": "Penser, croire, être sûr and trouver in the negative or in an inverted question express doubt, so they take the subjunctive. Here: ait.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_vs_indicatif-013",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_vs_indicatif",
+      "question": "Je ne crois pas que ce ___ possible.",
+      "options": [
+        "soit",
+        "est",
+        "sera",
+        "était"
+      ],
+      "answer": 0,
+      "explanation": "Penser, croire, être sûr and trouver in the negative or in an inverted question express doubt, so they take the subjunctive. Here: soit.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_vs_indicatif-014",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_vs_indicatif",
+      "question": "Je ne suis pas sûr qu’elle ___ venir.",
+      "options": [
+        "peut",
+        "puisse",
+        "pourra",
+        "pouvait"
+      ],
+      "answer": 1,
+      "explanation": "Penser, croire, être sûr and trouver in the negative or in an inverted question express doubt, so they take the subjunctive. Here: puisse.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_vs_indicatif-015",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_vs_indicatif",
+      "question": "Je ne trouve pas que ce ___ une bonne idée.",
+      "options": [
+        "est",
+        "sera",
+        "soit",
+        "serait"
+      ],
+      "answer": 2,
+      "explanation": "Penser, croire, être sûr and trouver in the negative or in an inverted question express doubt, so they take the subjunctive. Here: soit.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_vs_indicatif-016",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_vs_indicatif",
+      "question": "Penses-tu qu’il ___ la vérité ?",
+      "options": [
+        "dit",
+        "dira",
+        "disait",
+        "dise"
+      ],
+      "answer": 3,
+      "explanation": "Penser, croire, être sûr and trouver in the negative or in an inverted question express doubt, so they take the subjunctive. Here: dise.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_vs_indicatif-017",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_vs_indicatif",
+      "question": "Je ne pense pas que tu ___ le temps.",
+      "options": [
+        "aies",
+        "as",
+        "auras",
+        "avais"
+      ],
+      "answer": 0,
+      "explanation": "Penser, croire, être sûr and trouver in the negative or in an inverted question express doubt, so they take the subjunctive. Here: aies.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_vs_indicatif-018",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_vs_indicatif",
+      "question": "Il n’est pas certain que nous ___ partir.",
+      "options": [
+        "pouvons",
+        "puissions",
+        "pourrons",
+        "pouvions"
+      ],
+      "answer": 1,
+      "explanation": "Penser, croire, être sûr and trouver in the negative or in an inverted question express doubt, so they take the subjunctive. Here: puissions.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_vs_indicatif-019",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_vs_indicatif",
+      "question": "Je ne crois pas qu’ils ___ la réponse.",
+      "options": [
+        "savent",
+        "sauront",
+        "sachent",
+        "savaient"
+      ],
+      "answer": 2,
+      "explanation": "Penser, croire, être sûr and trouver in the negative or in an inverted question express doubt, so they take the subjunctive. Here: sachent.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_vs_indicatif-020",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_vs_indicatif",
+      "question": "Croyez-vous qu’elle ___ d’accord ?",
+      "options": [
+        "est",
+        "sera",
+        "serait",
+        "soit"
+      ],
+      "answer": 3,
+      "explanation": "Penser, croire, être sûr and trouver in the negative or in an inverted question express doubt, so they take the subjunctive. Here: soit.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_vs_indicatif-021",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_vs_indicatif",
+      "question": "J’espère que tu ___ bientôt.",
+      "options": [
+        "viendras",
+        "viennes",
+        "vienne",
+        "venir"
+      ],
+      "answer": 0,
+      "explanation": "Espérer que takes the indicative (often the future), even though souhaiter que takes the subjunctive. Here: viendras.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_vs_indicatif-022",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_vs_indicatif",
+      "question": "J’espère qu’il ___ beau demain.",
+      "options": [
+        "fasse",
+        "fera",
+        "fasses",
+        "faire"
+      ],
+      "answer": 1,
+      "explanation": "Espérer que takes the indicative (often the future), even though souhaiter que takes the subjunctive. Here: fera.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_vs_indicatif-023",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_vs_indicatif",
+      "question": "Nous espérons que vous ___ bien.",
+      "options": [
+        "alliez",
+        "ailliez",
+        "allez",
+        "aller"
+      ],
+      "answer": 2,
+      "explanation": "Espérer que takes the indicative (often the future), even though souhaiter que takes the subjunctive. Here: allez.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_vs_indicatif-024",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_vs_indicatif",
+      "question": "J’espère que tout ___ bien.",
+      "options": [
+        "aille",
+        "ailles",
+        "aller",
+        "ira"
+      ],
+      "answer": 3,
+      "explanation": "Espérer que takes the indicative (often the future), even though souhaiter que takes the subjunctive. Here: ira.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_vs_indicatif-025",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_vs_indicatif",
+      "question": "Je souhaite que tu ___ bientôt.",
+      "options": [
+        "viennes",
+        "viendras",
+        "viens",
+        "venir"
+      ],
+      "answer": 0,
+      "explanation": "Will, wish, order and preference (vouloir que, souhaiter que, exiger que, préférer que, aimer que) take the subjunctive. Here: viennes.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_vs_indicatif-026",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_vs_indicatif",
+      "question": "Je veux que tu ___ la vérité.",
+      "options": [
+        "dis",
+        "dises",
+        "diras",
+        "dire"
+      ],
+      "answer": 1,
+      "explanation": "Will, wish, order and preference (vouloir que, souhaiter que, exiger que, préférer que, aimer que) take the subjunctive. Here: dises.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_vs_indicatif-027",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_vs_indicatif",
+      "question": "Elle préfère que nous ___ à la maison.",
+      "options": [
+        "restons",
+        "resterons",
+        "restions",
+        "rester"
+      ],
+      "answer": 2,
+      "explanation": "Will, wish, order and preference (vouloir que, souhaiter que, exiger que, préférer que, aimer que) take the subjunctive. Here: restions.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_vs_indicatif-028",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_vs_indicatif",
+      "question": "Le directeur exige que tout le monde ___ à l’heure.",
+      "options": [
+        "est",
+        "sera",
+        "être",
+        "soit"
+      ],
+      "answer": 3,
+      "explanation": "Will, wish, order and preference (vouloir que, souhaiter que, exiger que, préférer que, aimer que) take the subjunctive. Here: soit.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_vs_indicatif-029",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_vs_indicatif",
+      "question": "J’aimerais que vous ___ plus souvent.",
+      "options": [
+        "veniez",
+        "venez",
+        "viendrez",
+        "venir"
+      ],
+      "answer": 0,
+      "explanation": "Will, wish, order and preference (vouloir que, souhaiter que, exiger que, préférer que, aimer que) take the subjunctive. Here: veniez.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_vs_indicatif-030",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_vs_indicatif",
+      "question": "Mes parents ne veulent pas que je ___ seul.",
+      "options": [
+        "sors",
+        "sorte",
+        "sortirai",
+        "sortir"
+      ],
+      "answer": 1,
+      "explanation": "Will, wish, order and preference (vouloir que, souhaiter que, exiger que, préférer que, aimer que) take the subjunctive. Here: sorte.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_vs_indicatif-031",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_vs_indicatif",
+      "question": "Il demande que nous ___ en silence.",
+      "options": [
+        "travaillons",
+        "travaillerons",
+        "travaillions",
+        "travailler"
+      ],
+      "answer": 2,
+      "explanation": "Will, wish, order and preference (vouloir que, souhaiter que, exiger que, préférer que, aimer que) take the subjunctive. Here: travaillions.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_vs_indicatif-032",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_vs_indicatif",
+      "question": "Je suis content que tu ___ venu.",
+      "options": [
+        "es",
+        "seras",
+        "étais",
+        "sois"
+      ],
+      "answer": 3,
+      "explanation": "Feelings (être content que, regretter que, avoir peur que, être étonné que, c’est dommage que) take the subjunctive. Here: sois.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_vs_indicatif-033",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_vs_indicatif",
+      "question": "Je regrette qu’il ___ si tard.",
+      "options": [
+        "soit",
+        "est",
+        "sera",
+        "était"
+      ],
+      "answer": 0,
+      "explanation": "Feelings (être content que, regretter que, avoir peur que, être étonné que, c’est dommage que) take the subjunctive. Here: soit.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_vs_indicatif-034",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_vs_indicatif",
+      "question": "Elle a peur que nous ___ le train.",
+      "options": [
+        "ratons",
+        "rations",
+        "raterons",
+        "rater"
+      ],
+      "answer": 1,
+      "explanation": "Feelings (être content que, regretter que, avoir peur que, être étonné que, c’est dommage que) take the subjunctive. Here: rations.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_vs_indicatif-035",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_vs_indicatif",
+      "question": "Je suis étonné qu’il ne ___ rien.",
+      "options": [
+        "dit",
+        "dira",
+        "dise",
+        "disait"
+      ],
+      "answer": 2,
+      "explanation": "Feelings (être content que, regretter que, avoir peur que, être étonné que, c’est dommage que) take the subjunctive. Here: dise.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_vs_indicatif-036",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_vs_indicatif",
+      "question": "C’est dommage que vous ne ___ pas rester.",
+      "options": [
+        "pouvez",
+        "pourrez",
+        "pouviez",
+        "puissiez"
+      ],
+      "answer": 3,
+      "explanation": "Feelings (être content que, regretter que, avoir peur que, être étonné que, c’est dommage que) take the subjunctive. Here: puissiez.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_vs_indicatif-037",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_vs_indicatif",
+      "question": "Nous sommes ravis que tu ___ ce poste.",
+      "options": [
+        "aies",
+        "as",
+        "auras",
+        "avais"
+      ],
+      "answer": 0,
+      "explanation": "Feelings (être content que, regretter que, avoir peur que, être étonné que, c’est dommage que) take the subjunctive. Here: aies.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_vs_indicatif-038",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_vs_indicatif",
+      "question": "Ça m’étonne qu’elle ___ si peu.",
+      "options": [
+        "sait",
+        "sache",
+        "saura",
+        "savait"
+      ],
+      "answer": 1,
+      "explanation": "Feelings (être content que, regretter que, avoir peur que, être étonné que, c’est dommage que) take the subjunctive. Here: sache.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_vs_indicatif-039",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_vs_indicatif",
+      "question": "Il faut que tu ___ plus attention.",
+      "options": [
+        "fais",
+        "feras",
+        "fasses",
+        "faire"
+      ],
+      "answer": 2,
+      "explanation": "Necessity and judgement (il faut que, il est important que, il vaut mieux que, il est normal que) take the subjunctive. Here: fasses.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_vs_indicatif-040",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_vs_indicatif",
+      "question": "Il est important que vous ___ ce document.",
+      "options": [
+        "lisez",
+        "lirez",
+        "lire",
+        "lisiez"
+      ],
+      "answer": 3,
+      "explanation": "Necessity and judgement (il faut que, il est important que, il vaut mieux que, il est normal que) take the subjunctive. Here: lisiez.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_vs_indicatif-041",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_vs_indicatif",
+      "question": "Il vaut mieux que nous ___ maintenant.",
+      "options": [
+        "partions",
+        "partons",
+        "partirons",
+        "partir"
+      ],
+      "answer": 0,
+      "explanation": "Necessity and judgement (il faut que, il est important que, il vaut mieux que, il est normal que) take the subjunctive. Here: partions.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_vs_indicatif-042",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_vs_indicatif",
+      "question": "Il est normal qu’il ___ fatigué après ce voyage.",
+      "options": [
+        "est",
+        "soit",
+        "sera",
+        "être"
+      ],
+      "answer": 1,
+      "explanation": "Necessity and judgement (il faut que, il est important que, il vaut mieux que, il est normal que) take the subjunctive. Here: soit.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_vs_indicatif-043",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_vs_indicatif",
+      "question": "Il est nécessaire que chacun ___ sa part.",
+      "options": [
+        "fait",
+        "fera",
+        "fasse",
+        "faire"
+      ],
+      "answer": 2,
+      "explanation": "Necessity and judgement (il faut que, il est important que, il vaut mieux que, il est normal que) take the subjunctive. Here: fasse.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_vs_indicatif-044",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_vs_indicatif",
+      "question": "Il est possible qu’il ___ ce soir.",
+      "options": [
+        "pleut",
+        "pleuvra",
+        "pleuvait",
+        "pleuve"
+      ],
+      "answer": 3,
+      "explanation": "Il est possible que and il se peut que take the subjunctive, but il est probable que takes the indicative. Here: pleuve.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_vs_indicatif-045",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_vs_indicatif",
+      "question": "Il est probable qu’il ___ ce soir.",
+      "options": [
+        "pleuvra",
+        "pleuve",
+        "pleuvoir",
+        "plu"
+      ],
+      "answer": 0,
+      "explanation": "Il est possible que and il se peut que take the subjunctive, but il est probable que takes the indicative. Here: pleuvra.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_vs_indicatif-046",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_vs_indicatif",
+      "question": "Il se peut que nous ___ en retard.",
+      "options": [
+        "sommes",
+        "soyons",
+        "serons",
+        "étions"
+      ],
+      "answer": 1,
+      "explanation": "Il est possible que and il se peut que take the subjunctive, but il est probable que takes the indicative. Here: soyons.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_vs_indicatif-047",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_vs_indicatif",
+      "question": "Il est probable qu’elle ___ le poste.",
+      "options": [
+        "obtienne",
+        "obtiennes",
+        "obtiendra",
+        "obtenir"
+      ],
+      "answer": 2,
+      "explanation": "Il est possible que and il se peut que take the subjunctive, but il est probable que takes the indicative. Here: obtiendra.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_vs_indicatif-048",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_vs_indicatif",
+      "question": "Il est peu probable qu’il ___.",
+      "options": [
+        "vient",
+        "viendra",
+        "venait",
+        "vienne"
+      ],
+      "answer": 3,
+      "explanation": "Il est peu probable que expresses doubt, so it takes the subjunctive, unlike il est probable que.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_vs_indicatif-049",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_vs_indicatif",
+      "question": "Bien qu’il ___ tard, je vais l’appeler.",
+      "options": [
+        "soit",
+        "est",
+        "sera",
+        "était"
+      ],
+      "answer": 0,
+      "explanation": "These conjunctions take the subjunctive: bien que, quoique, pour que, afin que, avant que, à moins que, jusqu’à ce que, sans que, à condition que, pourvu que. Here: soit.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_vs_indicatif-050",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_vs_indicatif",
+      "question": "Je reste jusqu’à ce que tu ___.",
+      "options": [
+        "reviens",
+        "reviennes",
+        "reviendras",
+        "revenais"
+      ],
+      "answer": 1,
+      "explanation": "These conjunctions take the subjunctive: bien que, quoique, pour que, afin que, avant que, à moins que, jusqu’à ce que, sans que, à condition que, pourvu que. Here: reviennes.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_vs_indicatif-051",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_vs_indicatif",
+      "question": "Pars avant qu’il ne ___ trop tard.",
+      "options": [
+        "est",
+        "sera",
+        "soit",
+        "serait"
+      ],
+      "answer": 2,
+      "explanation": "These conjunctions take the subjunctive: bien que, quoique, pour que, afin que, avant que, à moins que, jusqu’à ce que, sans que, à condition que, pourvu que. Here: soit.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_vs_indicatif-052",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_vs_indicatif",
+      "question": "Je te prête ma voiture à condition que tu ___ prudent.",
+      "options": [
+        "es",
+        "seras",
+        "serais",
+        "sois"
+      ],
+      "answer": 3,
+      "explanation": "These conjunctions take the subjunctive: bien que, quoique, pour que, afin que, avant que, à moins que, jusqu’à ce que, sans que, à condition que, pourvu que. Here: sois.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_vs_indicatif-053",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_vs_indicatif",
+      "question": "Il est parti sans que personne ne le ___.",
+      "options": [
+        "voie",
+        "voit",
+        "verra",
+        "voyait"
+      ],
+      "answer": 0,
+      "explanation": "These conjunctions take the subjunctive: bien que, quoique, pour que, afin que, avant que, à moins que, jusqu’à ce que, sans que, à condition que, pourvu que. Here: voie.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_vs_indicatif-054",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_vs_indicatif",
+      "question": "Je t’écris pour que tu ___ la nouvelle.",
+      "options": [
+        "sais",
+        "saches",
+        "sauras",
+        "savais"
+      ],
+      "answer": 1,
+      "explanation": "These conjunctions take the subjunctive: bien que, quoique, pour que, afin que, avant que, à moins que, jusqu’à ce que, sans que, à condition que, pourvu que. Here: saches.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_vs_indicatif-055",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_vs_indicatif",
+      "question": "Nous sortirons à moins qu’il ne ___.",
+      "options": [
+        "pleut",
+        "pleuvra",
+        "pleuve",
+        "pleuvait"
+      ],
+      "answer": 2,
+      "explanation": "These conjunctions take the subjunctive: bien que, quoique, pour que, afin que, avant que, à moins que, jusqu’à ce que, sans que, à condition que, pourvu que. Here: pleuve.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_vs_indicatif-056",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_vs_indicatif",
+      "question": "Je reste à la maison parce qu’il ___.",
+      "options": [
+        "pleuve",
+        "pleuvoir",
+        "plu",
+        "pleut"
+      ],
+      "answer": 3,
+      "explanation": "These conjunctions take the indicative: parce que, puisque, pendant que, alors que, après que, dès que, depuis que, tandis que, même si. Here: pleut.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_vs_indicatif-057",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_vs_indicatif",
+      "question": "Puisque tu ___ là, aide-moi.",
+      "options": [
+        "es",
+        "sois",
+        "soit",
+        "être"
+      ],
+      "answer": 0,
+      "explanation": "These conjunctions take the indicative: parce que, puisque, pendant que, alors que, après que, dès que, depuis que, tandis que, même si. Here: es.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_vs_indicatif-058",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_vs_indicatif",
+      "question": "Pendant que tu ___ la vaisselle, je range le salon.",
+      "options": [
+        "fasses",
+        "fais",
+        "fasse",
+        "faire"
+      ],
+      "answer": 1,
+      "explanation": "These conjunctions take the indicative: parce que, puisque, pendant que, alors que, après que, dès que, depuis que, tandis que, même si. Here: fais.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_vs_indicatif-059",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_vs_indicatif",
+      "question": "Dès qu’il ___, nous partirons.",
+      "options": [
+        "arrivent",
+        "arrivait",
+        "arrivera",
+        "soit arrivé"
+      ],
+      "answer": 2,
+      "explanation": "These conjunctions take the indicative: parce que, puisque, pendant que, alors que, après que, dès que, depuis que, tandis que, même si. Here: arrivera.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_vs_indicatif-060",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_vs_indicatif",
+      "question": "Même s’il ___, nous irons à la plage.",
+      "options": [
+        "pleuve",
+        "pleuvra",
+        "pleuvrait",
+        "pleut"
+      ],
+      "answer": 3,
+      "explanation": "These conjunctions take the indicative: parce que, puisque, pendant que, alors que, après que, dès que, depuis que, tandis que, même si. Here: pleut.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_vs_indicatif-061",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_vs_indicatif",
+      "question": "Depuis qu’elle ___ ici, elle est plus heureuse.",
+      "options": [
+        "vit",
+        "vive",
+        "vives",
+        "vivre"
+      ],
+      "answer": 0,
+      "explanation": "These conjunctions take the indicative: parce que, puisque, pendant que, alors que, après que, dès que, depuis que, tandis que, même si. Here: vit.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_vs_indicatif-062",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_vs_indicatif",
+      "question": "Après qu’il ___ parti, nous avons rangé la maison.",
+      "options": [
+        "soit",
+        "est",
+        "sois",
+        "être"
+      ],
+      "answer": 1,
+      "explanation": "These conjunctions take the indicative: parce que, puisque, pendant que, alors que, après que, dès que, depuis que, tandis que, même si. Here: est.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_vs_indicatif-063",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_vs_indicatif",
+      "question": "Il se repose alors que nous ___.",
+      "options": [
+        "travaillions",
+        "travaillent",
+        "travaillons",
+        "travailler"
+      ],
+      "answer": 2,
+      "explanation": "These conjunctions take the indicative: parce que, puisque, pendant que, alors que, après que, dès que, depuis que, tandis que, même si. Here: travaillons.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_vs_indicatif-064",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_vs_indicatif",
+      "question": "C’est le meilleur film que j’___ jamais vu.",
+      "options": [
+        "ai",
+        "aurai",
+        "avais",
+        "aie"
+      ],
+      "answer": 3,
+      "explanation": "After a superlative or le seul, le premier, le dernier, the relative clause usually takes the subjunctive. Here: aie.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_vs_indicatif-065",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_vs_indicatif",
+      "question": "C’est la seule personne qui me ___.",
+      "options": [
+        "comprenne",
+        "comprend",
+        "comprendra",
+        "comprenait"
+      ],
+      "answer": 0,
+      "explanation": "After a superlative or le seul, le premier, le dernier, the relative clause usually takes the subjunctive. Here: comprenne.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_vs_indicatif-066",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_vs_indicatif",
+      "question": "C’est le plus beau cadeau qu’on m’___ jamais fait.",
+      "options": [
+        "a",
+        "ait",
+        "aura",
+        "avait"
+      ],
+      "answer": 1,
+      "explanation": "After a superlative or le seul, le premier, le dernier, the relative clause usually takes the subjunctive. Here: ait.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_vs_indicatif-067",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_vs_indicatif",
+      "question": "Tu es le premier qui ___ me voir.",
+      "options": [
+        "vient",
+        "viendra",
+        "vienne",
+        "venait"
+      ],
+      "answer": 2,
+      "explanation": "After a superlative or le seul, le premier, le dernier, the relative clause usually takes the subjunctive. Here: vienne.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_vs_indicatif-068",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_vs_indicatif",
+      "question": "C’est la dernière chose que je ___ faire.",
+      "options": [
+        "veux",
+        "voudrai",
+        "voulais",
+        "veuille"
+      ],
+      "answer": 3,
+      "explanation": "After a superlative or le seul, le premier, le dernier, the relative clause usually takes the subjunctive. Here: veuille.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_vs_indicatif-069",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_vs_indicatif",
+      "question": "Je cherche quelqu’un qui ___ parler japonais.",
+      "options": [
+        "sache",
+        "sait",
+        "saura",
+        "savait"
+      ],
+      "answer": 0,
+      "explanation": "When you are looking for someone or something that may not exist, the relative clause takes the subjunctive; when it exists, the indicative. Here: sache.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_vs_indicatif-070",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_vs_indicatif",
+      "question": "Je connais quelqu’un qui ___ parler japonais.",
+      "options": [
+        "sache",
+        "sait",
+        "saches",
+        "savoir"
+      ],
+      "answer": 1,
+      "explanation": "When you are looking for someone or something that may not exist, the relative clause takes the subjunctive; when it exists, the indicative. Here: sait.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_vs_indicatif-071",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_vs_indicatif",
+      "question": "Nous voulons une maison qui ___ un grand jardin.",
+      "options": [
+        "a",
+        "aura",
+        "ait",
+        "avait"
+      ],
+      "answer": 2,
+      "explanation": "When you are looking for someone or something that may not exist, the relative clause takes the subjunctive; when it exists, the indicative. Here: ait.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_vs_indicatif-072",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_vs_indicatif",
+      "question": "Nous avons une maison qui ___ un grand jardin.",
+      "options": [
+        "ait",
+        "aie",
+        "avoir",
+        "a"
+      ],
+      "answer": 3,
+      "explanation": "When you are looking for someone or something that may not exist, the relative clause takes the subjunctive; when it exists, the indicative. Here: a.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_vs_indicatif-073",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_vs_indicatif",
+      "question": "Y a-t-il quelqu’un qui ___ m’aider ?",
+      "options": [
+        "puisse",
+        "peut",
+        "pourra",
+        "pouvait"
+      ],
+      "answer": 0,
+      "explanation": "When you are looking for someone or something that may not exist, the relative clause takes the subjunctive; when it exists, the indicative. Here: puisse.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_vs_indicatif-074",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_vs_indicatif",
+      "question": "Il n’y a personne qui ___ la réponse.",
+      "options": [
+        "connaît",
+        "connaisse",
+        "connaîtra",
+        "connaissait"
+      ],
+      "answer": 1,
+      "explanation": "When you are looking for someone or something that may not exist, the relative clause takes the subjunctive; when it exists, the indicative. Here: connaisse.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_vs_indicatif-075",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_vs_indicatif",
+      "question": "Je veux ___ ce soir.",
+      "options": [
+        "que je sorte",
+        "que je sors",
+        "sortir",
+        "que sortir"
+      ],
+      "answer": 2,
+      "explanation": "With the same subject in both clauses, use an infinitive, not que + subjunctive.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_vs_indicatif-076",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_vs_indicatif",
+      "question": "Elle est contente ___ avec nous.",
+      "options": [
+        "qu’elle vienne",
+        "qu’elle vient",
+        "venir",
+        "de venir"
+      ],
+      "answer": 3,
+      "explanation": "With the same subject in both clauses, use an infinitive, not que + subjunctive.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_vs_indicatif-077",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_vs_indicatif",
+      "question": "J’ai peur ___ en retard.",
+      "options": [
+        "d’être",
+        "que je sois",
+        "que je suis",
+        "être"
+      ],
+      "answer": 0,
+      "explanation": "With the same subject in both clauses, use an infinitive, not que + subjunctive.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_vs_indicatif-078",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_vs_indicatif",
+      "question": "Il faut ___ avant de traverser.",
+      "options": [
+        "qu’on regarde",
+        "regarder",
+        "qu’on regardera",
+        "de regarder"
+      ],
+      "answer": 1,
+      "explanation": "Il faut + infinitive gives a general rule with no specific subject.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_vs_indicatif-079",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_vs_indicatif",
+      "question": "Nous sommes désolés ___ si tard.",
+      "options": [
+        "que nous arrivions",
+        "que nous arrivons",
+        "d’arriver",
+        "arriver"
+      ],
+      "answer": 2,
+      "explanation": "With the same subject in both clauses, use an infinitive, not que + subjunctive.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_vs_indicatif-080",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_vs_indicatif",
+      "question": "Il me semble que tu ___ raison.",
+      "options": [
+        "aies",
+        "ait",
+        "avoir",
+        "as"
+      ],
+      "answer": 3,
+      "explanation": "Il me semble que (it seems to me) states an opinion and takes the indicative, unlike il semble que.",
+      "textId": null
+    }
+  ]
+}

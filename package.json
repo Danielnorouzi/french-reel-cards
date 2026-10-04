@@ -10,6 +10,7 @@
     "start": "node server/index.js",
     "test": "node --test test/*.test.js",
     "build-data": "node scripts/build-data.mjs",
-    "build-grammar": "node scripts/build-grammar.mjs"
+    "build-grammar": "node scripts/build-grammar.mjs",
+    "build-vocab": "node scripts/build-vocab.mjs"
   }
 }

@@ -1,0 +1,1285 @@
+{
+  "texts": [],
+  "questions": [
+    {
+      "id": "c1-condition_nuance-001",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "condition_nuance",
+      "question": "Prends ton parapluie au cas où il ___.",
+      "options": [
+        "pleuvrait",
+        "pleuve",
+        "pleut",
+        "pleuvra"
+      ],
+      "answer": 0,
+      "explanation": "Au cas où and dans le cas où are followed by the conditional: au cas où il pleuvrait.",
+      "textId": null
+    },
+    {
+      "id": "c1-condition_nuance-002",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "condition_nuance",
+      "question": "Je te laisse mon numéro au cas où tu ___ besoin de moi.",
+      "options": [
+        "aies",
+        "aurais",
+        "as",
+        "auras"
+      ],
+      "answer": 1,
+      "explanation": "Au cas où and dans le cas où are followed by the conditional: au cas où il pleuvrait.",
+      "textId": null
+    },
+    {
+      "id": "c1-condition_nuance-003",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "condition_nuance",
+      "question": "Au cas où vous ___ d’avis, appelez-moi.",
+      "options": [
+        "changiez",
+        "changez",
+        "changeriez",
+        "changerez"
+      ],
+      "answer": 2,
+      "explanation": "Au cas où and dans le cas où are followed by the conditional: au cas où il pleuvrait.",
+      "textId": null
+    },
+    {
+      "id": "c1-condition_nuance-004",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "condition_nuance",
+      "question": "Dans le cas où le train ___ en retard, je prendrai un taxi.",
+      "options": [
+        "soit",
+        "est",
+        "sera",
+        "serait"
+      ],
+      "answer": 3,
+      "explanation": "Au cas où and dans le cas où are followed by the conditional: au cas où il pleuvrait.",
+      "textId": null
+    },
+    {
+      "id": "c1-condition_nuance-005",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "condition_nuance",
+      "question": "Au cas où elle ne ___ pas, commencez sans elle.",
+      "options": [
+        "viendrait",
+        "vienne",
+        "vient",
+        "viendra"
+      ],
+      "answer": 0,
+      "explanation": "Au cas où and dans le cas où are followed by the conditional: au cas où il pleuvrait.",
+      "textId": null
+    },
+    {
+      "id": "c1-condition_nuance-006",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "condition_nuance",
+      "question": "J’ai pris des sandwichs au cas où nous ___ faim.",
+      "options": [
+        "ayons",
+        "aurions",
+        "avons",
+        "aurons"
+      ],
+      "answer": 1,
+      "explanation": "Au cas où and dans le cas où are followed by the conditional: au cas où il pleuvrait.",
+      "textId": null
+    },
+    {
+      "id": "c1-condition_nuance-007",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "condition_nuance",
+      "question": "Au cas où tu l’___, voici mon adresse.",
+      "options": [
+        "aies oubliée",
+        "as oubliée",
+        "aurais oubliée",
+        "auras oubliée"
+      ],
+      "answer": 2,
+      "explanation": "Au cas où and dans le cas où are followed by the conditional: au cas où il pleuvrait.",
+      "textId": null
+    },
+    {
+      "id": "c1-condition_nuance-008",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "condition_nuance",
+      "question": "Tu peux sortir à condition que tu ___ avant minuit.",
+      "options": [
+        "rentreras",
+        "rentrerais",
+        "rentrais",
+        "rentres"
+      ],
+      "answer": 3,
+      "explanation": "À condition que, pourvu que, pour peu que, à supposer que, en admettant que take the subjunctive.",
+      "textId": null
+    },
+    {
+      "id": "c1-condition_nuance-009",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "condition_nuance",
+      "question": "Je viendrai pourvu qu’il ne ___ pas.",
+      "options": [
+        "pleuve",
+        "pleut",
+        "pleuvra",
+        "pleuvrait"
+      ],
+      "answer": 0,
+      "explanation": "À condition que, pourvu que, pour peu que, à supposer que, en admettant que take the subjunctive.",
+      "textId": null
+    },
+    {
+      "id": "c1-condition_nuance-010",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "condition_nuance",
+      "question": "Pour peu qu’il ___ un effort, il réussira.",
+      "options": [
+        "fait",
+        "fasse",
+        "fera",
+        "ferait"
+      ],
+      "answer": 1,
+      "explanation": "À condition que, pourvu que, pour peu que, à supposer que, en admettant que take the subjunctive.",
+      "textId": null
+    },
+    {
+      "id": "c1-condition_nuance-011",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "condition_nuance",
+      "question": "À supposer qu’il ___ raison, que ferons-nous ?",
+      "options": [
+        "a",
+        "aura",
+        "ait",
+        "aurait"
+      ],
+      "answer": 2,
+      "explanation": "À condition que, pourvu que, pour peu que, à supposer que, en admettant que take the subjunctive.",
+      "textId": null
+    },
+    {
+      "id": "c1-condition_nuance-012",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "condition_nuance",
+      "question": "En admettant que ce ___ vrai, cela ne change rien.",
+      "options": [
+        "est",
+        "sera",
+        "serait",
+        "soit"
+      ],
+      "answer": 3,
+      "explanation": "À condition que, pourvu que, pour peu que, à supposer que, en admettant que take the subjunctive.",
+      "textId": null
+    },
+    {
+      "id": "c1-condition_nuance-013",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "condition_nuance",
+      "question": "Je te prête ce livre à condition que tu me le ___.",
+      "options": [
+        "rendes",
+        "rends",
+        "rendras",
+        "rendrais"
+      ],
+      "answer": 0,
+      "explanation": "À condition que, pourvu que, pour peu que, à supposer que, en admettant que take the subjunctive.",
+      "textId": null
+    },
+    {
+      "id": "c1-condition_nuance-014",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "condition_nuance",
+      "question": "Pour peu qu’on lui ___ la parole, il ne s’arrête plus.",
+      "options": [
+        "donnera",
+        "donne",
+        "donnerait",
+        "donnait"
+      ],
+      "answer": 1,
+      "explanation": "À condition que, pourvu que, pour peu que, à supposer que, en admettant que take the subjunctive.",
+      "textId": null
+    },
+    {
+      "id": "c1-condition_nuance-015",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "condition_nuance",
+      "question": "Pourvu qu’elle ___ à temps !",
+      "options": [
+        "arrivera",
+        "arriverait",
+        "arrive",
+        "arrivait"
+      ],
+      "answer": 2,
+      "explanation": "À condition que, pourvu que, pour peu que, à supposer que, en admettant que take the subjunctive.",
+      "textId": null
+    },
+    {
+      "id": "c1-condition_nuance-016",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "condition_nuance",
+      "question": "Nous partirons demain, à moins qu’il ne ___.",
+      "options": [
+        "neigera",
+        "neigerait",
+        "neigeait",
+        "neige"
+      ],
+      "answer": 3,
+      "explanation": "À moins que takes the subjunctive (often with ne explétif); à moins de takes an infinitive when the subject is the same.",
+      "textId": null
+    },
+    {
+      "id": "c1-condition_nuance-017",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "condition_nuance",
+      "question": "Je ne dirai rien, à moins que tu ne me le ___.",
+      "options": [
+        "demandes",
+        "demanderas",
+        "demanderais",
+        "demandais"
+      ],
+      "answer": 0,
+      "explanation": "À moins que takes the subjunctive (often with ne explétif); à moins de takes an infinitive when the subject is the same.",
+      "textId": null
+    },
+    {
+      "id": "c1-condition_nuance-018",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "condition_nuance",
+      "question": "À moins ___ partir tout de suite, tu vas rater ton train.",
+      "options": [
+        "que",
+        "de",
+        "à",
+        "pour"
+      ],
+      "answer": 1,
+      "explanation": "À moins que takes the subjunctive (often with ne explétif); à moins de takes an infinitive when the subject is the same.",
+      "textId": null
+    },
+    {
+      "id": "c1-condition_nuance-019",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "condition_nuance",
+      "question": "Il viendra, à moins qu’il ne ___ malade.",
+      "options": [
+        "est",
+        "sera",
+        "soit",
+        "serait"
+      ],
+      "answer": 2,
+      "explanation": "À moins que takes the subjunctive (often with ne explétif); à moins de takes an infinitive when the subject is the same.",
+      "textId": null
+    },
+    {
+      "id": "c1-condition_nuance-020",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "condition_nuance",
+      "question": "À moins d’___ très riche, on ne peut pas acheter cette maison.",
+      "options": [
+        "est",
+        "soit",
+        "étant",
+        "être"
+      ],
+      "answer": 3,
+      "explanation": "À moins que takes the subjunctive (often with ne explétif); à moins de takes an infinitive when the subject is the same.",
+      "textId": null
+    },
+    {
+      "id": "c1-condition_nuance-021",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "condition_nuance",
+      "question": "Si j’avais su, je ne ___ pas venu.",
+      "options": [
+        "serais",
+        "suis",
+        "étais",
+        "serai"
+      ],
+      "answer": 0,
+      "explanation": "A past condition that did not happen: si + plus-que-parfait, result in the conditionnel passé (or conditionnel présent if the result is now).",
+      "textId": null
+    },
+    {
+      "id": "c1-condition_nuance-022",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "condition_nuance",
+      "question": "Si tu m’avais écouté, tu n’___ pas fait cette erreur.",
+      "options": [
+        "as",
+        "aurais",
+        "avais",
+        "auras"
+      ],
+      "answer": 1,
+      "explanation": "A past condition that did not happen: si + plus-que-parfait, result in the conditionnel passé (or conditionnel présent if the result is now).",
+      "textId": null
+    },
+    {
+      "id": "c1-condition_nuance-023",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "condition_nuance",
+      "question": "Si elle ___ plus tôt, elle aurait eu son train.",
+      "options": [
+        "serait partie",
+        "partait",
+        "était partie",
+        "est partie"
+      ],
+      "answer": 2,
+      "explanation": "A past condition that did not happen: si + plus-que-parfait, result in the conditionnel passé (or conditionnel présent if the result is now).",
+      "textId": null
+    },
+    {
+      "id": "c1-condition_nuance-024",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "condition_nuance",
+      "question": "Si nous ___ ce billet, nous aurions gagné.",
+      "options": [
+        "aurions acheté",
+        "achetions",
+        "avons acheté",
+        "avions acheté"
+      ],
+      "answer": 3,
+      "explanation": "A past condition that did not happen: si + plus-que-parfait, result in the conditionnel passé (or conditionnel présent if the result is now).",
+      "textId": null
+    },
+    {
+      "id": "c1-condition_nuance-025",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "condition_nuance",
+      "question": "S’il n’avait pas plu, nous ___ au parc.",
+      "options": [
+        "serions allés",
+        "sommes allés",
+        "étions allés",
+        "irons"
+      ],
+      "answer": 0,
+      "explanation": "A past condition that did not happen: si + plus-que-parfait, result in the conditionnel passé (or conditionnel présent if the result is now).",
+      "textId": null
+    },
+    {
+      "id": "c1-condition_nuance-026",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "condition_nuance",
+      "question": "Si vous ___ plus attention, l’accident ne serait pas arrivé.",
+      "options": [
+        "auriez fait",
+        "aviez fait",
+        "faisiez",
+        "avez fait"
+      ],
+      "answer": 1,
+      "explanation": "A past condition that did not happen: si + plus-que-parfait, result in the conditionnel passé (or conditionnel présent if the result is now).",
+      "textId": null
+    },
+    {
+      "id": "c1-condition_nuance-027",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "condition_nuance",
+      "question": "Si j’avais étudié la médecine, je ___ médecin aujourd’hui.",
+      "options": [
+        "suis",
+        "étais",
+        "serais",
+        "serai"
+      ],
+      "answer": 2,
+      "explanation": "Mixed hypothesis: si + plus-que-parfait (past cause) with the conditionnel présent (present result): si j’avais étudié, je serais médecin aujourd’hui.",
+      "textId": null
+    },
+    {
+      "id": "c1-condition_nuance-028",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "condition_nuance",
+      "question": "Si tu n’avais pas tant mangé, tu n’___ pas mal au ventre maintenant.",
+      "options": [
+        "avais",
+        "auras",
+        "as",
+        "aurais"
+      ],
+      "answer": 3,
+      "explanation": "Mixed hypothesis: si + plus-que-parfait (past cause) with the conditionnel présent (present result): si j’avais étudié, je serais médecin aujourd’hui.",
+      "textId": null
+    },
+    {
+      "id": "c1-condition_nuance-029",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "condition_nuance",
+      "question": "Si elle avait pris l’avion, elle ___ déjà là.",
+      "options": [
+        "serait",
+        "était",
+        "sera",
+        "est"
+      ],
+      "answer": 0,
+      "explanation": "Mixed hypothesis: si + plus-que-parfait (past cause) with the conditionnel présent (present result): si j’avais étudié, je serais médecin aujourd’hui.",
+      "textId": null
+    },
+    {
+      "id": "c1-condition_nuance-030",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "condition_nuance",
+      "question": "S’il avait accepté ce poste, il ___ à Paris en ce moment.",
+      "options": [
+        "vivait",
+        "vivrait",
+        "vivra",
+        "vit"
+      ],
+      "answer": 1,
+      "explanation": "Mixed hypothesis: si + plus-que-parfait (past cause) with the conditionnel présent (present result): si j’avais étudié, je serais médecin aujourd’hui.",
+      "textId": null
+    },
+    {
+      "id": "c1-condition_nuance-031",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "condition_nuance",
+      "question": "Si j’étais toi, j’___ accepté cette offre l’an dernier.",
+      "options": [
+        "avais",
+        "aurai",
+        "aurais",
+        "ai"
+      ],
+      "answer": 2,
+      "explanation": "A general, still-true condition (si + imparfait) can go with a past result in the conditionnel passé: si j’étais toi, j’aurais accepté.",
+      "textId": null
+    },
+    {
+      "id": "c1-condition_nuance-032",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "condition_nuance",
+      "question": "Si tu viens et que tu ___ en forme, nous irons courir.",
+      "options": [
+        "es",
+        "seras",
+        "serais",
+        "sois"
+      ],
+      "answer": 3,
+      "explanation": "When a second condition is added with et, que replaces si and takes the subjunctive: si tu viens et que tu sois en forme.",
+      "textId": null
+    },
+    {
+      "id": "c1-condition_nuance-033",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "condition_nuance",
+      "question": "S’il fait beau et que nous ___ le temps, nous irons à la plage.",
+      "options": [
+        "ayons",
+        "avons",
+        "aurons",
+        "aurions"
+      ],
+      "answer": 0,
+      "explanation": "When a second condition is added with et, que replaces si and takes the subjunctive: si tu viens et que tu sois en forme.",
+      "textId": null
+    },
+    {
+      "id": "c1-condition_nuance-034",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "condition_nuance",
+      "question": "Si elle appelle et que je ne ___ pas là, prends le message.",
+      "options": [
+        "suis",
+        "sois",
+        "serai",
+        "serais"
+      ],
+      "answer": 1,
+      "explanation": "When a second condition is added with et, que replaces si and takes the subjunctive: si tu viens et que tu sois en forme.",
+      "textId": null
+    },
+    {
+      "id": "c1-condition_nuance-035",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "condition_nuance",
+      "question": "Si vous avez un problème et que vous ne ___ pas le résoudre, appelez-moi.",
+      "options": [
+        "pouvez",
+        "pourrez",
+        "puissiez",
+        "pourriez"
+      ],
+      "answer": 2,
+      "explanation": "When a second condition is added with et, que replaces si and takes the subjunctive: si tu viens et que tu sois en forme.",
+      "textId": null
+    },
+    {
+      "id": "c1-condition_nuance-036",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "condition_nuance",
+      "question": "Même s’il ___, nous irons nous promener.",
+      "options": [
+        "pleuve",
+        "pleuvra",
+        "pleuvrait",
+        "pleut"
+      ],
+      "answer": 3,
+      "explanation": "Même si + indicative = even if. It follows the same tense rules as si and never takes the subjunctive.",
+      "textId": null
+    },
+    {
+      "id": "c1-condition_nuance-037",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "condition_nuance",
+      "question": "Même si tu ___ riche, je ne t’épouserais pas.",
+      "options": [
+        "étais",
+        "sois",
+        "serais",
+        "seras"
+      ],
+      "answer": 0,
+      "explanation": "Même si + indicative = even if. It follows the same tense rules as si and never takes the subjunctive.",
+      "textId": null
+    },
+    {
+      "id": "c1-condition_nuance-038",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "condition_nuance",
+      "question": "Même si elle me le ___, je refuserais.",
+      "options": [
+        "demande",
+        "demandait",
+        "demanderait",
+        "demandera"
+      ],
+      "answer": 1,
+      "explanation": "Même si + indicative = even if. It follows the same tense rules as si and never takes the subjunctive.",
+      "textId": null
+    },
+    {
+      "id": "c1-condition_nuance-039",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "condition_nuance",
+      "question": "Même s’il ___ excusé, je ne lui aurais pas pardonné.",
+      "options": [
+        "se soit",
+        "se serait",
+        "s’était",
+        "s’est"
+      ],
+      "answer": 2,
+      "explanation": "Même si + indicative = even if. It follows the same tense rules as si and never takes the subjunctive.",
+      "textId": null
+    },
+    {
+      "id": "c1-condition_nuance-040",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "condition_nuance",
+      "question": "Je ne changerai pas d’avis, même si tu ___.",
+      "options": [
+        "insisteras",
+        "insisterais",
+        "insistais",
+        "insistes"
+      ],
+      "answer": 3,
+      "explanation": "Même si + indicative = even if. It follows the same tense rules as si and never takes the subjunctive.",
+      "textId": null
+    },
+    {
+      "id": "c1-condition_nuance-041",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "condition_nuance",
+      "question": "Nous irons à la plage, sauf s’il ___.",
+      "options": [
+        "pleut",
+        "pleuve",
+        "pleuvra",
+        "pleuvrait"
+      ],
+      "answer": 0,
+      "explanation": "Sauf si and excepté si + indicative = unless. Sinon = otherwise.",
+      "textId": null
+    },
+    {
+      "id": "c1-condition_nuance-042",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "condition_nuance",
+      "question": "Je viendrai, sauf si j’___ un empêchement.",
+      "options": [
+        "aie",
+        "ai",
+        "aurai",
+        "aurais"
+      ],
+      "answer": 1,
+      "explanation": "Sauf si and excepté si + indicative = unless. Sinon = otherwise.",
+      "textId": null
+    },
+    {
+      "id": "c1-condition_nuance-043",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "condition_nuance",
+      "question": "Dépêche-toi, ___ nous allons être en retard.",
+      "options": [
+        "sauf si",
+        "à moins que",
+        "sinon",
+        "pourvu que"
+      ],
+      "answer": 2,
+      "explanation": "Sauf si and excepté si + indicative = unless. Sinon = otherwise.",
+      "textId": null
+    },
+    {
+      "id": "c1-condition_nuance-044",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "condition_nuance",
+      "question": "Il viendra, excepté s’il ___ travailler.",
+      "options": [
+        "doive",
+        "devra",
+        "devrait",
+        "doit"
+      ],
+      "answer": 3,
+      "explanation": "Sauf si and excepté si + indicative = unless. Sinon = otherwise.",
+      "textId": null
+    },
+    {
+      "id": "c1-condition_nuance-045",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "condition_nuance",
+      "question": "En ___ plus tôt, tu arriverais à l’heure.",
+      "options": [
+        "partant",
+        "partir",
+        "parti",
+        "partais"
+      ],
+      "answer": 0,
+      "explanation": "A gérondif or a noun phrase can replace a si clause: en partant plus tôt, tu arriverais à l’heure; avec plus de temps, j’aurais fini.",
+      "textId": null
+    },
+    {
+      "id": "c1-condition_nuance-046",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "condition_nuance",
+      "question": "En ___ davantage, il aurait réussi.",
+      "options": [
+        "travailler",
+        "travaillant",
+        "travaillé",
+        "travaillait"
+      ],
+      "answer": 1,
+      "explanation": "A gérondif or a noun phrase can replace a si clause: en partant plus tôt, tu arriverais à l’heure; avec plus de temps, j’aurais fini.",
+      "textId": null
+    },
+    {
+      "id": "c1-condition_nuance-047",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "condition_nuance",
+      "question": "___ plus de temps, j’aurais fini ce rapport.",
+      "options": [
+        "À moins de",
+        "Pourvu",
+        "Avec",
+        "Au cas"
+      ],
+      "answer": 2,
+      "explanation": "A gérondif or a noun phrase can replace a si clause: en partant plus tôt, tu arriverais à l’heure; avec plus de temps, j’aurais fini.",
+      "textId": null
+    },
+    {
+      "id": "c1-condition_nuance-048",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "condition_nuance",
+      "question": "___ ton aide, je n’y serais jamais arrivé.",
+      "options": [
+        "Sauf",
+        "Sinon",
+        "À moins",
+        "Sans"
+      ],
+      "answer": 3,
+      "explanation": "A gérondif or a noun phrase can replace a si clause: en partant plus tôt, tu arriverais à l’heure; avec plus de temps, j’aurais fini.",
+      "textId": null
+    },
+    {
+      "id": "c1-condition_nuance-049",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "condition_nuance",
+      "question": "___ ta place, je refuserais.",
+      "options": [
+        "À",
+        "En",
+        "Dans",
+        "Sur"
+      ],
+      "answer": 0,
+      "explanation": "À ta place = if I were you. It replaces a si clause.",
+      "textId": null
+    },
+    {
+      "id": "c1-condition_nuance-050",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "condition_nuance",
+      "question": "Il parle comme s’il ___ tout.",
+      "options": [
+        "sait",
+        "savait",
+        "saurait",
+        "sache"
+      ],
+      "answer": 1,
+      "explanation": "Comme si is always followed by the imparfait (same time) or the plus-que-parfait (earlier), never the present or the conditional.",
+      "textId": null
+    },
+    {
+      "id": "c1-condition_nuance-051",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "condition_nuance",
+      "question": "Elle fait comme si elle ne m’___ pas vu.",
+      "options": [
+        "a",
+        "aurait",
+        "avait",
+        "ait"
+      ],
+      "answer": 2,
+      "explanation": "Comme si is always followed by the imparfait (same time) or the plus-que-parfait (earlier), never the present or the conditional.",
+      "textId": null
+    },
+    {
+      "id": "c1-condition_nuance-052",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "condition_nuance",
+      "question": "Tu me regardes comme si j’___ fou.",
+      "options": [
+        "suis",
+        "serais",
+        "sois",
+        "étais"
+      ],
+      "answer": 3,
+      "explanation": "Comme si is always followed by the imparfait (same time) or the plus-que-parfait (earlier), never the present or the conditional.",
+      "textId": null
+    },
+    {
+      "id": "c1-condition_nuance-053",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "condition_nuance",
+      "question": "Il dépense son argent comme s’il ___ millionnaire.",
+      "options": [
+        "était",
+        "est",
+        "serait",
+        "soit"
+      ],
+      "answer": 0,
+      "explanation": "Comme si is always followed by the imparfait (same time) or the plus-que-parfait (earlier), never the present or the conditional.",
+      "textId": null
+    },
+    {
+      "id": "c1-condition_nuance-054",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "condition_nuance",
+      "question": "Elle m’a regardé comme si j’___ une bêtise.",
+      "options": [
+        "ai dit",
+        "avais dit",
+        "aurais dit",
+        "aie dit"
+      ],
+      "answer": 1,
+      "explanation": "Comme si is always followed by the imparfait (same time) or the plus-que-parfait (earlier), never the present or the conditional.",
+      "textId": null
+    },
+    {
+      "id": "c1-condition_nuance-055",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "condition_nuance",
+      "question": "Ils se comportent comme si rien ne ___.",
+      "options": [
+        "s’est passé",
+        "se serait passé",
+        "s’était passé",
+        "se soit passé"
+      ],
+      "answer": 2,
+      "explanation": "Comme si is always followed by the imparfait (same time) or the plus-que-parfait (earlier), never the present or the conditional.",
+      "textId": null
+    },
+    {
+      "id": "c1-condition_nuance-056",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "condition_nuance",
+      "question": "Tu me le ___ que je ne te croirais pas.",
+      "options": [
+        "dis",
+        "disais",
+        "diras",
+        "dirais"
+      ],
+      "answer": 3,
+      "explanation": "In formal style, the conditional can express a condition without si, sometimes with que: tu me le dirais (que) je ne te croirais pas.",
+      "textId": null
+    },
+    {
+      "id": "c1-condition_nuance-057",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "condition_nuance",
+      "question": "Il ___ riche qu’il ne serait pas plus heureux.",
+      "options": [
+        "serait",
+        "est",
+        "était",
+        "sera"
+      ],
+      "answer": 0,
+      "explanation": "In formal style, the conditional can express a condition without si, sometimes with que: tu me le dirais (que) je ne te croirais pas.",
+      "textId": null
+    },
+    {
+      "id": "c1-condition_nuance-058",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "condition_nuance",
+      "question": "On me ___ une fortune que je refuserais.",
+      "options": [
+        "propose",
+        "proposerait",
+        "proposait",
+        "proposera"
+      ],
+      "answer": 1,
+      "explanation": "In formal style, the conditional can express a condition without si, sometimes with que: tu me le dirais (que) je ne te croirais pas.",
+      "textId": null
+    },
+    {
+      "id": "c1-condition_nuance-059",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "condition_nuance",
+      "question": "Vous pouvez entrer à condition ___ payer.",
+      "options": [
+        "que",
+        "à",
+        "de",
+        "pour"
+      ],
+      "answer": 2,
+      "explanation": "À condition de, à moins de, faute de + infinitive are used when both verbs have the same subject.",
+      "textId": null
+    },
+    {
+      "id": "c1-condition_nuance-060",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "condition_nuance",
+      "question": "Tu réussiras à condition ___ travailler.",
+      "options": [
+        "que",
+        "à",
+        "pour",
+        "de"
+      ],
+      "answer": 3,
+      "explanation": "À condition de, à moins de, faute de + infinitive are used when both verbs have the same subject.",
+      "textId": null
+    },
+    {
+      "id": "c1-condition_nuance-061",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "condition_nuance",
+      "question": "À moins ___ gagner au loto, je ne pourrai jamais l’acheter.",
+      "options": [
+        "de",
+        "que",
+        "à",
+        "pour"
+      ],
+      "answer": 0,
+      "explanation": "À condition de, à moins de, faute de + infinitive are used when both verbs have the same subject.",
+      "textId": null
+    },
+    {
+      "id": "c1-condition_nuance-062",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "condition_nuance",
+      "question": "___ de réponse avant lundi, nous annulerons la commande.",
+      "options": [
+        "À moins",
+        "Faute",
+        "À condition",
+        "Pourvu"
+      ],
+      "answer": 1,
+      "explanation": "À condition de, à moins de, faute de + infinitive are used when both verbs have the same subject.",
+      "textId": null
+    },
+    {
+      "id": "c1-condition_nuance-063",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "condition_nuance",
+      "question": "Supposons qu’il ___ non. Que ferons-nous ?",
+      "options": [
+        "dit",
+        "dira",
+        "dise",
+        "dirait"
+      ],
+      "answer": 2,
+      "explanation": "Supposons que, imaginons que, admettons que take the subjunctive.",
+      "textId": null
+    },
+    {
+      "id": "c1-condition_nuance-064",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "condition_nuance",
+      "question": "Imaginons que tu ___ au loto.",
+      "options": [
+        "gagneras",
+        "gagnerais",
+        "gagnais",
+        "gagnes"
+      ],
+      "answer": 3,
+      "explanation": "Supposons que, imaginons que, admettons que take the subjunctive.",
+      "textId": null
+    },
+    {
+      "id": "c1-condition_nuance-065",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "condition_nuance",
+      "question": "Admettons que vous ___ raison.",
+      "options": [
+        "ayez",
+        "avez",
+        "aurez",
+        "auriez"
+      ],
+      "answer": 0,
+      "explanation": "Supposons que, imaginons que, admettons que take the subjunctive.",
+      "textId": null
+    },
+    {
+      "id": "c1-condition_nuance-066",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "condition_nuance",
+      "question": "Supposons que nous ___ en retard.",
+      "options": [
+        "sommes",
+        "soyons",
+        "serons",
+        "serions"
+      ],
+      "answer": 1,
+      "explanation": "Supposons que, imaginons que, admettons que take the subjunctive.",
+      "textId": null
+    },
+    {
+      "id": "c1-condition_nuance-067",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "condition_nuance",
+      "question": "Du moment que tu ___ d’accord, je n’ai rien à ajouter.",
+      "options": [
+        "sois",
+        "serais",
+        "es",
+        "étais"
+      ],
+      "answer": 2,
+      "explanation": "Dès lors que, du moment que, dans la mesure où take the indicative and present the condition as a fact.",
+      "textId": null
+    },
+    {
+      "id": "c1-condition_nuance-068",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "condition_nuance",
+      "question": "Dès lors que vous ___ ce contrat, vous êtes engagé.",
+      "options": [
+        "signiez",
+        "signeriez",
+        "signassiez",
+        "signez"
+      ],
+      "answer": 3,
+      "explanation": "Dès lors que, du moment que, dans la mesure où take the indicative and present the condition as a fact.",
+      "textId": null
+    },
+    {
+      "id": "c1-condition_nuance-069",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "condition_nuance",
+      "question": "Je vous aiderai dans la mesure où je le ___.",
+      "options": [
+        "pourrai",
+        "puisse",
+        "pourrais",
+        "pusse"
+      ],
+      "answer": 0,
+      "explanation": "Dès lors que, du moment que, dans la mesure où take the indicative and present the condition as a fact.",
+      "textId": null
+    },
+    {
+      "id": "c1-condition_nuance-070",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "condition_nuance",
+      "question": "Le prix varie selon que vous ___ en été ou en hiver.",
+      "options": [
+        "voyagiez",
+        "voyagez",
+        "voyageriez",
+        "voyageant"
+      ],
+      "answer": 1,
+      "explanation": "Selon que and suivant que take the indicative: selon que vous serez puissant ou misérable.",
+      "textId": null
+    },
+    {
+      "id": "c1-condition_nuance-071",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "condition_nuance",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "Si j’aurais su, je serais venu.",
+        "Si j’avais su, je venais.",
+        "Si j’avais su, je serais venu.",
+        "Si je savais, je serais venu hier."
+      ],
+      "answer": 2,
+      "explanation": "A past condition that did not happen: si + plus-que-parfait, result in the conditionnel passé (or conditionnel présent if the result is now).",
+      "textId": null
+    },
+    {
+      "id": "c1-condition_nuance-072",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "condition_nuance",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "Au cas où tu aies un problème, appelle-moi.",
+        "Au cas où tu as un problème, appelle-moi.",
+        "Au cas que tu aurais un problème, appelle-moi.",
+        "Au cas où tu aurais un problème, appelle-moi."
+      ],
+      "answer": 3,
+      "explanation": "Au cas où and dans le cas où are followed by the conditional: au cas où il pleuvrait.",
+      "textId": null
+    },
+    {
+      "id": "c1-condition_nuance-073",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "condition_nuance",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "Il fait comme s’il ne comprenait pas.",
+        "Il fait comme s’il ne comprendrait pas.",
+        "Il fait comme s’il ne comprenne pas.",
+        "Il fait comme si il ne comprend pas."
+      ],
+      "answer": 0,
+      "explanation": "Comme si is always followed by the imparfait (same time) or the plus-que-parfait (earlier), never the present or the conditional.",
+      "textId": null
+    },
+    {
+      "id": "c1-condition_nuance-074",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "condition_nuance",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "Je viendrai à condition que tu viens aussi.",
+        "Je viendrai à condition que tu viennes aussi.",
+        "Je viendrai à condition que tu viendras aussi.",
+        "Je viendrai à condition de tu viennes aussi."
+      ],
+      "answer": 1,
+      "explanation": "À condition que, pourvu que, pour peu que, à supposer que, en admettant que take the subjunctive.",
+      "textId": null
+    },
+    {
+      "id": "c1-condition_nuance-075",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "condition_nuance",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "Même si tu insisterais, je refuserais.",
+        "Même si tu insistes, je refusais.",
+        "Même si tu insistais, je refuserais.",
+        "Même que tu insistais, je refuserais."
+      ],
+      "answer": 2,
+      "explanation": "Même si + indicative = even if. It follows the same tense rules as si and never takes the subjunctive.",
+      "textId": null
+    },
+    {
+      "id": "c1-condition_nuance-076",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "condition_nuance",
+      "question": "Si seulement il ___ là !",
+      "options": [
+        "est",
+        "serait",
+        "soit",
+        "était"
+      ],
+      "answer": 3,
+      "explanation": "Si seulement + imparfait expresses a wish about the present; + plus-que-parfait, a regret about the past.",
+      "textId": null
+    },
+    {
+      "id": "c1-condition_nuance-077",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "condition_nuance",
+      "question": "Si seulement j’___ écouté mes parents !",
+      "options": [
+        "avais",
+        "ai",
+        "aurais",
+        "aie"
+      ],
+      "answer": 0,
+      "explanation": "Si seulement + plus-que-parfait expresses a regret about the past.",
+      "textId": null
+    },
+    {
+      "id": "c1-condition_nuance-078",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "condition_nuance",
+      "question": "Et si on ___ au restaurant ce soir ?",
+      "options": [
+        "va",
+        "allait",
+        "irait",
+        "aille"
+      ],
+      "answer": 1,
+      "explanation": "Et si + imparfait makes a suggestion: Et si on allait… ? = What if we went…?",
+      "textId": null
+    },
+    {
+      "id": "c1-condition_nuance-079",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "condition_nuance",
+      "question": "Si tu voulais bien m’aider, je t’en ___ reconnaissant.",
+      "options": [
+        "suis",
+        "étais",
+        "serais",
+        "serai"
+      ],
+      "answer": 2,
+      "explanation": "Si + imparfait with a conditional result makes a polite request.",
+      "textId": null
+    },
+    {
+      "id": "c1-condition_nuance-080",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "condition_nuance",
+      "question": "Si tant est qu’il ___ la vérité, il mérite notre aide.",
+      "options": [
+        "dit",
+        "dira",
+        "dirait",
+        "dise"
+      ],
+      "answer": 3,
+      "explanation": "Si tant est que (if indeed, assuming that) takes the subjunctive.",
+      "textId": null
+    }
+  ]
+}

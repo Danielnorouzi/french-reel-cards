@@ -1,0 +1,1333 @@
+{
+  "texts": [],
+  "questions": [
+    {
+      "id": "c1-tricky_agreements-001",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "tricky_agreements",
+      "question": "Elle est ___ étonnée.",
+      "options": [
+        "tout",
+        "toute",
+        "toutes",
+        "tous"
+      ],
+      "answer": 0,
+      "explanation": "Tout as an adverb (= very, completely) is invariable, except before a feminine adjective starting with a consonant or aspirated h, where it agrees: tout étonnée, toute petite, toutes honteuses. Here: tout.",
+      "textId": null
+    },
+    {
+      "id": "c1-tricky_agreements-002",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "tricky_agreements",
+      "question": "Elle est ___ petite.",
+      "options": [
+        "tout",
+        "toute",
+        "toutes",
+        "tous"
+      ],
+      "answer": 1,
+      "explanation": "Tout as an adverb (= very, completely) is invariable, except before a feminine adjective starting with a consonant or aspirated h, where it agrees: tout étonnée, toute petite, toutes honteuses. Here: toute.",
+      "textId": null
+    },
+    {
+      "id": "c1-tricky_agreements-003",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "tricky_agreements",
+      "question": "Elles sont ___ honteuses.",
+      "options": [
+        "tout",
+        "tous",
+        "toutes",
+        "toute"
+      ],
+      "answer": 2,
+      "explanation": "Tout as an adverb (= very, completely) is invariable, except before a feminine adjective starting with a consonant or aspirated h, where it agrees: tout étonnée, toute petite, toutes honteuses. Here: toutes.",
+      "textId": null
+    },
+    {
+      "id": "c1-tricky_agreements-004",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "tricky_agreements",
+      "question": "Ils sont ___ contents. (= très contents)",
+      "options": [
+        "tous",
+        "toute",
+        "toutes",
+        "tout"
+      ],
+      "answer": 3,
+      "explanation": "Tout as an adverb (= very, completely) is invariable, except before a feminine adjective starting with a consonant or aspirated h, where it agrees: tout étonnée, toute petite, toutes honteuses. Here: tout.",
+      "textId": null
+    },
+    {
+      "id": "c1-tricky_agreements-005",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "tricky_agreements",
+      "question": "Elle est ___ heureuse de te voir.",
+      "options": [
+        "tout",
+        "toute",
+        "toutes",
+        "tous"
+      ],
+      "answer": 0,
+      "explanation": "Tout as an adverb (= very, completely) is invariable, except before a feminine adjective starting with a consonant or aspirated h, where it agrees: tout étonnée, toute petite, toutes honteuses. Here: tout.",
+      "textId": null
+    },
+    {
+      "id": "c1-tricky_agreements-006",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "tricky_agreements",
+      "question": "Elles sont ___ émues. (= très émues)",
+      "options": [
+        "toutes",
+        "tout",
+        "toute",
+        "tous"
+      ],
+      "answer": 1,
+      "explanation": "Tout as an adverb (= very, completely) is invariable, except before a feminine adjective starting with a consonant or aspirated h, where it agrees: tout étonnée, toute petite, toutes honteuses. Here: tout.",
+      "textId": null
+    },
+    {
+      "id": "c1-tricky_agreements-007",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "tricky_agreements",
+      "question": "La maison est ___ blanche.",
+      "options": [
+        "tout",
+        "toutes",
+        "toute",
+        "tous"
+      ],
+      "answer": 2,
+      "explanation": "Tout as an adverb (= very, completely) is invariable, except before a feminine adjective starting with a consonant or aspirated h, where it agrees: tout étonnée, toute petite, toutes honteuses. Here: toute.",
+      "textId": null
+    },
+    {
+      "id": "c1-tricky_agreements-008",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "tricky_agreements",
+      "question": "Ces fleurs sont ___ fraîches.",
+      "options": [
+        "tout",
+        "tous",
+        "toute",
+        "toutes"
+      ],
+      "answer": 3,
+      "explanation": "Tout as an adverb (= very, completely) is invariable, except before a feminine adjective starting with a consonant or aspirated h, where it agrees: tout étonnée, toute petite, toutes honteuses. Here: toutes.",
+      "textId": null
+    },
+    {
+      "id": "c1-tricky_agreements-009",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "tricky_agreements",
+      "question": "Les enfants étaient ___ excités. (= très excités)",
+      "options": [
+        "tout",
+        "tous",
+        "toute",
+        "toutes"
+      ],
+      "answer": 0,
+      "explanation": "Tout as an adverb (= very, completely) is invariable, except before a feminine adjective starting with a consonant or aspirated h, where it agrees: tout étonnée, toute petite, toutes honteuses. Here: tout.",
+      "textId": null
+    },
+    {
+      "id": "c1-tricky_agreements-010",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "tricky_agreements",
+      "question": "J’ai travaillé ___ la journée.",
+      "options": [
+        "tout",
+        "toute",
+        "tous",
+        "toutes"
+      ],
+      "answer": 1,
+      "explanation": "Tout as an adjective or pronoun agrees: tout le monde, toute la journée, tous les jours, toutes les filles. Here: toute.",
+      "textId": null
+    },
+    {
+      "id": "c1-tricky_agreements-011",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "tricky_agreements",
+      "question": "___ les étudiants sont venus.",
+      "options": [
+        "Tout",
+        "Toute",
+        "Tous",
+        "Toutes"
+      ],
+      "answer": 2,
+      "explanation": "Tout as an adjective or pronoun agrees: tout le monde, toute la journée, tous les jours, toutes les filles. Here: Tous.",
+      "textId": null
+    },
+    {
+      "id": "c1-tricky_agreements-012",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "tricky_agreements",
+      "question": "___ mes amies sont là.",
+      "options": [
+        "Tous",
+        "Tout",
+        "Toute",
+        "Toutes"
+      ],
+      "answer": 3,
+      "explanation": "Tout as an adjective or pronoun agrees: tout le monde, toute la journée, tous les jours, toutes les filles. Here: Toutes.",
+      "textId": null
+    },
+    {
+      "id": "c1-tricky_agreements-013",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "tricky_agreements",
+      "question": "___ le monde est d’accord.",
+      "options": [
+        "Tout",
+        "Tous",
+        "Toute",
+        "Toutes"
+      ],
+      "answer": 0,
+      "explanation": "Tout as an adjective or pronoun agrees: tout le monde, toute la journée, tous les jours, toutes les filles. Here: Tout.",
+      "textId": null
+    },
+    {
+      "id": "c1-tricky_agreements-014",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "tricky_agreements",
+      "question": "Ils sont ___ venus. (= tous les garçons)",
+      "options": [
+        "tout",
+        "tous",
+        "toute",
+        "toutes"
+      ],
+      "answer": 1,
+      "explanation": "Tout as an adjective or pronoun agrees: tout le monde, toute la journée, tous les jours, toutes les filles. Here: tous.",
+      "textId": null
+    },
+    {
+      "id": "c1-tricky_agreements-015",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "tricky_agreements",
+      "question": "Nous avons les ___ goûts.",
+      "options": [
+        "même",
+        "mêmes-mêmes",
+        "mêmes",
+        "mêmement"
+      ],
+      "answer": 2,
+      "explanation": "Même agrees when it means \"same\" or follows a pronoun (eux-mêmes); it is invariable when it is an adverb meaning \"even\". Here: mêmes.",
+      "textId": null
+    },
+    {
+      "id": "c1-tricky_agreements-016",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "tricky_agreements",
+      "question": "Ils l’ont fait eux-___.",
+      "options": [
+        "même",
+        "mème",
+        "mêmement",
+        "mêmes"
+      ],
+      "answer": 3,
+      "explanation": "Même agrees when it means \"same\" or follows a pronoun (eux-mêmes); it is invariable when it is an adverb meaning \"even\". Here: mêmes.",
+      "textId": null
+    },
+    {
+      "id": "c1-tricky_agreements-017",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "tricky_agreements",
+      "question": "___ les enfants ont compris. (= aussi les enfants)",
+      "options": [
+        "Même",
+        "Mêmes",
+        "Mêmement",
+        "Les mêmes"
+      ],
+      "answer": 0,
+      "explanation": "Même agrees when it means \"same\" or follows a pronoun (eux-mêmes); it is invariable when it is an adverb meaning \"even\". Here: Même.",
+      "textId": null
+    },
+    {
+      "id": "c1-tricky_agreements-018",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "tricky_agreements",
+      "question": "Elle a réparé la voiture elle-___.",
+      "options": [
+        "mêmes",
+        "même",
+        "mêmement",
+        "mème"
+      ],
+      "answer": 1,
+      "explanation": "Même agrees when it means \"same\" or follows a pronoun (eux-mêmes); it is invariable when it is an adverb meaning \"even\". Here: même.",
+      "textId": null
+    },
+    {
+      "id": "c1-tricky_agreements-019",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "tricky_agreements",
+      "question": "Ils n’ont ___ pas dit au revoir.",
+      "options": [
+        "mêmes",
+        "mêmement",
+        "même",
+        "le même"
+      ],
+      "answer": 2,
+      "explanation": "Même agrees when it means \"same\" or follows a pronoun (eux-mêmes); it is invariable when it is an adverb meaning \"even\". Here: même.",
+      "textId": null
+    },
+    {
+      "id": "c1-tricky_agreements-020",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "tricky_agreements",
+      "question": "Ce sont les ___ erreurs que l’an dernier.",
+      "options": [
+        "même",
+        "mêmement",
+        "même que",
+        "mêmes"
+      ],
+      "answer": 3,
+      "explanation": "Même agrees when it means \"same\" or follows a pronoun (eux-mêmes); it is invariable when it is an adverb meaning \"even\". Here: mêmes.",
+      "textId": null
+    },
+    {
+      "id": "c1-tricky_agreements-021",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "tricky_agreements",
+      "question": "Nous l’avons vu nous-___.",
+      "options": [
+        "mêmes",
+        "même",
+        "mêmement",
+        "mème"
+      ],
+      "answer": 0,
+      "explanation": "Même agrees when it means \"same\" or follows a pronoun (eux-mêmes); it is invariable when it is an adverb meaning \"even\". Here: mêmes.",
+      "textId": null
+    },
+    {
+      "id": "c1-tricky_agreements-022",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "tricky_agreements",
+      "question": "J’ai ___ amis à Montréal.",
+      "options": [
+        "quelque",
+        "quelques",
+        "quelqu’",
+        "quel que"
+      ],
+      "answer": 1,
+      "explanation": "Quelque(s) agrees when it means \"a few / some\"; it is invariable before a number (= about) and in quelque … que. Here: quelques.",
+      "textId": null
+    },
+    {
+      "id": "c1-tricky_agreements-023",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "tricky_agreements",
+      "question": "Il y avait ___ deux cents personnes. (= environ)",
+      "options": [
+        "quelques",
+        "quel que",
+        "quelque",
+        "quelles"
+      ],
+      "answer": 2,
+      "explanation": "Quelque(s) agrees when it means \"a few / some\"; it is invariable before a number (= about) and in quelque … que. Here: quelque.",
+      "textId": null
+    },
+    {
+      "id": "c1-tricky_agreements-024",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "tricky_agreements",
+      "question": "Il reste ___ minutes.",
+      "options": [
+        "quelque",
+        "quel que",
+        "quelles que",
+        "quelques"
+      ],
+      "answer": 3,
+      "explanation": "Quelque(s) agrees when it means \"a few / some\"; it is invariable before a number (= about) and in quelque … que. Here: quelques.",
+      "textId": null
+    },
+    {
+      "id": "c1-tricky_agreements-025",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "tricky_agreements",
+      "question": "___ temps plus tard, il est revenu.",
+      "options": [
+        "Quelque",
+        "Quelques",
+        "Quel que",
+        "Quelle que"
+      ],
+      "answer": 0,
+      "explanation": "Quelque(s) agrees when it means \"a few / some\"; it is invariable before a number (= about) and in quelque … que. Here: Quelque.",
+      "textId": null
+    },
+    {
+      "id": "c1-tricky_agreements-026",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "tricky_agreements",
+      "question": "___ soient tes raisons, tu as tort.",
+      "options": [
+        "Quelques",
+        "Quelles que",
+        "Quelque",
+        "Quel que"
+      ],
+      "answer": 1,
+      "explanation": "Quelque(s) agrees when it means \"a few / some\"; it is invariable before a number (= about) and in quelque … que. Here: Quelles que.",
+      "textId": null
+    },
+    {
+      "id": "c1-tricky_agreements-027",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "tricky_agreements",
+      "question": "Je reviens dans une ___-heure.",
+      "options": [
+        "demie",
+        "demis",
+        "demi",
+        "demies"
+      ],
+      "answer": 2,
+      "explanation": "Demi is invariable before a noun with a hyphen (une demi-heure); after the noun it agrees in gender only (une heure et demie). Here: demi.",
+      "textId": null
+    },
+    {
+      "id": "c1-tricky_agreements-028",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "tricky_agreements",
+      "question": "Il est trois heures et ___.",
+      "options": [
+        "demi",
+        "demis",
+        "demies",
+        "demie"
+      ],
+      "answer": 3,
+      "explanation": "Demi is invariable before a noun with a hyphen (une demi-heure); after the noun it agrees in gender only (une heure et demie). Here: demie.",
+      "textId": null
+    },
+    {
+      "id": "c1-tricky_agreements-029",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "tricky_agreements",
+      "question": "J’ai attendu deux heures et ___.",
+      "options": [
+        "demie",
+        "demi",
+        "demies",
+        "demis"
+      ],
+      "answer": 0,
+      "explanation": "Demi is invariable before a noun with a hyphen (une demi-heure); after the noun it agrees in gender only (une heure et demie). Here: demie.",
+      "textId": null
+    },
+    {
+      "id": "c1-tricky_agreements-030",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "tricky_agreements",
+      "question": "Il a acheté un kilo et ___ de pommes.",
+      "options": [
+        "demie",
+        "demi",
+        "demis",
+        "demies"
+      ],
+      "answer": 1,
+      "explanation": "Demi is invariable before a noun with a hyphen (une demi-heure); after the noun it agrees in gender only (une heure et demie). Here: demi.",
+      "textId": null
+    },
+    {
+      "id": "c1-tricky_agreements-031",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "tricky_agreements",
+      "question": "Elle a bu une ___-bouteille d’eau.",
+      "options": [
+        "demie",
+        "demis",
+        "demi",
+        "demies"
+      ],
+      "answer": 2,
+      "explanation": "Demi is invariable before a noun with a hyphen (une demi-heure); after the noun it agrees in gender only (une heure et demie). Here: demi.",
+      "textId": null
+    },
+    {
+      "id": "c1-tricky_agreements-032",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "tricky_agreements",
+      "question": "Il est midi et ___.",
+      "options": [
+        "demie",
+        "demis",
+        "demies",
+        "demi"
+      ],
+      "answer": 3,
+      "explanation": "Midi and minuit are masculine, so it is midi et demi, minuit et demi.",
+      "textId": null
+    },
+    {
+      "id": "c1-tricky_agreements-033",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "tricky_agreements",
+      "question": "Elle a des yeux ___.",
+      "options": [
+        "bleus",
+        "bleu",
+        "bleues",
+        "bleux"
+      ],
+      "answer": 0,
+      "explanation": "Colour adjectives agree, except compound colours (bleu clair, vert foncé) and colours named after things (orange, marron, crème, turquoise), which are invariable. Here: bleus.",
+      "textId": null
+    },
+    {
+      "id": "c1-tricky_agreements-034",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "tricky_agreements",
+      "question": "Elle a des yeux ___ clair.",
+      "options": [
+        "bleus",
+        "bleu",
+        "bleues",
+        "bleux"
+      ],
+      "answer": 1,
+      "explanation": "Colour adjectives agree, except compound colours (bleu clair, vert foncé) and colours named after things (orange, marron, crème, turquoise), which are invariable. Here: bleu.",
+      "textId": null
+    },
+    {
+      "id": "c1-tricky_agreements-035",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "tricky_agreements",
+      "question": "Il porte des chaussures ___.",
+      "options": [
+        "marrons",
+        "marronnes",
+        "marron",
+        "marrones"
+      ],
+      "answer": 2,
+      "explanation": "Colour adjectives agree, except compound colours (bleu clair, vert foncé) and colours named after things (orange, marron, crème, turquoise), which are invariable. Here: marron.",
+      "textId": null
+    },
+    {
+      "id": "c1-tricky_agreements-036",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "tricky_agreements",
+      "question": "J’ai acheté des rideaux ___.",
+      "options": [
+        "oranges",
+        "orangées",
+        "orangeux",
+        "orange"
+      ],
+      "answer": 3,
+      "explanation": "Colour adjectives agree, except compound colours (bleu clair, vert foncé) and colours named after things (orange, marron, crème, turquoise), which are invariable. Here: orange.",
+      "textId": null
+    },
+    {
+      "id": "c1-tricky_agreements-037",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "tricky_agreements",
+      "question": "Elle porte une jupe ___ foncé.",
+      "options": [
+        "vert",
+        "verte",
+        "vertes",
+        "verts"
+      ],
+      "answer": 0,
+      "explanation": "Colour adjectives agree, except compound colours (bleu clair, vert foncé) and colours named after things (orange, marron, crème, turquoise), which are invariable. Here: vert.",
+      "textId": null
+    },
+    {
+      "id": "c1-tricky_agreements-038",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "tricky_agreements",
+      "question": "Ces murs sont ___.",
+      "options": [
+        "blanc",
+        "blancs",
+        "blanches",
+        "blanchent"
+      ],
+      "answer": 1,
+      "explanation": "Colour adjectives agree, except compound colours (bleu clair, vert foncé) and colours named after things (orange, marron, crème, turquoise), which are invariable. Here: blancs.",
+      "textId": null
+    },
+    {
+      "id": "c1-tricky_agreements-039",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "tricky_agreements",
+      "question": "Il a des chemises ___ marine.",
+      "options": [
+        "bleus",
+        "bleues",
+        "bleu",
+        "bleue"
+      ],
+      "answer": 2,
+      "explanation": "Colour adjectives agree, except compound colours (bleu clair, vert foncé) and colours named after things (orange, marron, crème, turquoise), which are invariable. Here: bleu.",
+      "textId": null
+    },
+    {
+      "id": "c1-tricky_agreements-040",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "tricky_agreements",
+      "question": "Elle a les cheveux ___ clair.",
+      "options": [
+        "châtains",
+        "châtaines",
+        "châtaine",
+        "châtain"
+      ],
+      "answer": 3,
+      "explanation": "Colour adjectives agree, except compound colours (bleu clair, vert foncé) and colours named after things (orange, marron, crème, turquoise), which are invariable. Here: châtain.",
+      "textId": null
+    },
+    {
+      "id": "c1-tricky_agreements-041",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "tricky_agreements",
+      "question": "Ce livre coûte quatre-___ euros.",
+      "options": [
+        "vingts",
+        "vingt",
+        "vingtes",
+        "vingt-s"
+      ],
+      "answer": 0,
+      "explanation": "Vingt and cent take an s only when they are multiplied and nothing follows: quatre-vingts, deux cents, but quatre-vingt-trois, deux cent dix. Mille never changes. Here: vingts.",
+      "textId": null
+    },
+    {
+      "id": "c1-tricky_agreements-042",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "tricky_agreements",
+      "question": "Il a quatre-___-trois ans.",
+      "options": [
+        "vingts",
+        "vingt",
+        "vingtes",
+        "vingts-et"
+      ],
+      "answer": 1,
+      "explanation": "Vingt and cent take an s only when they are multiplied and nothing follows: quatre-vingts, deux cents, but quatre-vingt-trois, deux cent dix. Mille never changes. Here: vingt.",
+      "textId": null
+    },
+    {
+      "id": "c1-tricky_agreements-043",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "tricky_agreements",
+      "question": "Il y a deux ___ élèves dans cette école.",
+      "options": [
+        "cent",
+        "centes",
+        "cents",
+        "cent-s"
+      ],
+      "answer": 2,
+      "explanation": "Vingt and cent take an s only when they are multiplied and nothing follows: quatre-vingts, deux cents, but quatre-vingt-trois, deux cent dix. Mille never changes. Here: cents.",
+      "textId": null
+    },
+    {
+      "id": "c1-tricky_agreements-044",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "tricky_agreements",
+      "question": "Il y a deux ___ dix élèves dans cette école.",
+      "options": [
+        "cents",
+        "centes",
+        "cent-et",
+        "cent"
+      ],
+      "answer": 3,
+      "explanation": "Vingt and cent take an s only when they are multiplied and nothing follows: quatre-vingts, deux cents, but quatre-vingt-trois, deux cent dix. Mille never changes. Here: cent.",
+      "textId": null
+    },
+    {
+      "id": "c1-tricky_agreements-045",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "tricky_agreements",
+      "question": "Cette ville compte trois ___ habitants.",
+      "options": [
+        "mille",
+        "milles",
+        "mils",
+        "millions"
+      ],
+      "answer": 0,
+      "explanation": "Vingt and cent take an s only when they are multiplied and nothing follows: quatre-vingts, deux cents, but quatre-vingt-trois, deux cent dix. Mille never changes. Here: mille.",
+      "textId": null
+    },
+    {
+      "id": "c1-tricky_agreements-046",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "tricky_agreements",
+      "question": "J’ai lu ___ pages.",
+      "options": [
+        "cents",
+        "cent",
+        "une cent",
+        "centes"
+      ],
+      "answer": 1,
+      "explanation": "Vingt and cent take an s only when they are multiplied and nothing follows: quatre-vingts, deux cents, but quatre-vingt-trois, deux cent dix. Mille never changes. Here: cent.",
+      "textId": null
+    },
+    {
+      "id": "c1-tricky_agreements-047",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "tricky_agreements",
+      "question": "La plupart des gens ___ d’accord.",
+      "options": [
+        "est",
+        "es",
+        "sont",
+        "êtes"
+      ],
+      "answer": 2,
+      "explanation": "With la plupart de, beaucoup de, la majorité de + plural noun, the verb is usually plural; with tout le monde, chacun, personne, plus d’un, the verb is singular. Here: sont.",
+      "textId": null
+    },
+    {
+      "id": "c1-tricky_agreements-048",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "tricky_agreements",
+      "question": "Tout le monde ___ arrivé.",
+      "options": [
+        "sont",
+        "êtes",
+        "es",
+        "est"
+      ],
+      "answer": 3,
+      "explanation": "With la plupart de, beaucoup de, la majorité de + plural noun, the verb is usually plural; with tout le monde, chacun, personne, plus d’un, the verb is singular. Here: est.",
+      "textId": null
+    },
+    {
+      "id": "c1-tricky_agreements-049",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "tricky_agreements",
+      "question": "Chacun ___ ce qu’il veut.",
+      "options": [
+        "fait",
+        "font",
+        "faites",
+        "fais"
+      ],
+      "answer": 0,
+      "explanation": "With la plupart de, beaucoup de, la majorité de + plural noun, the verb is usually plural; with tout le monde, chacun, personne, plus d’un, the verb is singular. Here: fait.",
+      "textId": null
+    },
+    {
+      "id": "c1-tricky_agreements-050",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "tricky_agreements",
+      "question": "Plus d’un étudiant ___ échoué.",
+      "options": [
+        "ont",
+        "a",
+        "avez",
+        "as"
+      ],
+      "answer": 1,
+      "explanation": "With la plupart de, beaucoup de, la majorité de + plural noun, the verb is usually plural; with tout le monde, chacun, personne, plus d’un, the verb is singular. Here: a.",
+      "textId": null
+    },
+    {
+      "id": "c1-tricky_agreements-051",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "tricky_agreements",
+      "question": "La plupart ___ déjà partis.",
+      "options": [
+        "est",
+        "êtes",
+        "sont",
+        "es"
+      ],
+      "answer": 2,
+      "explanation": "With la plupart de, beaucoup de, la majorité de + plural noun, the verb is usually plural; with tout le monde, chacun, personne, plus d’un, the verb is singular. Here: sont.",
+      "textId": null
+    },
+    {
+      "id": "c1-tricky_agreements-052",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "tricky_agreements",
+      "question": "Ni l’un ni l’autre ___ venu.",
+      "options": [
+        "ne sont",
+        "n’es",
+        "n’êtes",
+        "n’est"
+      ],
+      "answer": 3,
+      "explanation": "With ni l’un ni l’autre the verb can be singular or plural; here the singular participle venu requires the singular: n’est venu.",
+      "textId": null
+    },
+    {
+      "id": "c1-tricky_agreements-053",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "tricky_agreements",
+      "question": "Beaucoup de monde ___ venu.",
+      "options": [
+        "est",
+        "sont",
+        "êtes",
+        "es"
+      ],
+      "answer": 0,
+      "explanation": "Monde is singular, so the verb is singular: beaucoup de monde est venu.",
+      "textId": null
+    },
+    {
+      "id": "c1-tricky_agreements-054",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "tricky_agreements",
+      "question": "C’est moi qui ___ raison.",
+      "options": [
+        "a",
+        "ai",
+        "as",
+        "est"
+      ],
+      "answer": 1,
+      "explanation": "The verb agrees with the person qui stands for: c’est moi qui ai, c’est toi qui as, c’est nous qui avons.",
+      "textId": null
+    },
+    {
+      "id": "c1-tricky_agreements-055",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "tricky_agreements",
+      "question": "Les enfants que j’ai ___ jouer étaient contents.",
+      "options": [
+        "vu",
+        "vue",
+        "vus",
+        "vues"
+      ],
+      "answer": 2,
+      "explanation": "A past participle followed by an infinitive agrees with the preceding direct object only if that object does the action of the infinitive. Fait + infinitive never agrees. Here: vus.",
+      "textId": null
+    },
+    {
+      "id": "c1-tricky_agreements-056",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "tricky_agreements",
+      "question": "La chanson que j’ai ___ chanter était belle.",
+      "options": [
+        "entendue",
+        "entendus",
+        "entendues",
+        "entendu"
+      ],
+      "answer": 3,
+      "explanation": "A past participle followed by an infinitive agrees with the preceding direct object only if that object does the action of the infinitive. Fait + infinitive never agrees. Here: entendu.",
+      "textId": null
+    },
+    {
+      "id": "c1-tricky_agreements-057",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "tricky_agreements",
+      "question": "La robe qu’elle s’est ___ faire est magnifique.",
+      "options": [
+        "fait",
+        "faite",
+        "faits",
+        "faites"
+      ],
+      "answer": 0,
+      "explanation": "A past participle followed by an infinitive agrees with the preceding direct object only if that object does the action of the infinitive. Fait + infinitive never agrees. Here: fait.",
+      "textId": null
+    },
+    {
+      "id": "c1-tricky_agreements-058",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "tricky_agreements",
+      "question": "Les ouvriers que j’ai ___ travailler étaient fatigués.",
+      "options": [
+        "vu",
+        "vus",
+        "vue",
+        "vues"
+      ],
+      "answer": 1,
+      "explanation": "A past participle followed by an infinitive agrees with the preceding direct object only if that object does the action of the infinitive. Fait + infinitive never agrees. Here: vus.",
+      "textId": null
+    },
+    {
+      "id": "c1-tricky_agreements-059",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "tricky_agreements",
+      "question": "Les maisons que j’ai ___ construire sont en bois. (= on les construit)",
+      "options": [
+        "vues",
+        "vus",
+        "vu",
+        "vue"
+      ],
+      "answer": 2,
+      "explanation": "A past participle followed by an infinitive agrees with the preceding direct object only if that object does the action of the infinitive. Fait + infinitive never agrees. Here: vu.",
+      "textId": null
+    },
+    {
+      "id": "c1-tricky_agreements-060",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "tricky_agreements",
+      "question": "Les acteurs que j’ai ___ jouer étaient excellents.",
+      "options": [
+        "vu",
+        "vue",
+        "vues",
+        "vus"
+      ],
+      "answer": 3,
+      "explanation": "A past participle followed by an infinitive agrees with the preceding direct object only if that object does the action of the infinitive. Fait + infinitive never agrees. Here: vus.",
+      "textId": null
+    },
+    {
+      "id": "c1-tricky_agreements-061",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "tricky_agreements",
+      "question": "Elle les a ___ venir. (ses amis)",
+      "options": [
+        "fait",
+        "faits",
+        "faite",
+        "faites"
+      ],
+      "answer": 0,
+      "explanation": "A past participle followed by an infinitive agrees with the preceding direct object only if that object does the action of the infinitive. Fait + infinitive never agrees. Here: fait.",
+      "textId": null
+    },
+    {
+      "id": "c1-tricky_agreements-062",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "tricky_agreements",
+      "question": "Les rois se sont ___ sur le trône.",
+      "options": [
+        "succédés",
+        "succédé",
+        "succédée",
+        "succédées"
+      ],
+      "answer": 1,
+      "explanation": "With reflexive verbs whose pronoun is an indirect object (se succéder, se plaire, se parler, se rendre compte, se sourire, se nuire), the past participle is invariable. Here: succédé.",
+      "textId": null
+    },
+    {
+      "id": "c1-tricky_agreements-063",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "tricky_agreements",
+      "question": "Elles se sont ___ dans cette ville.",
+      "options": [
+        "plues",
+        "plus",
+        "plu",
+        "plue"
+      ],
+      "answer": 2,
+      "explanation": "With reflexive verbs whose pronoun is an indirect object (se succéder, se plaire, se parler, se rendre compte, se sourire, se nuire), the past participle is invariable. Here: plu.",
+      "textId": null
+    },
+    {
+      "id": "c1-tricky_agreements-064",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "tricky_agreements",
+      "question": "Ils se sont ___ compte de leur erreur.",
+      "options": [
+        "rendus",
+        "rendue",
+        "rendues",
+        "rendu"
+      ],
+      "answer": 3,
+      "explanation": "With reflexive verbs whose pronoun is an indirect object (se succéder, se plaire, se parler, se rendre compte, se sourire, se nuire), the past participle is invariable. Here: rendu.",
+      "textId": null
+    },
+    {
+      "id": "c1-tricky_agreements-065",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "tricky_agreements",
+      "question": "Elles se sont ___ toute la soirée.",
+      "options": [
+        "parlé",
+        "parlées",
+        "parlés",
+        "parlée"
+      ],
+      "answer": 0,
+      "explanation": "With reflexive verbs whose pronoun is an indirect object (se succéder, se plaire, se parler, se rendre compte, se sourire, se nuire), the past participle is invariable. Here: parlé.",
+      "textId": null
+    },
+    {
+      "id": "c1-tricky_agreements-066",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "tricky_agreements",
+      "question": "Ils se sont ___.",
+      "options": [
+        "nuis",
+        "nui",
+        "nuie",
+        "nuies"
+      ],
+      "answer": 1,
+      "explanation": "With reflexive verbs whose pronoun is an indirect object (se succéder, se plaire, se parler, se rendre compte, se sourire, se nuire), the past participle is invariable. Here: nui.",
+      "textId": null
+    },
+    {
+      "id": "c1-tricky_agreements-067",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "tricky_agreements",
+      "question": "Les dix euros que ce livre m’a ___ étaient bien dépensés.",
+      "options": [
+        "coûtés",
+        "coûtée",
+        "coûté",
+        "coûtées"
+      ],
+      "answer": 2,
+      "explanation": "With coûter, valoir, peser, mesurer, durer, vivre used with a measure (price, weight, time), the past participle does not agree: les dix euros que ça m’a coûté.",
+      "textId": null
+    },
+    {
+      "id": "c1-tricky_agreements-068",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "tricky_agreements",
+      "question": "Les vingt ans qu’il a ___ à Paris ont été heureux.",
+      "options": [
+        "vécus",
+        "vécue",
+        "vécues",
+        "vécu"
+      ],
+      "answer": 3,
+      "explanation": "With coûter, valoir, peser, mesurer, durer, vivre used with a measure (price, weight, time), the past participle does not agree: les dix euros que ça m’a coûté.",
+      "textId": null
+    },
+    {
+      "id": "c1-tricky_agreements-069",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "tricky_agreements",
+      "question": "Les efforts que ce travail m’a ___ étaient énormes.",
+      "options": [
+        "coûtés",
+        "coûté",
+        "coûtée",
+        "coûtées"
+      ],
+      "answer": 0,
+      "explanation": "When coûter is used figuratively with a real direct object (efforts, peines), the participle agrees: les efforts que ça m’a coûtés.",
+      "textId": null
+    },
+    {
+      "id": "c1-tricky_agreements-070",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "tricky_agreements",
+      "question": "Les orages qu’il y a ___ ont tout détruit.",
+      "options": [
+        "eus",
+        "eu",
+        "eue",
+        "eues"
+      ],
+      "answer": 1,
+      "explanation": "The past participle of an impersonal verb never agrees: les orages qu’il y a eu, la chaleur qu’il a fait.",
+      "textId": null
+    },
+    {
+      "id": "c1-tricky_agreements-071",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "tricky_agreements",
+      "question": "Quelle chaleur il a ___ hier !",
+      "options": [
+        "faite",
+        "faits",
+        "fait",
+        "faites"
+      ],
+      "answer": 2,
+      "explanation": "The past participle of an impersonal verb never agrees: les orages qu’il y a eu, la chaleur qu’il a fait.",
+      "textId": null
+    },
+    {
+      "id": "c1-tricky_agreements-072",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "tricky_agreements",
+      "question": "Les sommes qu’il a ___ pour ce projet sont énormes.",
+      "options": [
+        "fallues",
+        "fallus",
+        "fallue",
+        "fallu"
+      ],
+      "answer": 3,
+      "explanation": "The past participle of an impersonal verb never agrees: les orages qu’il y a eu, la chaleur qu’il a fait.",
+      "textId": null
+    },
+    {
+      "id": "c1-tricky_agreements-073",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "tricky_agreements",
+      "question": "Je ___ ai parlé hier. (à mes parents)",
+      "options": [
+        "leur",
+        "leurs",
+        "les",
+        "leurs-y"
+      ],
+      "answer": 0,
+      "explanation": "Leur before a verb is a pronoun and never takes an s. Leur / leurs before a noun is a possessive and agrees with the noun.",
+      "textId": null
+    },
+    {
+      "id": "c1-tricky_agreements-074",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "tricky_agreements",
+      "question": "Ils ont pris ___ manteaux.",
+      "options": [
+        "leur",
+        "leurs",
+        "les leur",
+        "leures"
+      ],
+      "answer": 1,
+      "explanation": "Leur before a verb is a pronoun and never takes an s. Leur / leurs before a noun is a possessive and agrees with the noun.",
+      "textId": null
+    },
+    {
+      "id": "c1-tricky_agreements-075",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "tricky_agreements",
+      "question": "Ils aiment ___ mère.",
+      "options": [
+        "leurs",
+        "leure",
+        "leur",
+        "les"
+      ],
+      "answer": 2,
+      "explanation": "Leur before a verb is a pronoun and never takes an s. Leur / leurs before a noun is a possessive and agrees with the noun.",
+      "textId": null
+    },
+    {
+      "id": "c1-tricky_agreements-076",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "tricky_agreements",
+      "question": "Vous trouverez ___ les documents demandés.",
+      "options": [
+        "ci-joints",
+        "ci-jointe",
+        "ci-jointes",
+        "ci-joint"
+      ],
+      "answer": 3,
+      "explanation": "Ci-joint, ci-inclus and étant donné are invariable at the start of a sentence or right before a noun without an article; they agree after the noun.",
+      "textId": null
+    },
+    {
+      "id": "c1-tricky_agreements-077",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "tricky_agreements",
+      "question": "Les documents ___ doivent être signés.",
+      "options": [
+        "ci-joints",
+        "ci-joint",
+        "ci-jointe",
+        "ci-jointes"
+      ],
+      "answer": 0,
+      "explanation": "Ci-joint, ci-inclus and étant donné are invariable at the start of a sentence or right before a noun without an article; they agree after the noun.",
+      "textId": null
+    },
+    {
+      "id": "c1-tricky_agreements-078",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "tricky_agreements",
+      "question": "___ les circonstances, nous annulons le voyage.",
+      "options": [
+        "Étant données",
+        "Étant donné",
+        "Étants donnés",
+        "Étant donnée"
+      ],
+      "answer": 1,
+      "explanation": "Ci-joint, ci-inclus and étant donné are invariable at the start of a sentence or right before a noun without an article; they agree after the noun.",
+      "textId": null
+    },
+    {
+      "id": "c1-tricky_agreements-079",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "tricky_agreements",
+      "question": "Les ___ gens sont souvent seuls.",
+      "options": [
+        "vieux",
+        "vieils",
+        "vieilles",
+        "vieille"
+      ],
+      "answer": 2,
+      "explanation": "Gens is masculine plural, but an adjective placed immediately before it is feminine: les vieilles gens, but les gens âgés.",
+      "textId": null
+    },
+    {
+      "id": "c1-tricky_agreements-080",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "tricky_agreements",
+      "question": "Cette soupe a l’air ___.",
+      "options": [
+        "bon",
+        "bons",
+        "bonnes",
+        "bonne"
+      ],
+      "answer": 3,
+      "explanation": "With a thing as the subject of avoir l’air, the adjective agrees with the subject: cette soupe a l’air bonne.",
+      "textId": null
+    },
+    {
+      "id": "c1-tricky_agreements-081",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "tricky_agreements",
+      "question": "Faites le moins d’erreurs ___.",
+      "options": [
+        "possible",
+        "possibles",
+        "possiblement",
+        "le possible"
+      ],
+      "answer": 0,
+      "explanation": "Possible is invariable after le plus / le moins … : le plus de fautes possible.",
+      "textId": null
+    },
+    {
+      "id": "c1-tricky_agreements-082",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "tricky_agreements",
+      "question": "Il marche ___-pieds sur la plage.",
+      "options": [
+        "nus",
+        "nu",
+        "nue",
+        "nues"
+      ],
+      "answer": 1,
+      "explanation": "Nu and demi are invariable with a hyphen before the noun (nu-pieds), but agree after it (pieds nus).",
+      "textId": null
+    },
+    {
+      "id": "c1-tricky_agreements-083",
+      "level": "C1",
+      "skill": "grammar",
+      "topic": "tricky_agreements",
+      "question": "Il marche pieds ___ sur la plage.",
+      "options": [
+        "nu",
+        "nue",
+        "nus",
+        "nues"
+      ],
+      "answer": 2,
+      "explanation": "Nu and demi are invariable with a hyphen before the noun (nu-pieds), but agree after it (pieds nus).",
+      "textId": null
+    }
+  ]
+}

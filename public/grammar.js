@@ -75,6 +75,46 @@ export function pickQuestions(topicId, questions, stats, n = 10, rand = Math.ran
   return shuffle(take);
 }
 
+const shuffled = (a, rand) => { for (let i = a.length - 1; i > 0; i--) { const j = Math.floor(rand() * (i + 1)); [a[i], a[j]] = [a[j], a[i]]; } return a; };
+
+// How far along a whole level is: topics mastered, and an overall share that also counts partial progress.
+export function levelProgress(level, data, stats) {
+  const topics = data.topics.filter(t => t.level === level);
+  let mastered = 0, sum = 0, started = 0;
+  for (const t of topics) {
+    const p = topicProgress(t, data.byTopic?.get(t.id) || data.questions, stats);
+    if (p.share >= MASTERED) mastered++;
+    if (p.seen) started++;
+    sum += Math.min(1, p.share / MASTERED);
+  }
+  return { topics: topics.length, mastered, started, share: topics.length ? sum / topics.length : 0 };
+}
+
+// Questions you last answered wrong, oldest first (optionally only one level).
+export function mistakes(data, stats, level = null) {
+  const lv = level ? new Set(data.topics.filter(t => t.level === level).map(t => t.id)) : null;
+  return data.questions.filter(q => stats[q.id] && !stats[q.id].k && (!lv || lv.has(q.t)))
+    .sort((a, b) => stats[a.id].l - stats[b.id].l);
+}
+export function pickMistakes(data, stats, n = 10, level = null, rand = Math.random) {
+  return shuffled(mistakes(data, stats, level).slice(0, n), rand);
+}
+
+// A mixed session across one level: some mistakes, new questions from topics you have started,
+// then ones you got right longest ago. Falls back to brand-new topics when nothing is started.
+export function pickMixed(level, data, stats, n = 10, rand = Math.random) {
+  const ids = new Set(data.topics.filter(t => t.level === level).map(t => t.id));
+  const pool = data.questions.filter(q => ids.has(q.t));
+  const started = new Set(pool.filter(q => stats[q.id]).map(q => q.t));
+  const wrong = pool.filter(q => stats[q.id] && !stats[q.id].k).sort((a, b) => stats[a.id].l - stats[b.id].l);
+  const right = pool.filter(q => stats[q.id]?.k).sort((a, b) => stats[a.id].l - stats[b.id].l);
+  const fresh = shuffled(pool.filter(q => !stats[q.id] && started.has(q.t)), rand);
+  const other = shuffled(pool.filter(q => !stats[q.id] && !started.has(q.t)), rand);
+  const part = Math.ceil(n * 0.4);
+  const order = [...wrong.slice(0, part), ...fresh.slice(0, part), ...right, ...fresh.slice(part), ...other, ...wrong.slice(part)];
+  return shuffled([...new Set(order)].slice(0, n), rand);
+}
+
 // Shuffled option order that remembers which one is right.
 export function shuffleOptions(q, rand = Math.random) {
   const idx = q.o.map((_, i) => i);

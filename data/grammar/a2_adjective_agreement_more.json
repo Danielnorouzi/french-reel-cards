@@ -1,0 +1,485 @@
+{
+  "texts": [],
+  "questions": [
+    {
+      "id": "a2-adjective_agreement-051",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "adjective_agreement",
+      "question": "C’est un ___ appartement.",
+      "options": [
+        "bel",
+        "beau",
+        "belle",
+        "beaux"
+      ],
+      "answer": 0,
+      "explanation": "Beau, nouveau, vieux have a special form before a masculine noun starting with a vowel or silent h: bel, nouvel, vieil. Feminine: belle, nouvelle, vieille. Here: bel.",
+      "textId": null
+    },
+    {
+      "id": "a2-adjective_agreement-052",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "adjective_agreement",
+      "question": "C’est une ___ maison.",
+      "options": [
+        "beau",
+        "belle",
+        "bel",
+        "beaux"
+      ],
+      "answer": 1,
+      "explanation": "Beau, nouveau, vieux have a special form before a masculine noun starting with a vowel or silent h: bel, nouvel, vieil. Feminine: belle, nouvelle, vieille. Here: belle.",
+      "textId": null
+    },
+    {
+      "id": "a2-adjective_agreement-053",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "adjective_agreement",
+      "question": "Elle a de ___ yeux.",
+      "options": [
+        "beau",
+        "bels",
+        "beaux",
+        "belles"
+      ],
+      "answer": 2,
+      "explanation": "Beau, nouveau, vieux have a special form before a masculine noun starting with a vowel or silent h: bel, nouvel, vieil. Feminine: belle, nouvelle, vieille. Here: beaux.",
+      "textId": null
+    },
+    {
+      "id": "a2-adjective_agreement-054",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "adjective_agreement",
+      "question": "C’est mon ___ ordinateur.",
+      "options": [
+        "nouveau",
+        "nouvelle",
+        "nouveaux",
+        "nouvel"
+      ],
+      "answer": 3,
+      "explanation": "Beau, nouveau, vieux have a special form before a masculine noun starting with a vowel or silent h: bel, nouvel, vieil. Feminine: belle, nouvelle, vieille. Here: nouvel.",
+      "textId": null
+    },
+    {
+      "id": "a2-adjective_agreement-055",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "adjective_agreement",
+      "question": "J’ai une ___ voiture.",
+      "options": [
+        "nouvelle",
+        "nouveau",
+        "nouvel",
+        "nouveaux"
+      ],
+      "answer": 0,
+      "explanation": "Beau, nouveau, vieux have a special form before a masculine noun starting with a vowel or silent h: bel, nouvel, vieil. Feminine: belle, nouvelle, vieille. Here: nouvelle.",
+      "textId": null
+    },
+    {
+      "id": "a2-adjective_agreement-056",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "adjective_agreement",
+      "question": "C’est un ___ homme.",
+      "options": [
+        "vieux",
+        "vieil",
+        "vieille",
+        "vieils"
+      ],
+      "answer": 1,
+      "explanation": "Beau, nouveau, vieux have a special form before a masculine noun starting with a vowel or silent h: bel, nouvel, vieil. Feminine: belle, nouvelle, vieille. Here: vieil.",
+      "textId": null
+    },
+    {
+      "id": "a2-adjective_agreement-057",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "adjective_agreement",
+      "question": "Ma grand-mère est ___.",
+      "options": [
+        "vieux",
+        "vieil",
+        "vieille",
+        "vieilles"
+      ],
+      "answer": 2,
+      "explanation": "Beau, nouveau, vieux have a special form before a masculine noun starting with a vowel or silent h: bel, nouvel, vieil. Feminine: belle, nouvelle, vieille. Here: vieille.",
+      "textId": null
+    },
+    {
+      "id": "a2-adjective_agreement-058",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "adjective_agreement",
+      "question": "Elle porte une robe ___.",
+      "options": [
+        "blanc",
+        "blancs",
+        "blanches",
+        "blanche"
+      ],
+      "answer": 3,
+      "explanation": "This adjective has an irregular feminine form. Here: blanche.",
+      "textId": null
+    },
+    {
+      "id": "a2-adjective_agreement-059",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "adjective_agreement",
+      "question": "Cette route est très ___.",
+      "options": [
+        "longue",
+        "long",
+        "longs",
+        "longues"
+      ],
+      "answer": 0,
+      "explanation": "This adjective has an irregular feminine form. Here: longue.",
+      "textId": null
+    },
+    {
+      "id": "a2-adjective_agreement-060",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "adjective_agreement",
+      "question": "Ma voisine est très ___.",
+      "options": [
+        "gentil",
+        "gentille",
+        "gentils",
+        "gentile"
+      ],
+      "answer": 1,
+      "explanation": "This adjective has an irregular feminine form. Here: gentille.",
+      "textId": null
+    },
+    {
+      "id": "a2-adjective_agreement-061",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "adjective_agreement",
+      "question": "Cette tarte est vraiment ___.",
+      "options": [
+        "bon",
+        "bons",
+        "bonne",
+        "bone"
+      ],
+      "answer": 2,
+      "explanation": "This adjective has an irregular feminine form. Here: bonne.",
+      "textId": null
+    },
+    {
+      "id": "a2-adjective_agreement-062",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "adjective_agreement",
+      "question": "La porte est ___.",
+      "options": [
+        "ouvert",
+        "ouverts",
+        "ouvertes",
+        "ouverte"
+      ],
+      "answer": 3,
+      "explanation": "The adjective agrees with la porte (feminine singular): ouverte.",
+      "textId": null
+    },
+    {
+      "id": "a2-adjective_agreement-063",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "adjective_agreement",
+      "question": "C’est une histoire ___.",
+      "options": [
+        "fausse",
+        "faux",
+        "fausses",
+        "fauxe"
+      ],
+      "answer": 0,
+      "explanation": "This adjective has an irregular feminine form. Here: fausse.",
+      "textId": null
+    },
+    {
+      "id": "a2-adjective_agreement-064",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "adjective_agreement",
+      "question": "Ma sœur est ___.",
+      "options": [
+        "heureux",
+        "heureuse",
+        "heureuses",
+        "heureuxe"
+      ],
+      "answer": 1,
+      "explanation": "Adjectives in -eux become -euse in the feminine; the masculine plural stays -eux. Here: heureuse.",
+      "textId": null
+    },
+    {
+      "id": "a2-adjective_agreement-065",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "adjective_agreement",
+      "question": "Ils sont ___ de venir.",
+      "options": [
+        "heureuse",
+        "heureuses",
+        "heureux",
+        "heureuxs"
+      ],
+      "answer": 2,
+      "explanation": "Adjectives in -eux become -euse in the feminine; the masculine plural stays -eux. Here: heureux.",
+      "textId": null
+    },
+    {
+      "id": "a2-adjective_agreement-066",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "adjective_agreement",
+      "question": "Cette rue est ___ la nuit.",
+      "options": [
+        "dangereux",
+        "dangereuses",
+        "dangereuxe",
+        "dangereuse"
+      ],
+      "answer": 3,
+      "explanation": "Adjectives in -eux become -euse in the feminine; the masculine plural stays -eux. Here: dangereuse.",
+      "textId": null
+    },
+    {
+      "id": "a2-adjective_agreement-067",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "adjective_agreement",
+      "question": "Elle est très ___.",
+      "options": [
+        "sportive",
+        "sportif",
+        "sportifs",
+        "sportives"
+      ],
+      "answer": 0,
+      "explanation": "Adjectives in -if become -ive in the feminine. Here: sportive.",
+      "textId": null
+    },
+    {
+      "id": "a2-adjective_agreement-068",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "adjective_agreement",
+      "question": "Mes sœurs sont très ___.",
+      "options": [
+        "actifs",
+        "actives",
+        "active",
+        "actif"
+      ],
+      "answer": 1,
+      "explanation": "Adjectives in -if become -ive in the feminine. Here: actives.",
+      "textId": null
+    },
+    {
+      "id": "a2-adjective_agreement-069",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "adjective_agreement",
+      "question": "Elle a des chaussures ___.",
+      "options": [
+        "marrons",
+        "marronnes",
+        "marron",
+        "marronne"
+      ],
+      "answer": 2,
+      "explanation": "Colour words that are also nouns (orange, marron) never change.",
+      "textId": null
+    },
+    {
+      "id": "a2-adjective_agreement-070",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "adjective_agreement",
+      "question": "J’ai deux pulls ___.",
+      "options": [
+        "oranges",
+        "orangés",
+        "orangées",
+        "orange"
+      ],
+      "answer": 3,
+      "explanation": "Colour words that are also nouns (orange, marron) never change.",
+      "textId": null
+    },
+    {
+      "id": "a2-adjective_agreement-071",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "adjective_agreement",
+      "question": "Choisis l’ordre correct :",
+      "options": [
+        "une petite maison",
+        "une maison petite",
+        "un petit maison",
+        "une petit maison"
+      ],
+      "answer": 0,
+      "explanation": "Most adjectives go after the noun, but short common ones (beau, bon, grand, petit, jeune, vieux, nouveau, joli, mauvais, gros) go before it.",
+      "textId": null
+    },
+    {
+      "id": "a2-adjective_agreement-072",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "adjective_agreement",
+      "question": "Choisis la forme correcte :",
+      "options": [
+        "un restaurant bon",
+        "un bon restaurant",
+        "une bonne restaurant",
+        "un bonne restaurant"
+      ],
+      "answer": 1,
+      "explanation": "Most adjectives go after the noun, but short common ones (beau, bon, grand, petit, jeune, vieux, nouveau, joli, mauvais, gros) go before it.",
+      "textId": null
+    },
+    {
+      "id": "a2-adjective_agreement-073",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "adjective_agreement",
+      "question": "Choisis la bonne suite : J’ai acheté…",
+      "options": [
+        "une rouge voiture",
+        "un voiture rouge",
+        "une voiture rouge",
+        "une voiture rouges"
+      ],
+      "answer": 2,
+      "explanation": "Colour adjectives always go after the noun: une voiture rouge.",
+      "textId": null
+    },
+    {
+      "id": "a2-adjective_agreement-074",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "adjective_agreement",
+      "question": "C’est un film ___.",
+      "options": [
+        "intéressante",
+        "intéressants",
+        "intéressantes",
+        "intéressant"
+      ],
+      "answer": 3,
+      "explanation": "The adjective agrees with un film (masculine singular): intéressant.",
+      "textId": null
+    },
+    {
+      "id": "a2-adjective_agreement-075",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "adjective_agreement",
+      "question": "Ce sont des problèmes ___.",
+      "options": [
+        "internationaux",
+        "internationals",
+        "internationales",
+        "international"
+      ],
+      "answer": 0,
+      "explanation": "Adjectives in -al become -aux in the masculine plural, -ales in the feminine plural. Here: internationaux.",
+      "textId": null
+    },
+    {
+      "id": "a2-adjective_agreement-076",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "adjective_agreement",
+      "question": "Ce sont des fêtes ___.",
+      "options": [
+        "nationaux",
+        "nationales",
+        "national",
+        "nationals"
+      ],
+      "answer": 1,
+      "explanation": "Adjectives in -al become -aux in the masculine plural, -ales in the feminine plural. Here: nationales.",
+      "textId": null
+    },
+    {
+      "id": "a2-adjective_agreement-077",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "adjective_agreement",
+      "question": "Les ___ jours sont difficiles.",
+      "options": [
+        "premier",
+        "première",
+        "premiers",
+        "premières"
+      ],
+      "answer": 2,
+      "explanation": "The adjective agrees with les jours (masculine plural): premiers.",
+      "textId": null
+    },
+    {
+      "id": "a2-adjective_agreement-078",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "adjective_agreement",
+      "question": "C’est ma ___ année à l’université.",
+      "options": [
+        "premier",
+        "premiers",
+        "premières",
+        "première"
+      ],
+      "answer": 3,
+      "explanation": "This adjective has an irregular feminine form. Here: première.",
+      "textId": null
+    },
+    {
+      "id": "a2-adjective_agreement-079",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "adjective_agreement",
+      "question": "Elle est ___ de ses résultats.",
+      "options": [
+        "fière",
+        "fier",
+        "fiers",
+        "fières"
+      ],
+      "answer": 0,
+      "explanation": "This adjective has an irregular feminine form. Here: fière.",
+      "textId": null
+    },
+    {
+      "id": "a2-adjective_agreement-080",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "adjective_agreement",
+      "question": "C’est une idée ___.",
+      "options": [
+        "fou",
+        "folle",
+        "fol",
+        "fous"
+      ],
+      "answer": 1,
+      "explanation": "This adjective has an irregular feminine form. Here: folle.",
+      "textId": null
+    }
+  ]
+}

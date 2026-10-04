@@ -1,0 +1,485 @@
+{
+  "texts": [],
+  "questions": [
+    {
+      "id": "b1-relative_pronouns-051",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "relative_pronouns",
+      "question": "C’est le film ___ je t’ai parlé.",
+      "options": [
+        "dont",
+        "que",
+        "qui",
+        "où"
+      ],
+      "answer": 0,
+      "explanation": "Dont replaces de + noun. Use it with verbs and expressions that take de: parler de, avoir besoin de, avoir envie de, se souvenir de, être fier de, avoir peur de.",
+      "textId": null
+    },
+    {
+      "id": "b1-relative_pronouns-052",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "relative_pronouns",
+      "question": "Voici le livre ___ j’ai besoin.",
+      "options": [
+        "que",
+        "dont",
+        "qui",
+        "où"
+      ],
+      "answer": 1,
+      "explanation": "Dont replaces de + noun. Use it with verbs and expressions that take de: parler de, avoir besoin de, avoir envie de, se souvenir de, être fier de, avoir peur de.",
+      "textId": null
+    },
+    {
+      "id": "b1-relative_pronouns-053",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "relative_pronouns",
+      "question": "C’est un voyage ___ je me souviendrai toujours.",
+      "options": [
+        "que",
+        "qui",
+        "dont",
+        "où"
+      ],
+      "answer": 2,
+      "explanation": "Dont replaces de + noun. Use it with verbs and expressions that take de: parler de, avoir besoin de, avoir envie de, se souvenir de, être fier de, avoir peur de.",
+      "textId": null
+    },
+    {
+      "id": "b1-relative_pronouns-054",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "relative_pronouns",
+      "question": "C’est une réussite ___ elle est très fière.",
+      "options": [
+        "que",
+        "qui",
+        "où",
+        "dont"
+      ],
+      "answer": 3,
+      "explanation": "Dont replaces de + noun. Use it with verbs and expressions that take de: parler de, avoir besoin de, avoir envie de, se souvenir de, être fier de, avoir peur de.",
+      "textId": null
+    },
+    {
+      "id": "b1-relative_pronouns-055",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "relative_pronouns",
+      "question": "C’est le gâteau ___ j’ai envie.",
+      "options": [
+        "dont",
+        "que",
+        "qui",
+        "où"
+      ],
+      "answer": 0,
+      "explanation": "Dont replaces de + noun. Use it with verbs and expressions that take de: parler de, avoir besoin de, avoir envie de, se souvenir de, être fier de, avoir peur de.",
+      "textId": null
+    },
+    {
+      "id": "b1-relative_pronouns-056",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "relative_pronouns",
+      "question": "Voilà le chien ___ j’ai peur.",
+      "options": [
+        "que",
+        "dont",
+        "qui",
+        "où"
+      ],
+      "answer": 1,
+      "explanation": "Dont replaces de + noun. Use it with verbs and expressions that take de: parler de, avoir besoin de, avoir envie de, se souvenir de, être fier de, avoir peur de.",
+      "textId": null
+    },
+    {
+      "id": "b1-relative_pronouns-057",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "relative_pronouns",
+      "question": "C’est la façon ___ il parle qui m’énerve.",
+      "options": [
+        "que",
+        "qui",
+        "dont",
+        "où"
+      ],
+      "answer": 2,
+      "explanation": "La façon dont, la manière dont = the way (in which). Always dont.",
+      "textId": null
+    },
+    {
+      "id": "b1-relative_pronouns-058",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "relative_pronouns",
+      "question": "J’ai un ami ___ le père est médecin.",
+      "options": [
+        "que",
+        "qui",
+        "où",
+        "dont"
+      ],
+      "answer": 3,
+      "explanation": "Dont can also show possession (whose): l’ami dont le père est médecin.",
+      "textId": null
+    },
+    {
+      "id": "b1-relative_pronouns-059",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "relative_pronouns",
+      "question": "C’est une ville ___ les habitants sont très accueillants.",
+      "options": [
+        "dont",
+        "que",
+        "qui",
+        "où"
+      ],
+      "answer": 0,
+      "explanation": "Dont can also show possession (whose): l’ami dont le père est médecin.",
+      "textId": null
+    },
+    {
+      "id": "b1-relative_pronouns-060",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "relative_pronouns",
+      "question": "Voici l’auteur ___ j’ai lu tous les livres.",
+      "options": [
+        "que",
+        "dont",
+        "qui",
+        "où"
+      ],
+      "answer": 1,
+      "explanation": "Dont can also show possession (whose): l’ami dont le père est médecin.",
+      "textId": null
+    },
+    {
+      "id": "b1-relative_pronouns-061",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "relative_pronouns",
+      "question": "Dis-moi ___ te fait plaisir.",
+      "options": [
+        "ce que",
+        "ce dont",
+        "ce qui",
+        "qui"
+      ],
+      "answer": 2,
+      "explanation": "Ce qui = what, as the subject of the verb that follows.",
+      "textId": null
+    },
+    {
+      "id": "b1-relative_pronouns-062",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "relative_pronouns",
+      "question": "Je ne sais pas ___ se passe.",
+      "options": [
+        "ce que",
+        "ce dont",
+        "que",
+        "ce qui"
+      ],
+      "answer": 3,
+      "explanation": "Ce qui = what, as the subject of the verb that follows.",
+      "textId": null
+    },
+    {
+      "id": "b1-relative_pronouns-063",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "relative_pronouns",
+      "question": "___ m’étonne, c’est son calme.",
+      "options": [
+        "Ce qui",
+        "Ce que",
+        "Ce dont",
+        "Qui"
+      ],
+      "answer": 0,
+      "explanation": "Ce qui = what, as the subject of the verb that follows.",
+      "textId": null
+    },
+    {
+      "id": "b1-relative_pronouns-064",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "relative_pronouns",
+      "question": "Je ne comprends pas ___ tu dis.",
+      "options": [
+        "ce qui",
+        "ce que",
+        "ce dont",
+        "que"
+      ],
+      "answer": 1,
+      "explanation": "Ce que (ce qu’) = what, as the object of the verb. It is followed by a subject and a verb.",
+      "textId": null
+    },
+    {
+      "id": "b1-relative_pronouns-065",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "relative_pronouns",
+      "question": "Fais ___ tu veux.",
+      "options": [
+        "ce qui",
+        "ce dont",
+        "ce que",
+        "qui"
+      ],
+      "answer": 2,
+      "explanation": "Ce que (ce qu’) = what, as the object of the verb. It is followed by a subject and a verb.",
+      "textId": null
+    },
+    {
+      "id": "b1-relative_pronouns-066",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "relative_pronouns",
+      "question": "___ j’aime ici, c’est la tranquillité.",
+      "options": [
+        "Ce qui",
+        "Ce dont",
+        "Que",
+        "Ce que"
+      ],
+      "answer": 3,
+      "explanation": "Ce que (ce qu’) = what, as the object of the verb. It is followed by a subject and a verb.",
+      "textId": null
+    },
+    {
+      "id": "b1-relative_pronouns-067",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "relative_pronouns",
+      "question": "Voilà ___ il m’a répondu.",
+      "options": [
+        "ce qu’",
+        "ce qui",
+        "ce dont",
+        "qu’"
+      ],
+      "answer": 0,
+      "explanation": "Ce que (ce qu’) = what, as the object of the verb. It is followed by a subject and a verb.",
+      "textId": null
+    },
+    {
+      "id": "b1-relative_pronouns-068",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "relative_pronouns",
+      "question": "Prends ___ tu as besoin.",
+      "options": [
+        "ce que",
+        "ce dont",
+        "ce qui",
+        "dont"
+      ],
+      "answer": 1,
+      "explanation": "Ce dont = what, with a verb or expression that takes de.",
+      "textId": null
+    },
+    {
+      "id": "b1-relative_pronouns-069",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "relative_pronouns",
+      "question": "C’est exactement ___ je rêvais.",
+      "options": [
+        "ce que",
+        "ce qui",
+        "ce dont",
+        "dont"
+      ],
+      "answer": 2,
+      "explanation": "Ce dont = what, with a verb or expression that takes de.",
+      "textId": null
+    },
+    {
+      "id": "b1-relative_pronouns-070",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "relative_pronouns",
+      "question": "Je me souviens du jour ___ nous nous sommes rencontrés.",
+      "options": [
+        "que",
+        "qui",
+        "dont",
+        "où"
+      ],
+      "answer": 3,
+      "explanation": "Où is used for a place and also for a moment in time: le jour où, l’année où, au moment où.",
+      "textId": null
+    },
+    {
+      "id": "b1-relative_pronouns-071",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "relative_pronouns",
+      "question": "C’est l’année ___ je suis né.",
+      "options": [
+        "où",
+        "que",
+        "qui",
+        "dont"
+      ],
+      "answer": 0,
+      "explanation": "Où is used for a place and also for a moment in time: le jour où, l’année où, au moment où.",
+      "textId": null
+    },
+    {
+      "id": "b1-relative_pronouns-072",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "relative_pronouns",
+      "question": "Au moment ___ je sortais, il a commencé à pleuvoir.",
+      "options": [
+        "que",
+        "où",
+        "qui",
+        "dont"
+      ],
+      "answer": 1,
+      "explanation": "Où is used for a place and also for a moment in time: le jour où, l’année où, au moment où.",
+      "textId": null
+    },
+    {
+      "id": "b1-relative_pronouns-073",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "relative_pronouns",
+      "question": "C’est le restaurant ___ nous avons fêté mon anniversaire.",
+      "options": [
+        "que",
+        "qui",
+        "où",
+        "dont"
+      ],
+      "answer": 2,
+      "explanation": "Où is used for a place and also for a moment in time: le jour où, l’année où, au moment où.",
+      "textId": null
+    },
+    {
+      "id": "b1-relative_pronouns-074",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "relative_pronouns",
+      "question": "Le pays ___ je viens est très petit.",
+      "options": [
+        "où",
+        "que",
+        "dont",
+        "d’où"
+      ],
+      "answer": 3,
+      "explanation": "D’où = from where. After venir de + place, the relative is d’où.",
+      "textId": null
+    },
+    {
+      "id": "b1-relative_pronouns-075",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "relative_pronouns",
+      "question": "Le film ___ il a vu hier était nul.",
+      "options": [
+        "qu’",
+        "que",
+        "qui",
+        "dont"
+      ],
+      "answer": 0,
+      "explanation": "Que becomes qu’ before a vowel or silent h. Qui never changes.",
+      "textId": null
+    },
+    {
+      "id": "b1-relative_pronouns-076",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "relative_pronouns",
+      "question": "C’est la personne ___ habite au-dessus.",
+      "options": [
+        "qu’",
+        "qui",
+        "que",
+        "dont"
+      ],
+      "answer": 1,
+      "explanation": "Que becomes qu’ before a vowel or silent h. Qui never changes.",
+      "textId": null
+    },
+    {
+      "id": "b1-relative_pronouns-077",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "relative_pronouns",
+      "question": "Les amis ___ arrivent ce soir viennent du Québec.",
+      "options": [
+        "qu’",
+        "que",
+        "qui",
+        "dont"
+      ],
+      "answer": 2,
+      "explanation": "Que becomes qu’ before a vowel or silent h. Qui never changes.",
+      "textId": null
+    },
+    {
+      "id": "b1-relative_pronouns-078",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "relative_pronouns",
+      "question": "C’est toi ___ as raison.",
+      "options": [
+        "que",
+        "dont",
+        "où",
+        "qui"
+      ],
+      "answer": 3,
+      "explanation": "Qui is the subject of the next verb (the verb follows directly). Que is its object (a subject follows).",
+      "textId": null
+    },
+    {
+      "id": "b1-relative_pronouns-079",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "relative_pronouns",
+      "question": "Le gâteau ___ ma mère a fait est délicieux.",
+      "options": [
+        "que",
+        "qui",
+        "dont",
+        "où"
+      ],
+      "answer": 0,
+      "explanation": "Qui is the subject of the next verb (the verb follows directly). Que is its object (a subject follows).",
+      "textId": null
+    },
+    {
+      "id": "b1-relative_pronouns-080",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "relative_pronouns",
+      "question": "Les gens ___ travaillent ici sont sympas.",
+      "options": [
+        "que",
+        "qui",
+        "dont",
+        "où"
+      ],
+      "answer": 1,
+      "explanation": "Qui is the subject of the next verb (the verb follows directly). Que is its object (a subject follows).",
+      "textId": null
+    }
+  ]
+}

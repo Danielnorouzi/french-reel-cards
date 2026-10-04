@@ -1,0 +1,485 @@
+{
+  "texts": [],
+  "questions": [
+    {
+      "id": "a2-articles-051",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "articles",
+      "question": "Je ne mange pas ___ viande.",
+      "options": [
+        "de",
+        "de la",
+        "du",
+        "des"
+      ],
+      "answer": 0,
+      "explanation": "After a negative verb (ne … pas, ne … plus, ne … jamais), du, de la, de l’, des, un and une all become de (d’ before a vowel).",
+      "textId": null
+    },
+    {
+      "id": "a2-articles-052",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "articles",
+      "question": "Il n’y a plus ___ lait dans le frigo.",
+      "options": [
+        "du",
+        "de",
+        "de la",
+        "des"
+      ],
+      "answer": 1,
+      "explanation": "After a negative verb (ne … pas, ne … plus, ne … jamais), du, de la, de l’, des, un and une all become de (d’ before a vowel).",
+      "textId": null
+    },
+    {
+      "id": "a2-articles-053",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "articles",
+      "question": "Nous n’avons pas ___ enfants.",
+      "options": [
+        "des",
+        "de",
+        "d’",
+        "les"
+      ],
+      "answer": 2,
+      "explanation": "After a negative verb (ne … pas, ne … plus, ne … jamais), du, de la, de l’, des, un and une all become de (d’ before a vowel).",
+      "textId": null
+    },
+    {
+      "id": "a2-articles-054",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "articles",
+      "question": "Elle ne boit jamais ___ café.",
+      "options": [
+        "du",
+        "le",
+        "des",
+        "de"
+      ],
+      "answer": 3,
+      "explanation": "After a negative verb (ne … pas, ne … plus, ne … jamais), du, de la, de l’, des, un and une all become de (d’ before a vowel).",
+      "textId": null
+    },
+    {
+      "id": "a2-articles-055",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "articles",
+      "question": "Je n’ai pas ___ voiture.",
+      "options": [
+        "de",
+        "une",
+        "la",
+        "des"
+      ],
+      "answer": 0,
+      "explanation": "After a negative verb (ne … pas, ne … plus, ne … jamais), du, de la, de l’, des, un and une all become de (d’ before a vowel).",
+      "textId": null
+    },
+    {
+      "id": "a2-articles-056",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "articles",
+      "question": "Il n’y a pas ___ problème.",
+      "options": [
+        "un",
+        "de",
+        "du",
+        "des"
+      ],
+      "answer": 1,
+      "explanation": "After a negative verb (ne … pas, ne … plus, ne … jamais), du, de la, de l’, des, un and une all become de (d’ before a vowel).",
+      "textId": null
+    },
+    {
+      "id": "a2-articles-057",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "articles",
+      "question": "Tu ne prends pas ___ sucre ?",
+      "options": [
+        "du",
+        "le",
+        "de",
+        "des"
+      ],
+      "answer": 2,
+      "explanation": "After a negative verb (ne … pas, ne … plus, ne … jamais), du, de la, de l’, des, un and une all become de (d’ before a vowel).",
+      "textId": null
+    },
+    {
+      "id": "a2-articles-058",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "articles",
+      "question": "On n’a plus ___ œufs.",
+      "options": [
+        "des",
+        "de",
+        "les",
+        "d’"
+      ],
+      "answer": 3,
+      "explanation": "After a negative verb (ne … pas, ne … plus, ne … jamais), du, de la, de l’, des, un and une all become de (d’ before a vowel).",
+      "textId": null
+    },
+    {
+      "id": "a2-articles-059",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "articles",
+      "question": "Je n’ai pas ___ argent sur moi.",
+      "options": [
+        "d’",
+        "de l’",
+        "de",
+        "du"
+      ],
+      "answer": 0,
+      "explanation": "After a negative verb (ne … pas, ne … plus, ne … jamais), du, de la, de l’, des, un and une all become de (d’ before a vowel).",
+      "textId": null
+    },
+    {
+      "id": "a2-articles-060",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "articles",
+      "question": "Ils n’ont pas ___ chance.",
+      "options": [
+        "de la",
+        "de",
+        "la",
+        "des"
+      ],
+      "answer": 1,
+      "explanation": "After a negative verb (ne … pas, ne … plus, ne … jamais), du, de la, de l’, des, un and une all become de (d’ before a vowel).",
+      "textId": null
+    },
+    {
+      "id": "a2-articles-061",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "articles",
+      "question": "J’ai beaucoup ___ travail cette semaine.",
+      "options": [
+        "du",
+        "des",
+        "de",
+        "le"
+      ],
+      "answer": 2,
+      "explanation": "After an expression of quantity (beaucoup, un peu, trop, assez, un kilo, une bouteille…), use de alone (d’ before a vowel), with no article.",
+      "textId": null
+    },
+    {
+      "id": "a2-articles-062",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "articles",
+      "question": "Tu veux un peu ___ fromage ?",
+      "options": [
+        "du",
+        "des",
+        "le",
+        "de"
+      ],
+      "answer": 3,
+      "explanation": "After an expression of quantity (beaucoup, un peu, trop, assez, un kilo, une bouteille…), use de alone (d’ before a vowel), with no article.",
+      "textId": null
+    },
+    {
+      "id": "a2-articles-063",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "articles",
+      "question": "Il y a trop ___ bruit ici.",
+      "options": [
+        "de",
+        "du",
+        "des",
+        "le"
+      ],
+      "answer": 0,
+      "explanation": "After an expression of quantity (beaucoup, un peu, trop, assez, un kilo, une bouteille…), use de alone (d’ before a vowel), with no article.",
+      "textId": null
+    },
+    {
+      "id": "a2-articles-064",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "articles",
+      "question": "Je voudrais un kilo ___ tomates.",
+      "options": [
+        "des",
+        "de",
+        "les",
+        "du"
+      ],
+      "answer": 1,
+      "explanation": "After an expression of quantity (beaucoup, un peu, trop, assez, un kilo, une bouteille…), use de alone (d’ before a vowel), with no article.",
+      "textId": null
+    },
+    {
+      "id": "a2-articles-065",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "articles",
+      "question": "Une bouteille ___ eau, s’il vous plaît.",
+      "options": [
+        "de l’",
+        "de",
+        "d’",
+        "du"
+      ],
+      "answer": 2,
+      "explanation": "After an expression of quantity (beaucoup, un peu, trop, assez, un kilo, une bouteille…), use de alone (d’ before a vowel), with no article.",
+      "textId": null
+    },
+    {
+      "id": "a2-articles-066",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "articles",
+      "question": "Elle a beaucoup ___ amis.",
+      "options": [
+        "des",
+        "de",
+        "les",
+        "d’"
+      ],
+      "answer": 3,
+      "explanation": "After an expression of quantity (beaucoup, un peu, trop, assez, un kilo, une bouteille…), use de alone (d’ before a vowel), with no article.",
+      "textId": null
+    },
+    {
+      "id": "a2-articles-067",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "articles",
+      "question": "On n’a pas assez ___ temps.",
+      "options": [
+        "de",
+        "du",
+        "des",
+        "le"
+      ],
+      "answer": 0,
+      "explanation": "After an expression of quantity (beaucoup, un peu, trop, assez, un kilo, une bouteille…), use de alone (d’ before a vowel), with no article.",
+      "textId": null
+    },
+    {
+      "id": "a2-articles-068",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "articles",
+      "question": "Un verre ___ jus d’orange, s’il vous plaît.",
+      "options": [
+        "du",
+        "de",
+        "des",
+        "le"
+      ],
+      "answer": 1,
+      "explanation": "After an expression of quantity (beaucoup, un peu, trop, assez, un kilo, une bouteille…), use de alone (d’ before a vowel), with no article.",
+      "textId": null
+    },
+    {
+      "id": "a2-articles-069",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "articles",
+      "question": "Combien ___ pommes voulez-vous ?",
+      "options": [
+        "des",
+        "les",
+        "de",
+        "du"
+      ],
+      "answer": 2,
+      "explanation": "After an expression of quantity (beaucoup, un peu, trop, assez, un kilo, une bouteille…), use de alone (d’ before a vowel), with no article.",
+      "textId": null
+    },
+    {
+      "id": "a2-articles-070",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "articles",
+      "question": "Il mange une tranche ___ pain.",
+      "options": [
+        "du",
+        "des",
+        "le",
+        "de"
+      ],
+      "answer": 3,
+      "explanation": "After an expression of quantity (beaucoup, un peu, trop, assez, un kilo, une bouteille…), use de alone (d’ before a vowel), with no article.",
+      "textId": null
+    },
+    {
+      "id": "a2-articles-071",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "articles",
+      "question": "J’aime ___ fromage, mais je n’en mange pas souvent.",
+      "options": [
+        "le",
+        "du",
+        "de",
+        "un"
+      ],
+      "answer": 0,
+      "explanation": "Verbs of liking (aimer, adorer, détester, préférer) take le, la, l’, les because they talk about the thing in general.",
+      "textId": null
+    },
+    {
+      "id": "a2-articles-072",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "articles",
+      "question": "Elle adore ___ salade.",
+      "options": [
+        "de la",
+        "la",
+        "de",
+        "une"
+      ],
+      "answer": 1,
+      "explanation": "Verbs of liking (aimer, adorer, détester, préférer) take le, la, l’, les because they talk about the thing in general.",
+      "textId": null
+    },
+    {
+      "id": "a2-articles-073",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "articles",
+      "question": "Je déteste ___ poisson.",
+      "options": [
+        "du",
+        "de",
+        "le",
+        "un"
+      ],
+      "answer": 2,
+      "explanation": "Verbs of liking (aimer, adorer, détester, préférer) take le, la, l’, les because they talk about the thing in general.",
+      "textId": null
+    },
+    {
+      "id": "a2-articles-074",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "articles",
+      "question": "J’aime le café, alors je bois ___ café tous les matins.",
+      "options": [
+        "le",
+        "de",
+        "un",
+        "du"
+      ],
+      "answer": 3,
+      "explanation": "Use du, de la, de l’ for an amount of something you cannot count: du.",
+      "textId": null
+    },
+    {
+      "id": "a2-articles-075",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "articles",
+      "question": "Elle adore la musique, elle écoute ___ musique toute la journée.",
+      "options": [
+        "de la",
+        "la",
+        "de",
+        "une"
+      ],
+      "answer": 0,
+      "explanation": "Use du, de la, de l’ for an amount of something you cannot count: de la.",
+      "textId": null
+    },
+    {
+      "id": "a2-articles-076",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "articles",
+      "question": "Tu as ___ courage !",
+      "options": [
+        "le",
+        "du",
+        "de",
+        "un"
+      ],
+      "answer": 1,
+      "explanation": "Use du, de la, de l’ for an amount of something you cannot count: du.",
+      "textId": null
+    },
+    {
+      "id": "a2-articles-077",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "articles",
+      "question": "Il faut ___ patience avec les enfants.",
+      "options": [
+        "la",
+        "de",
+        "de la",
+        "une"
+      ],
+      "answer": 2,
+      "explanation": "Use du, de la, de l’ for an amount of something you cannot count: de la.",
+      "textId": null
+    },
+    {
+      "id": "a2-articles-078",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "articles",
+      "question": "Avec ce plat, je bois ___ eau.",
+      "options": [
+        "l’",
+        "d’",
+        "une",
+        "de l’"
+      ],
+      "answer": 3,
+      "explanation": "Use du, de la, de l’ for an amount of something you cannot count: de l’.",
+      "textId": null
+    },
+    {
+      "id": "a2-articles-079",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "articles",
+      "question": "Ce n’est pas ___ beurre, c’est de la margarine.",
+      "options": [
+        "du",
+        "de",
+        "des",
+        "un"
+      ],
+      "answer": 0,
+      "explanation": "With être, the article does not change in the negative: ce n’est pas du…, ce ne sont pas des…",
+      "textId": null
+    },
+    {
+      "id": "a2-articles-080",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "articles",
+      "question": "Ce ne sont pas ___ fraises, ce sont des framboises.",
+      "options": [
+        "de",
+        "des",
+        "du",
+        "une"
+      ],
+      "answer": 1,
+      "explanation": "With être, the article does not change in the negative: ce n’est pas du…, ce ne sont pas des…",
+      "textId": null
+    }
+  ]
+}

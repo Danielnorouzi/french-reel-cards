@@ -1,0 +1,485 @@
+{
+  "texts": [],
+  "questions": [
+    {
+      "id": "b1-pronoun_en-051",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pronoun_en",
+      "question": "Tu as des frères ? — Oui, j’___ ai deux.",
+      "options": [
+        "en",
+        "y",
+        "les",
+        "leur"
+      ],
+      "answer": 0,
+      "explanation": "En replaces a noun after a number or quantity word, and the number or quantity word stays at the end: j’en ai deux, j’en ai beaucoup.",
+      "textId": null
+    },
+    {
+      "id": "b1-pronoun_en-052",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pronoun_en",
+      "question": "Combien de pommes voulez-vous ? — J’___ veux six.",
+      "options": [
+        "y",
+        "en",
+        "les",
+        "la"
+      ],
+      "answer": 1,
+      "explanation": "En replaces a noun after a number or quantity word, and the number or quantity word stays at the end: j’en ai deux, j’en ai beaucoup.",
+      "textId": null
+    },
+    {
+      "id": "b1-pronoun_en-053",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pronoun_en",
+      "question": "Tu as beaucoup de travail ? — Oui, j’___ ai trop.",
+      "options": [
+        "y",
+        "le",
+        "en",
+        "lui"
+      ],
+      "answer": 2,
+      "explanation": "En replaces a noun after a number or quantity word, and the number or quantity word stays at the end: j’en ai deux, j’en ai beaucoup.",
+      "textId": null
+    },
+    {
+      "id": "b1-pronoun_en-054",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pronoun_en",
+      "question": "Il y a du lait ? — Oui, il y ___ a un litre.",
+      "options": [
+        "y",
+        "le",
+        "lui",
+        "en"
+      ],
+      "answer": 3,
+      "explanation": "En replaces a noun after a number or quantity word, and the number or quantity word stays at the end: j’en ai deux, j’en ai beaucoup.",
+      "textId": null
+    },
+    {
+      "id": "b1-pronoun_en-055",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pronoun_en",
+      "question": "Tu veux du café ? — Oui, j’___ veux bien.",
+      "options": [
+        "en",
+        "y",
+        "le",
+        "lui"
+      ],
+      "answer": 0,
+      "explanation": "En replaces du, de la, de l’, des + noun: tu veux du café ? — oui, j’en veux.",
+      "textId": null
+    },
+    {
+      "id": "b1-pronoun_en-056",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pronoun_en",
+      "question": "Vous avez de la monnaie ? — Oui, nous ___ avons.",
+      "options": [
+        "y",
+        "en",
+        "la",
+        "lui"
+      ],
+      "answer": 1,
+      "explanation": "En replaces du, de la, de l’, des + noun: tu veux du café ? — oui, j’en veux.",
+      "textId": null
+    },
+    {
+      "id": "b1-pronoun_en-057",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pronoun_en",
+      "question": "Elle mange de la viande ? — Non, elle n’___ mange pas.",
+      "options": [
+        "y",
+        "la",
+        "en",
+        "lui"
+      ],
+      "answer": 2,
+      "explanation": "In the negative, ne goes before en, and no number is repeated: je n’en ai pas.",
+      "textId": null
+    },
+    {
+      "id": "b1-pronoun_en-058",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pronoun_en",
+      "question": "Tu as une voiture ? — Non, je n’___ ai pas.",
+      "options": [
+        "y",
+        "l’",
+        "lui",
+        "en"
+      ],
+      "answer": 3,
+      "explanation": "In the negative, ne goes before en, and no number is repeated: je n’en ai pas.",
+      "textId": null
+    },
+    {
+      "id": "b1-pronoun_en-059",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pronoun_en",
+      "question": "Il reste des billets ? — Non, il n’y ___ a plus.",
+      "options": [
+        "en",
+        "y",
+        "les",
+        "leur"
+      ],
+      "answer": 0,
+      "explanation": "In the negative, ne goes before en, and no number is repeated: je n’en ai pas.",
+      "textId": null
+    },
+    {
+      "id": "b1-pronoun_en-060",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pronoun_en",
+      "question": "Tu as un stylo ? — Oui, j’___ ai un.",
+      "options": [
+        "y",
+        "en",
+        "l’",
+        "le"
+      ],
+      "answer": 1,
+      "explanation": "With un / une, the number stays at the end: j’en ai un.",
+      "textId": null
+    },
+    {
+      "id": "b1-pronoun_en-061",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pronoun_en",
+      "question": "Tu connais ce film ? — Oui, je ___ connais.",
+      "options": [
+        "en",
+        "y",
+        "le",
+        "lui"
+      ],
+      "answer": 2,
+      "explanation": "En replaces a noun with du / de la / des or a quantity. A noun with le, la, les, ce, mon… is replaced by le, la, les instead.",
+      "textId": null
+    },
+    {
+      "id": "b1-pronoun_en-062",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pronoun_en",
+      "question": "Tu aimes le chocolat ? — Oui, je ___ adore.",
+      "options": [
+        "en",
+        "y",
+        "lui",
+        "l’"
+      ],
+      "answer": 3,
+      "explanation": "En replaces a noun with du / de la / des or a quantity. A noun with le, la, les, ce, mon… is replaced by le, la, les instead.",
+      "textId": null
+    },
+    {
+      "id": "b1-pronoun_en-063",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pronoun_en",
+      "question": "Tu manges du chocolat ? — Oui, j’___ mange tous les jours.",
+      "options": [
+        "en",
+        "le",
+        "y",
+        "lui"
+      ],
+      "answer": 0,
+      "explanation": "En replaces a noun with du / de la / des or a quantity. A noun with le, la, les, ce, mon… is replaced by le, la, les instead.",
+      "textId": null
+    },
+    {
+      "id": "b1-pronoun_en-064",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pronoun_en",
+      "question": "Tu as vu mes clés ? — Non, je ne ___ ai pas vues.",
+      "options": [
+        "en",
+        "les",
+        "y",
+        "leur"
+      ],
+      "answer": 1,
+      "explanation": "En replaces a noun with du / de la / des or a quantity. A noun with le, la, les, ce, mon… is replaced by le, la, les instead.",
+      "textId": null
+    },
+    {
+      "id": "b1-pronoun_en-065",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pronoun_en",
+      "question": "Tu as acheté des œufs ? — Oui, j’___ ai acheté douze.",
+      "options": [
+        "les",
+        "y",
+        "en",
+        "leur"
+      ],
+      "answer": 2,
+      "explanation": "En replaces a noun with du / de la / des or a quantity. A noun with le, la, les, ce, mon… is replaced by le, la, les instead.",
+      "textId": null
+    },
+    {
+      "id": "b1-pronoun_en-066",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pronoun_en",
+      "question": "Vous prenez ce pull ? — Oui, je ___ prends.",
+      "options": [
+        "en",
+        "y",
+        "lui",
+        "le"
+      ],
+      "answer": 3,
+      "explanation": "En replaces a noun with du / de la / des or a quantity. A noun with le, la, les, ce, mon… is replaced by le, la, les instead.",
+      "textId": null
+    },
+    {
+      "id": "b1-pronoun_en-067",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pronoun_en",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "J’en ai acheté trois.",
+        "J’ai en acheté trois.",
+        "J’ai acheté en trois.",
+        "J’en ai achetés trois."
+      ],
+      "answer": 0,
+      "explanation": "In the passé composé, en goes before the auxiliary, and the past participle does not agree with en: j’en ai acheté.",
+      "textId": null
+    },
+    {
+      "id": "b1-pronoun_en-068",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pronoun_en",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "Nous n’avons pas en trouvé.",
+        "Nous n’en avons pas trouvé.",
+        "Nous en n’avons pas trouvé.",
+        "Nous n’avons en pas trouvé."
+      ],
+      "answer": 1,
+      "explanation": "In the passé composé, en goes before the auxiliary, and the past participle does not agree with en: j’en ai acheté.",
+      "textId": null
+    },
+    {
+      "id": "b1-pronoun_en-069",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pronoun_en",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "J’en vais prendre deux.",
+        "Je vais prendre en deux.",
+        "Je vais en prendre deux.",
+        "Je vais prendre deux en."
+      ],
+      "answer": 2,
+      "explanation": "With two verbs, en goes before the infinitive: je vais en acheter.",
+      "textId": null
+    },
+    {
+      "id": "b1-pronoun_en-070",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pronoun_en",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "Tu en peux acheter au marché.",
+        "Tu peux acheter en au marché.",
+        "En tu peux acheter au marché.",
+        "Tu peux en acheter au marché."
+      ],
+      "answer": 3,
+      "explanation": "With two verbs, en goes before the infinitive: je vais en acheter.",
+      "textId": null
+    },
+    {
+      "id": "b1-pronoun_en-071",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pronoun_en",
+      "question": "Il y a du gâteau. ___ un morceau ! (tu)",
+      "options": [
+        "Prends-en",
+        "Prends-y",
+        "En prends",
+        "Prends-le"
+      ],
+      "answer": 0,
+      "explanation": "In a positive command, en goes after the verb with a hyphen, and -er verbs take an s: manges-en, prends-en.",
+      "textId": null
+    },
+    {
+      "id": "b1-pronoun_en-072",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pronoun_en",
+      "question": "Ces fraises sont délicieuses. ___ ! (tu)",
+      "options": [
+        "Mange-en",
+        "Manges-en",
+        "En mange",
+        "Manges-y"
+      ],
+      "answer": 1,
+      "explanation": "In a positive command, en goes after the verb with a hyphen, and -er verbs take an s: manges-en, prends-en.",
+      "textId": null
+    },
+    {
+      "id": "b1-pronoun_en-073",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pronoun_en",
+      "question": "Tu viens de la bibliothèque ? — Oui, j’___ viens.",
+      "options": [
+        "y",
+        "la",
+        "en",
+        "lui"
+      ],
+      "answer": 2,
+      "explanation": "En also replaces de + place (from there): j’en viens.",
+      "textId": null
+    },
+    {
+      "id": "b1-pronoun_en-074",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pronoun_en",
+      "question": "Il est sorti du bureau ? — Oui, il ___ est sorti à cinq heures.",
+      "options": [
+        "y",
+        "le",
+        "lui",
+        "en"
+      ],
+      "answer": 3,
+      "explanation": "En also replaces de + place (from there): j’en viens.",
+      "textId": null
+    },
+    {
+      "id": "b1-pronoun_en-075",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pronoun_en",
+      "question": "Elle revient de Paris ? — Oui, elle ___ revient demain.",
+      "options": [
+        "en",
+        "y",
+        "le",
+        "lui"
+      ],
+      "answer": 0,
+      "explanation": "En also replaces de + place (from there): j’en viens.",
+      "textId": null
+    },
+    {
+      "id": "b1-pronoun_en-076",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pronoun_en",
+      "question": "J’___ ai marre de ce bruit !",
+      "options": [
+        "y",
+        "en",
+        "l’",
+        "m’"
+      ],
+      "answer": 1,
+      "explanation": "This is a fixed expression with en.",
+      "textId": null
+    },
+    {
+      "id": "b1-pronoun_en-077",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pronoun_en",
+      "question": "Ne t’___ fais pas, tout ira bien.",
+      "options": [
+        "y",
+        "le",
+        "en",
+        "te"
+      ],
+      "answer": 2,
+      "explanation": "This is a fixed expression with en.",
+      "textId": null
+    },
+    {
+      "id": "b1-pronoun_en-078",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pronoun_en",
+      "question": "Il est tard, je m’___ vais.",
+      "options": [
+        "y",
+        "le",
+        "me",
+        "en"
+      ],
+      "answer": 3,
+      "explanation": "This is a fixed expression with en.",
+      "textId": null
+    },
+    {
+      "id": "b1-pronoun_en-079",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pronoun_en",
+      "question": "Je ne lui ___ veux pas, ce n’est pas sa faute.",
+      "options": [
+        "en",
+        "y",
+        "le",
+        "la"
+      ],
+      "answer": 0,
+      "explanation": "This is a fixed expression with en.",
+      "textId": null
+    },
+    {
+      "id": "b1-pronoun_en-080",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pronoun_en",
+      "question": "Qu’est-ce que tu ___ penses ?",
+      "options": [
+        "y",
+        "en",
+        "le",
+        "lui"
+      ],
+      "answer": 1,
+      "explanation": "Penser de = to have an opinion about. De + thing is replaced by en: qu’est-ce que tu en penses ?",
+      "textId": null
+    }
+  ]
+}

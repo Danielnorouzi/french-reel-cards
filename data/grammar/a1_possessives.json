@@ -1,0 +1,1285 @@
+{
+  "texts": [],
+  "questions": [
+    {
+      "id": "a1-possessives-001",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "possessives",
+      "question": "C’est ___ frère. Il s’appelle Marc. (à moi)",
+      "options": [
+        "mon",
+        "ma",
+        "mes",
+        "ton"
+      ],
+      "answer": 0,
+      "explanation": "Mon, ton, son go before a masculine singular noun: mon.",
+      "textId": null
+    },
+    {
+      "id": "a1-possessives-002",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "possessives",
+      "question": "Voici ___ sœur. (à moi)",
+      "options": [
+        "mon",
+        "ma",
+        "mes",
+        "sa"
+      ],
+      "answer": 1,
+      "explanation": "Ma, ta, sa go before a feminine singular noun starting with a consonant: ma.",
+      "textId": null
+    },
+    {
+      "id": "a1-possessives-003",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "possessives",
+      "question": "Ce sont ___ parents. (à moi)",
+      "options": [
+        "mon",
+        "ma",
+        "mes",
+        "ses"
+      ],
+      "answer": 2,
+      "explanation": "Mes, tes, ses go before any plural noun: mes.",
+      "textId": null
+    },
+    {
+      "id": "a1-possessives-004",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "possessives",
+      "question": "J’adore ___ nouvelle voiture. (à moi)",
+      "options": [
+        "mon",
+        "mes",
+        "notre",
+        "ma"
+      ],
+      "answer": 3,
+      "explanation": "Ma, ta, sa go before a feminine singular noun starting with a consonant: ma.",
+      "textId": null
+    },
+    {
+      "id": "a1-possessives-005",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "possessives",
+      "question": "Je cherche ___ téléphone. (à moi)",
+      "options": [
+        "mon",
+        "ma",
+        "mes",
+        "son"
+      ],
+      "answer": 0,
+      "explanation": "Mon, ton, son go before a masculine singular noun: mon.",
+      "textId": null
+    },
+    {
+      "id": "a1-possessives-006",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "possessives",
+      "question": "J’ai perdu ___ clés. (à moi)",
+      "options": [
+        "mon",
+        "mes",
+        "ma",
+        "tes"
+      ],
+      "answer": 1,
+      "explanation": "Mes, tes, ses go before any plural noun: mes.",
+      "textId": null
+    },
+    {
+      "id": "a1-possessives-007",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "possessives",
+      "question": "___ père travaille à l’hôpital. (à moi)",
+      "options": [
+        "Ma",
+        "Mes",
+        "Mon",
+        "Leur"
+      ],
+      "answer": 2,
+      "explanation": "Mon, ton, son go before a masculine singular noun: Mon.",
+      "textId": null
+    },
+    {
+      "id": "a1-possessives-008",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "possessives",
+      "question": "___ mère est professeure. (à moi)",
+      "options": [
+        "Mon",
+        "Mes",
+        "Sa",
+        "Ma"
+      ],
+      "answer": 3,
+      "explanation": "Ma, ta, sa go before a feminine singular noun starting with a consonant: Ma.",
+      "textId": null
+    },
+    {
+      "id": "a1-possessives-009",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "possessives",
+      "question": "___ amis habitent à Lyon. (à moi)",
+      "options": [
+        "Mes",
+        "Mon",
+        "Ma",
+        "Tes"
+      ],
+      "answer": 0,
+      "explanation": "Mes, tes, ses go before any plural noun: Mes.",
+      "textId": null
+    },
+    {
+      "id": "a1-possessives-010",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "possessives",
+      "question": "Je fais ___ devoirs le soir. (à moi)",
+      "options": [
+        "mon",
+        "mes",
+        "ma",
+        "ses"
+      ],
+      "answer": 1,
+      "explanation": "Mes, tes, ses go before any plural noun: mes.",
+      "textId": null
+    },
+    {
+      "id": "a1-possessives-011",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "possessives",
+      "question": "C’est ___ stylo ? (à toi)",
+      "options": [
+        "ta",
+        "tes",
+        "ton",
+        "mon"
+      ],
+      "answer": 2,
+      "explanation": "Mon, ton, son go before a masculine singular noun: ton.",
+      "textId": null
+    },
+    {
+      "id": "a1-possessives-012",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "possessives",
+      "question": "Où est ___ sac ? (à toi)",
+      "options": [
+        "ta",
+        "tes",
+        "son",
+        "ton"
+      ],
+      "answer": 3,
+      "explanation": "Mon, ton, son go before a masculine singular noun: ton.",
+      "textId": null
+    },
+    {
+      "id": "a1-possessives-013",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "possessives",
+      "question": "Comment va ___ mère ? (à toi)",
+      "options": [
+        "ta",
+        "ton",
+        "tes",
+        "ma"
+      ],
+      "answer": 0,
+      "explanation": "Ma, ta, sa go before a feminine singular noun starting with a consonant: ta.",
+      "textId": null
+    },
+    {
+      "id": "a1-possessives-014",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "possessives",
+      "question": "___ chaussures sont jolies. (à toi)",
+      "options": [
+        "Ton",
+        "Tes",
+        "Ta",
+        "Ses"
+      ],
+      "answer": 1,
+      "explanation": "Mes, tes, ses go before any plural noun: Tes.",
+      "textId": null
+    },
+    {
+      "id": "a1-possessives-015",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "possessives",
+      "question": "J’aime bien ___ chemise. (à toi)",
+      "options": [
+        "ton",
+        "tes",
+        "ta",
+        "sa"
+      ],
+      "answer": 2,
+      "explanation": "Ma, ta, sa go before a feminine singular noun starting with a consonant: ta.",
+      "textId": null
+    },
+    {
+      "id": "a1-possessives-016",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "possessives",
+      "question": "Tu as ___ billet ? (à toi)",
+      "options": [
+        "ta",
+        "tes",
+        "mon",
+        "ton"
+      ],
+      "answer": 3,
+      "explanation": "Mon, ton, son go before a masculine singular noun: ton.",
+      "textId": null
+    },
+    {
+      "id": "a1-possessives-017",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "possessives",
+      "question": "___ enfants sont à l’école ? (à toi)",
+      "options": [
+        "Tes",
+        "Ton",
+        "Ta",
+        "Mes"
+      ],
+      "answer": 0,
+      "explanation": "Mes, tes, ses go before any plural noun: Tes.",
+      "textId": null
+    },
+    {
+      "id": "a1-possessives-018",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "possessives",
+      "question": "Quel est ___ numéro de téléphone ? (à toi)",
+      "options": [
+        "ta",
+        "ton",
+        "tes",
+        "son"
+      ],
+      "answer": 1,
+      "explanation": "Mon, ton, son go before a masculine singular noun: ton.",
+      "textId": null
+    },
+    {
+      "id": "a1-possessives-019",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "possessives",
+      "question": "Paul adore ___ chien. (à Paul)",
+      "options": [
+        "sa",
+        "ses",
+        "son",
+        "leur"
+      ],
+      "answer": 2,
+      "explanation": "Mon, ton, son go before a masculine singular noun: son.",
+      "textId": null
+    },
+    {
+      "id": "a1-possessives-020",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "possessives",
+      "question": "Julie parle à ___ père. (à Julie)",
+      "options": [
+        "sa",
+        "ses",
+        "leur",
+        "son"
+      ],
+      "answer": 3,
+      "explanation": "The possessive agrees with the thing owned, not with the owner. Son, sa, ses can each mean his, her or its. Here: son.",
+      "textId": null
+    },
+    {
+      "id": "a1-possessives-021",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "possessives",
+      "question": "Marc téléphone à ___ mère. (à Marc)",
+      "options": [
+        "sa",
+        "son",
+        "ses",
+        "leur"
+      ],
+      "answer": 0,
+      "explanation": "The possessive agrees with the thing owned, not with the owner. Son, sa, ses can each mean his, her or its. Here: sa.",
+      "textId": null
+    },
+    {
+      "id": "a1-possessives-022",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "possessives",
+      "question": "Léa range ___ chambre. (à Léa)",
+      "options": [
+        "son",
+        "sa",
+        "ses",
+        "leur"
+      ],
+      "answer": 1,
+      "explanation": "Ma, ta, sa go before a feminine singular noun starting with a consonant: sa.",
+      "textId": null
+    },
+    {
+      "id": "a1-possessives-023",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "possessives",
+      "question": "Il oublie toujours ___ lunettes. (à lui)",
+      "options": [
+        "son",
+        "sa",
+        "ses",
+        "leurs"
+      ],
+      "answer": 2,
+      "explanation": "Mes, tes, ses go before any plural noun: ses.",
+      "textId": null
+    },
+    {
+      "id": "a1-possessives-024",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "possessives",
+      "question": "Elle cherche ___ passeport. (à elle)",
+      "options": [
+        "sa",
+        "ses",
+        "leur",
+        "son"
+      ],
+      "answer": 3,
+      "explanation": "The possessive agrees with the thing owned, not with the owner. Son, sa, ses can each mean his, her or its. Here: son.",
+      "textId": null
+    },
+    {
+      "id": "a1-possessives-025",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "possessives",
+      "question": "Thomas aime ___ sœur. (à Thomas)",
+      "options": [
+        "sa",
+        "son",
+        "ses",
+        "leur"
+      ],
+      "answer": 0,
+      "explanation": "The possessive agrees with the thing owned, not with the owner. Son, sa, ses can each mean his, her or its. Here: sa.",
+      "textId": null
+    },
+    {
+      "id": "a1-possessives-026",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "possessives",
+      "question": "Anne invite ___ cousins. (à Anne)",
+      "options": [
+        "son",
+        "ses",
+        "sa",
+        "leurs"
+      ],
+      "answer": 1,
+      "explanation": "Mes, tes, ses go before any plural noun: ses.",
+      "textId": null
+    },
+    {
+      "id": "a1-possessives-027",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "possessives",
+      "question": "Il prend ___ vélo pour aller au travail. (à lui)",
+      "options": [
+        "sa",
+        "ses",
+        "son",
+        "leur"
+      ],
+      "answer": 2,
+      "explanation": "Mon, ton, son go before a masculine singular noun: son.",
+      "textId": null
+    },
+    {
+      "id": "a1-possessives-028",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "possessives",
+      "question": "Elle met ___ manteau. (à elle)",
+      "options": [
+        "sa",
+        "ses",
+        "leur",
+        "son"
+      ],
+      "answer": 3,
+      "explanation": "The possessive agrees with the thing owned, not with the owner. Son, sa, ses can each mean his, her or its. Here: son.",
+      "textId": null
+    },
+    {
+      "id": "a1-possessives-029",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "possessives",
+      "question": "Le chat mange dans ___ assiette. (au chat)",
+      "options": [
+        "son",
+        "sa",
+        "ses",
+        "leur"
+      ],
+      "answer": 0,
+      "explanation": "Before a feminine noun starting with a vowel or silent h, use mon, ton, son (not ma, ta, sa) so it is easy to say: son.",
+      "textId": null
+    },
+    {
+      "id": "a1-possessives-030",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "possessives",
+      "question": "Voici ___ amie Sarah. (à moi)",
+      "options": [
+        "ma",
+        "mon",
+        "mes",
+        "sa"
+      ],
+      "answer": 1,
+      "explanation": "Before a feminine noun starting with a vowel or silent h, use mon, ton, son (not ma, ta, sa) so it is easy to say: mon.",
+      "textId": null
+    },
+    {
+      "id": "a1-possessives-031",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "possessives",
+      "question": "C’est ___ école ? (à toi)",
+      "options": [
+        "ta",
+        "tes",
+        "ton",
+        "sa"
+      ],
+      "answer": 2,
+      "explanation": "Before a feminine noun starting with a vowel or silent h, use mon, ton, son (not ma, ta, sa) so it is easy to say: ton.",
+      "textId": null
+    },
+    {
+      "id": "a1-possessives-032",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "possessives",
+      "question": "Je te donne ___ adresse. (à moi)",
+      "options": [
+        "ma",
+        "mes",
+        "ta",
+        "mon"
+      ],
+      "answer": 3,
+      "explanation": "Before a feminine noun starting with a vowel or silent h, use mon, ton, son (not ma, ta, sa) so it is easy to say: mon.",
+      "textId": null
+    },
+    {
+      "id": "a1-possessives-033",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "possessives",
+      "question": "Paul raconte ___ histoire. (à Paul)",
+      "options": [
+        "son",
+        "sa",
+        "ses",
+        "leur"
+      ],
+      "answer": 0,
+      "explanation": "Before a feminine noun starting with a vowel or silent h, use mon, ton, son (not ma, ta, sa) so it is easy to say: son.",
+      "textId": null
+    },
+    {
+      "id": "a1-possessives-034",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "possessives",
+      "question": "Quelle est ___ idée ? (à toi)",
+      "options": [
+        "ta",
+        "ton",
+        "tes",
+        "sa"
+      ],
+      "answer": 1,
+      "explanation": "Before a feminine noun starting with a vowel or silent h, use mon, ton, son (not ma, ta, sa) so it is easy to say: ton.",
+      "textId": null
+    },
+    {
+      "id": "a1-possessives-035",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "possessives",
+      "question": "J’aime ___ université. (à moi)",
+      "options": [
+        "ma",
+        "mes",
+        "mon",
+        "notre"
+      ],
+      "answer": 2,
+      "explanation": "Before a feminine noun starting with a vowel or silent h, use mon, ton, son (not ma, ta, sa) so it is easy to say: mon.",
+      "textId": null
+    },
+    {
+      "id": "a1-possessives-036",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "possessives",
+      "question": "Elle retrouve ___ amie au café. (à elle)",
+      "options": [
+        "sa",
+        "ses",
+        "leur",
+        "son"
+      ],
+      "answer": 3,
+      "explanation": "Before a feminine noun starting with a vowel or silent h, use mon, ton, son (not ma, ta, sa) so it is easy to say: son.",
+      "textId": null
+    },
+    {
+      "id": "a1-possessives-037",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "possessives",
+      "question": "Ça, c’est ___ opinion. (à moi)",
+      "options": [
+        "mon",
+        "ma",
+        "mes",
+        "ta"
+      ],
+      "answer": 0,
+      "explanation": "Before a feminine noun starting with a vowel or silent h, use mon, ton, son (not ma, ta, sa) so it is easy to say: mon.",
+      "textId": null
+    },
+    {
+      "id": "a1-possessives-038",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "possessives",
+      "question": "Il parle de ___ enfance. (à lui)",
+      "options": [
+        "sa",
+        "son",
+        "ses",
+        "leur"
+      ],
+      "answer": 1,
+      "explanation": "Before a feminine noun starting with a vowel or silent h, use mon, ton, son (not ma, ta, sa) so it is easy to say: son.",
+      "textId": null
+    },
+    {
+      "id": "a1-possessives-039",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "possessives",
+      "question": "___ maison est près du lac. (à nous)",
+      "options": [
+        "Nos",
+        "Votre",
+        "Notre",
+        "Leur"
+      ],
+      "answer": 2,
+      "explanation": "Notre and votre go before a singular noun; nos and vos before a plural noun: Notre.",
+      "textId": null
+    },
+    {
+      "id": "a1-possessives-040",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "possessives",
+      "question": "Nous aimons ___ professeur. (à nous)",
+      "options": [
+        "nos",
+        "votre",
+        "leurs",
+        "notre"
+      ],
+      "answer": 3,
+      "explanation": "Notre and votre go before a singular noun; nos and vos before a plural noun: notre.",
+      "textId": null
+    },
+    {
+      "id": "a1-possessives-041",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "possessives",
+      "question": "Nous invitons ___ voisins. (à nous)",
+      "options": [
+        "nos",
+        "notre",
+        "vos",
+        "leur"
+      ],
+      "answer": 0,
+      "explanation": "Notre and votre go before a singular noun; nos and vos before a plural noun: nos.",
+      "textId": null
+    },
+    {
+      "id": "a1-possessives-042",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "possessives",
+      "question": "___ enfants jouent ensemble. (à nous)",
+      "options": [
+        "Notre",
+        "Nos",
+        "Vos",
+        "Leur"
+      ],
+      "answer": 1,
+      "explanation": "Notre and votre go before a singular noun; nos and vos before a plural noun: Nos.",
+      "textId": null
+    },
+    {
+      "id": "a1-possessives-043",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "possessives",
+      "question": "Voici ___ jardin. (à nous)",
+      "options": [
+        "nos",
+        "votre",
+        "notre",
+        "leurs"
+      ],
+      "answer": 2,
+      "explanation": "Notre and votre go before a singular noun; nos and vos before a plural noun: notre.",
+      "textId": null
+    },
+    {
+      "id": "a1-possessives-044",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "possessives",
+      "question": "Nous faisons ___ valises. (à nous)",
+      "options": [
+        "notre",
+        "vos",
+        "leur",
+        "nos"
+      ],
+      "answer": 3,
+      "explanation": "Notre and votre go before a singular noun; nos and vos before a plural noun: nos.",
+      "textId": null
+    },
+    {
+      "id": "a1-possessives-045",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "possessives",
+      "question": "Où est ___ voiture ? (à vous)",
+      "options": [
+        "votre",
+        "vos",
+        "notre",
+        "leurs"
+      ],
+      "answer": 0,
+      "explanation": "Notre and votre go before a singular noun; nos and vos before a plural noun: votre.",
+      "textId": null
+    },
+    {
+      "id": "a1-possessives-046",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "possessives",
+      "question": "___ passeports, s’il vous plaît. (à vous)",
+      "options": [
+        "Votre",
+        "Vos",
+        "Nos",
+        "Leur"
+      ],
+      "answer": 1,
+      "explanation": "Notre and votre go before a singular noun; nos and vos before a plural noun: Vos.",
+      "textId": null
+    },
+    {
+      "id": "a1-possessives-047",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "possessives",
+      "question": "Quelle est ___ adresse, madame ? (à vous)",
+      "options": [
+        "vos",
+        "notre",
+        "votre",
+        "leurs"
+      ],
+      "answer": 2,
+      "explanation": "Notre and votre go before a singular noun; nos and vos before a plural noun: votre.",
+      "textId": null
+    },
+    {
+      "id": "a1-possessives-048",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "possessives",
+      "question": "Vous avez ___ billets ? (à vous)",
+      "options": [
+        "votre",
+        "nos",
+        "leur",
+        "vos"
+      ],
+      "answer": 3,
+      "explanation": "Notre and votre go before a singular noun; nos and vos before a plural noun: vos.",
+      "textId": null
+    },
+    {
+      "id": "a1-possessives-049",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "possessives",
+      "question": "Merci pour ___ aide. (à vous)",
+      "options": [
+        "votre",
+        "vos",
+        "notre",
+        "leurs"
+      ],
+      "answer": 0,
+      "explanation": "Notre and votre go before a singular noun; nos and vos before a plural noun: votre.",
+      "textId": null
+    },
+    {
+      "id": "a1-possessives-050",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "possessives",
+      "question": "___ table est prête, messieurs. (à vous)",
+      "options": [
+        "Vos",
+        "Votre",
+        "Notre",
+        "Leurs"
+      ],
+      "answer": 1,
+      "explanation": "Notre and votre go before a singular noun; nos and vos before a plural noun: Votre.",
+      "textId": null
+    },
+    {
+      "id": "a1-possessives-051",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "possessives",
+      "question": "Ils vendent ___ maison. (à eux)",
+      "options": [
+        "leurs",
+        "son",
+        "leur",
+        "ses"
+      ],
+      "answer": 2,
+      "explanation": "Leur goes before a singular noun, leurs before a plural noun (the owners are \"they\"): leur.",
+      "textId": null
+    },
+    {
+      "id": "a1-possessives-052",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "possessives",
+      "question": "Les enfants adorent ___ grands-parents. (aux enfants)",
+      "options": [
+        "leur",
+        "ses",
+        "son",
+        "leurs"
+      ],
+      "answer": 3,
+      "explanation": "Leur goes before a singular noun, leurs before a plural noun (the owners are \"they\"): leurs.",
+      "textId": null
+    },
+    {
+      "id": "a1-possessives-053",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "possessives",
+      "question": "Mes voisins promènent ___ chien. (aux voisins)",
+      "options": [
+        "leur",
+        "leurs",
+        "son",
+        "ses"
+      ],
+      "answer": 0,
+      "explanation": "Leur goes before a singular noun, leurs before a plural noun (the owners are \"they\"): leur.",
+      "textId": null
+    },
+    {
+      "id": "a1-possessives-054",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "possessives",
+      "question": "Elles cherchent ___ clés. (à elles)",
+      "options": [
+        "leur",
+        "leurs",
+        "ses",
+        "sa"
+      ],
+      "answer": 1,
+      "explanation": "Leur goes before a singular noun, leurs before a plural noun (the owners are \"they\"): leurs.",
+      "textId": null
+    },
+    {
+      "id": "a1-possessives-055",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "possessives",
+      "question": "Les étudiants écoutent ___ professeur. (aux étudiants)",
+      "options": [
+        "leurs",
+        "son",
+        "leur",
+        "ses"
+      ],
+      "answer": 2,
+      "explanation": "Leur goes before a singular noun, leurs before a plural noun (the owners are \"they\"): leur.",
+      "textId": null
+    },
+    {
+      "id": "a1-possessives-056",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "possessives",
+      "question": "Paul et Anne invitent ___ amis. (à Paul et Anne)",
+      "options": [
+        "leur",
+        "ses",
+        "son",
+        "leurs"
+      ],
+      "answer": 3,
+      "explanation": "Leur goes before a singular noun, leurs before a plural noun (the owners are \"they\"): leurs.",
+      "textId": null
+    },
+    {
+      "id": "a1-possessives-057",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "possessives",
+      "question": "Mes parents aiment ___ jardin. (à mes parents)",
+      "options": [
+        "leur",
+        "leurs",
+        "son",
+        "sa"
+      ],
+      "answer": 0,
+      "explanation": "Leur goes before a singular noun, leurs before a plural noun (the owners are \"they\"): leur.",
+      "textId": null
+    },
+    {
+      "id": "a1-possessives-058",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "possessives",
+      "question": "Ils font ___ devoirs. (à eux)",
+      "options": [
+        "leur",
+        "leurs",
+        "ses",
+        "son"
+      ],
+      "answer": 1,
+      "explanation": "Leur goes before a singular noun, leurs before a plural noun (the owners are \"they\"): leurs.",
+      "textId": null
+    },
+    {
+      "id": "a1-possessives-059",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "possessives",
+      "question": "Les touristes montrent ___ passeports. (aux touristes)",
+      "options": [
+        "leur",
+        "ses",
+        "leurs",
+        "sa"
+      ],
+      "answer": 2,
+      "explanation": "Leur goes before a singular noun, leurs before a plural noun (the owners are \"they\"): leurs.",
+      "textId": null
+    },
+    {
+      "id": "a1-possessives-060",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "possessives",
+      "question": "Ils habitent chez ___ fille. (à eux)",
+      "options": [
+        "leurs",
+        "sa",
+        "ses",
+        "leur"
+      ],
+      "answer": 3,
+      "explanation": "Leur goes before a singular noun, leurs before a plural noun (the owners are \"they\"): leur.",
+      "textId": null
+    },
+    {
+      "id": "a1-possessives-061",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "possessives",
+      "question": "J’habite avec ___ frère et ma sœur. (à moi)",
+      "options": [
+        "mon",
+        "ma",
+        "mes",
+        "son"
+      ],
+      "answer": 0,
+      "explanation": "Mon, ton, son go before a masculine singular noun: mon.",
+      "textId": null
+    },
+    {
+      "id": "a1-possessives-062",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "possessives",
+      "question": "Tu viens avec ___ copine ? (à toi)",
+      "options": [
+        "ton",
+        "ta",
+        "tes",
+        "sa"
+      ],
+      "answer": 1,
+      "explanation": "Ma, ta, sa go before a feminine singular noun starting with a consonant: ta.",
+      "textId": null
+    },
+    {
+      "id": "a1-possessives-063",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "possessives",
+      "question": "Elle travaille avec ___ mari. (à elle)",
+      "options": [
+        "sa",
+        "ses",
+        "son",
+        "leur"
+      ],
+      "answer": 2,
+      "explanation": "The possessive agrees with the thing owned, not with the owner. Son, sa, ses can each mean his, her or its. Here: son.",
+      "textId": null
+    },
+    {
+      "id": "a1-possessives-064",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "possessives",
+      "question": "Il déjeune avec ___ femme. (à lui)",
+      "options": [
+        "son",
+        "ses",
+        "leur",
+        "sa"
+      ],
+      "answer": 3,
+      "explanation": "The possessive agrees with the thing owned, not with the owner. Son, sa, ses can each mean his, her or its. Here: sa.",
+      "textId": null
+    },
+    {
+      "id": "a1-possessives-065",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "possessives",
+      "question": "Je parle à ___ grands-parents le dimanche. (à moi)",
+      "options": [
+        "mes",
+        "mon",
+        "ma",
+        "ses"
+      ],
+      "answer": 0,
+      "explanation": "Mes, tes, ses go before any plural noun: mes.",
+      "textId": null
+    },
+    {
+      "id": "a1-possessives-066",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "possessives",
+      "question": "Tu as ___ lunettes ? (à toi)",
+      "options": [
+        "ton",
+        "tes",
+        "ta",
+        "ses"
+      ],
+      "answer": 1,
+      "explanation": "Mes, tes, ses go before any plural noun: tes.",
+      "textId": null
+    },
+    {
+      "id": "a1-possessives-067",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "possessives",
+      "question": "Elle adore ___ travail. (à elle)",
+      "options": [
+        "sa",
+        "ses",
+        "son",
+        "leur"
+      ],
+      "answer": 2,
+      "explanation": "The possessive agrees with the thing owned, not with the owner. Son, sa, ses can each mean his, her or its. Here: son.",
+      "textId": null
+    },
+    {
+      "id": "a1-possessives-068",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "possessives",
+      "question": "Nous aimons ___ ville. (à nous)",
+      "options": [
+        "nos",
+        "votre",
+        "leur",
+        "notre"
+      ],
+      "answer": 3,
+      "explanation": "Notre and votre go before a singular noun; nos and vos before a plural noun: notre.",
+      "textId": null
+    },
+    {
+      "id": "a1-possessives-069",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "possessives",
+      "question": "Vous connaissez ___ voisins ? (à vous)",
+      "options": [
+        "vos",
+        "votre",
+        "nos",
+        "leur"
+      ],
+      "answer": 0,
+      "explanation": "Notre and votre go before a singular noun; nos and vos before a plural noun: vos.",
+      "textId": null
+    },
+    {
+      "id": "a1-possessives-070",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "possessives",
+      "question": "Voici Marie et ___ mari. (à Marie)",
+      "options": [
+        "sa",
+        "son",
+        "ses",
+        "leur"
+      ],
+      "answer": 1,
+      "explanation": "The possessive agrees with the thing owned, not with the owner. Son, sa, ses can each mean his, her or its. Here: son.",
+      "textId": null
+    },
+    {
+      "id": "a1-possessives-071",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "possessives",
+      "question": "Voici Pierre et ___ femme. (à Pierre)",
+      "options": [
+        "son",
+        "ses",
+        "sa",
+        "leur"
+      ],
+      "answer": 2,
+      "explanation": "The possessive agrees with the thing owned, not with the owner. Son, sa, ses can each mean his, her or its. Here: sa.",
+      "textId": null
+    },
+    {
+      "id": "a1-possessives-072",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "possessives",
+      "question": "Le bébé veut ___ mère. (au bébé)",
+      "options": [
+        "son",
+        "ses",
+        "leur",
+        "sa"
+      ],
+      "answer": 3,
+      "explanation": "Ma, ta, sa go before a feminine singular noun starting with a consonant: sa.",
+      "textId": null
+    },
+    {
+      "id": "a1-possessives-073",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "possessives",
+      "question": "C’est l’anniversaire de ___ fils. (à moi)",
+      "options": [
+        "mon",
+        "ma",
+        "mes",
+        "ton"
+      ],
+      "answer": 0,
+      "explanation": "Mon, ton, son go before a masculine singular noun: mon.",
+      "textId": null
+    },
+    {
+      "id": "a1-possessives-074",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "possessives",
+      "question": "___ fille a dix ans. (à moi)",
+      "options": [
+        "Mon",
+        "Ma",
+        "Mes",
+        "Sa"
+      ],
+      "answer": 1,
+      "explanation": "Ma, ta, sa go before a feminine singular noun starting with a consonant: Ma.",
+      "textId": null
+    },
+    {
+      "id": "a1-possessives-075",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "possessives",
+      "question": "___ tante habite au Maroc. (à moi)",
+      "options": [
+        "Mon",
+        "Mes",
+        "Ma",
+        "Ta"
+      ],
+      "answer": 2,
+      "explanation": "Ma, ta, sa go before a feminine singular noun starting with a consonant: Ma.",
+      "textId": null
+    },
+    {
+      "id": "a1-possessives-076",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "possessives",
+      "question": "___ oncle est très drôle. (à moi)",
+      "options": [
+        "Ma",
+        "Mes",
+        "Ton",
+        "Mon"
+      ],
+      "answer": 3,
+      "explanation": "Mon, ton, son go before a masculine singular noun: Mon.",
+      "textId": null
+    },
+    {
+      "id": "a1-possessives-077",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "possessives",
+      "question": "J’aime ___ quartier. (à moi)",
+      "options": [
+        "mon",
+        "ma",
+        "mes",
+        "ton"
+      ],
+      "answer": 0,
+      "explanation": "Mon, ton, son go before a masculine singular noun: mon.",
+      "textId": null
+    },
+    {
+      "id": "a1-possessives-078",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "possessives",
+      "question": "Tu fais ___ lit le matin ? (à toi)",
+      "options": [
+        "ta",
+        "ton",
+        "tes",
+        "mon"
+      ],
+      "answer": 1,
+      "explanation": "Mon, ton, son go before a masculine singular noun: ton.",
+      "textId": null
+    },
+    {
+      "id": "a1-possessives-079",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "possessives",
+      "question": "Chaque étudiant a ___ livre. (à l’étudiant)",
+      "options": [
+        "sa",
+        "ses",
+        "son",
+        "leur"
+      ],
+      "answer": 2,
+      "explanation": "Mon, ton, son go before a masculine singular noun: son.",
+      "textId": null
+    },
+    {
+      "id": "a1-possessives-080",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "possessives",
+      "question": "Ils partent avec ___ deux enfants. (à eux)",
+      "options": [
+        "leur",
+        "ses",
+        "son",
+        "leurs"
+      ],
+      "answer": 3,
+      "explanation": "Leur goes before a singular noun, leurs before a plural noun (the owners are \"they\"): leurs.",
+      "textId": null
+    }
+  ]
+}

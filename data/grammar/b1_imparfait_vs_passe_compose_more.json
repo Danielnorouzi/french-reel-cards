@@ -1,0 +1,485 @@
+{
+  "texts": [],
+  "questions": [
+    {
+      "id": "b1-imparfait_vs_passe_compose-051",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "imparfait_vs_passe_compose",
+      "question": "Je ___ la télé quand le téléphone a sonné.",
+      "options": [
+        "regardais",
+        "ai regardé",
+        "regarde",
+        "regarderais"
+      ],
+      "answer": 0,
+      "explanation": "An action in progress (imparfait) is interrupted by a sudden event (passé composé). Here: regardais.",
+      "textId": null
+    },
+    {
+      "id": "b1-imparfait_vs_passe_compose-052",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "imparfait_vs_passe_compose",
+      "question": "Il dormait quand je ___.",
+      "options": [
+        "rentrais",
+        "suis rentré",
+        "rentre",
+        "rentrerais"
+      ],
+      "answer": 1,
+      "explanation": "An action in progress (imparfait) is interrupted by a sudden event (passé composé). Here: suis rentré.",
+      "textId": null
+    },
+    {
+      "id": "b1-imparfait_vs_passe_compose-053",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "imparfait_vs_passe_compose",
+      "question": "Nous dînions quand quelqu’un ___ à la porte.",
+      "options": [
+        "frappait",
+        "frappe",
+        "a frappé",
+        "frapperait"
+      ],
+      "answer": 2,
+      "explanation": "An action in progress (imparfait) is interrupted by a sudden event (passé composé). Here: a frappé.",
+      "textId": null
+    },
+    {
+      "id": "b1-imparfait_vs_passe_compose-054",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "imparfait_vs_passe_compose",
+      "question": "Elle ___ sous la douche quand tu as appelé.",
+      "options": [
+        "a été",
+        "est",
+        "serait",
+        "était"
+      ],
+      "answer": 3,
+      "explanation": "An action in progress (imparfait) is interrupted by a sudden event (passé composé). Here: était.",
+      "textId": null
+    },
+    {
+      "id": "b1-imparfait_vs_passe_compose-055",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "imparfait_vs_passe_compose",
+      "question": "Pendant que je ___, mon frère est arrivé.",
+      "options": [
+        "cuisinais",
+        "ai cuisiné",
+        "cuisine",
+        "cuisinerai"
+      ],
+      "answer": 0,
+      "explanation": "An action in progress (imparfait) is interrupted by a sudden event (passé composé). Here: cuisinais.",
+      "textId": null
+    },
+    {
+      "id": "b1-imparfait_vs_passe_compose-056",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "imparfait_vs_passe_compose",
+      "question": "Je traversais la rue quand je ___ Paul.",
+      "options": [
+        "voyais",
+        "ai vu",
+        "vois",
+        "verrais"
+      ],
+      "answer": 1,
+      "explanation": "An action in progress (imparfait) is interrupted by a sudden event (passé composé). Here: ai vu.",
+      "textId": null
+    },
+    {
+      "id": "b1-imparfait_vs_passe_compose-057",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "imparfait_vs_passe_compose",
+      "question": "Ils ___ au tennis quand il a commencé à pleuvoir.",
+      "options": [
+        "ont joué",
+        "jouent",
+        "jouaient",
+        "joueraient"
+      ],
+      "answer": 2,
+      "explanation": "An action in progress (imparfait) is interrupted by a sudden event (passé composé). Here: jouaient.",
+      "textId": null
+    },
+    {
+      "id": "b1-imparfait_vs_passe_compose-058",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "imparfait_vs_passe_compose",
+      "question": "Tu faisais quoi quand je ___ ?",
+      "options": [
+        "arrivais",
+        "arrive",
+        "arriverais",
+        "suis arrivé"
+      ],
+      "answer": 3,
+      "explanation": "An action in progress (imparfait) is interrupted by a sudden event (passé composé). Here: suis arrivé.",
+      "textId": null
+    },
+    {
+      "id": "b1-imparfait_vs_passe_compose-059",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "imparfait_vs_passe_compose",
+      "question": "Il ___ beau quand nous sommes partis.",
+      "options": [
+        "faisait",
+        "a fait",
+        "fait",
+        "ferait"
+      ],
+      "answer": 0,
+      "explanation": "Descriptions, weather, age, feelings and background in the past take the imparfait. Here: faisait.",
+      "textId": null
+    },
+    {
+      "id": "b1-imparfait_vs_passe_compose-060",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "imparfait_vs_passe_compose",
+      "question": "Quand je l’ai rencontrée, elle ___ vingt ans.",
+      "options": [
+        "a eu",
+        "avait",
+        "a",
+        "aurait"
+      ],
+      "answer": 1,
+      "explanation": "Descriptions, weather, age, feelings and background in the past take the imparfait. Here: avait.",
+      "textId": null
+    },
+    {
+      "id": "b1-imparfait_vs_passe_compose-061",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "imparfait_vs_passe_compose",
+      "question": "Je suis resté à la maison parce que j’___ malade.",
+      "options": [
+        "ai été",
+        "suis",
+        "étais",
+        "serais"
+      ],
+      "answer": 2,
+      "explanation": "Descriptions, weather, age, feelings and background in the past take the imparfait. Here: étais.",
+      "textId": null
+    },
+    {
+      "id": "b1-imparfait_vs_passe_compose-062",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "imparfait_vs_passe_compose",
+      "question": "La maison était vieille et elle ___ un grand jardin.",
+      "options": [
+        "a eu",
+        "a",
+        "aurait",
+        "avait"
+      ],
+      "answer": 3,
+      "explanation": "Descriptions, weather, age, feelings and background in the past take the imparfait. Here: avait.",
+      "textId": null
+    },
+    {
+      "id": "b1-imparfait_vs_passe_compose-063",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "imparfait_vs_passe_compose",
+      "question": "Il n’est pas venu parce qu’il ___ trop de travail.",
+      "options": [
+        "avait",
+        "a eu",
+        "a",
+        "aurait"
+      ],
+      "answer": 0,
+      "explanation": "Descriptions, weather, age, feelings and background in the past take the imparfait. Here: avait.",
+      "textId": null
+    },
+    {
+      "id": "b1-imparfait_vs_passe_compose-064",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "imparfait_vs_passe_compose",
+      "question": "Les rues ___ vides quand nous sommes sortis.",
+      "options": [
+        "ont été",
+        "étaient",
+        "sont",
+        "seraient"
+      ],
+      "answer": 1,
+      "explanation": "Descriptions, weather, age, feelings and background in the past take the imparfait. Here: étaient.",
+      "textId": null
+    },
+    {
+      "id": "b1-imparfait_vs_passe_compose-065",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "imparfait_vs_passe_compose",
+      "question": "Quand j’étais enfant, je ___ chez mes grands-parents chaque été.",
+      "options": [
+        "suis allé",
+        "vais",
+        "allais",
+        "irais"
+      ],
+      "answer": 2,
+      "explanation": "A repeated or habitual action in the past (tous les jours, souvent, chaque été, d’habitude) takes the imparfait. Here: allais.",
+      "textId": null
+    },
+    {
+      "id": "b1-imparfait_vs_passe_compose-066",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "imparfait_vs_passe_compose",
+      "question": "Avant, elle ___ le bus tous les matins.",
+      "options": [
+        "a pris",
+        "prend",
+        "prendrait",
+        "prenait"
+      ],
+      "answer": 3,
+      "explanation": "A repeated or habitual action in the past (tous les jours, souvent, chaque été, d’habitude) takes the imparfait. Here: prenait.",
+      "textId": null
+    },
+    {
+      "id": "b1-imparfait_vs_passe_compose-067",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "imparfait_vs_passe_compose",
+      "question": "À cette époque, nous ___ toujours à huit heures.",
+      "options": [
+        "dînions",
+        "avons dîné",
+        "dînons",
+        "dînerions"
+      ],
+      "answer": 0,
+      "explanation": "A repeated or habitual action in the past (tous les jours, souvent, chaque été, d’habitude) takes the imparfait. Here: dînions.",
+      "textId": null
+    },
+    {
+      "id": "b1-imparfait_vs_passe_compose-068",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "imparfait_vs_passe_compose",
+      "question": "Quand j’étais petit, mon père ___ des crêpes le dimanche.",
+      "options": [
+        "a fait",
+        "faisait",
+        "fait",
+        "ferait"
+      ],
+      "answer": 1,
+      "explanation": "A repeated or habitual action in the past (tous les jours, souvent, chaque été, d’habitude) takes the imparfait. Here: faisait.",
+      "textId": null
+    },
+    {
+      "id": "b1-imparfait_vs_passe_compose-069",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "imparfait_vs_passe_compose",
+      "question": "Hier soir, j’___ un très bon film.",
+      "options": [
+        "voyais",
+        "vois",
+        "ai vu",
+        "verrais"
+      ],
+      "answer": 2,
+      "explanation": "A single completed action at a precise moment (hier, ce matin, en 2020, un jour, soudain) takes the passé composé. Here: ai vu.",
+      "textId": null
+    },
+    {
+      "id": "b1-imparfait_vs_passe_compose-070",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "imparfait_vs_passe_compose",
+      "question": "Ce matin, elle ___ à six heures.",
+      "options": [
+        "se levait",
+        "se lève",
+        "se lèverait",
+        "s’est levée"
+      ],
+      "answer": 3,
+      "explanation": "A single completed action at a precise moment (hier, ce matin, en 2020, un jour, soudain) takes the passé composé. Here: s’est levée.",
+      "textId": null
+    },
+    {
+      "id": "b1-imparfait_vs_passe_compose-071",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "imparfait_vs_passe_compose",
+      "question": "En 2020, nous ___ à Vancouver.",
+      "options": [
+        "avons déménagé",
+        "déménagions",
+        "déménageons",
+        "déménagerions"
+      ],
+      "answer": 0,
+      "explanation": "A single completed action at a precise moment (hier, ce matin, en 2020, un jour, soudain) takes the passé composé. Here: avons déménagé.",
+      "textId": null
+    },
+    {
+      "id": "b1-imparfait_vs_passe_compose-072",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "imparfait_vs_passe_compose",
+      "question": "Un jour, il ___ de changer de vie.",
+      "options": [
+        "décidait",
+        "a décidé",
+        "décide",
+        "déciderait"
+      ],
+      "answer": 1,
+      "explanation": "A single completed action at a precise moment (hier, ce matin, en 2020, un jour, soudain) takes the passé composé. Here: a décidé.",
+      "textId": null
+    },
+    {
+      "id": "b1-imparfait_vs_passe_compose-073",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "imparfait_vs_passe_compose",
+      "question": "Je me suis levé, j’ai pris une douche et je ___.",
+      "options": [
+        "partais",
+        "pars",
+        "suis parti",
+        "partirais"
+      ],
+      "answer": 2,
+      "explanation": "A series of completed actions that follow each other takes the passé composé. Here: suis parti.",
+      "textId": null
+    },
+    {
+      "id": "b1-imparfait_vs_passe_compose-074",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "imparfait_vs_passe_compose",
+      "question": "Elle est entrée, elle a dit bonjour et elle ___.",
+      "options": [
+        "s’asseyait",
+        "s’assied",
+        "s’assiérait",
+        "s’est assise"
+      ],
+      "answer": 3,
+      "explanation": "A series of completed actions that follow each other takes the passé composé. Here: s’est assise.",
+      "textId": null
+    },
+    {
+      "id": "b1-imparfait_vs_passe_compose-075",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "imparfait_vs_passe_compose",
+      "question": "Il a ouvert la porte, il ___ la lumière et il a crié.",
+      "options": [
+        "a allumé",
+        "allumait",
+        "allume",
+        "allumerait"
+      ],
+      "answer": 0,
+      "explanation": "A series of completed actions that follow each other takes the passé composé. Here: a allumé.",
+      "textId": null
+    },
+    {
+      "id": "b1-imparfait_vs_passe_compose-076",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "imparfait_vs_passe_compose",
+      "question": "J’___ à Paris pendant deux ans.",
+      "options": [
+        "habitais",
+        "ai habité",
+        "habite",
+        "habiterais"
+      ],
+      "answer": 1,
+      "explanation": "An action with a stated, finished length or number of times (pendant deux ans, trois fois) takes the passé composé, even if it lasted long. Here: ai habité.",
+      "textId": null
+    },
+    {
+      "id": "b1-imparfait_vs_passe_compose-077",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "imparfait_vs_passe_compose",
+      "question": "Hier, il ___ toute la journée.",
+      "options": [
+        "pleuvait",
+        "pleut",
+        "a plu",
+        "pleuvrait"
+      ],
+      "answer": 2,
+      "explanation": "An action with a stated, finished length or number of times (pendant deux ans, trois fois) takes the passé composé, even if it lasted long. Here: a plu.",
+      "textId": null
+    },
+    {
+      "id": "b1-imparfait_vs_passe_compose-078",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "imparfait_vs_passe_compose",
+      "question": "Elle ___ ce film trois fois.",
+      "options": [
+        "voyait",
+        "voit",
+        "verrait",
+        "a vu"
+      ],
+      "answer": 3,
+      "explanation": "An action with a stated, finished length or number of times (pendant deux ans, trois fois) takes the passé composé, even if it lasted long. Here: a vu.",
+      "textId": null
+    },
+    {
+      "id": "b1-imparfait_vs_passe_compose-079",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "imparfait_vs_passe_compose",
+      "question": "Tout à coup, la lumière ___.",
+      "options": [
+        "s’est éteinte",
+        "s’éteignait",
+        "s’éteint",
+        "s’éteindrait"
+      ],
+      "answer": 0,
+      "explanation": "A sudden change or reaction (tout à coup, à ce moment-là) takes the passé composé. Here: s’est éteinte.",
+      "textId": null
+    },
+    {
+      "id": "b1-imparfait_vs_passe_compose-080",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "imparfait_vs_passe_compose",
+      "question": "Quand j’ai entendu la nouvelle, j’___ très peur.",
+      "options": [
+        "avais",
+        "ai eu",
+        "ai",
+        "aurais"
+      ],
+      "answer": 1,
+      "explanation": "A sudden change or reaction (tout à coup, à ce moment-là) takes the passé composé. Here: ai eu.",
+      "textId": null
+    }
+  ]
+}

@@ -1,0 +1,531 @@
+## formal | Formal & administrative French | 🖋️
+le courrier officiel | official letter | m | J'ai reçu un courrier officiel.
+la démarche | procedure, step | f | Les démarches administratives sont longues.
+la requête | request | f | Votre requête a été acceptée.
+solliciter | to request, to seek | v | Je sollicite un entretien.
+accuser réception | to acknowledge receipt | phr | J'accuse réception de votre lettre.
+ci-joint | enclosed, attached | adj | Vous trouverez ci-joint mon CV.
+veuillez | please (formal imperative) | phr | Veuillez patienter.
+je vous prie d'agréer | please accept (letter closing) | phr | Je vous prie d'agréer mes salutations distinguées.
+dans l'attente de | awaiting | phr | Dans l'attente de votre réponse.
+suite à | further to | prep | Suite à notre conversation, je vous écris.
+en vertu de | by virtue of | prep | En vertu de la loi.
+conformément à | in accordance with | prep | Conformément au règlement.
+à l'égard de | towards, regarding | prep | Son attitude à l'égard des clients.
+au sein de | within | prep | Au sein de l'entreprise.
+en amont | upstream, beforehand | adv | Il faut préparer le dossier en amont.
+en aval | downstream, afterwards | adv | Les effets se font sentir en aval.
+le cas échéant | if applicable | phr | Le cas échéant, contactez-nous.
+à défaut | failing that | adv | À défaut, envoyez un courriel.
+sous réserve de | subject to | prep | Sous réserve de disponibilité.
+la disposition | provision, arrangement | f | Je reste à votre disposition.
+la modalité | term, arrangement | f | Les modalités de paiement.
+l'échéance | deadline, due date | f | L'échéance approche.
+le préavis | notice (period) | m | Un préavis de trois mois.
+la clause | clause | f | Une clause du contrat.
+l'avenant | amendment (to a contract) | m | Nous avons signé un avenant.
+résilier | to terminate (a contract) | v | J'ai résilié mon abonnement.
+proroger | to extend (a deadline) | v | Le délai a été prorogé.
+stipuler | to stipulate | v | Le contrat stipule que…
+octroyer | to grant | v | La mairie lui a octroyé une aide.
+attester | to certify | v | Ce document atteste de mon identité.
+l'attestation | certificate | f | Il me faut une attestation.
+le bénéficiaire | beneficiary | m | Le bénéficiaire de l'aide.
+le signataire | signatory | m | Les signataires de la pétition.
+le destinataire | recipient | m | Le destinataire est absent.
+l'expéditeur | sender | m | Retour à l'expéditeur.
+le dispositif | scheme, system | m | Un nouveau dispositif d'aide.
+la mise en œuvre | implementation | f | La mise en œuvre de la réforme.
+entériner | to ratify | v | Le conseil a entériné la décision.
+abroger | to repeal | v | La loi a été abrogée.
+promulguer | to enact | v | Le président a promulgué la loi.
+le décret | decree | m | Un décret a été publié.
+la circulaire | circular, memo | f | Une circulaire ministérielle.
+
+## abstract | Abstract ideas | 🌀
+le concept | concept | m | Un concept difficile à définir.
+la notion | notion | f | La notion de liberté.
+le principe | principle | m | Par principe, je refuse.
+le fondement | foundation, basis | m | Les fondements de la démocratie.
+la quintessence | quintessence | f | La quintessence de son art.
+le paradoxe | paradox | m | C'est un paradoxe.
+la contradiction | contradiction | f | Il y a une contradiction.
+l'ambiguïté | ambiguity | f | Il faut lever l'ambiguïté.
+la portée | scope, reach | f | La portée de cette décision.
+l'ampleur | scale, extent | f | L'ampleur des dégâts.
+l'envergure | scale, calibre | f | Un projet de grande envergure.
+l'enchaînement | sequence, chain | m | L'enchaînement des événements.
+le processus | process | m | Un long processus.
+le phénomène | phenomenon | m | Un phénomène nouveau.
+la tendance | trend, tendency | f | La tendance est à la baisse.
+l'évolution | evolution, change | f | L'évolution des mœurs.
+les mœurs | customs, morals | f | Les mœurs ont changé.
+le clivage | divide | m | Le clivage gauche-droite.
+le paradigme | paradigm | m | Un changement de paradigme.
+le préjugé | prejudice | m | Il a des préjugés.
+le stéréotype | stereotype | m | Un stéréotype tenace.
+l'idée reçue | preconceived idea | f | C'est une idée reçue.
+le tabou | taboo | m | Un sujet tabou.
+le dilemme | dilemma | m | Je suis face à un dilemme.
+l'impasse | dead end, deadlock | f | Les négociations sont dans l'impasse.
+l'essor | boom, rapid growth | m | L'essor du numérique.
+le déclin | decline | m | Le déclin de l'industrie.
+l'émergence | emergence | f | L'émergence de nouvelles puissances.
+la pérennité | durability, continuity | f | La pérennité de l'entreprise.
+la légitimité | legitimacy | f | La légitimité du pouvoir.
+la souveraineté | sovereignty | f | La souveraineté nationale.
+l'altérité | otherness | f | Le respect de l'altérité.
+le lien social | social bond | m | Le lien social s'affaiblit.
+la quête | quest | f | La quête du bonheur.
+l'aliénation | alienation | f | L'aliénation au travail.
+l'émancipation | emancipation | f | L'émancipation des femmes.
+l'engouement | craze, enthusiasm | m | L'engouement pour le vélo.
+le leurre | illusion, lure | m | Ce n'est qu'un leurre.
+le revers | setback, other side | m | Le revers de la médaille.
+l'aboutissement | outcome, culmination | m | L'aboutissement de dix ans de travail.
+le fléau | scourge | m | Le chômage est un fléau.
+le vide | void, emptiness | m | Un vide juridique.
+
+## precise | Precise verbs | 🎚️
+accroître | to increase | v | Il faut accroître la production.
+amoindrir | to lessen | v | Cela amoindrit ses chances.
+atténuer | to soften, to ease | v | Ce médicament atténue la douleur.
+aggraver | to worsen | v | La pluie aggrave la situation.
+entraver | to hinder | v | Rien ne doit entraver le projet.
+enrayer | to curb, to check | v | Enrayer l'épidémie.
+endiguer | to contain, to stem | v | Endiguer la hausse des prix.
+susciter | to arouse, to spark | v | Ce film suscite le débat.
+engendrer | to generate, to cause | v | La pauvreté engendre la violence.
+déclencher | to trigger | v | L'annonce a déclenché une crise.
+pallier | to compensate for | v | Pallier le manque de personnel.
+combler | to fill (a gap) | v | Combler un retard.
+bouleverser | to upset, to disrupt | v | Internet a bouleversé nos vies.
+ébranler | to shake | v | Le scandale a ébranlé le pays.
+compromettre | to jeopardise | v | Cela compromet nos chances.
+préconiser | to recommend | v | Les experts préconisent la prudence.
+prôner | to advocate | v | Il prône la tolérance.
+revendiquer un droit | to claim a right | phr | Ils revendiquent un droit légitime.
+arborer | to display, to wear | v | Il arbore un large sourire.
+appréhender | to dread, to grasp | v | J'appréhende cet entretien.
+discerner | to discern | v | Je discerne une silhouette.
+déceler | to detect | v | Le médecin a décelé une anomalie.
+cerner | to pin down, to grasp | v | J'ai du mal à cerner le problème.
+élucider | to clear up | v | Le mystère n'est pas élucidé.
+étayer | to back up, to support | v | Il faut étayer ton argument.
+corroborer | to corroborate | v | Les faits corroborent sa version.
+infirmer | to invalidate | v | L'étude infirme cette hypothèse.
+esquiver | to dodge | v | Il esquive la question.
+contourner | to get around | v | Contourner la loi.
+s'affranchir | to free oneself | v | S'affranchir des conventions.
+s'avérer | to turn out to be | v | Le projet s'avère coûteux.
+se targuer | to boast | v | Il se targue de tout savoir.
+se cantonner | to confine oneself | v | Il se cantonne à son rôle.
+s'insurger | to protest, to rebel | v | Elle s'insurge contre cette décision.
+s'immiscer | to interfere | v | Ne t'immisce pas dans ma vie.
+pâtir | to suffer (from) | v | L'économie pâtit de la crise.
+renoncer | to give up | v | Il a renoncé à son projet.
+consentir | to consent | v | Il a consenti à venir.
+acquiescer | to agree, to nod | v | Elle a acquiescé d'un signe de tête.
+rétorquer | to retort | v | « Jamais ! » a-t-il rétorqué.
+ressasser | to dwell on | v | Il ressasse ses échecs.
+peaufiner | to polish, to refine | v | Je peaufine mon discours.
+
+## rhetoric | Rhetoric & debate | 🎤
+le discours | speech | m | Un discours émouvant.
+l'allocution | address, speech | f | L'allocution du président.
+le plaidoyer | plea, advocacy | m | Un plaidoyer pour la paix.
+le réquisitoire | indictment | m | Un réquisitoire contre le gouvernement.
+la polémique | controversy | f | Une vive polémique.
+la controverse | controversy | f | Le sujet fait l'objet d'une controverse.
+la prise de position | stance | f | Une prise de position courageuse.
+le postulat | premise | m | Ce postulat est discutable.
+le sophisme | fallacy | m | C'est un sophisme.
+la concession | concession | f | Faire une concession.
+l'objection | objection | f | J'ai une objection.
+la réfutation | refutation | f | Sa réfutation est convaincante.
+la nuance | nuance | f | Tout est dans la nuance.
+l'euphémisme | euphemism | m | C'est un euphémisme.
+l'ironie | irony | f | Je dis ça sans ironie.
+le sous-entendu | insinuation, innuendo | m | Une phrase pleine de sous-entendus.
+la langue de bois | waffle, political doublespeak | f | Il pratique la langue de bois.
+le poncif | cliché | m | Un discours plein de poncifs.
+le lieu commun | commonplace | m | C'est un lieu commun.
+la mauvaise foi | bad faith | f | Tu es de mauvaise foi.
+le parti pris | bias | m | Un article sans parti pris.
+trancher | to settle, to decide | v | Il faut trancher.
+plaider | to plead | v | Il plaide pour une réforme.
+arguer | to argue (that) | v | Il argue de sa bonne foi.
+alléguer | to allege | v | Il allègue un malentendu.
+objecter | to object | v | On peut objecter que c'est cher.
+concéder | to concede | v | Je te concède ce point.
+insinuer | to insinuate | v | Qu'est-ce que tu insinues ?
+marteler | to hammer home | v | Il martèle son message.
+à mon sens | in my view | phr | À mon sens, c'est une erreur.
+force est de constater | one has to admit | phr | Force est de constater que rien n'a changé.
+il va de soi que | it goes without saying that | phr | Il va de soi que je viendrai.
+il n'en demeure pas moins que | the fact remains that | phr | Il n'en demeure pas moins que c'est risqué.
+à cet égard | in this respect | adv | À cet égard, il a raison.
+en l'occurrence | in this case | adv | En l'occurrence, c'est faux.
+a fortiori | all the more so | adv | C'est vrai pour moi, a fortiori pour toi.
+en définitive | ultimately | adv | En définitive, il a renoncé.
+somme toute | all things considered | adv | Somme toute, c'est un succès.
+de surcroît | moreover | adv | Il est compétent et, de surcroît, aimable.
+certes | admittedly | adv | Certes, c'est cher, mais c'est bon.
+or | now, and yet | conj | Il disait être malade ; or, je l'ai vu au cinéma.
+quoi qu'il en soit | be that as it may | phr | Quoi qu'il en soit, je pars.
+
+## literary | Literary vocabulary | 📚
+jadis | in days gone by | adv | Jadis, ce village était prospère.
+naguère | not long ago | adv | Naguère encore, on y croyait.
+autrefois | in the past | adv | Autrefois, on écrivait des lettres.
+nonobstant | notwithstanding | prep | Nonobstant ces difficultés, il a réussi.
+moult | many (archaic, humorous) | adv | Après moult hésitations.
+fort | very (literary) | adv | C'est fort intéressant.
+guère | hardly | adv | Il ne sort guère.
+l'aube | dawn | f | Nous partons à l'aube.
+le crépuscule | dusk | m | Au crépuscule, tout se calme.
+la pénombre | half-light | f | La pièce était dans la pénombre.
+la lueur | glimmer | f | Une lueur d'espoir.
+l'éclat | brightness, burst | m | L'éclat du soleil.
+le songe | dream (literary) | m | Un songe étrange.
+la mélancolie | melancholy | f | Une douce mélancolie.
+la nostalgie | nostalgia | f | J'ai la nostalgie de mon enfance.
+l'allégresse | joy, elation | f | Une foule en allégresse.
+la félicité | bliss | f | Une félicité parfaite.
+le désarroi | distress, confusion | m | Il était dans le désarroi.
+l'effroi | terror | m | Un cri d'effroi.
+la stupeur | astonishment | f | À la stupeur générale.
+le courroux | wrath | m | Le courroux du roi.
+la convoitise | greed, lust | f | Un regard de convoitise.
+le dessein | intention, plan | m | Il a de grands desseins.
+le labeur | toil | m | Des années de labeur.
+le trépas | death (literary) | m | Jusqu'au trépas.
+la demeure | residence | f | Une belle demeure.
+l'étreinte | embrace | f | Une longue étreinte.
+le sillage | wake | m | Dans le sillage du bateau.
+errer | to wander | v | Il errait dans les rues.
+contempler | to gaze at | v | Elle contemple la mer.
+effleurer | to brush against | v | Sa main a effleuré la mienne.
+scruter | to scrutinise | v | Il scrute l'horizon.
+murmurer | to murmur | v | Elle murmure quelques mots.
+s'éprendre | to fall for | v | Il s'est épris d'elle.
+chérir | to cherish | v | Je chéris ces souvenirs.
+se morfondre | to mope | v | Il se morfond chez lui.
+dépérir | to waste away | v | La plante dépérit.
+enjoliver | to embellish | v | Il enjolive toujours ses histoires.
+ineffable | inexpressible | adj | Une joie ineffable.
+éphémère | fleeting | adj | Un bonheur éphémère.
+funeste | fatal, disastrous | adj | Une erreur funeste.
+lugubre | gloomy | adj | Un endroit lugubre.
+
+## finance | Economy & finance (advanced) | 🏦
+la conjoncture | economic situation | f | La conjoncture est défavorable.
+le PIB | GDP | m | Le PIB a augmenté de 2 %.
+la balance commerciale | trade balance | f | La balance commerciale est déficitaire.
+l'excédent | surplus | m | Un excédent budgétaire.
+la dévaluation | devaluation | f | La dévaluation de la monnaie.
+la devise | currency, motto | f | Le dollar est une devise forte.
+le taux de change | exchange rate | m | Le taux de change est favorable.
+la spéculation | speculation | f | La spéculation immobilière.
+l'obligation | bond, obligation | f | Les obligations d'État.
+le rendement | yield, return | m | Un rendement de 5 %.
+le portefeuille d'actions | share portfolio | m | Il gère un portefeuille d'actions.
+la plus-value | capital gain | f | Il a réalisé une plus-value.
+l'endettement | indebtedness | m | L'endettement des ménages.
+la solvabilité | solvency | f | La banque vérifie sa solvabilité.
+le créancier | creditor | m | Les créanciers réclament leur argent.
+le débiteur | debtor | m | Le débiteur ne peut pas payer.
+l'hypothèque | mortgage | f | Il a pris une hypothèque.
+la trésorerie | cash flow, treasury | f | Des problèmes de trésorerie.
+l'amortissement | depreciation, repayment | m | L'amortissement du matériel.
+le redressement | recovery, reorganisation | m | L'entreprise est en redressement.
+la fusion | merger | f | La fusion des deux banques.
+l'acquisition | acquisition | f | Une acquisition stratégique.
+le rachat | buyout | m | Le rachat de l'entreprise.
+la privatisation | privatisation | f | La privatisation des autoroutes.
+la nationalisation | nationalisation | f | La nationalisation des banques.
+le protectionnisme | protectionism | m | Le retour du protectionnisme.
+le libre-échange | free trade | m | Un accord de libre-échange.
+les droits de douane | customs duties | m | Les droits de douane augmentent.
+l'évasion fiscale | tax evasion | f | La lutte contre l'évasion fiscale.
+le paradis fiscal | tax haven | m | L'argent est dans un paradis fiscal.
+le prélèvement | deduction, levy | m | Les prélèvements obligatoires.
+la cotisation | contribution | f | Les cotisations sociales.
+l'allocation | allowance, benefit | f | Les allocations familiales.
+le plan social | redundancy plan | m | L'usine annonce un plan social.
+la restructuration | restructuring | f | Une restructuration douloureuse.
+la compétitivité | competitiveness | f | Améliorer la compétitivité.
+la productivité | productivity | f | La productivité stagne.
+la rigueur | austerity, rigour | f | Une politique de rigueur.
+plafonner | to cap, to level off | v | Les loyers sont plafonnés.
+fluctuer | to fluctuate | v | Les prix fluctuent.
+renflouer | to bail out | v | L'État renfloue la banque.
+la manne | windfall | f | Une manne financière.
+
+## philosophy | Philosophy & ethics | 🦉
+l'éthique | ethics | f | Une question d'éthique.
+la morale | morals, morality | f | La morale de l'histoire.
+la vertu | virtue | f | La patience est une vertu.
+le vice | vice | m | La paresse est un vice.
+le bien et le mal | good and evil | m | La frontière entre le bien et le mal.
+le libre arbitre | free will | m | Avons-nous un libre arbitre ?
+la raison | reason | f | La raison et la passion.
+la sagesse | wisdom | f | La sagesse vient avec l'âge.
+le doute | doubt | m | Le doute est nécessaire.
+la certitude | certainty | f | Je n'ai aucune certitude.
+la croyance | belief | f | Les croyances religieuses.
+la foi | faith | f | Il a perdu la foi.
+l'athéisme | atheism | m | L'athéisme progresse.
+le destin | fate | m | Je ne crois pas au destin.
+le hasard | chance | m | Le hasard fait bien les choses.
+le néant | nothingness | m | Le néant l'effraie.
+l'existence | existence | f | Le sens de l'existence.
+l'être humain | human being | m | L'être humain est complexe.
+la dignité | dignity | f | Le respect de la dignité humaine.
+l'équité | fairness | f | Par souci d'équité.
+le bien commun | common good | m | Agir pour le bien commun.
+le devoir moral | moral duty | m | C'est un devoir moral.
+la conscience morale | moral conscience | f | Sa conscience morale le tourmente.
+le scrupule | scruple | m | Il n'a aucun scrupule.
+le remords | remorse | m | Il est rongé par le remords.
+la tolérance | tolerance | f | La tolérance est essentielle.
+le relativisme | relativism | m | Le relativisme culturel.
+le scepticisme | scepticism | m | Un scepticisme sain.
+l'utopie | utopia | f | C'est une belle utopie.
+l'idéal | ideal | m | Il poursuit un idéal.
+la finalité | purpose | f | Quelle est la finalité de ce projet ?
+le bien-fondé | validity, merits | m | Le bien-fondé de sa demande.
+transcender | to transcend | v | L'art transcende les frontières.
+méditer sur | to ponder | phr | Il médite sur le sens de la vie.
+s'interroger | to wonder, to question | v | Je m'interroge sur mon avenir.
+concevoir | to conceive | v | Je ne conçois pas la vie sans musique.
+inné | innate | adj | Un talent inné.
+acquis | acquired | adj | Un comportement acquis.
+immuable | unchanging | adj | Une règle immuable.
+intrinsèque | intrinsic | adj | La valeur intrinsèque.
+arbitraire | arbitrary | adj | Une décision arbitraire.
+légitime | legitimate | adj | Une demande légitime.
+
+## research | Science & research | 🧪
+la démarche scientifique | scientific method | f | La démarche scientifique exige des preuves.
+le protocole | protocol | m | Le protocole a été respecté.
+la variable | variable | f | Une variable importante.
+la corrélation | correlation | f | Une corrélation n'est pas une cause.
+la causalité | causality | f | Un lien de causalité.
+le biais | bias | m | Un biais de sélection.
+la marge d'erreur | margin of error | f | La marge d'erreur est faible.
+la fiabilité | reliability | f | La fiabilité des résultats.
+la reproductibilité | reproducibility | f | La reproductibilité de l'expérience.
+l'évaluation par les pairs | peer review | f | L'article est en évaluation par les pairs.
+la revue scientifique | scientific journal | f | Publié dans une revue scientifique.
+la publication | publication | f | Une publication récente.
+le financement | funding | m | Le financement de la recherche.
+la percée | breakthrough | f | Une percée majeure.
+l'avancée | advance | f | Une avancée médicale.
+le modèle | model | m | Un modèle mathématique.
+la simulation | simulation | f | Une simulation numérique.
+l'essai clinique | clinical trial | m | Un essai clinique est en cours.
+le groupe témoin | control group | m | Le groupe témoin n'a rien reçu.
+le placebo | placebo | m | L'effet placebo.
+la molécule | molecule | f | Une nouvelle molécule.
+le composé | compound | m | Un composé chimique.
+le génome | genome | m | Le séquençage du génome.
+la mutation | mutation | f | Une mutation génétique.
+le neurone | neuron | m | Les neurones communiquent entre eux.
+la particule | particle | f | Une particule élémentaire.
+la gravité | gravity, seriousness | f | La gravité attire les objets.
+l'orbite | orbit | f | Le satellite est en orbite.
+la sonde | probe | f | Une sonde spatiale.
+le trou noir | black hole | m | Un trou noir géant.
+l'apesanteur | weightlessness | f | Les astronautes sont en apesanteur.
+le rayonnement | radiation, influence | m | Le rayonnement solaire.
+l'onde | wave | f | Les ondes radio.
+la fréquence | frequency | f | Une haute fréquence.
+quantifier | to quantify | v | C'est difficile à quantifier.
+extrapoler | to extrapolate | v | Il ne faut pas extrapoler.
+valider | to validate | v | L'hypothèse a été validée.
+empirique | empirical | adj | Une approche empirique.
+exhaustif | exhaustive | adj | Une liste exhaustive.
+aléatoire | random | adj | Un tirage aléatoire.
+probant | conclusive | adj | Un résultat probant.
+sous-jacent | underlying | adj | Le mécanisme sous-jacent.
+
+## issues | Society & current issues | 🌐
+la fracture sociale | social divide | f | La fracture sociale s'aggrave.
+l'exclusion | exclusion | f | La lutte contre l'exclusion.
+la mixité sociale | social mix | f | Favoriser la mixité sociale.
+l'ascenseur social | social mobility | m | L'ascenseur social est en panne.
+la méritocratie | meritocracy | f | La méritocratie est-elle un mythe ?
+le communautarisme | communitarianism | m | Le débat sur le communautarisme.
+la parité | gender parity | f | La parité en politique.
+le plafond de verre | glass ceiling | m | Briser le plafond de verre.
+le sexisme | sexism | m | Le sexisme ordinaire.
+le consentement | consent | m | La notion de consentement.
+la gentrification | gentrification | f | La gentrification du quartier.
+l'étalement urbain | urban sprawl | m | Limiter l'étalement urbain.
+la désertification rurale | rural depopulation | f | La désertification rurale inquiète.
+la fracture numérique | digital divide | f | Réduire la fracture numérique.
+la surveillance de masse | mass surveillance | f | Les dangers de la surveillance de masse.
+le lanceur d'alerte | whistleblower | m | Un lanceur d'alerte a tout révélé.
+le populisme | populism | m | La montée du populisme.
+l'abstention | abstention | f | Un taux d'abstention record.
+le clientélisme | patronage, clientelism | m | Il dénonce le clientélisme.
+le lobby | lobby | m | Le lobby du tabac.
+l'ingérence | interference | f | Une ingérence étrangère.
+le multilatéralisme | multilateralism | m | La crise du multilatéralisme.
+la géopolitique | geopolitics | f | La géopolitique de l'énergie.
+le conflit armé | armed conflict | m | Un conflit armé a éclaté.
+le cessez-le-feu | ceasefire | m | Un cessez-le-feu a été signé.
+l'exode | exodus | m | L'exode des populations.
+le demandeur d'asile | asylum seeker | m | Les demandeurs d'asile attendent.
+l'apatride | stateless person | mf | Il est apatride.
+la radicalisation | radicalisation | f | La prévention de la radicalisation.
+le terrorisme | terrorism | m | La lutte contre le terrorisme.
+la résilience | resilience | f | La résilience d'une société.
+la décroissance | degrowth | f | Les partisans de la décroissance.
+le revenu universel | universal basic income | m | Le débat sur le revenu universel.
+l'ubérisation | uberisation | f | L'ubérisation du travail.
+la bioéthique | bioethics | f | Les lois de bioéthique.
+la fin de vie | end of life | f | Le débat sur la fin de vie.
+le transhumanisme | transhumanism | m | Le transhumanisme divise.
+stigmatiser | to stigmatise | v | Il ne faut pas stigmatiser les chômeurs.
+marginaliser | to marginalise | v | Ces populations sont marginalisées.
+fédérer | to unite | v | Un projet qui fédère.
+cliver | to divide | v | Un sujet qui clive.
+banaliser | to trivialise | v | Il ne faut pas banaliser la violence.
+
+## proverbs | Idioms & proverbs | 🥖
+avoir d'autres chats à fouetter | to have other fish to fry | phr | J'ai d'autres chats à fouetter.
+ne pas y aller par quatre chemins | to get straight to the point | phr | Je n'irai pas par quatre chemins.
+couper la poire en deux | to meet halfway | phr | On coupe la poire en deux ?
+mettre de l'eau dans son vin | to tone it down | phr | Il a mis de l'eau dans son vin.
+jeter de l'huile sur le feu | to add fuel to the fire | phr | Ne jette pas de l'huile sur le feu.
+noyer le poisson | to dodge the issue | phr | Il essaie de noyer le poisson.
+tirer son épingle du jeu | to come out well | phr | Elle a su tirer son épingle du jeu.
+prendre le taureau par les cornes | to take the bull by the horns | phr | Il faut prendre le taureau par les cornes.
+avoir le bras long | to have influence | phr | Son oncle a le bras long.
+avoir la langue bien pendue | to be a chatterbox | phr | Elle a la langue bien pendue.
+battre son plein | to be in full swing | phr | La fête bat son plein.
+tomber à pic | to come at the right time | phr | Tu tombes à pic !
+faire long feu | to fizzle out | phr | Le projet a fait long feu.
+vendre la mèche | to let the cat out of the bag | phr | Qui a vendu la mèche ?
+tirer les vers du nez | to worm information out of | phr | J'ai dû lui tirer les vers du nez.
+mettre la charrue avant les bœufs | to put the cart before the horse | phr | Ne mets pas la charrue avant les bœufs.
+chercher midi à quatorze heures | to overcomplicate things | phr | Ne cherche pas midi à quatorze heures.
+en faire tout un fromage | to make a fuss | phr | N'en fais pas tout un fromage.
+être tiré par les cheveux | to be far-fetched | phr | Cette explication est tirée par les cheveux.
+avoir du plomb dans l'aile | to be in bad shape | phr | Le projet a du plomb dans l'aile.
+rester sur sa faim | to be left wanting more | phr | Je suis resté sur ma faim.
+se mettre le doigt dans l'œil | to be badly mistaken | phr | Tu te mets le doigt dans l'œil.
+ménager la chèvre et le chou | to sit on the fence | phr | Il ménage la chèvre et le chou.
+avoir voix au chapitre | to have a say | phr | Je n'ai pas voix au chapitre.
+faire amende honorable | to make amends | phr | Il a fait amende honorable.
+monter sur ses grands chevaux | to get on one's high horse | phr | Ne monte pas sur tes grands chevaux.
+ne pas mâcher ses mots | not to mince one's words | phr | Elle ne mâche pas ses mots.
+remuer le couteau dans la plaie | to rub salt in the wound | phr | Arrête de remuer le couteau dans la plaie.
+se tailler la part du lion | to take the lion's share | phr | Il s'est taillé la part du lion.
+l'habit ne fait pas le moine | don't judge a book by its cover | phr | Méfie-toi : l'habit ne fait pas le moine.
+qui ne tente rien n'a rien | nothing ventured, nothing gained | phr | Essaie : qui ne tente rien n'a rien.
+mieux vaut tard que jamais | better late than never | phr | Tu arrives enfin ! Mieux vaut tard que jamais.
+chat échaudé craint l'eau froide | once bitten, twice shy | phr | Il refuse d'investir : chat échaudé craint l'eau froide.
+petit à petit, l'oiseau fait son nid | little by little | phr | Continue : petit à petit, l'oiseau fait son nid.
+il ne faut pas vendre la peau de l'ours avant de l'avoir tué | don't count your chickens | phr | Attends les résultats : il ne faut pas vendre la peau de l'ours avant de l'avoir tué.
+les chiens ne font pas des chats | like father, like son | phr | Il est têtu comme son père : les chiens ne font pas des chats.
+à bon entendeur, salut | a word to the wise | phr | Je ne le répéterai pas. À bon entendeur, salut.
+rira bien qui rira le dernier | he who laughs last laughs best | phr | Tu te moques ? Rira bien qui rira le dernier.
+l'union fait la force | unity is strength | phr | Travaillons ensemble : l'union fait la force.
+tout vient à point à qui sait attendre | good things come to those who wait | phr | Patience : tout vient à point à qui sait attendre.
+la nuit porte conseil | sleep on it | phr | Décide demain : la nuit porte conseil.
+c'est en forgeant qu'on devient forgeron | practice makes perfect | phr | Continue à t'entraîner : c'est en forgeant qu'on devient forgeron.
+
+## slang | Everyday slang (familier) | 😎
+le boulot | job, work | m | J'ai trop de boulot.
+bosser | to work | v | Je bosse demain.
+le taf | work, job | m | Je vais au taf.
+le fric | money, cash | m | Je n'ai plus de fric.
+la thune | money | f | T'as de la thune ?
+le pote | mate, buddy | m | C'est mon pote.
+le mec | guy | m | C'est qui, ce mec ?
+la meuf | girl, woman | f | C'est une meuf sympa.
+le gamin | kid | m | Les gamins jouent dehors.
+la bagnole | car | f | Sa bagnole est en panne.
+la bouffe | food | f | La bouffe est bonne ici.
+bouffer | to eat | v | On va bouffer ?
+le bouquin | book | m | J'ai lu un bon bouquin.
+les fringues | clothes | f | J'achète des fringues.
+les godasses | shoes | f | Enlève tes godasses.
+la flotte | water, rain | f | Il tombe de la flotte.
+le truc | thing | m | C'est quoi, ce truc ?
+le machin | thingy | m | Passe-moi le machin.
+le bordel | mess | m | Quel bordel dans ta chambre !
+la galère | hassle, tough time | f | Quelle galère, ce déménagement !
+galérer | to struggle | v | Je galère avec cet exercice.
+kiffer | to love, to enjoy | v | Je kiffe cette chanson.
+se marrer | to have a laugh | v | On s'est bien marrés.
+rigoler | to laugh, to joke | v | Je rigole !
+piger | to get it | v | T'as pigé ?
+capter | to understand, to get signal | v | Je ne capte rien.
+flipper | to freak out | v | Je flippe pour l'examen.
+se planter | to mess up | v | Je me suis planté à l'examen.
+se casser | to leave, to clear off | v | Je me casse, salut !
+filer | to dash off, to hand over | v | Je file, à demain !
+crever | to be dying (of), to die | v | Je crève de faim.
+crevé | knackered | adj | Je suis crevé.
+dingue | crazy | adj | C'est dingue !
+ouf | crazy, amazing (verlan) | adj | C'est un truc de ouf !
+chelou | weird (verlan) | adj | Il est chelou, ce type.
+relou | annoying (verlan) | adj | T'es relou !
+nul | rubbish, useless | adj | Ce film est nul.
+génial | great, brilliant | adj | C'est génial !
+vachement | really, very | adv | C'est vachement bien.
+bof | meh | intj | Tu as aimé ? — Bof.
+j'en peux plus | I can't take it any more | phr | Trois heures de bouchons… j'en peux plus.
+ça roule | all good | phr | Ça roule ? — Ça roule !
+c'est pas terrible | it's not great | phr | Ce resto, c'est pas terrible.
+t'inquiète | don't worry | phr | T'inquiète, je gère.
+ça craint | that sucks | phr | Il pleut encore ? Ça craint.
+laisse béton | forget it (verlan) | phr | Laisse béton, c'est pas grave.
+
+## adjectives | Precise adjectives | 💎
+désinvolte | casual, offhand | adj | Une attitude désinvolte.
+nonchalant | nonchalant | adj | Il marche d'un pas nonchalant.
+désabusé | disillusioned | adj | Un regard désabusé.
+circonspect | cautious | adj | Il reste circonspect.
+perspicace | perceptive | adj | Une remarque perspicace.
+prolixe | wordy | adj | Un auteur prolixe.
+laconique | terse | adj | Une réponse laconique.
+loquace | talkative | adj | Il n'est pas très loquace.
+taciturne | uncommunicative | adj | Un homme taciturne.
+affable | affable | adj | Un hôte affable.
+austère | austere | adj | Un décor austère.
+frugal | frugal | adj | Un repas frugal.
+opulent | opulent | adj | Une demeure opulente.
+exigu | cramped | adj | Un studio exigu.
+vétuste | dilapidated | adj | Un immeuble vétuste.
+désuet | outdated | adj | Une expression désuète.
+obsolète | obsolete | adj | Une technologie obsolète.
+novateur | innovative | adj | Un projet novateur.
+fastidieux | tedious | adj | Un travail fastidieux.
+ardu | arduous | adj | Une tâche ardue.
+épineux | thorny | adj | Une question épineuse.
+insolite | unusual | adj | Un objet insolite.
+saugrenu | absurd, preposterous | adj | Une idée saugrenue.
+incongru | incongruous | adj | Une remarque incongrue.
+fortuit | accidental | adj | Une rencontre fortuite.
+inéluctable | unavoidable | adj | Un déclin inéluctable.
+indéniable | undeniable | adj | Un talent indéniable.
+tangible | tangible | adj | Des résultats tangibles.
+dérisoire | paltry, pathetic | adj | Une somme dérisoire.
+exorbitant | exorbitant | adj | Un prix exorbitant.
+pléthorique | overabundant | adj | Une offre pléthorique.
+lacunaire | incomplete, patchy | adj | Des connaissances lacunaires.
+fallacieux | misleading | adj | Un argument fallacieux.
+spécieux | specious | adj | Un raisonnement spécieux.
+tendancieux | biased | adj | Un article tendancieux.
+péremptoire | peremptory | adj | Un ton péremptoire.
+véhément | vehement | adj | Une protestation véhémente.
+acerbe | scathing | adj | Une critique acerbe.
+mordant | biting | adj | Un humour mordant.
+élogieux | full of praise | adj | Un article élogieux.
+dithyrambique | rapturous | adj | Une critique dithyrambique.
+magnanime | magnanimous | adj | Un geste magnanime.

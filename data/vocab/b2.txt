@@ -1,0 +1,526 @@
+## society | Society & politics | 🏛️
+la société | society, company | f | La société évolue vite.
+le gouvernement | government | m | Le gouvernement a annoncé une réforme.
+l'État | the state | m | L'État finance les écoles.
+la loi | law | f | La loi a été votée.
+le droit | right, law | m | C'est un droit fondamental.
+l'élection | election | f | Les élections ont lieu en mai.
+voter | to vote | v | J'ai voté ce matin.
+le scrutin | ballot, poll | m | Le scrutin est ouvert jusqu'à 20 h.
+l'électeur | voter | m | Les électeurs sont indécis.
+le parti | party (political) | m | Il a quitté son parti.
+le député | member of parliament | m | Les députés débattent du projet.
+le ministre | minister | m | Le ministre a démissionné.
+la réforme | reform | f | La réforme des retraites divise.
+la politique | politics, policy | f | Je m'intéresse à la politique.
+la démocratie | democracy | f | La démocratie est fragile.
+la manifestation | demonstration | f | La manifestation a rassemblé mille personnes.
+manifester | to demonstrate | v | Les étudiants manifestent.
+revendiquer | to demand, to claim | v | Ils revendiquent de meilleurs salaires.
+l'égalité | equality | f | L'égalité entre les femmes et les hommes.
+l'inégalité | inequality | f | Les inégalités se creusent.
+la liberté | freedom | f | La liberté d'expression.
+la justice sociale | social justice | f | Ils réclament la justice sociale.
+la discrimination | discrimination | f | La discrimination est interdite.
+le racisme | racism | m | Il faut lutter contre le racisme.
+la pauvreté | poverty | f | La pauvreté augmente.
+la précarité | insecurity, precariousness | f | Beaucoup de jeunes vivent dans la précarité.
+l'immigration | immigration | f | L'immigration fait débat.
+l'immigré | immigrant | m | Ses parents sont des immigrés.
+le réfugié | refugee | m | Le pays accueille des réfugiés.
+l'intégration | integration | f | L'intégration prend du temps.
+la laïcité | secularism | f | La laïcité est un principe français.
+le bénévole | volunteer | m | Elle est bénévole dans une association.
+l'association | association, charity | f | Il a créé une association.
+la solidarité | solidarity | f | Un bel élan de solidarité.
+l'enjeu | issue, stake | m | C'est un enjeu majeur.
+le défi | challenge | m | C'est un vrai défi.
+la mesure | measure | f | Le gouvernement prend des mesures.
+la mondialisation | globalisation | f | La mondialisation a des effets contrastés.
+la crise | crisis | f | Le pays traverse une crise.
+le sondage | poll, survey | m | Selon un sondage récent.
+le pouvoir politique | political power | m | Le pouvoir politique est contesté.
+le devoir civique | civic duty | m | Voter est un devoir civique.
+le Parlement | parliament | m | Le Parlement a adopté la loi.
+l'opposition | opposition | f | L'opposition critique la réforme.
+le mandat | term of office | m | Son mandat dure cinq ans.
+la citoyenneté | citizenship | f | Elle a obtenu la citoyenneté canadienne.
+le service public | public service | m | Il défend le service public.
+
+## economy | Economy & business | 📊
+l'économie | economy | f | L'économie ralentit.
+la croissance | growth | f | La croissance est faible.
+la récession | recession | f | Le pays entre en récession.
+l'inflation | inflation | f | L'inflation atteint 5 %.
+le chiffre d'affaires | turnover, revenue | m | Le chiffre d'affaires a doublé.
+la faillite | bankruptcy | f | L'entreprise a fait faillite.
+l'investissement | investment | m | C'est un bon investissement.
+investir | to invest | v | Il investit dans l'immobilier.
+l'actionnaire | shareholder | m | Les actionnaires sont satisfaits.
+l'action | share, action | f | Le prix de l'action a chuté.
+l'offre et la demande | supply and demand | f | C'est la loi de l'offre et de la demande.
+la concurrence déloyale | unfair competition | f | Ils dénoncent une concurrence déloyale.
+le concurrent | competitor | m | Notre principal concurrent.
+la filiale | subsidiary | f | La filiale allemande ferme.
+le siège social | head office | m | Le siège social est à Lyon.
+le fournisseur | supplier | m | Nous changeons de fournisseur.
+la sous-traitance | subcontracting | f | La production est en sous-traitance.
+délocaliser | to relocate, to offshore | v | L'usine a été délocalisée.
+l'entrepreneur | entrepreneur | m | C'est un jeune entrepreneur.
+la start-up | start-up | f | Elle a créé une start-up.
+le chef d'entreprise | business owner | m | Son père est chef d'entreprise.
+le commerce | trade, business | m | Le commerce en ligne explose.
+l'exportation | export | f | Les exportations augmentent.
+l'importation | import | f | Les importations de pétrole.
+la taxe | tax | f | Une nouvelle taxe sur le carburant.
+la fiscalité | taxation | f | La fiscalité est lourde.
+le déficit | deficit | m | Le déficit se creuse.
+la dette publique | public debt | f | La dette publique explose.
+le budget de l'État | state budget | m | Le budget de l'État est voté.
+la subvention | subsidy, grant | f | L'association reçoit une subvention.
+le secteur | sector | m | Le secteur du tourisme souffre.
+l'immobilier | real estate | m | L'immobilier est cher à Paris.
+la main-d'œuvre | workforce | f | Il manque de main-d'œuvre.
+le pouvoir d'achat réel | real purchasing power | m | Le pouvoir d'achat réel recule.
+la rentabilité | profitability | f | La rentabilité est en baisse.
+la perte | loss | f | L'entreprise enregistre des pertes.
+le bilan | assessment, balance sheet | m | Le bilan est positif.
+prospère | prosperous | adj | Une région prospère.
+rentabiliser | to make profitable | v | Il faut rentabiliser cet achat.
+s'effondrer | to collapse | v | Les ventes se sont effondrées.
+le marché financier | financial market | m | Les marchés financiers sont nerveux.
+le taux d'intérêt | interest rate | m | Les taux d'intérêt montent.
+le pouvoir économique | economic power | m | Le pouvoir économique se concentre.
+la relance | recovery, stimulus | f | Un plan de relance.
+la pénurie de main-d'œuvre | labour shortage | f | Le secteur souffre d'une pénurie de main-d'œuvre.
+
+## science | Science & technology | 🔬
+la science | science | f | La science progresse.
+le chercheur | researcher | m | Les chercheurs ont trouvé un vaccin.
+le laboratoire | laboratory | m | Elle travaille dans un laboratoire.
+l'expérience scientifique | experiment | f | L'expérience scientifique a réussi.
+l'hypothèse | hypothesis | f | Cette hypothèse reste à vérifier.
+la preuve | proof, evidence | f | Il n'y a aucune preuve.
+prouver | to prove | v | Rien ne le prouve.
+démontrer | to demonstrate | v | L'étude démontre le contraire.
+l'étude | study | f | Une étude récente le confirme.
+les données | data | f | Les données sont fiables.
+l'échantillon | sample | m | Un échantillon de mille personnes.
+le progrès | progress | m | Le progrès technique.
+l'innovation | innovation | f | L'innovation est essentielle.
+l'invention | invention | f | Une invention révolutionnaire.
+inventer | to invent | v | Qui a inventé le téléphone ?
+le brevet | patent | m | Il a déposé un brevet.
+l'intelligence artificielle | artificial intelligence | f | L'intelligence artificielle transforme le travail.
+l'algorithme | algorithm | m | L'algorithme trie les résultats.
+le logiciel | software | m | J'installe un nouveau logiciel.
+le matériel | hardware, equipment | m | Le matériel est neuf.
+la mise à jour | update | f | Il y a une mise à jour.
+le serveur informatique | server | m | Le serveur informatique est en panne.
+la base de données | database | f | La base de données est sécurisée.
+le piratage | hacking, piracy | m | Le site a subi un piratage.
+la cybersécurité | cybersecurity | f | La cybersécurité est un enjeu.
+la vie privée | privacy | f | Il faut protéger sa vie privée.
+le robot | robot | m | Les robots remplacent des ouvriers.
+automatiser | to automate | v | L'usine est automatisée.
+le satellite | satellite | m | Un satellite a été lancé.
+l'espace | space | m | La conquête de l'espace.
+la fusée | rocket | f | La fusée décolle demain.
+la cellule | cell | f | Les cellules se divisent.
+le gène | gene | m | Ce gène est responsable de la maladie.
+l'ADN | DNA | m | L'ADN a été analysé.
+le virus | virus | m | Le virus se propage vite.
+la bactérie | bacterium | f | Cette bactérie résiste aux antibiotiques.
+l'atome | atom | m | L'atome est très petit.
+la découverte scientifique | scientific discovery | f | Une découverte scientifique majeure.
+performant | high-performing | adj | Un ordinateur très performant.
+fiable | reliable | adj | Cette source est fiable.
+le stockage en nuage | cloud storage | m | Le stockage en nuage est pratique.
+la technologie | technology | f | La technologie évolue vite.
+le prototype | prototype | m | Le prototype est prêt.
+la puce | chip, flea | f | Une puce électronique.
+
+## energy | Environment & energy | ♻️
+la transition écologique | green transition | f | La transition écologique coûte cher.
+les émissions | emissions | f | Il faut réduire les émissions.
+le dioxyde de carbone | carbon dioxide | m | Les émissions de dioxyde de carbone.
+l'empreinte carbone | carbon footprint | f | Je réduis mon empreinte carbone.
+la neutralité carbone | carbon neutrality | f | Objectif : la neutralité carbone en 2050.
+les énergies fossiles | fossil fuels | f | Sortir des énergies fossiles.
+l'éolienne | wind turbine | f | Des éoliennes en mer.
+le panneau solaire | solar panel | m | Nous avons installé des panneaux solaires.
+la centrale nucléaire | nuclear power plant | f | La centrale nucléaire sera fermée.
+le barrage | dam | m | Le barrage produit de l'électricité.
+la déforestation | deforestation | f | La déforestation s'accélère.
+la fonte des glaces | melting of the ice | f | La fonte des glaces inquiète.
+la montée des eaux | rising sea levels | f | La montée des eaux menace les côtes.
+la canicule | heatwave | f | La canicule dure depuis dix jours.
+l'écosystème | ecosystem | m | Un écosystème fragile.
+la faune | wildlife, fauna | f | La faune locale est protégée.
+la flore | flora | f | Une flore exceptionnelle.
+l'extinction | extinction | f | Une espèce en voie d'extinction.
+la surpêche | overfishing | f | La surpêche vide les océans.
+les pesticides | pesticides | m | Les pesticides tuent les abeilles.
+l'agriculture intensive | intensive farming | f | L'agriculture intensive épuise les sols.
+le circuit court | short supply chain | m | J'achète en circuit court.
+le tri sélectif | waste sorting | m | Le tri sélectif est obligatoire.
+l'emballage | packaging | m | Trop d'emballages plastiques.
+jetable | disposable | adj | Les gobelets jetables sont interdits.
+biodégradable | biodegradable | adj | Un sac biodégradable.
+la sobriété | restraint, moderation | f | La sobriété énergétique.
+la pénurie | shortage | f | Une pénurie d'eau.
+épuiser | to exhaust, to use up | v | Nous épuisons les ressources.
+préserver | to preserve | v | Il faut préserver la nature.
+sensibiliser | to raise awareness | v | Il faut sensibiliser les jeunes.
+réduire | to reduce | v | Réduisons nos déchets.
+lutter contre | to fight against | phr | Lutter contre le gaspillage.
+nocif | harmful | adj | Ce produit est nocif.
+toxique | toxic | adj | Des déchets toxiques.
+la prise de conscience | awareness, realisation | f | Une prise de conscience collective.
+l'écologiste | environmentalist | mf | Les écologistes protestent.
+le développement durable | sustainable development | m | Le développement durable est une priorité.
+irréversible | irreversible | adj | Des dégâts irréversibles.
+alarmant | alarming | adj | Les chiffres sont alarmants.
+
+## justice | Justice & law | ⚖️
+la justice | justice | f | La justice a tranché.
+le tribunal | court | m | L'affaire passe au tribunal.
+le juge | judge | m | Le juge a rendu sa décision.
+le procès | trial | m | Le procès dure trois semaines.
+l'accusé | defendant | m | L'accusé nie les faits.
+la victime | victim | f | La victime a porté plainte.
+le témoin | witness | m | Deux témoins ont tout vu.
+le témoignage | testimony | m | Son témoignage est accablant.
+le coupable | culprit | m | Le coupable a été arrêté.
+innocent | innocent | adj | Il a été déclaré innocent.
+le crime | crime | m | C'est un crime grave.
+le délit | offence | m | Le vol est un délit.
+le cambriolage | burglary | m | Il y a eu un cambriolage.
+le meurtre | murder | m | Il est accusé de meurtre.
+l'enquête | investigation, survey | f | L'enquête avance.
+le soupçon | suspicion | m | Il y a des soupçons de fraude.
+soupçonner | to suspect | v | On le soupçonne de vol.
+accuser | to accuse | v | Elle l'accuse de mensonge.
+avouer | to confess | v | Il a tout avoué.
+nier | to deny | v | Il nie les faits.
+condamner | to sentence, to condemn | v | Il a été condamné à deux ans.
+la peine | sentence, sorrow | f | Une peine de prison.
+la prison | prison | f | Il est en prison.
+l'avocat de la défense | defence lawyer | m | L'avocat de la défense plaide.
+le verdict | verdict | m | Le verdict est tombé.
+le jugement | judgment | m | Le jugement sera rendu lundi.
+la plainte | complaint (legal) | f | Elle a déposé une plainte.
+le règlement | rules, settlement | m | C'est contraire au règlement.
+la règle | rule | f | Il faut respecter les règles.
+interdit | forbidden | adj | Il est interdit de fumer.
+autoriser | to authorise | v | La loi autorise cette pratique.
+l'infraction | offence, breach | f | C'est une infraction au code de la route.
+la fraude | fraud | f | Une fraude fiscale.
+la corruption | corruption | f | Un scandale de corruption.
+le harcèlement | harassment | m | Le harcèlement est puni par la loi.
+la violence | violence | f | La violence augmente.
+la sanction | penalty, sanction | f | Des sanctions sévères.
+punir | to punish | v | La loi punit ce comportement.
+légal | legal | adj | Est-ce légal ?
+les droits de l'homme | human rights | m | La défense des droits de l'homme.
+
+## arts | Arts & literature | 🎭
+la littérature | literature | f | J'étudie la littérature.
+la poésie | poetry | f | Elle écrit de la poésie.
+le poème | poem | m | Un poème de Baudelaire.
+le récit | story, account | m | Un récit de voyage.
+la nouvelle | short story, piece of news | f | J'ai lu une nouvelle de Maupassant.
+le conte | tale | m | Un conte pour enfants.
+le genre | genre, kind | m | Quel genre de film aimes-tu ?
+le style | style | m | Son style est très simple.
+le narrateur | narrator | m | Le narrateur est un enfant.
+le héros | hero | m | Le héros meurt à la fin.
+le dénouement | ending, outcome | m | Le dénouement est inattendu.
+le thème | theme | m | Le thème principal est l'exil.
+la métaphore | metaphor | f | C'est une belle métaphore.
+le chapitre | chapter | m | J'ai lu trois chapitres.
+l'extrait | extract | m | Lisez cet extrait.
+la citation | quotation | f | Une citation de Camus.
+paraître | to be published, to appear | v | Son roman paraît en mars.
+publier | to publish | v | Il a publié dix livres.
+l'éditeur | publisher | m | Elle cherche un éditeur.
+le lecteur | reader | m | Le lecteur est surpris.
+la mise en scène | staging, directing | f | La mise en scène est originale.
+le metteur en scène | stage director | m | Le metteur en scène est jeune.
+la pièce de théâtre | play | f | Une pièce de théâtre de Molière.
+le comédien | actor (stage) | m | Les comédiens saluent.
+le décor | set, scenery | m | Le décor est sobre.
+la répétition | rehearsal, repetition | f | La répétition commence à 14 h.
+l'interprétation | performance, interpretation | f | Son interprétation est remarquable.
+l'artiste | artist | mf | C'est une artiste reconnue.
+la toile | canvas, web | f | Une toile de Picasso.
+le portrait | portrait | m | Un portrait du roi.
+la gravure | engraving | f | Une gravure ancienne.
+le vernissage | exhibition opening | m | Le vernissage a lieu jeudi.
+la galerie | gallery | f | Une galerie d'art contemporain.
+contemporain | contemporary | adj | L'art contemporain.
+abstrait | abstract | adj | Un tableau abstrait.
+le courant | movement, current | m | Un courant artistique.
+s'inspirer de | to be inspired by | phr | Il s'inspire de la nature.
+évoquer | to evoke, to mention | v | Ce roman évoque la guerre.
+dépeindre | to depict | v | L'auteur dépeint la vie rurale.
+bouleversant | deeply moving | adj | Un film bouleversant.
+
+## psychology | Psychology & behaviour | 🧩
+le comportement | behaviour | m | Son comportement est étrange.
+l'attitude | attitude | f | Change d'attitude !
+le caractère | character, temperament | m | Il a mauvais caractère.
+la personnalité | personality | f | Elle a une forte personnalité.
+l'estime de soi | self-esteem | f | Il manque d'estime de soi.
+la confiance en soi | self-confidence | f | Elle a gagné en confiance en soi.
+la volonté | will, willpower | f | Il a beaucoup de volonté.
+la motivation | motivation | f | Je manque de motivation.
+l'ambition | ambition | f | Elle a de l'ambition.
+la conscience | conscience, awareness | f | J'ai bonne conscience.
+l'inconscient | the unconscious | m | L'inconscient joue un rôle.
+l'état d'esprit | state of mind | m | Il est dans un bon état d'esprit.
+le traumatisme | trauma | m | Un traumatisme d'enfance.
+le deuil | mourning, grief | m | Elle fait son deuil.
+l'épuisement professionnel | burnout | m | Il est en épuisement professionnel.
+la pression | pressure | f | Je suis sous pression.
+l'anxiété | anxiety | f | L'anxiété l'empêche de dormir.
+le soulagement | relief | m | Quel soulagement !
+la culpabilité | guilt | f | Un sentiment de culpabilité.
+la méfiance | distrust | f | Il y a de la méfiance entre eux.
+se méfier | to be wary | v | Méfie-toi de lui.
+la lâcheté | cowardice | f | C'est de la lâcheté.
+le mépris | contempt | m | Il me regarde avec mépris.
+mépriser | to despise | v | Elle méprise les menteurs.
+l'orgueil | pride, arrogance | m | Son orgueil l'empêche de s'excuser.
+l'humilité | humility | f | Il fait preuve d'humilité.
+la bienveillance | kindness, goodwill | f | Elle agit avec bienveillance.
+l'empathie | empathy | f | Il manque d'empathie.
+se remettre en question | to question oneself | phr | Il faut savoir se remettre en question.
+surmonter | to overcome | v | Elle a surmonté sa peur.
+affronter | to face | v | Il faut affronter le problème.
+s'adapter | to adapt | v | Elle s'adapte vite.
+réagir | to react | v | Comment a-t-il réagi ?
+se comporter | to behave | v | Il se comporte mal.
+manipuler | to manipulate | v | Il manipule les gens.
+influencer | to influence | v | Ses amis l'influencent.
+épanoui | fulfilled | adj | Elle est épanouie dans son travail.
+lucide | clear-sighted | adj | Il est lucide sur ses défauts.
+susceptible | touchy | adj | Elle est très susceptible.
+le défaut | flaw, fault | m | Personne n'est sans défaut.
+l'atout | asset, strength | m | Sa patience est un atout.
+la mémoire à court terme | short-term memory | f | Sa mémoire à court terme est excellente.
+
+## argument | Building an argument | 🗯️
+la thèse défendue | position defended | f | La thèse défendue par l'auteur.
+l'argumentation | argumentation | f | Son argumentation est solide.
+le raisonnement | reasoning | m | Ton raisonnement est logique.
+la conclusion | conclusion | f | En conclusion, je dirais que…
+l'introduction | introduction | f | L'introduction est trop longue.
+le constat | observation, finding | m | Le constat est alarmant.
+la cause | cause | f | Quelle est la cause du problème ?
+la conséquence | consequence | f | Les conséquences sont graves.
+l'origine | origin | f | L'origine du conflit.
+le facteur | factor | m | Un facteur important.
+l'impact | impact | m | L'impact est considérable.
+entraîner | to lead to, to cause | v | Cela entraîne des retards.
+provoquer | to cause, to provoke | v | La pluie a provoqué des inondations.
+résulter | to result | v | Il en résulte une perte.
+constater | to note, to observe | v | On constate une amélioration.
+estimer | to consider, to estimate | v | J'estime que c'est injuste.
+considérer | to consider | v | Je le considère comme un ami.
+soutenir que | to maintain that | phr | Il soutient que c'est faux.
+contester | to dispute | v | Elle conteste la décision.
+réfuter | to refute | v | Il réfute cet argument.
+nuancer | to qualify, to nuance | v | Il faut nuancer ce propos.
+mettre en évidence | to highlight | phr | L'étude met en évidence un lien.
+mettre en cause | to call into question | phr | Sa responsabilité est mise en cause.
+remettre en cause | to challenge | phr | Cette découverte remet tout en cause.
+tenir compte de | to take into account | phr | Il faut tenir compte du contexte.
+il s'agit de | it is about | phr | Il s'agit d'un problème complexe.
+en ce qui concerne | as regards | phr | En ce qui concerne le budget…
+quant à | as for | prep | Quant à moi, je reste.
+d'une part | on the one hand | adv | D'une part, c'est cher.
+d'autre part | on the other hand | adv | D'autre part, c'est risqué.
+par conséquent | consequently | adv | Par conséquent, nous annulons.
+c'est pourquoi | that is why | phr | C'est pourquoi je refuse.
+ainsi | thus, in this way | adv | Ainsi, tout le monde est content.
+en outre | moreover | adv | En outre, il est en retard.
+de plus | moreover | adv | De plus, c'est gratuit.
+néanmoins | nevertheless | adv | Néanmoins, je reste prudent.
+toutefois | however | adv | Toutefois, il reste un problème.
+bien que | although | conj | Bien qu'il pleuve, je sors.
+à condition que | provided that | conj | Je viens à condition que tu viennes.
+afin de | in order to | prep | Afin de réussir, il travaille dur.
+autrement dit | in other words | adv | Autrement dit, c'est impossible.
+en somme | in short | adv | En somme, tout va bien.
+
+## media | Media & communication | 📰
+les médias | media | m | Les médias en parlent.
+la presse | press | f | La presse est libre.
+l'hebdomadaire | weekly magazine | m | Un hebdomadaire d'actualité.
+le rédacteur en chef | editor-in-chief | m | Le rédacteur en chef a validé l'article.
+la rédaction d'un journal | newsroom | f | La rédaction d'un journal local.
+l'éditorial | editorial | m | L'éditorial critique le gouvernement.
+la rubrique | section, column | f | La rubrique sport.
+le fait divers | news item | m | Un fait divers tragique.
+le scoop | scoop | m | Le journal a eu un scoop.
+la source | source | f | Selon une source fiable.
+la rumeur | rumour | f | Une rumeur circule.
+l'infox | fake news | f | Cette infox a fait le tour du monde.
+la désinformation | disinformation | f | La désinformation est un danger.
+vérifier | to check | v | Il faut vérifier les faits.
+censurer | to censor | v | L'article a été censuré.
+la censure | censorship | f | La censure est forte dans ce pays.
+la liberté de la presse | freedom of the press | f | La liberté de la presse recule.
+l'audience | audience, ratings | f | L'émission bat des records d'audience.
+le téléspectateur | TV viewer | m | Les téléspectateurs ont voté.
+l'auditeur | listener | m | Les auditeurs peuvent appeler.
+l'animateur | host, presenter | m | L'animateur pose les questions.
+le débat télévisé | TV debate | m | Le débat télévisé a duré deux heures.
+interviewer | to interview | v | Elle a interviewé le président.
+l'entretien exclusif | exclusive interview | m | Un entretien exclusif avec l'auteur.
+le communiqué | press release | m | Le communiqué a été publié ce matin.
+la conférence de presse | press conference | f | Une conférence de presse à 18 h.
+annoncer | to announce | v | Il a annoncé sa démission.
+révéler | to reveal | v | L'enquête a révélé un scandale.
+dénoncer | to denounce | v | Ils dénoncent une injustice.
+relayer | to relay, to pass on | v | L'information a été relayée partout.
+le buzz | buzz | m | La vidéo a fait le buzz.
+viral | viral | adj | La vidéo est devenue virale.
+l'influenceur | influencer | m | Un influenceur très suivi.
+le contenu | content | m | Le contenu est de qualité.
+le mot-clé | keyword | m | Tape un mot-clé.
+le slogan | slogan | m | Un slogan efficace.
+cibler | to target | v | La publicité cible les jeunes.
+le quotidien national | national daily | m | Un grand quotidien national.
+la campagne publicitaire | advertising campaign | f | Une campagne publicitaire réussie.
+impartial | impartial | adj | Un journaliste doit rester impartial.
+l'abonnement numérique | digital subscription | m | J'ai un abonnement numérique au journal.
+
+## medicine | Health & medicine | 💊
+le diagnostic | diagnosis | m | Le diagnostic est clair.
+le dépistage | screening | m | Le dépistage est gratuit.
+la tumeur | tumour | f | La tumeur est bénigne.
+le cancer | cancer | m | Il lutte contre un cancer.
+le diabète | diabetes | m | Elle souffre de diabète.
+l'infarctus | heart attack | m | Il a fait un infarctus.
+l'AVC | stroke | m | Elle a eu un AVC.
+la maladie chronique | chronic illness | f | C'est une maladie chronique.
+contagieux | contagious | adj | Ce virus est très contagieux.
+l'épidémie | epidemic | f | L'épidémie se propage.
+la pandémie | pandemic | f | La pandémie a tout changé.
+le confinement | lockdown | m | Pendant le confinement.
+l'immunité | immunity | f | L'immunité collective.
+l'antibiotique | antibiotic | m | Le médecin a prescrit un antibiotique.
+prescrire | to prescribe | v | Il m'a prescrit du repos.
+les effets secondaires | side effects | m | Ce médicament a des effets secondaires.
+la greffe | transplant | f | Une greffe de rein.
+le don d'organes | organ donation | m | Le don d'organes sauve des vies.
+la chirurgie | surgery | f | La chirurgie a duré trois heures.
+l'anesthésie | anaesthesia | f | Une anesthésie générale.
+la rééducation | rehabilitation, physio | f | Six semaines de rééducation.
+la convalescence | recovery period | f | Il est en convalescence.
+le soignant | caregiver, health worker | m | Les soignants sont épuisés.
+la sage-femme | midwife | f | La sage-femme suit la grossesse.
+la grossesse | pregnancy | f | Une grossesse sans problème.
+l'accouchement | childbirth | m | L'accouchement s'est bien passé.
+le vieillissement | ageing | m | Le vieillissement de la population.
+l'espérance de vie | life expectancy | f | L'espérance de vie augmente.
+la santé mentale | mental health | f | La santé mentale est importante.
+le trouble | disorder | m | Un trouble du sommeil.
+l'addiction | addiction | f | Une addiction aux écrans.
+le sevrage | withdrawal | m | Le sevrage est difficile.
+la carence | deficiency | f | Une carence en fer.
+l'obésité | obesity | f | L'obésité touche de plus en plus d'enfants.
+la sédentarité | sedentary lifestyle | f | La sédentarité est un risque.
+le système de santé | health system | m | Le système de santé est sous pression.
+le désert médical | area lacking doctors | m | Cette région est un désert médical.
+bénin | benign, minor | adj | C'est une blessure bénigne.
+aigu | acute, sharp | adj | Une douleur aiguë.
+soulager | to relieve | v | Ce médicament soulage la douleur.
+
+## nuance | Nuance words | ✨
+considérable | considerable | adj | Un effort considérable.
+négligeable | negligible | adj | Une différence négligeable.
+essentiel | essential | adj | C'est essentiel.
+primordial | crucial | adj | C'est d'une importance primordiale.
+indispensable | indispensable | adj | Ton aide est indispensable.
+inévitable | inevitable | adj | C'était inévitable.
+incontournable | unmissable, unavoidable | adj | Un lieu incontournable.
+pertinent | relevant | adj | Une remarque pertinente.
+cohérent | coherent, consistent | adj | Un discours cohérent.
+ambigu | ambiguous | adj | Sa réponse est ambiguë.
+flou | vague, blurry | adj | Le projet reste flou.
+précis | precise | adj | Sois plus précis.
+subtil | subtle | adj | Une différence subtile.
+complexe | complex | adj | Un problème complexe.
+inattendu | unexpected | adj | Un résultat inattendu.
+frappant | striking | adj | Une ressemblance frappante.
+remarquable | remarkable | adj | Un travail remarquable.
+médiocre | mediocre | adj | Un résultat médiocre.
+décevant | disappointing | adj | Le film est décevant.
+controversé | controversial | adj | Un sujet controversé.
+délicat | delicate, tricky | adj | Une situation délicate.
+préoccupant | worrying | adj | Une situation préoccupante.
+envisageable | conceivable | adj | C'est une solution envisageable.
+souhaitable | desirable | adj | Ce n'est pas souhaitable.
+exigeant | demanding | adj | Un professeur exigeant.
+rigoureux | rigorous | adj | Un travail rigoureux.
+étonnant | surprising | adj | C'est étonnant !
+davantage | more | adv | Il faut travailler davantage.
+désormais | from now on | adv | Désormais, je me lève tôt.
+dorénavant | henceforth | adv | Dorénavant, soyez à l'heure.
+auparavant | previously | adv | Auparavant, j'habitais à Lyon.
+actuellement | currently | adv | Je travaille actuellement à Paris.
+éventuellement | possibly | adv | On pourrait éventuellement partir demain.
+notamment | in particular | adv | Il aime le sport, notamment le tennis.
+quasiment | almost | adv | C'est quasiment impossible.
+largement | widely, easily | adv | C'est largement suffisant.
+nettement | clearly, markedly | adv | C'est nettement mieux.
+progressivement | gradually | adv | La situation s'améliore progressivement.
+soi-disant | supposedly | adv | Il est soi-disant malade.
+volontiers | gladly | adv | Je viendrai volontiers.
+en vain | in vain | adv | J'ai cherché en vain.
+tout juste | only just | adv | Il avait tout juste commencé.
+
+## idioms2 | Idiomatic expressions | 🎯
+avoir le cafard | to feel down | phr | J'ai le cafard aujourd'hui.
+avoir un coup de foudre | to fall in love at first sight | phr | Ils ont eu un coup de foudre.
+avoir la flemme | to not feel like it (lazy) | phr | J'ai la flemme de sortir.
+avoir du pain sur la planche | to have a lot on one's plate | phr | J'ai du pain sur la planche.
+avoir un poil dans la main | to be very lazy | phr | Il a un poil dans la main.
+en avoir ras le bol | to be fed up | phr | J'en ai ras le bol de ce travail.
+coûter les yeux de la tête | to cost an arm and a leg | phr | Cette voiture coûte les yeux de la tête.
+tomber dans les pommes | to faint | phr | Elle est tombée dans les pommes.
+poser un lapin | to stand someone up | phr | Il m'a posé un lapin.
+donner sa langue au chat | to give up guessing | phr | Je donne ma langue au chat.
+mettre les pieds dans le plat | to put one's foot in it | phr | Il a mis les pieds dans le plat.
+casser les pieds | to annoy | phr | Tu me casses les pieds !
+faire d'une pierre deux coups | to kill two birds with one stone | phr | J'ai fait d'une pierre deux coups.
+passer du coq à l'âne | to jump from one topic to another | phr | Il passe du coq à l'âne.
+prendre la mouche | to take offence | phr | Elle prend la mouche pour rien.
+jeter l'éponge | to throw in the towel | phr | Il a jeté l'éponge.
+tourner la page | to move on | phr | Il est temps de tourner la page.
+être dans la lune | to have one's head in the clouds | phr | Tu es dans la lune !
+être sur les nerfs | to be on edge | phr | Je suis sur les nerfs.
+être au courant | to be informed | phr | Tu es au courant ?
+être à l'aise | to be comfortable | phr | Je ne suis pas à l'aise ici.
+être débordé | to be swamped | phr | Je suis débordé de travail.
+faire la sourde oreille | to turn a deaf ear | phr | Il fait la sourde oreille.
+garder son sang-froid | to keep calm | phr | Elle a gardé son sang-froid.
+perdre le fil | to lose the thread | phr | J'ai perdu le fil de la conversation.
+prendre du recul | to step back | phr | Il faut prendre du recul.
+remonter le moral | to cheer up | phr | Tu m'as remonté le moral.
+se serrer les coudes | to stick together | phr | Il faut se serrer les coudes.
+tenir le coup | to hold on, to cope | phr | Tiens le coup !
+mettre la main à la pâte | to pitch in | phr | Tout le monde a mis la main à la pâte.
+ne pas être dans son assiette | to feel out of sorts | phr | Je ne suis pas dans mon assiette.
+il pleut des cordes | it's raining cats and dogs | phr | Prends un parapluie, il pleut des cordes.
+ce n'est pas la mer à boire | it's not that hard | phr | Allez, ce n'est pas la mer à boire.
+les doigts dans le nez | very easily | phr | J'ai réussi les doigts dans le nez.
+au pied de la lettre | literally | phr | Ne prends pas tout au pied de la lettre.
+à la longue | in the long run | phr | À la longue, on s'habitue.
+sur-le-champ | immediately | adv | Il est parti sur-le-champ.
+de fil en aiguille | one thing leading to another | phr | De fil en aiguille, on est devenus amis.
+tôt ou tard | sooner or later | phr | Tôt ou tard, il le saura.
+coûte que coûte | at all costs | phr | Il faut réussir coûte que coûte.

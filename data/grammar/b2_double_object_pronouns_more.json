@@ -1,0 +1,485 @@
+{
+  "texts": [],
+  "questions": [
+    {
+      "id": "b2-double_object_pronouns-051",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "double_object_pronouns",
+      "question": "Il me prête son vélo. → Il ___ prête.",
+      "options": [
+        "me le",
+        "le me",
+        "me lui",
+        "le moi"
+      ],
+      "answer": 0,
+      "explanation": "Me, te, se, nous, vous come before le, la, les: il me le donne, je te la prête.",
+      "textId": null
+    },
+    {
+      "id": "b2-double_object_pronouns-052",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "double_object_pronouns",
+      "question": "Je te donne mon adresse. → Je ___ donne.",
+      "options": [
+        "la te",
+        "te la",
+        "te lui",
+        "la toi"
+      ],
+      "answer": 1,
+      "explanation": "Me, te, se, nous, vous come before le, la, les: il me le donne, je te la prête.",
+      "textId": null
+    },
+    {
+      "id": "b2-double_object_pronouns-053",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "double_object_pronouns",
+      "question": "Elle nous montre ses photos. → Elle ___ montre.",
+      "options": [
+        "les nous",
+        "nous leur",
+        "nous les",
+        "leur nous"
+      ],
+      "answer": 2,
+      "explanation": "Me, te, se, nous, vous come before le, la, les: il me le donne, je te la prête.",
+      "textId": null
+    },
+    {
+      "id": "b2-double_object_pronouns-054",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "double_object_pronouns",
+      "question": "Tu me rends mes clés ? → Tu ___ rends ?",
+      "options": [
+        "les me",
+        "me leur",
+        "les moi",
+        "me les"
+      ],
+      "answer": 3,
+      "explanation": "Me, te, se, nous, vous come before le, la, les: il me le donne, je te la prête.",
+      "textId": null
+    },
+    {
+      "id": "b2-double_object_pronouns-055",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "double_object_pronouns",
+      "question": "Je vous envoie le contrat demain. → Je ___ envoie demain.",
+      "options": [
+        "vous l’",
+        "le vous",
+        "vous lui",
+        "l’vous"
+      ],
+      "answer": 0,
+      "explanation": "Me, te, se, nous, vous come before le, la, les: il me le donne, je te la prête.",
+      "textId": null
+    },
+    {
+      "id": "b2-double_object_pronouns-056",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "double_object_pronouns",
+      "question": "Il s’achète cette montre. → Il ___ achète.",
+      "options": [
+        "la se",
+        "se l’",
+        "lui l’",
+        "se lui"
+      ],
+      "answer": 1,
+      "explanation": "Me, te, se, nous, vous come before le, la, les: il me le donne, je te la prête.",
+      "textId": null
+    },
+    {
+      "id": "b2-double_object_pronouns-057",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "double_object_pronouns",
+      "question": "Je donne ce livre à Paul. → Je ___ donne.",
+      "options": [
+        "lui le",
+        "le leur",
+        "le lui",
+        "lui en"
+      ],
+      "answer": 2,
+      "explanation": "Le, la, les come before lui and leur: je le lui donne, elle les leur envoie.",
+      "textId": null
+    },
+    {
+      "id": "b2-double_object_pronouns-058",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "double_object_pronouns",
+      "question": "Elle explique la règle aux élèves. → Elle ___ explique.",
+      "options": [
+        "leur la",
+        "la lui",
+        "les leur",
+        "la leur"
+      ],
+      "answer": 3,
+      "explanation": "Le, la, les come before lui and leur: je le lui donne, elle les leur envoie.",
+      "textId": null
+    },
+    {
+      "id": "b2-double_object_pronouns-059",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "double_object_pronouns",
+      "question": "Nous envoyons les documents au directeur. → Nous ___ envoyons.",
+      "options": [
+        "les lui",
+        "lui les",
+        "les leur",
+        "le lui"
+      ],
+      "answer": 0,
+      "explanation": "Le, la, les come before lui and leur: je le lui donne, elle les leur envoie.",
+      "textId": null
+    },
+    {
+      "id": "b2-double_object_pronouns-060",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "double_object_pronouns",
+      "question": "Tu racontes cette histoire à tes enfants ? → Tu ___ racontes ?",
+      "options": [
+        "leur la",
+        "la leur",
+        "la lui",
+        "les leur"
+      ],
+      "answer": 1,
+      "explanation": "Le, la, les come before lui and leur: je le lui donne, elle les leur envoie.",
+      "textId": null
+    },
+    {
+      "id": "b2-double_object_pronouns-061",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "double_object_pronouns",
+      "question": "Je donne des conseils à mon frère. → Je ___ donne.",
+      "options": [
+        "en lui",
+        "le lui",
+        "lui en",
+        "lui y"
+      ],
+      "answer": 2,
+      "explanation": "Y and en always come last, and en comes after every other pronoun: je lui en donne, il m’en parle, il y en a.",
+      "textId": null
+    },
+    {
+      "id": "b2-double_object_pronouns-062",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "double_object_pronouns",
+      "question": "Il parle de ses problèmes à ses parents. → Il ___ parle.",
+      "options": [
+        "en leur",
+        "les leur",
+        "leur y",
+        "leur en"
+      ],
+      "answer": 3,
+      "explanation": "Y and en always come last, and en comes after every other pronoun: je lui en donne, il m’en parle, il y en a.",
+      "textId": null
+    },
+    {
+      "id": "b2-double_object_pronouns-063",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "double_object_pronouns",
+      "question": "Elle m’a offert des fleurs. → Elle ___ a offert.",
+      "options": [
+        "m’en",
+        "en m’",
+        "me les",
+        "m’y"
+      ],
+      "answer": 0,
+      "explanation": "Y and en always come last, and en comes after every other pronoun: je lui en donne, il m’en parle, il y en a.",
+      "textId": null
+    },
+    {
+      "id": "b2-double_object_pronouns-064",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "double_object_pronouns",
+      "question": "Je t’emmène à la gare. → Je ___ emmène.",
+      "options": [
+        "y te",
+        "t’y",
+        "te la",
+        "t’en"
+      ],
+      "answer": 1,
+      "explanation": "Y and en always come last, and en comes after every other pronoun: je lui en donne, il m’en parle, il y en a.",
+      "textId": null
+    },
+    {
+      "id": "b2-double_object_pronouns-065",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "double_object_pronouns",
+      "question": "Il y a du lait ? — Oui, il ___ a.",
+      "options": [
+        "en y",
+        "y l’",
+        "y en",
+        "l’en"
+      ],
+      "answer": 2,
+      "explanation": "Y and en always come last, and en comes after every other pronoun: je lui en donne, il m’en parle, il y en a.",
+      "textId": null
+    },
+    {
+      "id": "b2-double_object_pronouns-066",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "double_object_pronouns",
+      "question": "Nous vous donnons des nouvelles bientôt. → Nous ___ donnons bientôt.",
+      "options": [
+        "en vous",
+        "vous les",
+        "vous y",
+        "vous en"
+      ],
+      "answer": 3,
+      "explanation": "Y and en always come last, and en comes after every other pronoun: je lui en donne, il m’en parle, il y en a.",
+      "textId": null
+    },
+    {
+      "id": "b2-double_object_pronouns-067",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "double_object_pronouns",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "Je ne le lui ai pas dit.",
+        "Je le lui n’ai pas dit.",
+        "Je ne lui l’ai pas dit.",
+        "Je ne le lui pas ai dit."
+      ],
+      "answer": 0,
+      "explanation": "In the negative, ne goes before both pronouns and pas after the verb (or the auxiliary): je ne le lui ai pas dit.",
+      "textId": null
+    },
+    {
+      "id": "b2-double_object_pronouns-068",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "double_object_pronouns",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "Elle me ne les a pas rendus.",
+        "Elle ne me les a pas rendus.",
+        "Elle ne les m’a pas rendus.",
+        "Elle ne me les pas a rendus."
+      ],
+      "answer": 1,
+      "explanation": "In the negative, ne goes before both pronouns and pas after the verb (or the auxiliary): je ne le lui ai pas dit.",
+      "textId": null
+    },
+    {
+      "id": "b2-double_object_pronouns-069",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "double_object_pronouns",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "Nous n’en leur parlons jamais.",
+        "Nous leur n’en parlons jamais.",
+        "Nous ne leur en parlons jamais.",
+        "Nous ne leur parlons en jamais."
+      ],
+      "answer": 2,
+      "explanation": "In the negative, ne goes before both pronouns and pas after the verb (or the auxiliary): je ne le lui ai pas dit.",
+      "textId": null
+    },
+    {
+      "id": "b2-double_object_pronouns-070",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "double_object_pronouns",
+      "question": "Ce livre, donne-___ ! (à moi)",
+      "options": [
+        "moi-le",
+        "me-le",
+        "le-me",
+        "le-moi"
+      ],
+      "answer": 3,
+      "explanation": "In a positive command the order is verb + le / la / les + moi / toi / lui / nous / vous / leur, with hyphens: donne-le-moi. Before en, moi and toi become m’ and t’: donne-m’en.",
+      "textId": null
+    },
+    {
+      "id": "b2-double_object_pronouns-071",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "double_object_pronouns",
+      "question": "Cette lettre, envoyez-___ ! (à eux)",
+      "options": [
+        "la-leur",
+        "leur-la",
+        "la-lui",
+        "les-leur"
+      ],
+      "answer": 0,
+      "explanation": "In a positive command the order is verb + le / la / les + moi / toi / lui / nous / vous / leur, with hyphens: donne-le-moi. Before en, moi and toi become m’ and t’: donne-m’en.",
+      "textId": null
+    },
+    {
+      "id": "b2-double_object_pronouns-072",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "double_object_pronouns",
+      "question": "Ces photos, montre-___ ! (à nous)",
+      "options": [
+        "nous-les",
+        "les-nous",
+        "nous-en",
+        "les-leur"
+      ],
+      "answer": 1,
+      "explanation": "In a positive command the order is verb + le / la / les + moi / toi / lui / nous / vous / leur, with hyphens: donne-le-moi. Before en, moi and toi become m’ and t’: donne-m’en.",
+      "textId": null
+    },
+    {
+      "id": "b2-double_object_pronouns-073",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "double_object_pronouns",
+      "question": "Du café ? Donne-___ un peu. (à moi)",
+      "options": [
+        "moi-en",
+        "en-moi",
+        "m’en",
+        "me-en"
+      ],
+      "answer": 2,
+      "explanation": "In a positive command the order is verb + le / la / les + moi / toi / lui / nous / vous / leur, with hyphens: donne-le-moi. Before en, moi and toi become m’ and t’: donne-m’en.",
+      "textId": null
+    },
+    {
+      "id": "b2-double_object_pronouns-074",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "double_object_pronouns",
+      "question": "La vérité, dites-___ ! (à lui)",
+      "options": [
+        "lui-la",
+        "le-lui",
+        "la-leur",
+        "la-lui"
+      ],
+      "answer": 3,
+      "explanation": "In a positive command the order is verb + le / la / les + moi / toi / lui / nous / vous / leur, with hyphens: donne-le-moi. Before en, moi and toi become m’ and t’: donne-m’en.",
+      "textId": null
+    },
+    {
+      "id": "b2-double_object_pronouns-075",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "double_object_pronouns",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "Ne me le dis pas !",
+        "Ne dis-le-moi pas !",
+        "Ne le me dis pas !",
+        "Ne dis pas le-moi !"
+      ],
+      "answer": 0,
+      "explanation": "In a negative command the pronouns go back before the verb in the normal order: ne me le donne pas.",
+      "textId": null
+    },
+    {
+      "id": "b2-double_object_pronouns-076",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "double_object_pronouns",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "Ne leur la montrez pas.",
+        "Ne la leur montrez pas.",
+        "Ne montrez-la-leur pas.",
+        "Ne la montrez leur pas."
+      ],
+      "answer": 1,
+      "explanation": "In a negative command the pronouns go back before the verb in the normal order: ne me le donne pas.",
+      "textId": null
+    },
+    {
+      "id": "b2-double_object_pronouns-077",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "double_object_pronouns",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "Je lui l’ai donnée hier.",
+        "J’ai la lui donnée hier.",
+        "Je la lui ai donnée hier.",
+        "Je la lui ai donné hier."
+      ],
+      "answer": 2,
+      "explanation": "In compound tenses both pronouns go before the auxiliary, and the participle agrees with a preceding le, la, les: je la lui ai donnée.",
+      "textId": null
+    },
+    {
+      "id": "b2-double_object_pronouns-078",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "double_object_pronouns",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "Il les m’a montrés.",
+        "Il m’a les montrés.",
+        "Il me les a montré.",
+        "Il me les a montrés."
+      ],
+      "answer": 3,
+      "explanation": "In compound tenses both pronouns go before the auxiliary, and the participle agrees with a preceding le, la, les: je la lui ai donnée.",
+      "textId": null
+    },
+    {
+      "id": "b2-double_object_pronouns-079",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "double_object_pronouns",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "Elle nous en a parlé.",
+        "Elle en nous a parlé.",
+        "Elle nous a en parlé.",
+        "Elle nous en a parlée."
+      ],
+      "answer": 0,
+      "explanation": "In compound tenses both pronouns go before the auxiliary, and the participle agrees with a preceding le, la, les: je la lui ai donnée.",
+      "textId": null
+    },
+    {
+      "id": "b2-double_object_pronouns-080",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "double_object_pronouns",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "Je te le vais prêter.",
+        "Je vais te le prêter.",
+        "Je vais le te prêter.",
+        "Je vais prêter te le."
+      ],
+      "answer": 1,
+      "explanation": "With aller + infinitive, both pronouns go before the infinitive, in the normal order: je vais te le prêter.",
+      "textId": null
+    }
+  ]
+}

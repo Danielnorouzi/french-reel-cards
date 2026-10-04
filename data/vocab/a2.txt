@@ -1,0 +1,538 @@
+## routine | Daily routine | ⏰
+se réveiller | to wake up | v | Je me réveille à six heures.
+se doucher | to have a shower | v | Je me douche le matin.
+s'habiller | to get dressed | v | Elle s'habille vite.
+se brosser les dents | to brush one's teeth | phr | Je me brosse les dents après le repas.
+se coucher | to go to bed | v | Je me couche tard.
+se reposer | to rest | v | Je me repose le dimanche.
+se dépêcher | to hurry | v | Dépêche-toi, on est en retard !
+se promener | to go for a walk | v | On se promène au bord du lac.
+le réveil | alarm clock | m | Mon réveil sonne à sept heures.
+l'habitude | habit | f | J'ai l'habitude de me lever tôt.
+d'habitude | usually | adv | D'habitude, je prends le bus.
+quotidien | daily | adj | C'est ma routine quotidienne.
+le ménage | housework | m | Je fais le ménage le samedi.
+la vaisselle | washing-up, dishes | f | Qui fait la vaisselle ce soir ?
+la lessive | laundry | f | Je fais la lessive.
+les courses | shopping (food) | f | Je fais les courses au marché.
+cuisiner | to cook | v | J'aime cuisiner pour mes amis.
+préparer | to prepare | v | Je prépare le dîner.
+ranger | to tidy up | v | Range ta chambre !
+nettoyer | to clean | v | Je nettoie la cuisine.
+laver | to wash | v | Je lave la voiture.
+passer l'aspirateur | to vacuum | phr | Je passe l'aspirateur dans le salon.
+sortir la poubelle | to take out the bin | phr | N'oublie pas de sortir la poubelle.
+rencontrer | to meet | v | J'ai rencontré Paul hier.
+retrouver | to meet up with, to find again | v | Je retrouve mes amis au café.
+passer | to spend (time), to pass | v | Je passe la soirée chez moi.
+en retard | late | phr | Je suis en retard.
+à l'heure | on time | phr | Le train est à l'heure.
+en avance | early, ahead of time | phr | Tu es en avance !
+pressé | in a hurry | adj | Désolé, je suis pressé.
+occupé | busy | adj | Je suis très occupé cette semaine.
+tous les jours | every day | phr | Je cours tous les jours.
+de temps en temps | from time to time | phr | Je vais au cinéma de temps en temps.
+rarement | rarely | adv | Je regarde rarement la télé.
+ensuite | then, next | adv | Je mange, ensuite je travaille.
+d'abord | first | adv | D'abord, je prends un café.
+enfin | finally, at last | adv | Enfin, tu es là !
+la journée | day (duration) | f | Bonne journée !
+la soirée | evening (duration), party | f | Bonne soirée !
+le lendemain | the next day | m | Le lendemain, il a plu.
+
+## shopping | Shopping & money | 🛍️
+le client | customer | m | Le client paie à la caisse.
+le vendeur | salesperson | m | Le vendeur est très aimable.
+la caisse | checkout, till | f | On paie à la caisse.
+la monnaie | change (coins) | f | Vous avez de la monnaie ?
+les espèces | cash | f | Je paie en espèces.
+la carte bancaire | bank card | f | Vous acceptez la carte bancaire ?
+le ticket | receipt, ticket | m | Gardez le ticket de caisse.
+le reçu | receipt | m | Je voudrais un reçu.
+les soldes | sales | m | Les soldes commencent demain.
+la réduction | discount | f | Il y a une réduction de 20 %.
+gratuit | free (no cost) | adj | L'entrée est gratuite.
+bon marché | cheap | adj | Ce magasin est bon marché.
+dépenser | to spend (money) | v | Je dépense trop d'argent.
+économiser | to save (money) | v | J'économise pour les vacances.
+vendre | to sell | v | Il vend sa voiture.
+essayer | to try, to try on | v | Je peux essayer cette veste ?
+échanger | to exchange | v | Je voudrais échanger ce pull.
+rembourser | to refund, to pay back | v | Le magasin m'a remboursé.
+choisir | to choose | v | Je choisis le bleu.
+la cabine d'essayage | fitting room | f | La cabine d'essayage est au fond.
+la pointure | shoe size | f | Quelle est votre pointure ?
+le rayon | department, aisle | m | Le rayon fruits et légumes.
+le panier | basket | m | Mon panier est plein.
+le sac en plastique | plastic bag | m | Vous voulez un sac en plastique ?
+le cadeau | present, gift | m | C'est un cadeau pour ma sœur.
+la marque | brand | f | C'est une marque connue.
+la qualité | quality | f | C'est de bonne qualité.
+d'occasion | second-hand | adj | J'ai acheté une voiture d'occasion.
+la boucherie | butcher's | f | J'achète la viande à la boucherie.
+l'épicerie | grocery shop | f | Il y a une épicerie au coin.
+la librairie | bookshop | f | J'ai trouvé ce roman à la librairie.
+le centre commercial | shopping centre | m | On va au centre commercial.
+commander | to order | v | J'ai commandé des chaussures en ligne.
+livrer | to deliver | v | Le colis est livré demain.
+le colis | parcel | m | J'attends un colis.
+la facture | bill, invoice | f | J'ai reçu la facture d'électricité.
+le compte | account | m | J'ai ouvert un compte en banque.
+retirer | to withdraw | v | Je retire de l'argent.
+le distributeur | cash machine | m | Où est le distributeur ?
+emprunter | to borrow | v | Je peux emprunter ton stylo ?
+prêter | to lend | v | Tu me prêtes dix euros ?
+
+## cooking | Restaurant & cooking | 🍽️
+le plat | dish | m | Quel est le plat du jour ?
+l'entrée | starter, entrance | f | En entrée, je prends la soupe.
+le dessert | dessert | m | Vous prenez un dessert ?
+la boisson | drink | f | Et comme boisson ?
+le serveur | waiter | m | Le serveur apporte le menu.
+le pourboire | tip | m | On laisse un pourboire ?
+réserver | to book | v | J'ai réservé une table pour deux.
+goûter | to taste | v | Goûte cette sauce !
+la recette | recipe | f | C'est une recette de ma grand-mère.
+l'ingrédient | ingredient | m | Il manque un ingrédient.
+la farine | flour | f | Il faut 200 grammes de farine.
+l'huile | oil | f | Ajoute un peu d'huile.
+le poivre | pepper (spice) | m | Sel et poivre, s'il vous plaît.
+l'ail | garlic | m | J'adore l'ail.
+l'oignon | onion | m | Coupe un oignon.
+le champignon | mushroom | m | Une omelette aux champignons.
+le jambon | ham | m | Un sandwich au jambon.
+le bœuf | beef | m | Un steak de bœuf.
+le porc | pork | m | Je ne mange pas de porc.
+le saumon | salmon | m | Du saumon avec du riz.
+les fruits de mer | seafood | m | J'adore les fruits de mer.
+le citron | lemon | m | Du thé au citron.
+la poire | pear | f | Cette poire est mûre.
+le raisin | grapes | m | J'achète du raisin.
+la cerise | cherry | f | Les cerises sont rouges.
+le yaourt | yoghurt | m | Je mange un yaourt.
+la confiture | jam | f | Du pain avec de la confiture.
+le miel | honey | m | Du thé avec du miel.
+la crêpe | pancake, crêpe | f | On fait des crêpes ce soir.
+la tarte | tart, pie | f | Une tarte aux pommes.
+la fourchette | fork | f | Il me faut une fourchette.
+le couteau | knife | m | Ce couteau coupe bien.
+la cuillère | spoon | f | Une cuillère de sucre.
+la casserole | saucepan | f | Mets l'eau dans la casserole.
+la poêle | frying pan | f | Fais chauffer la poêle.
+le four | oven | m | Le gâteau est au four.
+couper | to cut | v | Coupe le pain.
+mélanger | to mix | v | Mélange la farine et les œufs.
+ajouter | to add | v | Ajoute du sel.
+cuire | to cook (food) | v | Les pâtes cuisent dix minutes.
+bouillir | to boil | v | L'eau bout.
+sucré | sweet | adj | Ce thé est trop sucré.
+salé | salty, savoury | adj | La soupe est trop salée.
+épicé | spicy | adj | J'aime les plats épicés.
+frais | fresh, cool | adj | Ce poisson est très frais.
+végétarien | vegetarian | adj | Je suis végétarien.
+
+## travel | Travel & transport | ✈️
+le voyage | trip, journey | m | Bon voyage !
+le passeport | passport | m | N'oublie pas ton passeport.
+la valise | suitcase | f | Je fais ma valise.
+les bagages | luggage | m | Où sont mes bagages ?
+le sac à dos | backpack | m | Je voyage avec un sac à dos.
+la réservation | booking | f | J'ai une réservation au nom de Martin.
+l'aller-retour | return ticket | m | Un aller-retour pour Lyon.
+l'aller simple | one-way ticket | m | Un aller simple, s'il vous plaît.
+le vol | flight | m | Mon vol part à midi.
+le départ | departure | m | Le départ est à huit heures.
+l'arrivée | arrival | f | L'arrivée est prévue à 20 h.
+le quai | platform | m | Le train part du quai 3.
+la correspondance | connection (transport) | f | J'ai raté ma correspondance.
+le retard | delay | m | Le train a dix minutes de retard.
+la douane | customs | f | On passe la douane.
+la frontière | border | f | On traverse la frontière.
+l'étranger | abroad, foreigner | m | Je voyage souvent à l'étranger.
+le touriste | tourist | m | Il y a beaucoup de touristes.
+le guide | guide | m | Le guide parle français.
+le séjour | stay | m | Bon séjour !
+l'auberge de jeunesse | youth hostel | f | On dort dans une auberge de jeunesse.
+le camping | campsite, camping | m | On fait du camping en été.
+la location | rental | f | Une location de voiture.
+louer | to rent | v | On loue un appartement.
+conduire | to drive | v | Tu sais conduire ?
+le permis de conduire | driving licence | m | J'ai mon permis de conduire.
+l'essence | petrol | f | Il n'y a plus d'essence.
+la route | road | f | La route est longue.
+l'autoroute | motorway | f | On prend l'autoroute.
+l'embouteillage | traffic jam | m | Il y a un embouteillage.
+le feu rouge | red light | m | Arrête-toi au feu rouge.
+se garer | to park | v | Je me gare devant la maison.
+le parking | car park | m | Le parking est complet.
+l'arrêt | stop | m | L'arrêt de bus est là-bas.
+la station | station (metro, ski) | f | La station de métro est fermée.
+monter | to go up, to get on | v | Je monte dans le bus.
+descendre | to go down, to get off | v | Je descends au prochain arrêt.
+traverser | to cross | v | Traversez la rue.
+tourner | to turn | v | Tournez à droite.
+se perdre | to get lost | v | Je me suis perdu.
+le bateau | boat | m | On prend le bateau.
+le taxi | taxi | m | J'appelle un taxi.
+manquer | to miss | v | J'ai manqué mon train.
+la carte postale | postcard | f | J'envoie une carte postale.
+le souvenir | souvenir, memory | m | J'ai acheté des souvenirs.
+dépaysé | out of one's element | adj | Je me sens dépaysé ici.
+
+## health | Health & body | 🩺
+la maladie | illness | f | C'est une maladie grave.
+le rhume | cold | m | J'ai un rhume.
+la grippe | flu | f | Il a la grippe.
+la fièvre | fever | f | Elle a de la fièvre.
+la toux | cough | f | J'ai une mauvaise toux.
+tousser | to cough | v | Il tousse beaucoup.
+la douleur | pain | f | J'ai une douleur au dos.
+la blessure | injury | f | La blessure n'est pas grave.
+se blesser | to hurt oneself | v | Je me suis blessé au genou.
+se sentir | to feel | v | Je me sens mieux.
+guérir | to recover, to cure | v | Tu vas vite guérir.
+soigner | to treat, to look after | v | Le médecin soigne les malades.
+le médicament | medicine | m | Je prends un médicament.
+l'ordonnance | prescription | f | Le médecin m'a donné une ordonnance.
+le rendez-vous | appointment | m | J'ai rendez-vous chez le dentiste.
+le dentiste | dentist | m | Je vais chez le dentiste.
+l'infirmier | nurse | m | L'infirmier est très gentil.
+les urgences | emergency room | f | On l'a emmené aux urgences.
+la gorge | throat | f | J'ai mal à la gorge.
+l'épaule | shoulder | f | Mon épaule me fait mal.
+le genou | knee | m | Je me suis fait mal au genou.
+le doigt | finger | m | Je me suis coupé le doigt.
+le cou | neck | m | J'ai mal au cou.
+la peau | skin | f | J'ai la peau sèche.
+le sang | blood | m | Il y a du sang.
+l'estomac | stomach | m | J'ai mal à l'estomac.
+le visage | face | m | Elle a un joli visage.
+le corps | body | m | Le sport est bon pour le corps.
+enceinte | pregnant | adj | Elle est enceinte.
+en forme | fit, in good shape | phr | Je suis en forme aujourd'hui.
+épuisé | exhausted | adj | Je suis épuisé ce soir.
+le sommeil | sleep | m | Je manque de sommeil.
+le régime | diet | m | Je suis au régime.
+maigrir | to lose weight | v | Il veut maigrir.
+grossir | to put on weight | v | J'ai grossi cet hiver.
+fumer | to smoke | v | Il ne fume plus.
+respirer | to breathe | v | Respirez profondément.
+tomber | to fall | v | Elle est tombée dans l'escalier.
+casser | to break | v | Je me suis cassé le bras.
+l'accident | accident | m | Il a eu un accident.
+grave | serious | adj | Ce n'est pas grave.
+la pharmacienne | pharmacist (female) | f | La pharmacienne m'a conseillé un sirop.
+
+## housing | Housing & things at home | 🧹
+le logement | housing, accommodation | m | Je cherche un logement.
+le propriétaire | owner, landlord | m | Le propriétaire est sympa.
+le locataire | tenant | m | Le locataire paie le loyer.
+le colocataire | flatmate | m | Mon colocataire est italien.
+déménager | to move house | v | Je déménage le mois prochain.
+s'installer | to settle in | v | On s'installe à Lyon.
+l'immeuble | building | m | J'habite dans un vieil immeuble.
+l'ascenseur | lift | m | L'ascenseur est en panne.
+le balcon | balcony | m | On mange sur le balcon.
+la cave | cellar | f | Le vin est à la cave.
+le garage | garage | m | La voiture est dans le garage.
+le toit | roof | m | Le chat est sur le toit.
+le sol | floor, ground | m | Le sol est mouillé.
+le plafond | ceiling | m | Le plafond est haut.
+la pièce | room, coin, play | f | Cet appartement a trois pièces.
+le meuble | piece of furniture | m | J'achète des meubles.
+l'étagère | shelf | f | Les livres sont sur l'étagère.
+le tiroir | drawer | m | Les clés sont dans le tiroir.
+le fauteuil | armchair | m | Il lit dans son fauteuil.
+le rideau | curtain | m | Ferme les rideaux.
+le tapis | rug, carpet | m | Le chat dort sur le tapis.
+le miroir | mirror | m | Elle se regarde dans le miroir.
+la couverture | blanket | f | J'ai besoin d'une couverture.
+l'oreiller | pillow | m | Cet oreiller est très doux.
+le drap | sheet | m | Je change les draps.
+la serviette | towel, napkin | f | Passe-moi une serviette.
+le savon | soap | m | Il n'y a plus de savon.
+la machine à laver | washing machine | f | La machine à laver est en panne.
+le lave-vaisselle | dishwasher | m | Je vide le lave-vaisselle.
+le chauffage | heating | m | J'allume le chauffage.
+la lumière | light | f | Éteins la lumière.
+allumer | to switch on, to light | v | J'allume la télé.
+éteindre | to switch off | v | Éteins ton téléphone.
+réparer | to repair | v | Il répare son vélo.
+en panne | broken down | phr | Ma voiture est en panne.
+le bruit | noise | m | Il y a trop de bruit.
+bruyant | noisy | adj | Cette rue est bruyante.
+calme | quiet, calm | adj | Le quartier est calme.
+lumineux | bright | adj | L'appartement est lumineux.
+meublé | furnished | adj | Je loue un studio meublé.
+la poubelle | bin | f | Jette ça à la poubelle.
+
+## work | Work & studies | 💼
+l'emploi | job, employment | m | Je cherche un emploi.
+l'entreprise | company | f | Je travaille dans une petite entreprise.
+le salaire | salary | m | Le salaire est correct.
+l'employé | employee | m | L'entreprise a vingt employés.
+le directeur | manager, director | m | Le directeur est en réunion.
+la réunion | meeting | f | J'ai une réunion à dix heures.
+l'entretien | interview | m | J'ai un entretien d'embauche demain.
+le stage | internship | m | Je fais un stage cet été.
+le stagiaire | intern | m | Le stagiaire apprend vite.
+le CV | CV, résumé | m | J'envoie mon CV.
+la lettre de motivation | cover letter | f | J'écris une lettre de motivation.
+embaucher | to hire | v | L'entreprise embauche dix personnes.
+gagner | to earn, to win | v | Elle gagne bien sa vie.
+le chômage | unemployment | m | Il est au chômage.
+la retraite | retirement | f | Mon père est à la retraite.
+l'horaire | schedule, timetable | m | Quels sont vos horaires ?
+à plein temps | full-time | phr | Je travaille à plein temps.
+à temps partiel | part-time | phr | Elle travaille à temps partiel.
+le congé | leave, time off | m | Je suis en congé demain.
+le courriel | email | m | J'envoie un courriel.
+envoyer | to send | v | J'envoie le document.
+recevoir | to receive | v | J'ai reçu ta lettre.
+le dossier | file, folder | m | Le dossier est sur mon bureau.
+l'ingénieur | engineer | m | Mon frère est ingénieur.
+l'avocat | lawyer | m | Elle est avocate.
+le comptable | accountant | m | Le comptable vérifie les factures.
+l'informaticien | IT specialist | m | L'informaticien répare mon ordinateur.
+le journaliste | journalist | m | Le journaliste écrit un article.
+le lycée | high school | m | Elle est au lycée.
+le diplôme | diploma, degree | m | J'ai obtenu mon diplôme.
+la note | mark, grade, note | f | J'ai eu une bonne note.
+réussir | to succeed, to pass | v | J'ai réussi mon examen.
+rater | to fail, to miss | v | J'ai raté le bus.
+réviser | to revise | v | Je révise pour l'examen.
+s'inscrire | to enrol, to sign up | v | Je m'inscris au cours de yoga.
+la matière | subject (school) | f | Quelle est ta matière préférée ?
+les mathématiques | mathematics | f | J'aime les mathématiques.
+l'histoire | history, story | f | J'étudie l'histoire.
+la bibliothèque | library | f | Je travaille à la bibliothèque.
+expliquer | to explain | v | Tu peux m'expliquer ?
+le projet | project, plan | m | J'ai un nouveau projet.
+l'expérience | experience | f | J'ai deux ans d'expérience.
+la formation | training | f | Je suis une formation en informatique.
+le niveau | level | m | Quel est ton niveau de français ?
+
+## leisure | Leisure & sport | ⚽
+le loisir | leisure activity | m | Quels sont tes loisirs ?
+le passe-temps | hobby | m | La lecture est mon passe-temps.
+l'équipe | team | f | Notre équipe a gagné.
+le match | match, game | m | On regarde le match ce soir.
+le joueur | player | m | C'est un bon joueur.
+le ballon | ball | m | Passe-moi le ballon.
+le but | goal | m | Il a marqué un but.
+perdre | to lose | v | Nous avons perdu le match.
+s'entraîner | to train | v | Je m'entraîne trois fois par semaine.
+nager | to swim | v | Je nage à la piscine.
+la piscine | swimming pool | f | On va à la piscine ?
+la natation | swimming | f | Je fais de la natation.
+la randonnée | hike, hiking | f | On fait une randonnée dimanche.
+le ski | skiing | m | Je fais du ski en hiver.
+la course | race, running | f | Il a gagné la course.
+la salle de sport | gym | f | Je vais à la salle de sport.
+la danse | dance | f | Elle fait de la danse.
+danser | to dance | v | Tu veux danser ?
+chanter | to sing | v | Elle chante très bien.
+la chanson | song | f | J'adore cette chanson.
+le concert | concert | m | On va au concert samedi.
+la musique | music | f | J'écoute de la musique.
+la guitare | guitar | f | Il joue de la guitare.
+le film | film | m | Ce film est génial.
+la série | series | f | Je regarde une série.
+le roman | novel | m | Je lis un roman policier.
+la lecture | reading | f | J'aime la lecture.
+le dessin | drawing | m | Elle fait un dessin.
+dessiner | to draw | v | Il dessine très bien.
+la peinture | painting, paint | f | J'aime la peinture moderne.
+la photo | photo | f | Je prends une photo.
+le jeu | game | m | On joue à un jeu ?
+le jeu vidéo | video game | m | Il joue aux jeux vidéo.
+la fête | party, celebration | f | On fait une fête samedi.
+inviter | to invite | v | J'invite mes amis.
+s'amuser | to have fun | v | On s'est bien amusés.
+rire | to laugh | v | Elle rit beaucoup.
+la promenade | walk | f | On fait une promenade.
+le spectacle | show | m | Le spectacle commence à 20 h.
+le théâtre | theatre | m | On va au théâtre.
+l'exposition | exhibition | f | Il y a une exposition au musée.
+la sortie | outing, exit | f | On organise une sortie.
+bricoler | to do DIY | v | Il bricole dans le garage.
+jardiner | to garden | v | Elle jardine le dimanche.
+pêcher | to fish | v | Il pêche dans la rivière.
+se détendre | to relax | v | Je me détends en lisant.
+
+## feelings | Feelings & character | 😊
+heureux | happy | adj | Je suis très heureux.
+malheureux | unhappy | adj | Il a l'air malheureux.
+fâché | angry | adj | Elle est fâchée contre moi.
+en colère | angry | phr | Il est en colère.
+inquiet | worried | adj | Je suis inquiet pour lui.
+nerveux | nervous | adj | Je suis nerveux avant l'examen.
+stressé | stressed | adj | Elle est très stressée.
+surpris | surprised | adj | Je suis surpris de te voir.
+déçu | disappointed | adj | Je suis un peu déçu.
+fier | proud | adj | Je suis fier de toi.
+jaloux | jealous | adj | Il est jaloux de son frère.
+amoureux | in love | adj | Elle est amoureuse.
+seul | alone, lonely | adj | Je me sens seul.
+timide | shy | adj | Il est un peu timide.
+bavard | talkative | adj | Elle est très bavarde.
+sérieux | serious | adj | C'est un étudiant sérieux.
+paresseux | lazy | adj | Mon chat est paresseux.
+travailleur | hard-working | adj | Elle est très travailleuse.
+poli | polite | adj | Cet enfant est très poli.
+méchant | mean, nasty | adj | Ne sois pas méchant.
+généreux | generous | adj | Il est très généreux.
+honnête | honest | adj | C'est une personne honnête.
+patient | patient | adj | Il faut être patient.
+courageux | brave | adj | Tu es très courageuse.
+curieux | curious | adj | Les enfants sont curieux.
+têtu | stubborn | adj | Il est têtu comme une mule.
+bizarre | strange | adj | C'est bizarre.
+ennuyeux | boring | adj | Ce film est ennuyeux.
+s'ennuyer | to be bored | v | Je m'ennuie à la maison.
+la peur | fear | f | J'ai peur du noir.
+la joie | joy | f | Quelle joie de te revoir !
+la colère | anger | f | Il a crié de colère.
+l'amour | love | m | L'amour est important.
+l'humeur | mood | f | Il est de bonne humeur.
+pleurer | to cry | v | Le bébé pleure.
+sourire | to smile | v | Elle sourit tout le temps.
+s'inquiéter | to worry | v | Ne t'inquiète pas.
+se fâcher | to get angry | v | Il se fâche facilement.
+espérer | to hope | v | J'espère que tu vas bien.
+préférer | to prefer | v | Je préfère le thé.
+avoir envie de | to feel like | phr | J'ai envie d'une glace.
+avoir besoin de | to need | phr | J'ai besoin d'aide.
+avoir raison | to be right | phr | Tu as raison.
+avoir tort | to be wrong | phr | J'avais tort.
+manquer à | to be missed by | phr | Tu me manques.
+
+## nature | Nature & animals | 🌳
+le paysage | landscape | m | Le paysage est magnifique.
+la colline | hill | f | La maison est sur la colline.
+la vallée | valley | f | Le village est dans la vallée.
+le champ | field | m | Les vaches sont dans le champ.
+l'herbe | grass | f | L'herbe est verte.
+la feuille | leaf, sheet of paper | f | Les feuilles tombent en automne.
+la plante | plant | f | J'arrose mes plantes.
+le bois | wood | m | Une table en bois.
+la pierre | stone | f | Un mur en pierre.
+le sable | sand | m | Les enfants jouent dans le sable.
+la vague | wave | f | Les vagues sont grandes.
+l'île | island | f | On visite une petite île.
+la côte | coast | f | On longe la côte.
+le fleuve | large river | m | La Seine est un fleuve.
+l'orage | thunderstorm | m | Il y a un orage ce soir.
+le brouillard | fog | m | Il y a du brouillard ce matin.
+la chaleur | heat | f | Quelle chaleur !
+geler | to freeze | v | Il gèle cette nuit.
+briller | to shine | v | Le soleil brille.
+le climat | climate | m | Le climat est doux ici.
+la météo | weather forecast | f | Tu as regardé la météo ?
+le degré | degree | m | Il fait trente degrés.
+humide | damp, humid | adj | L'air est humide.
+sec | dry | adj | Le linge est sec.
+le lapin | rabbit | m | Le lapin mange une carotte.
+la souris | mouse | f | Le chat chasse la souris.
+le cochon | pig | m | Les cochons sont dans la ferme.
+le mouton | sheep | m | Il y a des moutons dans le pré.
+la poule | hen | f | La poule pond un œuf.
+le canard | duck | m | Les canards nagent sur le lac.
+l'ours | bear | m | Il y a des ours au Canada.
+le loup | wolf | m | Le loup vit dans la forêt.
+le renard | fox | m | J'ai vu un renard.
+le singe | monkey | m | Le singe mange une banane.
+le serpent | snake | m | J'ai peur des serpents.
+l'insecte | insect | m | Il y a beaucoup d'insectes.
+l'abeille | bee | f | L'abeille fait du miel.
+le papillon | butterfly | m | Un papillon s'est posé sur la fleur.
+la ferme | farm | f | Mes grands-parents ont une ferme.
+sauvage | wild | adj | C'est un animal sauvage.
+nourrir | to feed | v | Je nourris le chat.
+pousser | to grow, to push | v | Les tomates poussent bien.
+
+## tech | Technology & media | 📱
+le portable | mobile phone | m | J'ai oublié mon portable.
+l'écran | screen | m | L'écran est cassé.
+le clavier | keyboard | m | Le clavier est en français.
+la souris d'ordinateur | computer mouse | f | Ma souris d'ordinateur ne marche plus.
+le chargeur | charger | m | Tu as un chargeur ?
+la batterie | battery, drums | f | Je n'ai plus de batterie.
+le mot de passe | password | m | J'ai oublié mon mot de passe.
+le réseau | network | m | Il n'y a pas de réseau ici.
+le site | website, site | m | Regarde sur le site.
+l'application | app | f | J'ai téléchargé une application.
+télécharger | to download | v | Je télécharge le fichier.
+le fichier | file | m | Envoie-moi le fichier.
+cliquer | to click | v | Clique sur le lien.
+le lien | link | m | Je t'envoie le lien.
+se connecter | to log in | v | Je me connecte au wifi.
+en ligne | online | phr | J'achète mes billets en ligne.
+enregistrer | to save, to record | v | Enregistre le document.
+supprimer | to delete | v | J'ai supprimé le message.
+imprimer | to print | v | Je dois imprimer ce document.
+l'imprimante | printer | f | L'imprimante est en panne.
+la vidéo | video | f | Regarde cette vidéo.
+le réseau social | social network | m | Je l'ai vu sur un réseau social.
+partager | to share | v | Je partage la photo.
+l'abonné | subscriber, follower | m | Elle a mille abonnés.
+s'abonner | to subscribe | v | Abonne-toi à ma chaîne.
+la chaîne | channel, chain | f | Quelle chaîne tu regardes ?
+l'émission | programme, show | f | J'aime cette émission.
+les informations | news | f | Je regarde les informations.
+le journal | newspaper | m | Je lis le journal.
+l'article | article | m | J'ai lu un article intéressant.
+la publicité | advertising, advert | f | Il y a trop de publicité.
+l'actualité | current events | f | Je suis l'actualité.
+la radio | radio | f | J'écoute la radio.
+appeler | to call | v | Je t'appelle ce soir.
+rappeler | to call back, to remind | v | Je te rappelle plus tard.
+le message | message | m | Je t'envoie un message.
+le numérique | digital technology | m | Le numérique change tout.
+
+## linking | Useful verbs & linking words | 🔗
+devenir | to become | v | Il veut devenir médecin.
+sembler | to seem | v | Tu sembles fatigué.
+croire | to believe | v | Je crois que oui.
+se souvenir | to remember | v | Je me souviens de toi.
+se rappeler | to recall | v | Je ne me rappelle plus son nom.
+décider | to decide | v | J'ai décidé de partir.
+arrêter | to stop | v | Arrête de crier !
+continuer | to continue | v | Continue comme ça !
+changer | to change | v | J'ai changé d'avis.
+utiliser | to use | v | J'utilise mon téléphone.
+montrer | to show | v | Montre-moi la photo.
+apporter | to bring (a thing) | v | J'apporte le dessert.
+emmener | to take (a person) | v | J'emmène les enfants à l'école.
+garder | to keep | v | Garde la monnaie.
+laisser | to leave, to let | v | Laisse-moi tranquille.
+tenir | to hold | v | Tiens mon sac, s'il te plaît.
+suivre | to follow | v | Suivez-moi.
+se passer | to happen | v | Qu'est-ce qui se passe ?
+promettre | to promise | v | Je te promets de venir.
+proposer | to suggest, to offer | v | Je propose une pause.
+refuser | to refuse | v | Il a refusé de venir.
+accepter | to accept | v | J'accepte ton invitation.
+raconter | to tell (a story) | v | Raconte-moi ta journée.
+discuter | to discuss, to chat | v | On discute de nos projets.
+remercier | to thank | v | Je te remercie.
+s'excuser | to apologise | v | Je m'excuse pour le retard.
+permettre | to allow | v | Tu me permets d'entrer ?
+interdire | to forbid | v | Il est interdit de fumer.
+falloir | to be necessary | v | Il faut partir.
+puis | then | adv | Je mange, puis je sors.
+pourtant | yet, however | adv | Il est riche, pourtant il est triste.
+cependant | however | adv | C'est cher ; cependant, c'est bon.
+car | because, for | conj | Je reste, car il pleut.
+à cause de | because of | prep | Je suis en retard à cause du bus.
+grâce à | thanks to | prep | J'ai réussi grâce à toi.
+malgré | despite | prep | Il sort malgré la pluie.
+sauf | except | prep | Tout le monde est là, sauf Paul.
+selon | according to | prep | Selon moi, c'est une erreur.
+plutôt | rather | adv | Je préfère plutôt le thé.
+presque | almost | adv | J'ai presque fini.
+vraiment | really | adv | C'est vraiment bon.
+surtout | especially | adv | J'aime les fruits, surtout les fraises.
+environ | about, approximately | adv | Il y a environ vingt personnes.
+partout | everywhere | adv | Je l'ai cherché partout.
+ailleurs | elsewhere | adv | Allons ailleurs.

@@ -1,0 +1,1285 @@
+{
+  "texts": [],
+  "questions": [
+    {
+      "id": "a2-imperatif-001",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imperatif",
+      "question": "___ plus fort, je n’entends pas ! (tu)",
+      "options": [
+        "Parle",
+        "Parles",
+        "Parler",
+        "Parlez"
+      ],
+      "answer": 0,
+      "explanation": "The tu command of -er verbs (and aller, ouvrir, offrir) drops the final -s: Parle.",
+      "textId": null
+    },
+    {
+      "id": "a2-imperatif-002",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imperatif",
+      "question": "___ la porte, s’il te plaît. (tu)",
+      "options": [
+        "Fermes",
+        "Ferme",
+        "Fermer",
+        "Fermez"
+      ],
+      "answer": 1,
+      "explanation": "The tu command of -er verbs (and aller, ouvrir, offrir) drops the final -s: Ferme.",
+      "textId": null
+    },
+    {
+      "id": "a2-imperatif-003",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imperatif",
+      "question": "___ ta soupe ! (tu)",
+      "options": [
+        "Manges",
+        "Manger",
+        "Mange",
+        "Mangez"
+      ],
+      "answer": 2,
+      "explanation": "The tu command of -er verbs (and aller, ouvrir, offrir) drops the final -s: Mange.",
+      "textId": null
+    },
+    {
+      "id": "a2-imperatif-004",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imperatif",
+      "question": "___ cette photo ! (tu)",
+      "options": [
+        "Regardes",
+        "Regarder",
+        "Regardez",
+        "Regarde"
+      ],
+      "answer": 3,
+      "explanation": "The tu command of -er verbs (and aller, ouvrir, offrir) drops the final -s: Regarde.",
+      "textId": null
+    },
+    {
+      "id": "a2-imperatif-005",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imperatif",
+      "question": "___ ce que je dis. (tu)",
+      "options": [
+        "Écoute",
+        "Écoutes",
+        "Écouter",
+        "Écoutez"
+      ],
+      "answer": 0,
+      "explanation": "The tu command of -er verbs (and aller, ouvrir, offrir) drops the final -s: Écoute.",
+      "textId": null
+    },
+    {
+      "id": "a2-imperatif-006",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imperatif",
+      "question": "___ dans ta chambre ! (tu)",
+      "options": [
+        "Vas",
+        "Va",
+        "Aller",
+        "Allez"
+      ],
+      "answer": 1,
+      "explanation": "The tu command of -er verbs (and aller, ouvrir, offrir) drops the final -s: Va.",
+      "textId": null
+    },
+    {
+      "id": "a2-imperatif-007",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imperatif",
+      "question": "___ la fenêtre, il fait chaud. (tu)",
+      "options": [
+        "Ouvres",
+        "Ouvrir",
+        "Ouvre",
+        "Ouvrez"
+      ],
+      "answer": 2,
+      "explanation": "The tu command of -er verbs (and aller, ouvrir, offrir) drops the final -s: Ouvre.",
+      "textId": null
+    },
+    {
+      "id": "a2-imperatif-008",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imperatif",
+      "question": "___ ici, je reviens. (tu)",
+      "options": [
+        "Restes",
+        "Rester",
+        "Restez",
+        "Reste"
+      ],
+      "answer": 3,
+      "explanation": "The tu command of -er verbs (and aller, ouvrir, offrir) drops the final -s: Reste.",
+      "textId": null
+    },
+    {
+      "id": "a2-imperatif-009",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imperatif",
+      "question": "___ ton nom ici. (tu)",
+      "options": [
+        "Écris",
+        "Écrit",
+        "Écrire",
+        "Écrivez"
+      ],
+      "answer": 0,
+      "explanation": "For -ir and -re verbs, the tu command is the same as the present tu form, with its -s: Écris.",
+      "textId": null
+    },
+    {
+      "id": "a2-imperatif-010",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imperatif",
+      "question": "___ tes devoirs avant de jouer ! (tu)",
+      "options": [
+        "Finit",
+        "Finis",
+        "Finir",
+        "Finissez"
+      ],
+      "answer": 1,
+      "explanation": "For -ir and -re verbs, the tu command is the same as the present tu form, with its -s: Finis.",
+      "textId": null
+    },
+    {
+      "id": "a2-imperatif-011",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imperatif",
+      "question": "___ ton manteau, il fait froid. (tu)",
+      "options": [
+        "Prend",
+        "Prendre",
+        "Prends",
+        "Prenez"
+      ],
+      "answer": 2,
+      "explanation": "For -ir and -re verbs, the tu command is the same as the present tu form, with its -s: Prends.",
+      "textId": null
+    },
+    {
+      "id": "a2-imperatif-012",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imperatif",
+      "question": "___-moi cinq minutes. (tu)",
+      "options": [
+        "Attend",
+        "Attendre",
+        "Attendez",
+        "Attends"
+      ],
+      "answer": 3,
+      "explanation": "For -ir and -re verbs, the tu command is the same as the present tu form, with its -s: Attends.",
+      "textId": null
+    },
+    {
+      "id": "a2-imperatif-013",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imperatif",
+      "question": "___ ici ! (tu)",
+      "options": [
+        "Viens",
+        "Vient",
+        "Venir",
+        "Venez"
+      ],
+      "answer": 0,
+      "explanation": "For -ir and -re verbs, the tu command is the same as the present tu form, with its -s: Viens.",
+      "textId": null
+    },
+    {
+      "id": "a2-imperatif-014",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imperatif",
+      "question": "___ la vérité ! (tu)",
+      "options": [
+        "Dit",
+        "Dis",
+        "Dire",
+        "Dites"
+      ],
+      "answer": 1,
+      "explanation": "For -ir and -re verbs, the tu command is the same as the present tu form, with its -s: Dis.",
+      "textId": null
+    },
+    {
+      "id": "a2-imperatif-015",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imperatif",
+      "question": "___ attention à la marche ! (tu)",
+      "options": [
+        "Fait",
+        "Faire",
+        "Fais",
+        "Faites"
+      ],
+      "answer": 2,
+      "explanation": "For -ir and -re verbs, the tu command is the same as the present tu form, with its -s: Fais.",
+      "textId": null
+    },
+    {
+      "id": "a2-imperatif-016",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imperatif",
+      "question": "___ ce livre, il est super. (tu)",
+      "options": [
+        "Lit",
+        "Lire",
+        "Lisez",
+        "Lis"
+      ],
+      "answer": 3,
+      "explanation": "For -ir and -re verbs, the tu command is the same as the present tu form, with its -s: Lis.",
+      "textId": null
+    },
+    {
+      "id": "a2-imperatif-017",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imperatif",
+      "question": "___ tes chaussures ici. (tu)",
+      "options": [
+        "Mets",
+        "Met",
+        "Mettre",
+        "Mettez"
+      ],
+      "answer": 0,
+      "explanation": "For -ir and -re verbs, the tu command is the same as the present tu form, with its -s: Mets.",
+      "textId": null
+    },
+    {
+      "id": "a2-imperatif-018",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imperatif",
+      "question": "___ bien ! Bonne nuit. (tu)",
+      "options": [
+        "Dort",
+        "Dors",
+        "Dormir",
+        "Dormez"
+      ],
+      "answer": 1,
+      "explanation": "For -ir and -re verbs, the tu command is the same as the present tu form, with its -s: Dors.",
+      "textId": null
+    },
+    {
+      "id": "a2-imperatif-019",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imperatif",
+      "question": "___ un dessert ! (tu)",
+      "options": [
+        "Choisit",
+        "Choisir",
+        "Choisis",
+        "Choisissez"
+      ],
+      "answer": 2,
+      "explanation": "For -ir and -re verbs, the tu command is the same as the present tu form, with its -s: Choisis.",
+      "textId": null
+    },
+    {
+      "id": "a2-imperatif-020",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imperatif",
+      "question": "___ à ma question ! (tu)",
+      "options": [
+        "Répond",
+        "Répondre",
+        "Répondez",
+        "Réponds"
+      ],
+      "answer": 3,
+      "explanation": "For -ir and -re verbs, the tu command is the same as the present tu form, with its -s: Réponds.",
+      "textId": null
+    },
+    {
+      "id": "a2-imperatif-021",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imperatif",
+      "question": "___ au cinéma ce soir ! (nous)",
+      "options": [
+        "Allons",
+        "Allez",
+        "Va",
+        "Aller"
+      ],
+      "answer": 0,
+      "explanation": "The nous command (let’s…) is the present nous form without the pronoun: Allons.",
+      "textId": null
+    },
+    {
+      "id": "a2-imperatif-022",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imperatif",
+      "question": "___ une pause. (nous)",
+      "options": [
+        "Faites",
+        "Faisons",
+        "Fais",
+        "Faire"
+      ],
+      "answer": 1,
+      "explanation": "The nous command (let’s…) is the present nous form without the pronoun: Faisons.",
+      "textId": null
+    },
+    {
+      "id": "a2-imperatif-023",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imperatif",
+      "question": "___ ensemble ce midi. (nous)",
+      "options": [
+        "Mangez",
+        "Mange",
+        "Mangeons",
+        "Manger"
+      ],
+      "answer": 2,
+      "explanation": "The nous command (let’s…) is the present nous form without the pronoun: Mangeons.",
+      "textId": null
+    },
+    {
+      "id": "a2-imperatif-024",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imperatif",
+      "question": "___ un taxi. (nous)",
+      "options": [
+        "Prenez",
+        "Prends",
+        "Prendre",
+        "Prenons"
+      ],
+      "answer": 3,
+      "explanation": "The nous command (let’s…) is the present nous form without the pronoun: Prenons.",
+      "textId": null
+    },
+    {
+      "id": "a2-imperatif-025",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imperatif",
+      "question": "___ maintenant, il est tard. (nous)",
+      "options": [
+        "Partons",
+        "Partez",
+        "Pars",
+        "Partir"
+      ],
+      "answer": 0,
+      "explanation": "The nous command (let’s…) is the present nous form without the pronoun: Partons.",
+      "textId": null
+    },
+    {
+      "id": "a2-imperatif-026",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imperatif",
+      "question": "___ un peu, on a le temps. (nous)",
+      "options": [
+        "Attendez",
+        "Attendons",
+        "Attends",
+        "Attendre"
+      ],
+      "answer": 1,
+      "explanation": "The nous command (let’s…) is the present nous form without the pronoun: Attendons.",
+      "textId": null
+    },
+    {
+      "id": "a2-imperatif-027",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imperatif",
+      "question": "___ le travail avant midi. (nous)",
+      "options": [
+        "Finissez",
+        "Finis",
+        "Finissons",
+        "Finir"
+      ],
+      "answer": 2,
+      "explanation": "The nous command (let’s…) is the present nous form without the pronoun: Finissons.",
+      "textId": null
+    },
+    {
+      "id": "a2-imperatif-028",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imperatif",
+      "question": "___ français en classe ! (nous)",
+      "options": [
+        "Parlez",
+        "Parle",
+        "Parler",
+        "Parlons"
+      ],
+      "answer": 3,
+      "explanation": "The nous command (let’s…) is the present nous form without the pronoun: Parlons.",
+      "textId": null
+    },
+    {
+      "id": "a2-imperatif-029",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imperatif",
+      "question": "___ nos livres à la page 12. (nous)",
+      "options": [
+        "Ouvrons",
+        "Ouvrez",
+        "Ouvre",
+        "Ouvrir"
+      ],
+      "answer": 0,
+      "explanation": "The nous command (let’s…) is the present nous form without the pronoun: Ouvrons.",
+      "textId": null
+    },
+    {
+      "id": "a2-imperatif-030",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imperatif",
+      "question": "___ à gauche après le pont. (vous)",
+      "options": [
+        "Tournons",
+        "Tournez",
+        "Tourne",
+        "Tourner"
+      ],
+      "answer": 1,
+      "explanation": "The vous command is the present vous form without the pronoun: Tournez.",
+      "textId": null
+    },
+    {
+      "id": "a2-imperatif-031",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imperatif",
+      "question": "___ tout droit jusqu’à la gare. (vous)",
+      "options": [
+        "Continuons",
+        "Continue",
+        "Continuez",
+        "Continuer"
+      ],
+      "answer": 2,
+      "explanation": "The vous command is the present vous form without the pronoun: Continuez.",
+      "textId": null
+    },
+    {
+      "id": "a2-imperatif-032",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imperatif",
+      "question": "___ la première rue à droite. (vous)",
+      "options": [
+        "Prenons",
+        "Prends",
+        "Prendre",
+        "Prenez"
+      ],
+      "answer": 3,
+      "explanation": "The vous command is the present vous form without the pronoun: Prenez.",
+      "textId": null
+    },
+    {
+      "id": "a2-imperatif-033",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imperatif",
+      "question": "___ votre nom, s’il vous plaît. (vous)",
+      "options": [
+        "Épelez",
+        "Épelons",
+        "Épelle",
+        "Épeler"
+      ],
+      "answer": 0,
+      "explanation": "The vous command is the present vous form without the pronoun: Épelez.",
+      "textId": null
+    },
+    {
+      "id": "a2-imperatif-034",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imperatif",
+      "question": "___ ce formulaire, s’il vous plaît. (vous)",
+      "options": [
+        "Remplissons",
+        "Remplissez",
+        "Remplis",
+        "Remplir"
+      ],
+      "answer": 1,
+      "explanation": "The vous command is the present vous form without the pronoun: Remplissez.",
+      "textId": null
+    },
+    {
+      "id": "a2-imperatif-035",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imperatif",
+      "question": "___ ici, s’il vous plaît. (vous)",
+      "options": [
+        "Signons",
+        "Signe",
+        "Signez",
+        "Signer"
+      ],
+      "answer": 2,
+      "explanation": "The vous command is the present vous form without the pronoun: Signez.",
+      "textId": null
+    },
+    {
+      "id": "a2-imperatif-036",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imperatif",
+      "question": "___ un instant, s’il vous plaît. (vous)",
+      "options": [
+        "Patientons",
+        "Patiente",
+        "Patienter",
+        "Patientez"
+      ],
+      "answer": 3,
+      "explanation": "The vous command is the present vous form without the pronoun: Patientez.",
+      "textId": null
+    },
+    {
+      "id": "a2-imperatif-037",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imperatif",
+      "question": "___, je vous en prie. (vous)",
+      "options": [
+        "Entrez",
+        "Entrons",
+        "Entre",
+        "Entrer"
+      ],
+      "answer": 0,
+      "explanation": "The vous command is the present vous form without the pronoun: Entrez.",
+      "textId": null
+    },
+    {
+      "id": "a2-imperatif-038",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imperatif",
+      "question": "___ plus lentement, s’il vous plaît. (vous)",
+      "options": [
+        "Parlons",
+        "Parlez",
+        "Parle",
+        "Parler"
+      ],
+      "answer": 1,
+      "explanation": "The vous command is the present vous form without the pronoun: Parlez.",
+      "textId": null
+    },
+    {
+      "id": "a2-imperatif-039",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imperatif",
+      "question": "___ ce que vous voulez. (vous)",
+      "options": [
+        "Faisez",
+        "Faisons",
+        "Faites",
+        "Fais"
+      ],
+      "answer": 2,
+      "explanation": "Faire is irregular with vous: faites (never \"faisez\").",
+      "textId": null
+    },
+    {
+      "id": "a2-imperatif-040",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imperatif",
+      "question": "___-moi la vérité. (vous)",
+      "options": [
+        "Disez",
+        "Disons",
+        "Dis",
+        "Dites"
+      ],
+      "answer": 3,
+      "explanation": "Dire is irregular with vous: dites (never \"disez\").",
+      "textId": null
+    },
+    {
+      "id": "a2-imperatif-041",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imperatif",
+      "question": "___ sage ! (tu)",
+      "options": [
+        "Sois",
+        "Es",
+        "Soit",
+        "Soyez"
+      ],
+      "answer": 0,
+      "explanation": "Être, avoir and savoir have irregular commands. Être: sois, soyons, soyez. Avoir: aie, ayons, ayez. Savoir: sache, sachons, sachez. Here: Sois.",
+      "textId": null
+    },
+    {
+      "id": "a2-imperatif-042",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imperatif",
+      "question": "___ prudents sur la route ! (vous)",
+      "options": [
+        "Êtes",
+        "Soyez",
+        "Soyons",
+        "Sois"
+      ],
+      "answer": 1,
+      "explanation": "Être, avoir and savoir have irregular commands. Être: sois, soyons, soyez. Avoir: aie, ayons, ayez. Savoir: sache, sachons, sachez. Here: Soyez.",
+      "textId": null
+    },
+    {
+      "id": "a2-imperatif-043",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imperatif",
+      "question": "___ à l’heure demain. (nous)",
+      "options": [
+        "Sommes",
+        "Soyez",
+        "Soyons",
+        "Sois"
+      ],
+      "answer": 2,
+      "explanation": "Être, avoir and savoir have irregular commands. Être: sois, soyons, soyez. Avoir: aie, ayons, ayez. Savoir: sache, sachons, sachez. Here: Soyons.",
+      "textId": null
+    },
+    {
+      "id": "a2-imperatif-044",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imperatif",
+      "question": "N’___ pas peur ! (tu)",
+      "options": [
+        "as",
+        "ai",
+        "ayez",
+        "aie"
+      ],
+      "answer": 3,
+      "explanation": "Être, avoir and savoir have irregular commands. Être: sois, soyons, soyez. Avoir: aie, ayons, ayez. Savoir: sache, sachons, sachez. Here: aie.",
+      "textId": null
+    },
+    {
+      "id": "a2-imperatif-045",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imperatif",
+      "question": "N’___ pas peur ! (vous)",
+      "options": [
+        "ayez",
+        "avez",
+        "ayons",
+        "aie"
+      ],
+      "answer": 0,
+      "explanation": "Être, avoir and savoir have irregular commands. Être: sois, soyons, soyez. Avoir: aie, ayons, ayez. Savoir: sache, sachons, sachez. Here: ayez.",
+      "textId": null
+    },
+    {
+      "id": "a2-imperatif-046",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imperatif",
+      "question": "___ un peu de patience. (nous)",
+      "options": [
+        "Avons",
+        "Ayons",
+        "Ayez",
+        "Aie"
+      ],
+      "answer": 1,
+      "explanation": "Être, avoir and savoir have irregular commands. Être: sois, soyons, soyez. Avoir: aie, ayons, ayez. Savoir: sache, sachons, sachez. Here: Ayons.",
+      "textId": null
+    },
+    {
+      "id": "a2-imperatif-047",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imperatif",
+      "question": "___ gentil avec ta sœur. (tu)",
+      "options": [
+        "Es",
+        "Soyez",
+        "Sois",
+        "Être"
+      ],
+      "answer": 2,
+      "explanation": "Être, avoir and savoir have irregular commands. Être: sois, soyons, soyez. Avoir: aie, ayons, ayez. Savoir: sache, sachons, sachez. Here: Sois.",
+      "textId": null
+    },
+    {
+      "id": "a2-imperatif-048",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imperatif",
+      "question": "___ que je suis là pour toi. (tu)",
+      "options": [
+        "Sais",
+        "Sachez",
+        "Savoir",
+        "Sache"
+      ],
+      "answer": 3,
+      "explanation": "Être, avoir and savoir have irregular commands. Être: sois, soyons, soyez. Avoir: aie, ayons, ayez. Savoir: sache, sachons, sachez. Here: Sache.",
+      "textId": null
+    },
+    {
+      "id": "a2-imperatif-049",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imperatif",
+      "question": "___ que le magasin ferme à dix-huit heures. (vous)",
+      "options": [
+        "Sachez",
+        "Savez",
+        "Sachons",
+        "Sache"
+      ],
+      "answer": 0,
+      "explanation": "Être, avoir and savoir have irregular commands. Être: sois, soyons, soyez. Avoir: aie, ayons, ayez. Savoir: sache, sachons, sachez. Here: Sachez.",
+      "textId": null
+    },
+    {
+      "id": "a2-imperatif-050",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imperatif",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "Ne pas parle si fort !",
+        "Ne parle pas si fort !",
+        "Parle ne pas si fort !",
+        "Ne parles pas si fort !"
+      ],
+      "answer": 1,
+      "explanation": "A negative command puts ne … pas around the verb: ne parle pas.",
+      "textId": null
+    },
+    {
+      "id": "a2-imperatif-051",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imperatif",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "Ne pas touchez ce tableau.",
+        "Touchez ne pas ce tableau.",
+        "Ne touchez pas ce tableau.",
+        "Ne touchez ce tableau pas."
+      ],
+      "answer": 2,
+      "explanation": "A negative command puts ne … pas around the verb: ne parle pas.",
+      "textId": null
+    },
+    {
+      "id": "a2-imperatif-052",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imperatif",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "N’oublies pas tes clés !",
+        "Ne pas oublie tes clés !",
+        "Oublie ne pas tes clés !",
+        "N’oublie pas tes clés !"
+      ],
+      "answer": 3,
+      "explanation": "A negative command puts ne … pas around the verb: ne parle pas.",
+      "textId": null
+    },
+    {
+      "id": "a2-imperatif-053",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imperatif",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "Ne mangeons pas trop tard.",
+        "Ne pas mangeons trop tard.",
+        "Mangeons ne pas trop tard.",
+        "Ne mangeons trop tard pas."
+      ],
+      "answer": 0,
+      "explanation": "A negative command puts ne … pas around the verb: ne parle pas.",
+      "textId": null
+    },
+    {
+      "id": "a2-imperatif-054",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imperatif",
+      "question": "Ne ___ pas en retard ! (tu)",
+      "options": [
+        "es",
+        "sois",
+        "soit",
+        "être"
+      ],
+      "answer": 1,
+      "explanation": "Être, avoir and savoir have irregular commands. Être: sois, soyons, soyez. Avoir: aie, ayons, ayez. Savoir: sache, sachons, sachez. Here: sois.",
+      "textId": null
+    },
+    {
+      "id": "a2-imperatif-055",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imperatif",
+      "question": "Ne ___ pas ça ! (tu)",
+      "options": [
+        "fait",
+        "faire",
+        "fais",
+        "faites"
+      ],
+      "answer": 2,
+      "explanation": "For -ir and -re verbs, the tu command is the same as the present tu form, with its -s: fais.",
+      "textId": null
+    },
+    {
+      "id": "a2-imperatif-056",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imperatif",
+      "question": "Ne ___ pas trop vite ! (vous)",
+      "options": [
+        "roulons",
+        "roule",
+        "rouler",
+        "roulez"
+      ],
+      "answer": 3,
+      "explanation": "The vous command is the present vous form without the pronoun: roulez.",
+      "textId": null
+    },
+    {
+      "id": "a2-imperatif-057",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imperatif",
+      "question": "Ne ___ rien, c’est une surprise ! (tu)",
+      "options": [
+        "dis",
+        "dit",
+        "dire",
+        "dites"
+      ],
+      "answer": 0,
+      "explanation": "For -ir and -re verbs, the tu command is the same as the present tu form, with its -s: dis.",
+      "textId": null
+    },
+    {
+      "id": "a2-imperatif-058",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imperatif",
+      "question": "Ce gâteau est délicieux. ___ ! (tu)",
+      "options": [
+        "Le goûte",
+        "Goûte-le",
+        "Goûte-lui",
+        "Goûtes-le"
+      ],
+      "answer": 1,
+      "explanation": "In a positive command, pronouns go after the verb with a hyphen, and me / te become moi / toi: Goûte-le.",
+      "textId": null
+    },
+    {
+      "id": "a2-imperatif-059",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imperatif",
+      "question": "Tes parents attendent. ___ ! (tu)",
+      "options": [
+        "Leur téléphone",
+        "Téléphone-les",
+        "Téléphone-leur",
+        "Téléphones-leur"
+      ],
+      "answer": 2,
+      "explanation": "In a positive command, pronouns go after the verb with a hyphen, and me / te become moi / toi: Téléphone-leur.",
+      "textId": null
+    },
+    {
+      "id": "a2-imperatif-060",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imperatif",
+      "question": "___ le sel, s’il te plaît. (tu)",
+      "options": [
+        "Me passe",
+        "Passe-me",
+        "Passes-moi",
+        "Passe-moi"
+      ],
+      "answer": 3,
+      "explanation": "In a positive command, pronouns go after the verb with a hyphen, and me / te become moi / toi: Passe-moi.",
+      "textId": null
+    },
+    {
+      "id": "a2-imperatif-061",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imperatif",
+      "question": "___ votre nom, s’il vous plaît. (vous)",
+      "options": [
+        "Donnez-moi",
+        "Me donnez",
+        "Donnez-me",
+        "Donnez-je"
+      ],
+      "answer": 0,
+      "explanation": "In a positive command, pronouns go after the verb with a hyphen, and me / te become moi / toi: Donnez-moi.",
+      "textId": null
+    },
+    {
+      "id": "a2-imperatif-062",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imperatif",
+      "question": "___, c’est important ! (tu)",
+      "options": [
+        "Écoute-me",
+        "Écoute-moi",
+        "M’écoute",
+        "Écoutes-moi"
+      ],
+      "answer": 1,
+      "explanation": "In a positive command, pronouns go after the verb with a hyphen, and me / te become moi / toi: Écoute-moi.",
+      "textId": null
+    },
+    {
+      "id": "a2-imperatif-063",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imperatif",
+      "question": "Cette lettre ? ___ aujourd’hui. (vous)",
+      "options": [
+        "La envoyez",
+        "Envoyez-lui",
+        "Envoyez-la",
+        "Envoyez-le"
+      ],
+      "answer": 2,
+      "explanation": "In a positive command, pronouns go after the verb with a hyphen, and me / te become moi / toi: Envoyez-la.",
+      "textId": null
+    },
+    {
+      "id": "a2-imperatif-064",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imperatif",
+      "question": "Ces exercices ? ___ pour demain. (vous)",
+      "options": [
+        "Les faites",
+        "Faites-leur",
+        "Faites-le",
+        "Faites-les"
+      ],
+      "answer": 3,
+      "explanation": "In a positive command, pronouns go after the verb with a hyphen, and me / te become moi / toi: Faites-les.",
+      "textId": null
+    },
+    {
+      "id": "a2-imperatif-065",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imperatif",
+      "question": "Paul a une question. ___. (vous)",
+      "options": [
+        "Répondez-lui",
+        "Lui répondez",
+        "Répondez-le",
+        "Répondez-leur"
+      ],
+      "answer": 0,
+      "explanation": "In a positive command, pronouns go after the verb with a hyphen, and me / te become moi / toi: Répondez-lui.",
+      "textId": null
+    },
+    {
+      "id": "a2-imperatif-066",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imperatif",
+      "question": "___ ! Il est tard. (tu, se lever)",
+      "options": [
+        "Lève-te",
+        "Lève-toi",
+        "Te lève",
+        "Lèves-toi"
+      ],
+      "answer": 1,
+      "explanation": "In a positive command, pronouns go after the verb with a hyphen, and me / te become moi / toi: Lève-toi.",
+      "textId": null
+    },
+    {
+      "id": "a2-imperatif-067",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imperatif",
+      "question": "___ ! (vous, s’asseoir)",
+      "options": [
+        "Vous asseyez",
+        "Asseyez-toi",
+        "Asseyez-vous",
+        "Asseyez-se"
+      ],
+      "answer": 2,
+      "explanation": "In a positive command, pronouns go after the verb with a hyphen, and me / te become moi / toi: Asseyez-vous.",
+      "textId": null
+    },
+    {
+      "id": "a2-imperatif-068",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imperatif",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "Ne regarde-le pas !",
+        "Ne regarde pas le !",
+        "Le ne regarde pas !",
+        "Ne le regarde pas !"
+      ],
+      "answer": 3,
+      "explanation": "In a negative command, pronouns go back in front of the verb: ne le regarde pas, ne me parle pas.",
+      "textId": null
+    },
+    {
+      "id": "a2-imperatif-069",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imperatif",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "Ne me parle pas sur ce ton.",
+        "Ne parle-moi pas sur ce ton.",
+        "Ne parle pas moi sur ce ton.",
+        "Me ne parle pas sur ce ton."
+      ],
+      "answer": 0,
+      "explanation": "In a negative command, pronouns go back in front of the verb: ne le regarde pas, ne me parle pas.",
+      "textId": null
+    },
+    {
+      "id": "a2-imperatif-070",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imperatif",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "Ne dis-lui rien.",
+        "Ne lui dis rien.",
+        "Ne dis rien lui.",
+        "Lui ne dis rien."
+      ],
+      "answer": 1,
+      "explanation": "In a negative command, pronouns go back in front of the verb: ne le regarde pas, ne me parle pas.",
+      "textId": null
+    },
+    {
+      "id": "a2-imperatif-071",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imperatif",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "Ne inquiète-toi pas.",
+        "N’inquiète pas toi.",
+        "Ne t’inquiète pas.",
+        "Te n’inquiète pas."
+      ],
+      "answer": 2,
+      "explanation": "In a negative command, pronouns go back in front of the verb: ne le regarde pas, ne me parle pas.",
+      "textId": null
+    },
+    {
+      "id": "a2-imperatif-072",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imperatif",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "N’attendez-les pas.",
+        "N’attendez pas les.",
+        "Les n’attendez pas.",
+        "Ne les attendez pas."
+      ],
+      "answer": 3,
+      "explanation": "In a negative command, pronouns go back in front of the verb: ne le regarde pas, ne me parle pas.",
+      "textId": null
+    },
+    {
+      "id": "a2-imperatif-073",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imperatif",
+      "question": "Tu veux aller au parc ? ___ ! (tu)",
+      "options": [
+        "Vas-y",
+        "Va-y",
+        "Y va",
+        "Vas-en"
+      ],
+      "answer": 0,
+      "explanation": "Before y or en, the tu form of -er verbs takes its -s back so it is easier to say: vas-y, manges-en.",
+      "textId": null
+    },
+    {
+      "id": "a2-imperatif-074",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imperatif",
+      "question": "Il reste du gâteau. ___ un peu ! (tu)",
+      "options": [
+        "Mange-en",
+        "Manges-en",
+        "En mange",
+        "Manges-y"
+      ],
+      "answer": 1,
+      "explanation": "Before y or en, the tu form of -er verbs takes its -s back so it is easier to say: vas-y, manges-en.",
+      "textId": null
+    },
+    {
+      "id": "a2-imperatif-075",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imperatif",
+      "question": "Tu veux des fleurs ? ___ quelques-unes ! (tu)",
+      "options": [
+        "Achète-en",
+        "En achète",
+        "Achètes-en",
+        "Achètes-y"
+      ],
+      "answer": 2,
+      "explanation": "Before y or en, the tu form of -er verbs takes its -s back so it is easier to say: vas-y, manges-en.",
+      "textId": null
+    },
+    {
+      "id": "a2-imperatif-076",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imperatif",
+      "question": "___ ! On est en retard. (nous)",
+      "options": [
+        "Allons-en",
+        "Y allons",
+        "Allez-y",
+        "Allons-y"
+      ],
+      "answer": 3,
+      "explanation": "Allons-y = let’s go. Y goes after the verb with a hyphen.",
+      "textId": null
+    },
+    {
+      "id": "a2-imperatif-077",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imperatif",
+      "question": "___ te coucher, il est tard. (tu)",
+      "options": [
+        "Va",
+        "Vas",
+        "Allez",
+        "Aller"
+      ],
+      "answer": 0,
+      "explanation": "The tu command of -er verbs (and aller, ouvrir, offrir) drops the final -s: Va.",
+      "textId": null
+    },
+    {
+      "id": "a2-imperatif-078",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imperatif",
+      "question": "___-moi, où est la gare ? (vous)",
+      "options": [
+        "Excusons",
+        "Excusez",
+        "Excuse",
+        "Excuser"
+      ],
+      "answer": 1,
+      "explanation": "The vous command is the present vous form without the pronoun: Excusez.",
+      "textId": null
+    },
+    {
+      "id": "a2-imperatif-079",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imperatif",
+      "question": "___ de l’eau, il fait très chaud. (vous)",
+      "options": [
+        "Boivez",
+        "Buvons",
+        "Buvez",
+        "Bois"
+      ],
+      "answer": 2,
+      "explanation": "Boire changes its stem with nous and vous: buvons, buvez.",
+      "textId": null
+    },
+    {
+      "id": "a2-imperatif-080",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "imperatif",
+      "question": "___ confiance en toi ! (tu)",
+      "options": [
+        "As",
+        "Ayez",
+        "Avoir",
+        "Aie"
+      ],
+      "answer": 3,
+      "explanation": "Être, avoir and savoir have irregular commands. Être: sois, soyons, soyez. Avoir: aie, ayons, ayez. Savoir: sache, sachons, sachez. Here: Aie.",
+      "textId": null
+    }
+  ]
+}

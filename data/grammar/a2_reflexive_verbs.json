@@ -1,0 +1,1285 @@
+{
+  "texts": [],
+  "questions": [
+    {
+      "id": "a2-reflexive_verbs-001",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "reflexive_verbs",
+      "question": "Je ___ lève à sept heures.",
+      "options": [
+        "me",
+        "te",
+        "se",
+        "nous"
+      ],
+      "answer": 0,
+      "explanation": "The reflexive pronoun matches the subject: je me, tu te, il/elle/on se, nous nous, vous vous, ils/elles se. Here: me.",
+      "textId": null
+    },
+    {
+      "id": "a2-reflexive_verbs-002",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "reflexive_verbs",
+      "question": "Tu ___ couches tard ?",
+      "options": [
+        "me",
+        "te",
+        "se",
+        "vous"
+      ],
+      "answer": 1,
+      "explanation": "The reflexive pronoun matches the subject: je me, tu te, il/elle/on se, nous nous, vous vous, ils/elles se. Here: te.",
+      "textId": null
+    },
+    {
+      "id": "a2-reflexive_verbs-003",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "reflexive_verbs",
+      "question": "Il ___ rase tous les matins.",
+      "options": [
+        "me",
+        "te",
+        "se",
+        "nous"
+      ],
+      "answer": 2,
+      "explanation": "The reflexive pronoun matches the subject: je me, tu te, il/elle/on se, nous nous, vous vous, ils/elles se. Here: se.",
+      "textId": null
+    },
+    {
+      "id": "a2-reflexive_verbs-004",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "reflexive_verbs",
+      "question": "Nous ___ promenons dans le parc.",
+      "options": [
+        "vous",
+        "se",
+        "me",
+        "nous"
+      ],
+      "answer": 3,
+      "explanation": "The reflexive pronoun matches the subject: je me, tu te, il/elle/on se, nous nous, vous vous, ils/elles se. Here: nous.",
+      "textId": null
+    },
+    {
+      "id": "a2-reflexive_verbs-005",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "reflexive_verbs",
+      "question": "Vous ___ reposez le dimanche ?",
+      "options": [
+        "vous",
+        "nous",
+        "se",
+        "te"
+      ],
+      "answer": 0,
+      "explanation": "The reflexive pronoun matches the subject: je me, tu te, il/elle/on se, nous nous, vous vous, ils/elles se. Here: vous.",
+      "textId": null
+    },
+    {
+      "id": "a2-reflexive_verbs-006",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "reflexive_verbs",
+      "question": "Elles ___ maquillent avant de sortir.",
+      "options": [
+        "nous",
+        "se",
+        "vous",
+        "me"
+      ],
+      "answer": 1,
+      "explanation": "The reflexive pronoun matches the subject: je me, tu te, il/elle/on se, nous nous, vous vous, ils/elles se. Here: se.",
+      "textId": null
+    },
+    {
+      "id": "a2-reflexive_verbs-007",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "reflexive_verbs",
+      "question": "On ___ retrouve à midi ?",
+      "options": [
+        "nous",
+        "me",
+        "se",
+        "te"
+      ],
+      "answer": 2,
+      "explanation": "With on, the reflexive pronoun is se: on se retrouve.",
+      "textId": null
+    },
+    {
+      "id": "a2-reflexive_verbs-008",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "reflexive_verbs",
+      "question": "Les enfants ___ couchent à vingt heures.",
+      "options": [
+        "nous",
+        "vous",
+        "te",
+        "se"
+      ],
+      "answer": 3,
+      "explanation": "The reflexive pronoun matches the subject: je me, tu te, il/elle/on se, nous nous, vous vous, ils/elles se. Here: se.",
+      "textId": null
+    },
+    {
+      "id": "a2-reflexive_verbs-009",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "reflexive_verbs",
+      "question": "Ma sœur ___ réveille toujours tôt.",
+      "options": [
+        "se",
+        "me",
+        "te",
+        "vous"
+      ],
+      "answer": 0,
+      "explanation": "The reflexive pronoun matches the subject: je me, tu te, il/elle/on se, nous nous, vous vous, ils/elles se. Here: se.",
+      "textId": null
+    },
+    {
+      "id": "a2-reflexive_verbs-010",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "reflexive_verbs",
+      "question": "Je ___ douche le soir.",
+      "options": [
+        "se",
+        "me",
+        "te",
+        "nous"
+      ],
+      "answer": 1,
+      "explanation": "The reflexive pronoun matches the subject: je me, tu te, il/elle/on se, nous nous, vous vous, ils/elles se. Here: me.",
+      "textId": null
+    },
+    {
+      "id": "a2-reflexive_verbs-011",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "reflexive_verbs",
+      "question": "Tu ___ souviens de moi ?",
+      "options": [
+        "se",
+        "me",
+        "te",
+        "vous"
+      ],
+      "answer": 2,
+      "explanation": "The reflexive pronoun matches the subject: je me, tu te, il/elle/on se, nous nous, vous vous, ils/elles se. Here: te.",
+      "textId": null
+    },
+    {
+      "id": "a2-reflexive_verbs-012",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "reflexive_verbs",
+      "question": "Nous ___ dépêchons, le train part !",
+      "options": [
+        "vous",
+        "se",
+        "me",
+        "nous"
+      ],
+      "answer": 3,
+      "explanation": "The reflexive pronoun matches the subject: je me, tu te, il/elle/on se, nous nous, vous vous, ils/elles se. Here: nous.",
+      "textId": null
+    },
+    {
+      "id": "a2-reflexive_verbs-013",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "reflexive_verbs",
+      "question": "Je ___ appelle Daniel.",
+      "options": [
+        "m’",
+        "me",
+        "s’",
+        "t’"
+      ],
+      "answer": 0,
+      "explanation": "Me, te, se become m’, t’, s’ before a vowel or silent h. Here: m’.",
+      "textId": null
+    },
+    {
+      "id": "a2-reflexive_verbs-014",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "reflexive_verbs",
+      "question": "Tu ___ appelles comment ?",
+      "options": [
+        "te",
+        "t’",
+        "s’",
+        "m’"
+      ],
+      "answer": 1,
+      "explanation": "Me, te, se become m’, t’, s’ before a vowel or silent h. Here: t’.",
+      "textId": null
+    },
+    {
+      "id": "a2-reflexive_verbs-015",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "reflexive_verbs",
+      "question": "Elle ___ habille en noir.",
+      "options": [
+        "se",
+        "m’",
+        "s’",
+        "t’"
+      ],
+      "answer": 2,
+      "explanation": "Me, te, se become m’, t’, s’ before a vowel or silent h. Here: s’.",
+      "textId": null
+    },
+    {
+      "id": "a2-reflexive_verbs-016",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "reflexive_verbs",
+      "question": "Je ___ ennuie pendant ce cours.",
+      "options": [
+        "me",
+        "s’",
+        "t’",
+        "m’"
+      ],
+      "answer": 3,
+      "explanation": "Me, te, se become m’, t’, s’ before a vowel or silent h. Here: m’.",
+      "textId": null
+    },
+    {
+      "id": "a2-reflexive_verbs-017",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "reflexive_verbs",
+      "question": "Ils ___ amusent bien ensemble.",
+      "options": [
+        "s’",
+        "se",
+        "m’",
+        "nous"
+      ],
+      "answer": 0,
+      "explanation": "Me, te, se become m’, t’, s’ before a vowel or silent h. Here: s’.",
+      "textId": null
+    },
+    {
+      "id": "a2-reflexive_verbs-018",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "reflexive_verbs",
+      "question": "Tu ___ intéresses à l’histoire ?",
+      "options": [
+        "te",
+        "t’",
+        "s’",
+        "m’"
+      ],
+      "answer": 1,
+      "explanation": "Me, te, se become m’, t’, s’ before a vowel or silent h. Here: t’.",
+      "textId": null
+    },
+    {
+      "id": "a2-reflexive_verbs-019",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "reflexive_verbs",
+      "question": "Il ___ excuse pour son retard.",
+      "options": [
+        "se",
+        "m’",
+        "s’",
+        "t’"
+      ],
+      "answer": 2,
+      "explanation": "Me, te, se become m’, t’, s’ before a vowel or silent h. Here: s’.",
+      "textId": null
+    },
+    {
+      "id": "a2-reflexive_verbs-020",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "reflexive_verbs",
+      "question": "Je ___ occupe des enfants ce soir.",
+      "options": [
+        "me",
+        "s’",
+        "t’",
+        "m’"
+      ],
+      "answer": 3,
+      "explanation": "Me, te, se become m’, t’, s’ before a vowel or silent h. Here: m’.",
+      "textId": null
+    },
+    {
+      "id": "a2-reflexive_verbs-021",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "reflexive_verbs",
+      "question": "Elle ___ inquiète pour son fils.",
+      "options": [
+        "s’",
+        "se",
+        "m’",
+        "t’"
+      ],
+      "answer": 0,
+      "explanation": "Me, te, se become m’, t’, s’ before a vowel or silent h. Here: s’.",
+      "textId": null
+    },
+    {
+      "id": "a2-reflexive_verbs-022",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "reflexive_verbs",
+      "question": "Je me ___ à six heures.",
+      "options": [
+        "réveilles",
+        "réveille",
+        "réveillons",
+        "réveillent"
+      ],
+      "answer": 1,
+      "explanation": "The verb itself is conjugated normally after the reflexive pronoun. Here: réveille.",
+      "textId": null
+    },
+    {
+      "id": "a2-reflexive_verbs-023",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "reflexive_verbs",
+      "question": "Tu te ___ les dents après le repas ?",
+      "options": [
+        "brosse",
+        "brossez",
+        "brosses",
+        "brossent"
+      ],
+      "answer": 2,
+      "explanation": "The verb itself is conjugated normally after the reflexive pronoun. Here: brosses.",
+      "textId": null
+    },
+    {
+      "id": "a2-reflexive_verbs-024",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "reflexive_verbs",
+      "question": "Elle se ___ les mains.",
+      "options": [
+        "laves",
+        "lavent",
+        "lavez",
+        "lave"
+      ],
+      "answer": 3,
+      "explanation": "The verb itself is conjugated normally after the reflexive pronoun. Here: lave.",
+      "textId": null
+    },
+    {
+      "id": "a2-reflexive_verbs-025",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "reflexive_verbs",
+      "question": "Nous nous ___ tôt en semaine.",
+      "options": [
+        "couchons",
+        "couchez",
+        "couchent",
+        "couche"
+      ],
+      "answer": 0,
+      "explanation": "The verb itself is conjugated normally after the reflexive pronoun. Here: couchons.",
+      "textId": null
+    },
+    {
+      "id": "a2-reflexive_verbs-026",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "reflexive_verbs",
+      "question": "Vous vous ___ à quelle heure ?",
+      "options": [
+        "levons",
+        "levez",
+        "lèvent",
+        "lève"
+      ],
+      "answer": 1,
+      "explanation": "The verb itself is conjugated normally after the reflexive pronoun. Here: levez.",
+      "textId": null
+    },
+    {
+      "id": "a2-reflexive_verbs-027",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "reflexive_verbs",
+      "question": "Ils se ___ très vite.",
+      "options": [
+        "prépare",
+        "préparons",
+        "préparent",
+        "préparez"
+      ],
+      "answer": 2,
+      "explanation": "The verb itself is conjugated normally after the reflexive pronoun. Here: préparent.",
+      "textId": null
+    },
+    {
+      "id": "a2-reflexive_verbs-028",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "reflexive_verbs",
+      "question": "Je me ___ bien dans cette ville.",
+      "options": [
+        "sent",
+        "sentons",
+        "sentent",
+        "sens"
+      ],
+      "answer": 3,
+      "explanation": "The verb itself is conjugated normally after the reflexive pronoun. Here: sens.",
+      "textId": null
+    },
+    {
+      "id": "a2-reflexive_verbs-029",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "reflexive_verbs",
+      "question": "Nous nous ___ souvent le week-end.",
+      "options": [
+        "voyons",
+        "voyez",
+        "voient",
+        "voit"
+      ],
+      "answer": 0,
+      "explanation": "The verb itself is conjugated normally after the reflexive pronoun. Here: voyons.",
+      "textId": null
+    },
+    {
+      "id": "a2-reflexive_verbs-030",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "reflexive_verbs",
+      "question": "Elle se ___ toujours de mon anniversaire.",
+      "options": [
+        "souviens",
+        "souvient",
+        "souviennent",
+        "souvenez"
+      ],
+      "answer": 1,
+      "explanation": "The verb itself is conjugated normally after the reflexive pronoun. Here: souvient.",
+      "textId": null
+    },
+    {
+      "id": "a2-reflexive_verbs-031",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "reflexive_verbs",
+      "question": "Tu te ___ où ?",
+      "options": [
+        "assied",
+        "asseyez",
+        "assieds",
+        "asseyent"
+      ],
+      "answer": 2,
+      "explanation": "S’asseoir is irregular: je m’assieds, tu t’assieds, il s’assied.",
+      "textId": null
+    },
+    {
+      "id": "a2-reflexive_verbs-032",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "reflexive_verbs",
+      "question": "Ils se ___ en juillet.",
+      "options": [
+        "marie",
+        "marions",
+        "mariez",
+        "marient"
+      ],
+      "answer": 3,
+      "explanation": "The verb itself is conjugated normally after the reflexive pronoun. Here: marient.",
+      "textId": null
+    },
+    {
+      "id": "a2-reflexive_verbs-033",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "reflexive_verbs",
+      "question": "Je vais ___ coucher.",
+      "options": [
+        "me",
+        "se",
+        "te",
+        "nous"
+      ],
+      "answer": 0,
+      "explanation": "After another verb (aimer, vouloir, devoir, aller…), the reflexive verb stays in the infinitive, but its pronoun still matches the subject. Here: me.",
+      "textId": null
+    },
+    {
+      "id": "a2-reflexive_verbs-034",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "reflexive_verbs",
+      "question": "Tu dois ___ dépêcher !",
+      "options": [
+        "se",
+        "te",
+        "me",
+        "vous"
+      ],
+      "answer": 1,
+      "explanation": "After another verb (aimer, vouloir, devoir, aller…), the reflexive verb stays in the infinitive, but its pronoun still matches the subject. Here: te.",
+      "textId": null
+    },
+    {
+      "id": "a2-reflexive_verbs-035",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "reflexive_verbs",
+      "question": "Nous voulons ___ reposer.",
+      "options": [
+        "se",
+        "vous",
+        "nous",
+        "me"
+      ],
+      "answer": 2,
+      "explanation": "After another verb (aimer, vouloir, devoir, aller…), the reflexive verb stays in the infinitive, but its pronoun still matches the subject. Here: nous.",
+      "textId": null
+    },
+    {
+      "id": "a2-reflexive_verbs-036",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "reflexive_verbs",
+      "question": "Elle aime ___ promener le soir.",
+      "options": [
+        "me",
+        "te",
+        "nous",
+        "se"
+      ],
+      "answer": 3,
+      "explanation": "After another verb (aimer, vouloir, devoir, aller…), the reflexive verb stays in the infinitive, but its pronoun still matches the subject. Here: se.",
+      "textId": null
+    },
+    {
+      "id": "a2-reflexive_verbs-037",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "reflexive_verbs",
+      "question": "Vous devez ___ lever tôt demain.",
+      "options": [
+        "vous",
+        "se",
+        "nous",
+        "te"
+      ],
+      "answer": 0,
+      "explanation": "After another verb (aimer, vouloir, devoir, aller…), the reflexive verb stays in the infinitive, but its pronoun still matches the subject. Here: vous.",
+      "textId": null
+    },
+    {
+      "id": "a2-reflexive_verbs-038",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "reflexive_verbs",
+      "question": "Ils vont ___ marier cet été.",
+      "options": [
+        "nous",
+        "se",
+        "vous",
+        "me"
+      ],
+      "answer": 1,
+      "explanation": "After another verb (aimer, vouloir, devoir, aller…), the reflexive verb stays in the infinitive, but its pronoun still matches the subject. Here: se.",
+      "textId": null
+    },
+    {
+      "id": "a2-reflexive_verbs-039",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "reflexive_verbs",
+      "question": "Je n’aime pas ___ lever tôt.",
+      "options": [
+        "se",
+        "te",
+        "me",
+        "nous"
+      ],
+      "answer": 2,
+      "explanation": "After another verb (aimer, vouloir, devoir, aller…), the reflexive verb stays in the infinitive, but its pronoun still matches the subject. Here: me.",
+      "textId": null
+    },
+    {
+      "id": "a2-reflexive_verbs-040",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "reflexive_verbs",
+      "question": "Tu peux ___ asseoir ici.",
+      "options": [
+        "s’",
+        "te",
+        "m’",
+        "t’"
+      ],
+      "answer": 3,
+      "explanation": "After another verb (aimer, vouloir, devoir, aller…), the reflexive verb stays in the infinitive, but its pronoun still matches the subject. Here: t’.",
+      "textId": null
+    },
+    {
+      "id": "a2-reflexive_verbs-041",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "reflexive_verbs",
+      "question": "On doit ___ laver les mains avant de manger.",
+      "options": [
+        "se",
+        "nous",
+        "me",
+        "te"
+      ],
+      "answer": 0,
+      "explanation": "After another verb (aimer, vouloir, devoir, aller…), the reflexive verb stays in the infinitive, but its pronoun still matches the subject. Here: se.",
+      "textId": null
+    },
+    {
+      "id": "a2-reflexive_verbs-042",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "reflexive_verbs",
+      "question": "Je voudrais ___ inscrire au cours de yoga.",
+      "options": [
+        "s’",
+        "m’",
+        "me",
+        "t’"
+      ],
+      "answer": 1,
+      "explanation": "After another verb (aimer, vouloir, devoir, aller…), the reflexive verb stays in the infinitive, but its pronoun still matches the subject. Here: m’.",
+      "textId": null
+    },
+    {
+      "id": "a2-reflexive_verbs-043",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "reflexive_verbs",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "Je me ne lève pas tôt le dimanche.",
+        "Je ne lève me pas tôt le dimanche.",
+        "Je ne me lève pas tôt le dimanche.",
+        "Je ne me pas lève tôt le dimanche."
+      ],
+      "answer": 2,
+      "explanation": "In the negative, ne goes before the reflexive pronoun and pas after the verb: je ne me lève pas.",
+      "textId": null
+    },
+    {
+      "id": "a2-reflexive_verbs-044",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "reflexive_verbs",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "Elle se ne maquille jamais.",
+        "Elle ne maquille se jamais.",
+        "Elle ne se jamais maquille.",
+        "Elle ne se maquille jamais."
+      ],
+      "answer": 3,
+      "explanation": "In the negative, ne goes before the reflexive pronoun and pas after the verb: je ne me lève pas.",
+      "textId": null
+    },
+    {
+      "id": "a2-reflexive_verbs-045",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "reflexive_verbs",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "Nous ne nous couchons pas tard.",
+        "Nous nous ne couchons pas tard.",
+        "Nous ne couchons nous pas tard.",
+        "Nous ne nous pas couchons tard."
+      ],
+      "answer": 0,
+      "explanation": "In the negative, ne goes before the reflexive pronoun and pas after the verb: je ne me lève pas.",
+      "textId": null
+    },
+    {
+      "id": "a2-reflexive_verbs-046",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "reflexive_verbs",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "Tu te ne souviens pas de lui ?",
+        "Tu ne te souviens pas de lui ?",
+        "Tu ne souviens te pas de lui ?",
+        "Tu ne te pas souviens de lui ?"
+      ],
+      "answer": 1,
+      "explanation": "In the negative, ne goes before the reflexive pronoun and pas after the verb: je ne me lève pas.",
+      "textId": null
+    },
+    {
+      "id": "a2-reflexive_verbs-047",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "reflexive_verbs",
+      "question": "Je ne ___ souviens plus de son nom.",
+      "options": [
+        "se",
+        "te",
+        "me",
+        "moi"
+      ],
+      "answer": 2,
+      "explanation": "In the negative, ne goes before the reflexive pronoun and pas after the verb: je ne me lève pas.",
+      "textId": null
+    },
+    {
+      "id": "a2-reflexive_verbs-048",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "reflexive_verbs",
+      "question": "Je ne ___ sens pas bien aujourd’hui.",
+      "options": [
+        "se",
+        "te",
+        "moi",
+        "me"
+      ],
+      "answer": 3,
+      "explanation": "In the negative, ne goes before the reflexive pronoun and pas after the verb: je ne me lève pas.",
+      "textId": null
+    },
+    {
+      "id": "a2-reflexive_verbs-049",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "reflexive_verbs",
+      "question": "Ce matin, je ___ à six heures. (Paul parle)",
+      "options": [
+        "me suis levé",
+        "m’ai levé",
+        "me suis levée",
+        "me suis lever"
+      ],
+      "answer": 0,
+      "explanation": "Reflexive verbs take être in the passé composé; the past participle agrees with the subject. Here: me suis levé.",
+      "textId": null
+    },
+    {
+      "id": "a2-reflexive_verbs-050",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "reflexive_verbs",
+      "question": "Hier, elle ___ très tard.",
+      "options": [
+        "s’a couché",
+        "s’est couchée",
+        "s’est couché",
+        "s’est coucher"
+      ],
+      "answer": 1,
+      "explanation": "Reflexive verbs take être in the passé composé; the past participle agrees with the subject. Here: s’est couchée.",
+      "textId": null
+    },
+    {
+      "id": "a2-reflexive_verbs-051",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "reflexive_verbs",
+      "question": "Ils ___ à la fête.",
+      "options": [
+        "s’ont bien amusé",
+        "se sont bien amusé",
+        "se sont bien amusés",
+        "se sont bien amusées"
+      ],
+      "answer": 2,
+      "explanation": "Reflexive verbs take être in the passé composé; the past participle agrees with the subject. Here: se sont bien amusés.",
+      "textId": null
+    },
+    {
+      "id": "a2-reflexive_verbs-052",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "reflexive_verbs",
+      "question": "Nous ___ dans la forêt. (masculin)",
+      "options": [
+        "nous avons perdu",
+        "nous sommes perdu",
+        "nous sommes perdues",
+        "nous sommes perdus"
+      ],
+      "answer": 3,
+      "explanation": "Reflexive verbs take être in the passé composé; the past participle agrees with the subject. Here: nous sommes perdus.",
+      "textId": null
+    },
+    {
+      "id": "a2-reflexive_verbs-053",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "reflexive_verbs",
+      "question": "Tu ___ où, Marie ?",
+      "options": [
+        "t’es assise",
+        "t’as assis",
+        "t’es assis",
+        "t’es asseoir"
+      ],
+      "answer": 0,
+      "explanation": "Reflexive verbs take être in the passé composé; the past participle agrees with the subject. Here: t’es assise.",
+      "textId": null
+    },
+    {
+      "id": "a2-reflexive_verbs-054",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "reflexive_verbs",
+      "question": "Elles ___ au café.",
+      "options": [
+        "s’ont retrouvé",
+        "se sont retrouvées",
+        "se sont retrouvés",
+        "se sont retrouvé"
+      ],
+      "answer": 1,
+      "explanation": "Reflexive verbs take être in the passé composé; the past participle agrees with the subject. Here: se sont retrouvées.",
+      "textId": null
+    },
+    {
+      "id": "a2-reflexive_verbs-055",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "reflexive_verbs",
+      "question": "Vous ___ de votre erreur, messieurs ?",
+      "options": [
+        "vous avez excusé",
+        "vous êtes excusé",
+        "vous êtes excusés",
+        "vous êtes excusées"
+      ],
+      "answer": 2,
+      "explanation": "Reflexive verbs take être in the passé composé; the past participle agrees with the subject. Here: vous êtes excusés.",
+      "textId": null
+    },
+    {
+      "id": "a2-reflexive_verbs-056",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "reflexive_verbs",
+      "question": "Je ___ en retard. (Julie parle)",
+      "options": [
+        "m’ai réveillé",
+        "me suis réveillé",
+        "me suis réveiller",
+        "me suis réveillée"
+      ],
+      "answer": 3,
+      "explanation": "Reflexive verbs take être in the passé composé; the past participle agrees with the subject. Here: me suis réveillée.",
+      "textId": null
+    },
+    {
+      "id": "a2-reflexive_verbs-057",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "reflexive_verbs",
+      "question": "Le bébé ___ tout de suite.",
+      "options": [
+        "s’est endormi",
+        "s’a endormi",
+        "s’est endormie",
+        "s’est endormir"
+      ],
+      "answer": 0,
+      "explanation": "Reflexive verbs take être in the passé composé; the past participle agrees with the subject. Here: s’est endormi.",
+      "textId": null
+    },
+    {
+      "id": "a2-reflexive_verbs-058",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "reflexive_verbs",
+      "question": "Mes parents ___ en 1995.",
+      "options": [
+        "s’ont rencontré",
+        "se sont rencontrés",
+        "se sont rencontré",
+        "se sont rencontrées"
+      ],
+      "answer": 1,
+      "explanation": "Reflexive verbs take être in the passé composé; the past participle agrees with the subject. Here: se sont rencontrés.",
+      "textId": null
+    },
+    {
+      "id": "a2-reflexive_verbs-059",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "reflexive_verbs",
+      "question": "___ ! Il est déjà huit heures. (à tu)",
+      "options": [
+        "Lève-te",
+        "Te lève",
+        "Lève-toi",
+        "Toi lève"
+      ],
+      "answer": 2,
+      "explanation": "In a positive command the pronoun goes after the verb and te becomes toi: lève-toi, levons-nous, levez-vous. In a negative command it stays in front: ne te lève pas.",
+      "textId": null
+    },
+    {
+      "id": "a2-reflexive_verbs-060",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "reflexive_verbs",
+      "question": "___, s’il vous plaît. (à vous)",
+      "options": [
+        "Vous asseyez",
+        "Asseyez-toi",
+        "Asseyez-se",
+        "Asseyez-vous"
+      ],
+      "answer": 3,
+      "explanation": "In a positive command the pronoun goes after the verb and te becomes toi: lève-toi, levons-nous, levez-vous. In a negative command it stays in front: ne te lève pas.",
+      "textId": null
+    },
+    {
+      "id": "a2-reflexive_verbs-061",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "reflexive_verbs",
+      "question": "___ ! Le film commence. (à nous)",
+      "options": [
+        "Dépêchons-nous",
+        "Nous dépêchons",
+        "Dépêchons-vous",
+        "Dépêchons-se"
+      ],
+      "answer": 0,
+      "explanation": "In a positive command the pronoun goes after the verb and te becomes toi: lève-toi, levons-nous, levez-vous. In a negative command it stays in front: ne te lève pas.",
+      "textId": null
+    },
+    {
+      "id": "a2-reflexive_verbs-062",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "reflexive_verbs",
+      "question": "___, tout va bien. (à tu)",
+      "options": [
+        "Calme-te",
+        "Calme-toi",
+        "Te calme",
+        "Toi calme"
+      ],
+      "answer": 1,
+      "explanation": "In a positive command the pronoun goes after the verb and te becomes toi: lève-toi, levons-nous, levez-vous. In a negative command it stays in front: ne te lève pas.",
+      "textId": null
+    },
+    {
+      "id": "a2-reflexive_verbs-063",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "reflexive_verbs",
+      "question": "___ bien ! (à vous)",
+      "options": [
+        "Vous amusez",
+        "Amusez-toi",
+        "Amusez-vous",
+        "Amusez-se"
+      ],
+      "answer": 2,
+      "explanation": "In a positive command the pronoun goes after the verb and te becomes toi: lève-toi, levons-nous, levez-vous. In a negative command it stays in front: ne te lève pas.",
+      "textId": null
+    },
+    {
+      "id": "a2-reflexive_verbs-064",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "reflexive_verbs",
+      "question": "Ne ___ pas, ce n’est pas grave. (à tu)",
+      "options": [
+        "inquiète-toi",
+        "toi inquiète",
+        "s’inquiète",
+        "t’inquiète"
+      ],
+      "answer": 3,
+      "explanation": "In a positive command the pronoun goes after the verb and te becomes toi: lève-toi, levons-nous, levez-vous. In a negative command it stays in front: ne te lève pas.",
+      "textId": null
+    },
+    {
+      "id": "a2-reflexive_verbs-065",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "reflexive_verbs",
+      "question": "Ne ___ pas trop tard ! (à vous)",
+      "options": [
+        "vous couchez",
+        "couchez-vous",
+        "se couchez",
+        "couchez-toi"
+      ],
+      "answer": 0,
+      "explanation": "In a positive command the pronoun goes after the verb and te becomes toi: lève-toi, levons-nous, levez-vous. In a negative command it stays in front: ne te lève pas.",
+      "textId": null
+    },
+    {
+      "id": "a2-reflexive_verbs-066",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "reflexive_verbs",
+      "question": "___ les mains avant de manger ! (à tu)",
+      "options": [
+        "Lave-te",
+        "Lave-toi",
+        "Te lave",
+        "Lave-se"
+      ],
+      "answer": 1,
+      "explanation": "In a positive command the pronoun goes after the verb and te becomes toi: lève-toi, levons-nous, levez-vous. In a negative command it stays in front: ne te lève pas.",
+      "textId": null
+    },
+    {
+      "id": "a2-reflexive_verbs-067",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "reflexive_verbs",
+      "question": "Paul et Marie ___ depuis dix ans.",
+      "options": [
+        "se connaît",
+        "nous connaissons",
+        "se connaissent",
+        "se connaissons"
+      ],
+      "answer": 2,
+      "explanation": "With a plural subject, a reflexive verb can mean \"each other\": ils se parlent = they talk to each other.",
+      "textId": null
+    },
+    {
+      "id": "a2-reflexive_verbs-068",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "reflexive_verbs",
+      "question": "Nous ___ tous les jours.",
+      "options": [
+        "se téléphonent",
+        "nous téléphonent",
+        "se téléphonons",
+        "nous téléphonons"
+      ],
+      "answer": 3,
+      "explanation": "With a plural subject, a reflexive verb can mean \"each other\": ils se parlent = they talk to each other.",
+      "textId": null
+    },
+    {
+      "id": "a2-reflexive_verbs-069",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "reflexive_verbs",
+      "question": "Ils ___ beaucoup.",
+      "options": [
+        "s’aiment",
+        "s’aime",
+        "s’aimez",
+        "nous aimons"
+      ],
+      "answer": 0,
+      "explanation": "With a plural subject, a reflexive verb can mean \"each other\": ils se parlent = they talk to each other.",
+      "textId": null
+    },
+    {
+      "id": "a2-reflexive_verbs-070",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "reflexive_verbs",
+      "question": "On ___ demain ?",
+      "options": [
+        "se voient",
+        "se voit",
+        "nous voit",
+        "se voyons"
+      ],
+      "answer": 1,
+      "explanation": "With a plural subject, a reflexive verb can mean \"each other\": ils se parlent = they talk to each other.",
+      "textId": null
+    },
+    {
+      "id": "a2-reflexive_verbs-071",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "reflexive_verbs",
+      "question": "Vous ___ souvent des messages ?",
+      "options": [
+        "vous écrivent",
+        "s’écrivez",
+        "vous écrivez",
+        "se écrivent"
+      ],
+      "answer": 2,
+      "explanation": "With a plural subject, a reflexive verb can mean \"each other\": ils se parlent = they talk to each other.",
+      "textId": null
+    },
+    {
+      "id": "a2-reflexive_verbs-072",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "reflexive_verbs",
+      "question": "Mon bureau ___ au centre-ville.",
+      "options": [
+        "trouve",
+        "se trouvent",
+        "le trouve",
+        "se trouve"
+      ],
+      "answer": 3,
+      "explanation": "Some verbs change meaning when reflexive: appeler (to call) / s’appeler (to be named), trouver (to find) / se trouver (to be located).",
+      "textId": null
+    },
+    {
+      "id": "a2-reflexive_verbs-073",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "reflexive_verbs",
+      "question": "Je ___ mes clés partout.",
+      "options": [
+        "cherche",
+        "me cherche",
+        "se cherche",
+        "me cherches"
+      ],
+      "answer": 0,
+      "explanation": "Chercher is not reflexive here: the object is mes clés, not myself.",
+      "textId": null
+    },
+    {
+      "id": "a2-reflexive_verbs-074",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "reflexive_verbs",
+      "question": "Elle ___ son fils à sept heures.",
+      "options": [
+        "se réveille",
+        "réveille",
+        "s’est réveille",
+        "la réveille"
+      ],
+      "answer": 1,
+      "explanation": "She wakes someone else (son fils), so the verb is not reflexive: elle réveille son fils.",
+      "textId": null
+    },
+    {
+      "id": "a2-reflexive_verbs-075",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "reflexive_verbs",
+      "question": "Elle ___ à sept heures.",
+      "options": [
+        "réveille",
+        "se réveilles",
+        "se réveille",
+        "lui réveille"
+      ],
+      "answer": 2,
+      "explanation": "She wakes up herself, so the verb is reflexive: elle se réveille.",
+      "textId": null
+    },
+    {
+      "id": "a2-reflexive_verbs-076",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "reflexive_verbs",
+      "question": "Je ___ le chien tous les soirs.",
+      "options": [
+        "me promène",
+        "se promène",
+        "me promènes",
+        "promène"
+      ],
+      "answer": 3,
+      "explanation": "I walk the dog (not myself), so the verb is not reflexive: je promène le chien.",
+      "textId": null
+    },
+    {
+      "id": "a2-reflexive_verbs-077",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "reflexive_verbs",
+      "question": "Je ___ dans le parc tous les soirs.",
+      "options": [
+        "me promène",
+        "promène",
+        "se promène",
+        "me promènes"
+      ],
+      "answer": 0,
+      "explanation": "I take myself for a walk, so the verb is reflexive: je me promène.",
+      "textId": null
+    },
+    {
+      "id": "a2-reflexive_verbs-078",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "reflexive_verbs",
+      "question": "Qu’est-ce qui ___ ?",
+      "options": [
+        "passe",
+        "se passe",
+        "se passent",
+        "me passe"
+      ],
+      "answer": 1,
+      "explanation": "Se passer = to happen. Qu’est-ce qui se passe ? = What’s going on?",
+      "textId": null
+    },
+    {
+      "id": "a2-reflexive_verbs-079",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "reflexive_verbs",
+      "question": "Comment ça ___ en français ?",
+      "options": [
+        "dit",
+        "se disent",
+        "se dit",
+        "le dit"
+      ],
+      "answer": 2,
+      "explanation": "Se dire = to be said. Comment ça se dit ? = How do you say that?",
+      "textId": null
+    },
+    {
+      "id": "a2-reflexive_verbs-080",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "reflexive_verbs",
+      "question": "Le français ___ dans beaucoup de pays.",
+      "options": [
+        "parle",
+        "se parlent",
+        "le parle",
+        "se parle"
+      ],
+      "answer": 3,
+      "explanation": "A reflexive verb can have a passive meaning: le français se parle = French is spoken.",
+      "textId": null
+    }
+  ]
+}

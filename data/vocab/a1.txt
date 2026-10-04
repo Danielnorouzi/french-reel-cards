@@ -1,0 +1,523 @@
+## greetings | Greetings & politeness | 👋
+bonjour | hello, good morning | intj | Bonjour, madame !
+bonsoir | good evening | intj | Bonsoir, tout le monde.
+salut | hi, bye | intj | Salut, ça va ?
+au revoir | goodbye | phr | Au revoir et à demain !
+à bientôt | see you soon | phr | Bonne journée, à bientôt !
+à demain | see you tomorrow | phr | Bonne soirée, à demain.
+bonne nuit | good night | phr | Bonne nuit, dors bien.
+merci | thank you | intj | Merci beaucoup !
+de rien | you're welcome | phr | Merci ! — De rien.
+s'il vous plaît | please (formal) | phr | Un café, s'il vous plaît.
+s'il te plaît | please (informal) | phr | Passe-moi le sel, s'il te plaît.
+pardon | sorry, excuse me | intj | Pardon, je suis en retard.
+excusez-moi | excuse me | phr | Excusez-moi, où est la gare ?
+désolé | sorry | adj | Je suis désolé.
+oui | yes | adv | Oui, bien sûr.
+non | no | adv | Non, merci.
+d'accord | okay, all right | phr | D'accord, on y va.
+bien sûr | of course | phr | Tu viens ? — Bien sûr !
+ça va | I'm fine, how's it going | phr | Ça va bien, et toi ?
+bienvenue | welcome | intj | Bienvenue à Paris !
+enchanté | pleased to meet you | adj | Enchanté, je m'appelle Paul.
+monsieur | sir, Mr | m | Bonjour, monsieur.
+madame | madam, Mrs | f | Merci, madame.
+comment | how | adv | Comment allez-vous ?
+s'appeler | to be called | v | Je m'appelle Daniel.
+le prénom | first name | m | Quel est ton prénom ?
+le nom | name, surname | m | Votre nom, s'il vous plaît ?
+bon appétit | enjoy your meal | phr | Le dîner est prêt. Bon appétit !
+à tes souhaits | bless you | phr | Atchoum ! — À tes souhaits !
+félicitations | congratulations | intj | Tu as réussi ? Félicitations !
+bonne chance | good luck | phr | Bonne chance pour ton examen !
+je ne sais pas | I don't know | phr | Où est Paul ? — Je ne sais pas.
+je ne comprends pas | I don't understand | phr | Pardon, je ne comprends pas.
+
+## family | People & family | 👨‍👩‍👧
+la famille | family | f | J'ai une grande famille.
+le père | father | m | Mon père travaille ici.
+la mère | mother | f | Ma mère est professeure.
+les parents | parents | m | Mes parents habitent à Lyon.
+le frère | brother | m | J'ai un frère.
+la sœur | sister | f | Ma sœur a dix ans.
+le fils | son | m | Leur fils est étudiant.
+la fille | daughter, girl | f | C'est la fille de Marie.
+l'enfant | child | mf | Ils ont trois enfants.
+le bébé | baby | m | Le bébé dort.
+le mari | husband | m | Voici mon mari.
+la femme | woman, wife | f | Sa femme est médecin.
+le grand-père | grandfather | m | Mon grand-père a 80 ans.
+la grand-mère | grandmother | f | Ma grand-mère cuisine bien.
+l'oncle | uncle | m | Mon oncle habite au Canada.
+la tante | aunt | f | Ma tante est très drôle.
+le cousin | cousin (male) | m | Mon cousin joue au foot.
+la cousine | cousin (female) | f | Ma cousine vit à Paris.
+l'ami | friend (male) | m | Paul est mon ami.
+l'amie | friend (female) | f | Léa est une amie.
+le copain | friend, boyfriend | m | Je sors avec mes copains.
+la copine | friend, girlfriend | f | Sa copine est sympa.
+l'homme | man | m | Cet homme est grand.
+le garçon | boy | m | Le garçon joue dehors.
+les gens | people | m | Les gens sont gentils ici.
+la personne | person | f | Il y a dix personnes.
+le voisin | neighbour | m | Mon voisin est très calme.
+le chien | dog | m | Le chien court dans le jardin.
+le chat | cat | m | Mon chat dort beaucoup.
+l'âge | age | m | Quel âge as-tu ?
+l'anniversaire | birthday | m | C'est mon anniversaire demain.
+célibataire | single | adj | Il est célibataire.
+marié | married | adj | Elle est mariée.
+jeune | young | adj | Elle est très jeune.
+vieux | old | adj | Mon chien est vieux.
+
+## time | Numbers, days & time | 🗓️
+un | one | num | J'ai un frère.
+deux | two | num | Deux cafés, s'il vous plaît.
+trois | three | num | Il a trois enfants.
+quatre | four | num | Nous sommes quatre.
+cinq | five | num | J'arrive dans cinq minutes.
+six | six | num | Le magasin ouvre à six heures.
+sept | seven | num | Il y a sept jours dans une semaine.
+huit | eight | num | Je travaille huit heures par jour.
+neuf | nine | num | Le cours commence à neuf heures.
+dix | ten | num | J'ai dix euros.
+vingt | twenty | num | Elle a vingt ans.
+cent | a hundred | num | Ça coûte cent euros.
+mille | a thousand | num | Il y a mille habitants.
+premier | first | adj | C'est mon premier jour.
+lundi | Monday | m | Lundi, je travaille.
+mardi | Tuesday | m | Le cours est mardi.
+mercredi | Wednesday | m | On se voit mercredi.
+jeudi | Thursday | m | Jeudi, je vais au cinéma.
+vendredi | Friday | m | Vendredi soir, on sort.
+samedi | Saturday | m | Samedi, je fais les courses.
+dimanche | Sunday | m | Le dimanche, je me repose.
+le jour | day | m | Quel jour sommes-nous ?
+la semaine | week | f | Je travaille cinq jours par semaine.
+le mois | month | m | Janvier est le premier mois.
+l'année | year | f | Bonne année !
+le week-end | weekend | m | Bon week-end !
+aujourd'hui | today | adv | Aujourd'hui, il fait beau.
+demain | tomorrow | adv | Demain, je pars.
+hier | yesterday | adv | Hier, j'étais malade.
+maintenant | now | adv | Je pars maintenant.
+le matin | morning | m | Je bois un café le matin.
+l'après-midi | afternoon | m | Je travaille l'après-midi.
+le soir | evening | m | Le soir, je lis.
+la nuit | night | f | Il fait froid la nuit.
+l'heure | hour, time | f | Quelle heure est-il ?
+la minute | minute | f | Attends une minute.
+midi | noon | m | On mange à midi.
+minuit | midnight | m | Je me couche à minuit.
+tôt | early | adv | Je me lève tôt.
+tard | late | adv | Il est tard.
+toujours | always | adv | Elle est toujours contente.
+souvent | often | adv | Je vais souvent au parc.
+parfois | sometimes | adv | Parfois, je prends le bus.
+jamais | never | adv | Je ne fume jamais.
+janvier | January | m | Il neige en janvier.
+juillet | July | m | Je suis né en juillet.
+l'été | summer | m | En été, il fait chaud.
+l'hiver | winter | m | L'hiver est long ici.
+le printemps | spring | m | Les fleurs arrivent au printemps.
+l'automne | autumn | m | J'aime les couleurs de l'automne.
+
+## food | Food & drink | 🍎
+le pain | bread | m | J'achète du pain.
+le fromage | cheese | m | J'adore le fromage.
+le beurre | butter | m | Du pain avec du beurre.
+l'œuf | egg | m | Je mange un œuf le matin.
+le lait | milk | m | Tu veux du lait ?
+l'eau | water | f | Je bois de l'eau.
+le café | coffee, café | m | Un café, s'il vous plaît.
+le thé | tea | m | Je préfère le thé.
+le jus | juice | m | Un jus d'orange, merci.
+le vin | wine | m | Un verre de vin rouge.
+la bière | beer | f | Une bière, s'il vous plaît.
+la viande | meat | f | Je ne mange pas de viande.
+le poulet | chicken | m | Ce soir, on mange du poulet.
+le poisson | fish | m | Le poisson est frais.
+le légume | vegetable | m | Mange tes légumes !
+le fruit | fruit | m | J'achète des fruits.
+la pomme | apple | f | Je mange une pomme.
+la banane | banana | f | Le bébé aime la banane.
+l'orange | orange | f | Cette orange est sucrée.
+la fraise | strawberry | f | Les fraises sont délicieuses.
+la tomate | tomato | f | Une salade de tomates.
+la pomme de terre | potato | f | J'épluche les pommes de terre.
+la carotte | carrot | f | Le lapin mange une carotte.
+la salade | salad, lettuce | f | Je prends une salade.
+le riz | rice | m | Du poulet avec du riz.
+les pâtes | pasta | f | Ce soir, je fais des pâtes.
+la soupe | soup | f | La soupe est chaude.
+le sucre | sugar | m | Je ne prends pas de sucre.
+le sel | salt | m | Il manque du sel.
+le gâteau | cake | m | Un gâteau au chocolat.
+le chocolat | chocolate | m | J'aime le chocolat noir.
+la glace | ice cream, ice | f | Une glace à la vanille.
+le petit déjeuner | breakfast | m | Je prends mon petit déjeuner.
+le déjeuner | lunch | m | Le déjeuner est à midi.
+le dîner | dinner | m | Le dîner est prêt.
+le repas | meal | m | C'est un bon repas.
+manger | to eat | v | Je mange une pomme.
+boire | to drink | v | Tu bois du café ?
+avoir faim | to be hungry | phr | J'ai faim !
+avoir soif | to be thirsty | phr | Tu as soif ?
+le restaurant | restaurant | m | On va au restaurant ce soir.
+le menu | menu, set meal | m | Je prends le menu du jour.
+l'addition | bill | f | L'addition, s'il vous plaît.
+le verre | glass | m | Un verre d'eau, s'il vous plaît.
+la tasse | cup | f | Une tasse de thé.
+l'assiette | plate | f | Mon assiette est vide.
+la bouteille | bottle | f | Une bouteille d'eau.
+délicieux | delicious | adj | Ce gâteau est délicieux.
+bon | good | adj | C'est très bon !
+la boulangerie | bakery | f | La boulangerie ouvre à 7 h.
+
+## home | Home | 🏠
+la maison | house, home | f | Je suis à la maison.
+l'appartement | flat, apartment | m | J'habite dans un appartement.
+la chambre | bedroom | f | Ma chambre est petite.
+la cuisine | kitchen, cooking | f | Je suis dans la cuisine.
+le salon | living room | m | On regarde la télé dans le salon.
+la salle de bains | bathroom | f | La salle de bains est à gauche.
+les toilettes | toilet | f | Où sont les toilettes ?
+le jardin | garden | m | Les enfants jouent dans le jardin.
+la porte | door | f | Ferme la porte.
+la fenêtre | window | f | Ouvre la fenêtre.
+le mur | wall | m | Le mur est blanc.
+l'étage | floor, storey | m | J'habite au premier étage.
+l'escalier | stairs | m | Prends l'escalier.
+la table | table | f | Le livre est sur la table.
+la chaise | chair | f | Assieds-toi sur la chaise.
+le lit | bed | m | Je vais au lit.
+le canapé | sofa | m | Le chat dort sur le canapé.
+l'armoire | wardrobe | f | Mes vêtements sont dans l'armoire.
+le bureau | desk, office | m | Mon ordinateur est sur le bureau.
+la lampe | lamp | f | Allume la lampe.
+le frigo | fridge | m | Le lait est dans le frigo.
+la clé | key | f | J'ai perdu mes clés.
+la télévision | television | f | Je regarde la télévision.
+le téléphone | phone | m | Mon téléphone sonne.
+l'ordinateur | computer | m | Je travaille sur mon ordinateur.
+la douche | shower | f | Je prends une douche.
+habiter | to live (somewhere) | v | J'habite à Vancouver.
+l'adresse | address | f | Quelle est ton adresse ?
+la rue | street | f | J'habite dans cette rue.
+le loyer | rent | m | Le loyer est cher.
+propre | clean | adj | La cuisine est propre.
+sale | dirty | adj | Tes chaussures sont sales.
+confortable | comfortable | adj | Ce canapé est confortable.
+ouvrir | to open | v | J'ouvre la porte.
+fermer | to close | v | Ferme la fenêtre, s'il te plaît.
+
+## city | City & directions | 🏙️
+la ville | city, town | f | J'aime cette ville.
+le village | village | m | C'est un petit village.
+le pays | country | m | La France est un beau pays.
+le quartier | neighbourhood | m | Mon quartier est calme.
+le magasin | shop | m | Le magasin est fermé.
+le supermarché | supermarket | m | Je vais au supermarché.
+le marché | market | m | Le marché est le samedi.
+la banque | bank | f | La banque ouvre à neuf heures.
+la poste | post office | f | Je vais à la poste.
+la pharmacie | pharmacy | f | Il y a une pharmacie ici ?
+l'hôpital | hospital | m | Elle travaille à l'hôpital.
+l'école | school | f | Les enfants sont à l'école.
+la gare | train station | f | Où est la gare ?
+l'aéroport | airport | m | Je vais à l'aéroport.
+l'hôtel | hotel | m | L'hôtel est au centre-ville.
+le musée | museum | m | On visite le musée.
+le cinéma | cinema | m | On va au cinéma ?
+le parc | park | m | Je cours dans le parc.
+la plage | beach | f | On va à la plage.
+la place | square, seat | f | La place est très belle.
+le pont | bridge | m | Traversez le pont.
+le bus | bus | m | Je prends le bus.
+le métro | underground, subway | m | Le métro est rapide.
+le train | train | m | Le train part à midi.
+la voiture | car | f | Ma voiture est rouge.
+le vélo | bike | m | Je vais au travail à vélo.
+l'avion | plane | m | L'avion décolle à 8 h.
+le billet | ticket | m | J'ai deux billets.
+à gauche | on / to the left | phr | Tournez à gauche.
+à droite | on / to the right | phr | C'est à droite.
+tout droit | straight ahead | phr | Continuez tout droit.
+près | near | adv | La gare est tout près.
+loin | far | adv | C'est loin d'ici ?
+ici | here | adv | Viens ici !
+là-bas | over there | adv | Le bus est là-bas.
+le plan | map (of a town) | m | Tu as un plan de la ville ?
+aller | to go | v | Je vais à la banque.
+venir | to come | v | Tu viens avec moi ?
+arriver | to arrive | v | Le train arrive.
+partir | to leave | v | Je pars à huit heures.
+
+## verbs | Everyday verbs | 🏃
+être | to be | v | Je suis content.
+avoir | to have | v | J'ai un chien.
+faire | to do, to make | v | Qu'est-ce que tu fais ?
+parler | to speak | v | Je parle français.
+regarder | to watch, to look at | v | Je regarde un film.
+écouter | to listen to | v | J'écoute de la musique.
+aimer | to like, to love | v | J'aime le chocolat.
+adorer | to love | v | J'adore ce film.
+détester | to hate | v | Je déteste le froid.
+vouloir | to want | v | Je veux un café.
+pouvoir | to be able to, can | v | Je peux t'aider ?
+devoir | to have to, must | v | Je dois partir.
+savoir | to know (a fact, how to) | v | Je sais nager.
+prendre | to take | v | Je prends le bus.
+donner | to give | v | Donne-moi ton numéro.
+acheter | to buy | v | J'achète du pain.
+payer | to pay | v | Je paie par carte.
+chercher | to look for | v | Je cherche mes clés.
+trouver | to find | v | Je ne trouve pas mon sac.
+travailler | to work | v | Je travaille à la maison.
+étudier | to study | v | J'étudie le français.
+apprendre | to learn | v | J'apprends le français.
+comprendre | to understand | v | Je comprends un peu.
+lire | to read | v | Je lis un livre.
+écrire | to write | v | J'écris un message.
+dormir | to sleep | v | Le bébé dort.
+se lever | to get up | v | Je me lève à sept heures.
+jouer | to play | v | Les enfants jouent.
+marcher | to walk | v | Je marche vite.
+courir | to run | v | Il court dans le parc.
+attendre | to wait (for) | v | J'attends le bus.
+demander | to ask | v | Je demande l'addition.
+répondre | to answer | v | Réponds à la question.
+dire | to say | v | Qu'est-ce que tu dis ?
+penser | to think | v | Je pense que oui.
+voir | to see | v | Je vois la mer.
+entendre | to hear | v | Tu entends la musique ?
+commencer | to start | v | Le film commence.
+finir | to finish | v | Je finis à cinq heures.
+rester | to stay | v | Je reste à la maison.
+entrer | to come in, to enter | v | Entrez, s'il vous plaît.
+sortir | to go out | v | On sort ce soir ?
+rentrer | to go home, to come back | v | Je rentre tard.
+visiter | to visit (a place) | v | On visite Paris.
+voyager | to travel | v | J'aime voyager.
+aider | to help | v | Tu peux m'aider ?
+téléphoner | to phone | v | Je téléphone à ma mère.
+oublier | to forget | v | J'oublie toujours mes clés.
+mettre | to put, to put on | v | Je mets mon manteau.
+connaître | to know (a person, a place) | v | Je connais Paul.
+
+## describing | Describing things | 🎨
+grand | big, tall | adj | Il est très grand.
+petit | small, short | adj | J'ai un petit chien.
+gros | big, fat | adj | C'est un gros chat.
+mauvais | bad | adj | Il fait mauvais.
+beau | beautiful, handsome | adj | Quel beau jardin !
+joli | pretty | adj | Elle a une jolie robe.
+nouveau | new | adj | J'ai un nouveau vélo.
+long | long | adj | Le film est long.
+court | short | adj | Elle a les cheveux courts.
+chaud | hot, warm | adj | Le café est chaud.
+froid | cold | adj | L'eau est froide.
+facile | easy | adj | C'est facile !
+difficile | difficult | adj | Cet exercice est difficile.
+cher | expensive, dear | adj | Ce restaurant est cher.
+gentil | kind, nice | adj | Tu es très gentil.
+sympa | nice, friendly | adj | Ton frère est sympa.
+content | happy, pleased | adj | Je suis content de te voir.
+triste | sad | adj | Pourquoi es-tu triste ?
+fatigué | tired | adj | Je suis fatigué ce soir.
+malade | ill, sick | adj | Elle est malade aujourd'hui.
+drôle | funny | adj | Ce film est drôle.
+intéressant | interesting | adj | C'est un livre intéressant.
+important | important | adj | C'est très important.
+rapide | fast | adj | Le train est rapide.
+lent | slow | adj | Ce bus est lent.
+ouvert | open | adj | Le magasin est ouvert.
+fermé | closed | adj | La banque est fermée.
+prêt | ready | adj | Le dîner est prêt.
+libre | free, available | adj | Cette place est libre ?
+la couleur | colour | f | Quelle est ta couleur préférée ?
+rouge | red | adj | Une voiture rouge.
+bleu | blue | adj | Le ciel est bleu.
+vert | green | adj | J'aime le thé vert.
+jaune | yellow | adj | Le soleil est jaune.
+noir | black | adj | Un café noir.
+blanc | white | adj | Un mur blanc.
+gris | grey | adj | Le ciel est gris.
+rose | pink | adj | Une fleur rose.
+très | very | adv | C'est très bon.
+trop | too, too much | adv | C'est trop cher.
+assez | enough, quite | adv | C'est assez grand.
+un peu | a little | adv | Je parle un peu français.
+beaucoup | a lot, much | adv | Merci beaucoup.
+bien | well | adv | Tu parles bien français.
+mal | badly | adv | J'ai mal dormi.
+vrai | true | adj | C'est vrai ?
+faux | false, wrong | adj | Non, c'est faux.
+même | same | adj | Nous avons le même âge.
+autre | other | adj | Je veux l'autre livre.
+super | great | adj | C'est super !
+
+## body | Body & clothes | 👕
+la tête | head | f | J'ai mal à la tête.
+les cheveux | hair | m | Elle a les cheveux longs.
+l'œil | eye | m | J'ai quelque chose dans l'œil.
+les yeux | eyes | m | Il a les yeux bleus.
+le nez | nose | m | J'ai le nez rouge.
+la bouche | mouth | f | Ouvre la bouche.
+l'oreille | ear | f | J'ai mal à l'oreille.
+la dent | tooth | f | Je me brosse les dents.
+la main | hand | f | Lave-toi les mains.
+le bras | arm | m | J'ai mal au bras.
+la jambe | leg | f | Il a une jambe cassée.
+le pied | foot | m | Je vais à l'école à pied.
+le dos | back | m | J'ai mal au dos.
+le ventre | belly, stomach | m | J'ai mal au ventre.
+le cœur | heart | m | Mon cœur bat vite.
+les vêtements | clothes | m | J'achète des vêtements.
+le pantalon | trousers | m | Ce pantalon est trop long.
+le jean | jeans | m | Je porte un jean.
+la chemise | shirt | f | Une chemise blanche.
+le pull | jumper, sweater | m | Mets un pull, il fait froid.
+la robe | dress | f | Elle porte une robe rouge.
+la jupe | skirt | f | Cette jupe est jolie.
+le manteau | coat | m | Prends ton manteau.
+la veste | jacket | f | J'aime ta veste.
+les chaussures | shoes | f | Mes chaussures sont neuves.
+le chapeau | hat | m | Il porte un chapeau.
+le sac | bag | m | Où est mon sac ?
+les lunettes | glasses | f | Je cherche mes lunettes.
+la montre | watch | f | J'ai une nouvelle montre.
+porter | to wear, to carry | v | Elle porte un manteau noir.
+la taille | size, waist | f | Quelle est votre taille ?
+le médecin | doctor | m | Je vais chez le médecin.
+avoir mal | to hurt, to have a pain | phr | J'ai mal au pied.
+la santé | health | f | La santé, c'est important.
+le sport | sport | m | Je fais du sport.
+
+## school | School & work | 🎒
+le professeur | teacher | m | Le professeur est sympa.
+l'étudiant | student | m | Je suis étudiant.
+l'élève | pupil | mf | Les élèves écoutent.
+la classe | class, classroom | f | Il y a vingt élèves dans la classe.
+le cours | class, lesson | m | J'ai un cours de français.
+la leçon | lesson | f | La leçon est facile.
+les devoirs | homework | m | Je fais mes devoirs.
+l'examen | exam | m | J'ai un examen demain.
+la question | question | f | J'ai une question.
+la réponse | answer | f | C'est la bonne réponse.
+le livre | book | m | Je lis un livre.
+le cahier | notebook | m | Écris dans ton cahier.
+le stylo | pen | m | Tu as un stylo ?
+le crayon | pencil | m | J'écris avec un crayon.
+la page | page | f | Ouvrez à la page dix.
+le mot | word | m | Je ne connais pas ce mot.
+la phrase | sentence | f | Répète la phrase.
+la langue | language, tongue | f | Je parle deux langues.
+le français | French (language) | m | J'apprends le français.
+l'anglais | English (language) | m | Tu parles anglais ?
+l'université | university | f | J'étudie à l'université.
+le travail | work, job | m | J'aime mon travail.
+le métier | job, profession | m | Quel est ton métier ?
+le collègue | colleague | m | Mon collègue est en vacances.
+le patron | boss | m | Mon patron est content.
+l'argent | money | m | Je n'ai pas d'argent.
+le prix | price | m | Quel est le prix ?
+l'euro | euro | m | Ça coûte cinq euros.
+la carte | card, map, menu | f | Je paie par carte.
+coûter | to cost | v | Combien ça coûte ?
+les vacances | holidays | f | Je suis en vacances.
+le problème | problem | m | Il y a un problème.
+l'idée | idea | f | C'est une bonne idée.
+l'exemple | example | m | Donne-moi un exemple.
+répéter | to repeat | v | Pouvez-vous répéter ?
+
+## weather | Weather & nature | 🌤️
+le temps | weather, time | m | Quel temps fait-il ?
+le soleil | sun | m | Il y a du soleil.
+la pluie | rain | f | J'aime la pluie.
+la neige | snow | f | Les enfants jouent dans la neige.
+le vent | wind | m | Il y a du vent.
+le nuage | cloud | m | Il y a des nuages.
+le ciel | sky | m | Le ciel est bleu.
+pleuvoir | to rain | v | Il pleut aujourd'hui.
+neiger | to snow | v | Il neige en hiver.
+il fait beau | the weather is nice | phr | Il fait beau, on sort ?
+il fait chaud | it's hot | phr | Il fait chaud en été.
+il fait froid | it's cold | phr | Il fait froid ce matin.
+la mer | sea | f | J'adore la mer.
+la montagne | mountain | f | On va à la montagne.
+la forêt | forest | f | On marche dans la forêt.
+le lac | lake | m | Le lac est très beau.
+la rivière | river | f | On nage dans la rivière.
+l'arbre | tree | m | Cet arbre est très vieux.
+la fleur | flower | f | J'achète des fleurs.
+l'oiseau | bird | m | L'oiseau chante.
+le cheval | horse | m | Elle a un cheval.
+la vache | cow | f | La vache mange de l'herbe.
+l'animal | animal | m | J'aime les animaux.
+la campagne | countryside | f | J'habite à la campagne.
+la terre | earth, ground | f | La Terre est ronde.
+la lune | moon | f | La lune est belle ce soir.
+l'étoile | star | f | Je regarde les étoiles.
+le feu | fire | m | Il y a un feu dans la forêt.
+la saison | season | f | Quelle est ta saison préférée ?
+la température | temperature | f | La température est de vingt degrés.
+
+## small | Small useful words | 🔤
+je | I | pron | Je suis étudiant.
+tu | you (informal) | pron | Tu es d'où ?
+il | he, it | pron | Il habite ici.
+elle | she, it | pron | Elle est française.
+nous | we | pron | Nous sommes prêts.
+vous | you (formal or plural) | pron | Vous parlez anglais ?
+ils | they | pron | Ils sont en retard.
+on | we, one, people | pron | On y va ?
+moi | me | pron | C'est pour moi ?
+toi | you | pron | Et toi ?
+et | and | conj | Du pain et du fromage.
+ou | or | conj | Thé ou café ?
+mais | but | conj | Je veux, mais je ne peux pas.
+parce que | because | conj | Je reste parce qu'il pleut.
+alors | so, then | adv | Alors, on y va ?
+aussi | also, too | adv | Moi aussi !
+avec | with | prep | Je viens avec toi.
+sans | without | prep | Un café sans sucre.
+pour | for | prep | C'est pour toi.
+dans | in | prep | Les clés sont dans le sac.
+sur | on | prep | Le livre est sur la table.
+sous | under | prep | Le chat est sous le lit.
+chez | at the home of | prep | Je suis chez moi.
+devant | in front of | prep | Je suis devant le cinéma.
+derrière | behind | prep | Le jardin est derrière la maison.
+entre | between | prep | La banque est entre la poste et le café.
+avant | before | prep | Avant le dîner.
+après | after | prep | Après le cours.
+pendant | during, for | prep | Pendant les vacances.
+où | where | adv | Où habites-tu ?
+quand | when | adv | Quand pars-tu ?
+pourquoi | why | adv | Pourquoi tu ris ?
+combien | how much, how many | adv | C'est combien ?
+qui | who | pron | Qui est-ce ?
+quoi | what | pron | Tu fais quoi ?
+quelque chose | something | pron | Tu veux quelque chose ?
+quelqu'un | someone | pron | Il y a quelqu'un ?
+rien | nothing | pron | Je ne veux rien.
+tout | everything, all | pron | J'ai tout compris.
+peut-être | maybe | adv | Peut-être demain.
+encore | again, still | adv | Encore un café ?
+déjà | already | adv | J'ai déjà mangé.
+seulement | only | adv | J'ai seulement cinq euros.
+ensemble | together | adv | On mange ensemble ?
+voilà | here is, there you go | prep | Voilà votre café.
+il y a | there is, there are | phr | Il y a un problème.
+chaque | each, every | adj | Je cours chaque matin.
+plusieurs | several | adj | J'ai plusieurs amis ici.
+comme | like, as | conj | Il est grand comme son père.
+si | if | conj | Si tu veux, on y va.
+donc | so, therefore | conj | Il pleut, donc je reste.
+vers | towards, around | prep | J'arrive vers huit heures.
+contre | against | prep | Le vélo est contre le mur.
+depuis | since, for | prep | J'habite ici depuis un an.
+jusqu'à | until, up to | prep | Je travaille jusqu'à six heures.
+plus | more | adv | Je veux plus de café.
+moins | less | adv | Il fait moins froid aujourd'hui.

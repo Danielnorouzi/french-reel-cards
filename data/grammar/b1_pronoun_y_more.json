@@ -1,0 +1,485 @@
+{
+  "texts": [],
+  "questions": [
+    {
+      "id": "b1-pronoun_y-051",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pronoun_y",
+      "question": "Tu vas souvent au cinéma ? — Oui, j’___ vais chaque semaine.",
+      "options": [
+        "y",
+        "en",
+        "le",
+        "lui"
+      ],
+      "answer": 0,
+      "explanation": "Y replaces a place introduced by à, dans, sur, chez, en… and goes before the verb: j’y vais.",
+      "textId": null
+    },
+    {
+      "id": "b1-pronoun_y-052",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pronoun_y",
+      "question": "Elle habite à Lyon ? — Oui, elle ___ habite depuis dix ans.",
+      "options": [
+        "en",
+        "y",
+        "la",
+        "lui"
+      ],
+      "answer": 1,
+      "explanation": "Y replaces a place introduced by à, dans, sur, chez, en… and goes before the verb: j’y vais.",
+      "textId": null
+    },
+    {
+      "id": "b1-pronoun_y-053",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pronoun_y",
+      "question": "Vous restez chez vos parents ? — Oui, nous ___ restons une semaine.",
+      "options": [
+        "en",
+        "les",
+        "y",
+        "leur"
+      ],
+      "answer": 2,
+      "explanation": "Y replaces a place introduced by à, dans, sur, chez, en… and goes before the verb: j’y vais.",
+      "textId": null
+    },
+    {
+      "id": "b1-pronoun_y-054",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pronoun_y",
+      "question": "Le livre est sur la table ? — Oui, il ___ est.",
+      "options": [
+        "en",
+        "le",
+        "lui",
+        "y"
+      ],
+      "answer": 3,
+      "explanation": "Y replaces a place introduced by à, dans, sur, chez, en… and goes before the verb: j’y vais.",
+      "textId": null
+    },
+    {
+      "id": "b1-pronoun_y-055",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pronoun_y",
+      "question": "Tu penses à ton examen ? — Oui, j’___ pense tout le temps.",
+      "options": [
+        "y",
+        "en",
+        "le",
+        "lui"
+      ],
+      "answer": 0,
+      "explanation": "Y replaces à + a thing or an idea (penser à, répondre à, s’intéresser à, croire à): j’y pense.",
+      "textId": null
+    },
+    {
+      "id": "b1-pronoun_y-056",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pronoun_y",
+      "question": "Elle s’intéresse à la politique ? — Oui, elle s’___ intéresse beaucoup.",
+      "options": [
+        "en",
+        "y",
+        "la",
+        "lui"
+      ],
+      "answer": 1,
+      "explanation": "Y replaces à + a thing or an idea (penser à, répondre à, s’intéresser à, croire à): j’y pense.",
+      "textId": null
+    },
+    {
+      "id": "b1-pronoun_y-057",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pronoun_y",
+      "question": "Tu as répondu à sa lettre ? — Oui, j’___ ai répondu hier.",
+      "options": [
+        "en",
+        "la",
+        "y",
+        "lui"
+      ],
+      "answer": 2,
+      "explanation": "Y replaces à + a thing or an idea (penser à, répondre à, s’intéresser à, croire à): j’y pense.",
+      "textId": null
+    },
+    {
+      "id": "b1-pronoun_y-058",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pronoun_y",
+      "question": "Vous croyez à cette histoire ? — Non, nous n’___ croyons pas.",
+      "options": [
+        "en",
+        "la",
+        "lui",
+        "y"
+      ],
+      "answer": 3,
+      "explanation": "Y replaces à + a thing or an idea (penser à, répondre à, s’intéresser à, croire à): j’y pense.",
+      "textId": null
+    },
+    {
+      "id": "b1-pronoun_y-059",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pronoun_y",
+      "question": "Tu penses à ta mère ? — Oui, je pense souvent à ___.",
+      "options": [
+        "elle",
+        "y",
+        "lui",
+        "la"
+      ],
+      "answer": 0,
+      "explanation": "Y is not used for people. For à + person, use lui / leur, or à + stressed pronoun after penser à and s’intéresser à: je pense à elle.",
+      "textId": null
+    },
+    {
+      "id": "b1-pronoun_y-060",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pronoun_y",
+      "question": "Tu as répondu à ton professeur ? — Oui, je ___ ai répondu.",
+      "options": [
+        "y",
+        "lui",
+        "l’",
+        "en"
+      ],
+      "answer": 1,
+      "explanation": "Y is not used for people. For à + person, use lui / leur, or à + stressed pronoun after penser à and s’intéresser à: je pense à elle.",
+      "textId": null
+    },
+    {
+      "id": "b1-pronoun_y-061",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pronoun_y",
+      "question": "Il s’intéresse à cette actrice ? — Oui, il s’intéresse à ___.",
+      "options": [
+        "y",
+        "lui",
+        "elle",
+        "la"
+      ],
+      "answer": 2,
+      "explanation": "Y is not used for people. For à + person, use lui / leur, or à + stressed pronoun after penser à and s’intéresser à: je pense à elle.",
+      "textId": null
+    },
+    {
+      "id": "b1-pronoun_y-062",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pronoun_y",
+      "question": "Tu téléphones à tes parents ? — Oui, je ___ téléphone ce soir.",
+      "options": [
+        "y",
+        "les",
+        "en",
+        "leur"
+      ],
+      "answer": 3,
+      "explanation": "Y is not used for people. For à + person, use lui / leur, or à + stressed pronoun after penser à and s’intéresser à: je pense à elle.",
+      "textId": null
+    },
+    {
+      "id": "b1-pronoun_y-063",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pronoun_y",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "Je n’y vais jamais.",
+        "Je ne vais y jamais.",
+        "J’y ne vais jamais.",
+        "Je n’y jamais vais."
+      ],
+      "answer": 0,
+      "explanation": "In the negative, ne goes before y: je n’y vais pas.",
+      "textId": null
+    },
+    {
+      "id": "b1-pronoun_y-064",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pronoun_y",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "Nous y ne pensons plus.",
+        "Nous n’y pensons plus.",
+        "Nous ne pensons y plus.",
+        "Nous n’y plus pensons."
+      ],
+      "answer": 1,
+      "explanation": "In the negative, ne goes before y: je n’y vais pas.",
+      "textId": null
+    },
+    {
+      "id": "b1-pronoun_y-065",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pronoun_y",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "Je suis y allé l’été dernier.",
+        "Je suis allé y l’été dernier.",
+        "J’y suis allé l’été dernier.",
+        "J’y ai allé l’été dernier."
+      ],
+      "answer": 2,
+      "explanation": "In the passé composé, y goes before the auxiliary: j’y suis allé.",
+      "textId": null
+    },
+    {
+      "id": "b1-pronoun_y-066",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pronoun_y",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "Elle n’a pas y pensé.",
+        "Elle y n’a pas pensé.",
+        "Elle n’a y pas pensé.",
+        "Elle n’y a pas pensé."
+      ],
+      "answer": 3,
+      "explanation": "In the passé composé, y goes before the auxiliary: j’y suis allé.",
+      "textId": null
+    },
+    {
+      "id": "b1-pronoun_y-067",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pronoun_y",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "Je veux y aller demain.",
+        "J’y veux aller demain.",
+        "Je veux aller y demain.",
+        "Je veux aller demain y."
+      ],
+      "answer": 0,
+      "explanation": "With two verbs, y goes before the infinitive: je veux y aller.",
+      "textId": null
+    },
+    {
+      "id": "b1-pronoun_y-068",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pronoun_y",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "Tu y dois réfléchir.",
+        "Tu dois y réfléchir.",
+        "Tu dois réfléchir y.",
+        "Y tu dois réfléchir."
+      ],
+      "answer": 1,
+      "explanation": "With two verbs, y goes before the infinitive: je veux y aller.",
+      "textId": null
+    },
+    {
+      "id": "b1-pronoun_y-069",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pronoun_y",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "Nous y allons passer une semaine.",
+        "Nous allons passer y une semaine.",
+        "Nous allons y passer une semaine.",
+        "Nous allons passer une semaine y."
+      ],
+      "answer": 2,
+      "explanation": "With two verbs, y goes before the infinitive: je veux y aller.",
+      "textId": null
+    },
+    {
+      "id": "b1-pronoun_y-070",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pronoun_y",
+      "question": "Tu veux aller à la fête ? Alors ___ !",
+      "options": [
+        "va-y",
+        "y va",
+        "vas-en",
+        "vas-y"
+      ],
+      "answer": 3,
+      "explanation": "In a positive command, y goes after the verb with a hyphen, and -er verbs take an s: vas-y, restes-y. In a negative command it goes before the verb: n’y va pas.",
+      "textId": null
+    },
+    {
+      "id": "b1-pronoun_y-071",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pronoun_y",
+      "question": "Le parc est super. ___ avec les enfants ! (vous)",
+      "options": [
+        "Allez-y",
+        "Y allez",
+        "Allez-en",
+        "Allez-les"
+      ],
+      "answer": 0,
+      "explanation": "In a positive command, y goes after the verb with a hyphen, and -er verbs take an s: vas-y, restes-y. In a negative command it goes before the verb: n’y va pas.",
+      "textId": null
+    },
+    {
+      "id": "b1-pronoun_y-072",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pronoun_y",
+      "question": "C’est dangereux là-bas. N’___ pas ! (tu)",
+      "options": [
+        "vas-y",
+        "y va",
+        "va-y",
+        "en va"
+      ],
+      "answer": 1,
+      "explanation": "In a positive command, y goes after the verb with a hyphen, and -er verbs take an s: vas-y, restes-y. In a negative command it goes before the verb: n’y va pas.",
+      "textId": null
+    },
+    {
+      "id": "b1-pronoun_y-073",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pronoun_y",
+      "question": "Réfléchis à ma proposition. — D’accord, je vais ___ réfléchir.",
+      "options": [
+        "en",
+        "la",
+        "y",
+        "lui"
+      ],
+      "answer": 2,
+      "explanation": "Y replaces à + a thing or an idea (penser à, répondre à, s’intéresser à, croire à): j’y pense.",
+      "textId": null
+    },
+    {
+      "id": "b1-pronoun_y-074",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pronoun_y",
+      "question": "Tu as besoin de ce livre ? — Oui, j’___ ai besoin.",
+      "options": [
+        "y",
+        "le",
+        "lui",
+        "en"
+      ],
+      "answer": 3,
+      "explanation": "Y replaces à + thing; en replaces de + thing. Check the preposition the verb takes.",
+      "textId": null
+    },
+    {
+      "id": "b1-pronoun_y-075",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pronoun_y",
+      "question": "Tu participes au concours ? — Oui, j’___ participe.",
+      "options": [
+        "y",
+        "en",
+        "le",
+        "lui"
+      ],
+      "answer": 0,
+      "explanation": "Y replaces à + thing; en replaces de + thing. Check the preposition the verb takes.",
+      "textId": null
+    },
+    {
+      "id": "b1-pronoun_y-076",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pronoun_y",
+      "question": "Elle parle souvent de son voyage ? — Oui, elle ___ parle souvent.",
+      "options": [
+        "y",
+        "en",
+        "le",
+        "lui"
+      ],
+      "answer": 1,
+      "explanation": "Y replaces à + thing; en replaces de + thing. Check the preposition the verb takes.",
+      "textId": null
+    },
+    {
+      "id": "b1-pronoun_y-077",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pronoun_y",
+      "question": "Tu joues au tennis ? — Oui, j’___ joue le samedi.",
+      "options": [
+        "en",
+        "le",
+        "y",
+        "lui"
+      ],
+      "answer": 2,
+      "explanation": "Y replaces à + thing; en replaces de + thing. Check the preposition the verb takes.",
+      "textId": null
+    },
+    {
+      "id": "b1-pronoun_y-078",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pronoun_y",
+      "question": "Tu joues du piano ? — Oui, j’___ joue depuis dix ans.",
+      "options": [
+        "y",
+        "le",
+        "lui",
+        "en"
+      ],
+      "answer": 3,
+      "explanation": "Y replaces à + thing; en replaces de + thing. Check the preposition the verb takes.",
+      "textId": null
+    },
+    {
+      "id": "b1-pronoun_y-079",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pronoun_y",
+      "question": "On ___ va ? Il est tard.",
+      "options": [
+        "y",
+        "en",
+        "le",
+        "se"
+      ],
+      "answer": 0,
+      "explanation": "On y va ? = Shall we go? Y stands for the place you are going to.",
+      "textId": null
+    },
+    {
+      "id": "b1-pronoun_y-080",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "pronoun_y",
+      "question": "Ça ___ est, j’ai fini !",
+      "options": [
+        "en",
+        "y",
+        "l’",
+        "s’"
+      ],
+      "answer": 1,
+      "explanation": "Ça y est = that’s it, done. It is a fixed expression with y.",
+      "textId": null
+    }
+  ]
+}

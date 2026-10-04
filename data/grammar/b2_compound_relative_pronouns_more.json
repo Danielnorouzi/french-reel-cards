@@ -1,0 +1,485 @@
+{
+  "texts": [],
+  "questions": [
+    {
+      "id": "b2-compound_relative_pronouns-051",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "compound_relative_pronouns",
+      "question": "C’est l’ami avec ___ je voyage.",
+      "options": [
+        "qui",
+        "que",
+        "quoi",
+        "dont"
+      ],
+      "answer": 0,
+      "explanation": "After a preposition, a person is usually replaced by qui: l’ami avec qui je voyage. Lequel is also possible but more formal.",
+      "textId": null
+    },
+    {
+      "id": "b2-compound_relative_pronouns-052",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "compound_relative_pronouns",
+      "question": "La collègue à ___ j’ai parlé est très compétente.",
+      "options": [
+        "que",
+        "qui",
+        "quoi",
+        "dont"
+      ],
+      "answer": 1,
+      "explanation": "After a preposition, a person is usually replaced by qui: l’ami avec qui je voyage. Lequel is also possible but more formal.",
+      "textId": null
+    },
+    {
+      "id": "b2-compound_relative_pronouns-053",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "compound_relative_pronouns",
+      "question": "Les gens pour ___ je travaille sont exigeants.",
+      "options": [
+        "que",
+        "quoi",
+        "qui",
+        "dont"
+      ],
+      "answer": 2,
+      "explanation": "After a preposition, a person is usually replaced by qui: l’ami avec qui je voyage. Lequel is also possible but more formal.",
+      "textId": null
+    },
+    {
+      "id": "b2-compound_relative_pronouns-054",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "compound_relative_pronouns",
+      "question": "C’est une personne sur ___ on peut compter.",
+      "options": [
+        "que",
+        "quoi",
+        "dont",
+        "qui"
+      ],
+      "answer": 3,
+      "explanation": "After a preposition, a person is usually replaced by qui: l’ami avec qui je voyage. Lequel is also possible but more formal.",
+      "textId": null
+    },
+    {
+      "id": "b2-compound_relative_pronouns-055",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "compound_relative_pronouns",
+      "question": "Le médecin chez ___ je vais est excellent.",
+      "options": [
+        "qui",
+        "que",
+        "quoi",
+        "dont"
+      ],
+      "answer": 0,
+      "explanation": "After a preposition, a person is usually replaced by qui: l’ami avec qui je voyage. Lequel is also possible but more formal.",
+      "textId": null
+    },
+    {
+      "id": "b2-compound_relative_pronouns-056",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "compound_relative_pronouns",
+      "question": "C’est l’outil avec ___ je travaille.",
+      "options": [
+        "qui",
+        "lequel",
+        "quoi",
+        "dont"
+      ],
+      "answer": 1,
+      "explanation": "After a preposition, a thing must be replaced by a form of lequel, never qui.",
+      "textId": null
+    },
+    {
+      "id": "b2-compound_relative_pronouns-057",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "compound_relative_pronouns",
+      "question": "La raison pour ___ il est parti reste un mystère.",
+      "options": [
+        "qui",
+        "quoi",
+        "laquelle",
+        "lequel"
+      ],
+      "answer": 2,
+      "explanation": "After a preposition, a thing must be replaced by a form of lequel, never qui.",
+      "textId": null
+    },
+    {
+      "id": "b2-compound_relative_pronouns-058",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "compound_relative_pronouns",
+      "question": "Les idées pour ___ elle se bat sont importantes.",
+      "options": [
+        "qui",
+        "lesquels",
+        "quoi",
+        "lesquelles"
+      ],
+      "answer": 3,
+      "explanation": "After a preposition, a thing must be replaced by a form of lequel, never qui.",
+      "textId": null
+    },
+    {
+      "id": "b2-compound_relative_pronouns-059",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "compound_relative_pronouns",
+      "question": "C’est un problème ___ je n’avais pas pensé.",
+      "options": [
+        "auquel",
+        "à qui",
+        "à laquelle",
+        "duquel"
+      ],
+      "answer": 0,
+      "explanation": "À + lequel → auquel; à + lesquels → auxquels; à + lesquelles → auxquelles; à + laquelle stays à laquelle. Here: auquel.",
+      "textId": null
+    },
+    {
+      "id": "b2-compound_relative_pronouns-060",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "compound_relative_pronouns",
+      "question": "La réunion ___ j’ai assisté était très longue.",
+      "options": [
+        "auquel",
+        "à laquelle",
+        "à qui",
+        "de laquelle"
+      ],
+      "answer": 1,
+      "explanation": "À + lequel → auquel; à + lesquels → auxquels; à + lesquelles → auxquelles; à + laquelle stays à laquelle. Here: à laquelle.",
+      "textId": null
+    },
+    {
+      "id": "b2-compound_relative_pronouns-061",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "compound_relative_pronouns",
+      "question": "Les questions ___ il faut répondre sont difficiles.",
+      "options": [
+        "auxquels",
+        "à qui",
+        "auxquelles",
+        "desquelles"
+      ],
+      "answer": 2,
+      "explanation": "À + lequel → auquel; à + lesquels → auxquels; à + lesquelles → auxquelles; à + laquelle stays à laquelle. Here: auxquelles.",
+      "textId": null
+    },
+    {
+      "id": "b2-compound_relative_pronouns-062",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "compound_relative_pronouns",
+      "question": "Les projets ___ nous participons sont passionnants.",
+      "options": [
+        "auxquelles",
+        "auquel",
+        "desquels",
+        "auxquels"
+      ],
+      "answer": 3,
+      "explanation": "À + lequel → auquel; à + lesquels → auxquels; à + lesquelles → auxquelles; à + laquelle stays à laquelle. Here: auxquels.",
+      "textId": null
+    },
+    {
+      "id": "b2-compound_relative_pronouns-063",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "compound_relative_pronouns",
+      "question": "C’est un détail ___ je n’ai pas fait attention.",
+      "options": [
+        "auquel",
+        "à laquelle",
+        "duquel",
+        "à quoi"
+      ],
+      "answer": 0,
+      "explanation": "À + lequel → auquel; à + lesquels → auxquels; à + lesquelles → auxquelles; à + laquelle stays à laquelle. Here: auquel.",
+      "textId": null
+    },
+    {
+      "id": "b2-compound_relative_pronouns-064",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "compound_relative_pronouns",
+      "question": "Le lac près ___ nous habitons est magnifique.",
+      "options": [
+        "dont",
+        "duquel",
+        "de laquelle",
+        "auquel"
+      ],
+      "answer": 1,
+      "explanation": "After a compound preposition ending in de (près de, à côté de, au milieu de, à cause de, en face de), use duquel, de laquelle, desquels, desquelles, not dont. Here: duquel.",
+      "textId": null
+    },
+    {
+      "id": "b2-compound_relative_pronouns-065",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "compound_relative_pronouns",
+      "question": "La maison en face ___ j’habite est à vendre.",
+      "options": [
+        "dont",
+        "duquel",
+        "de laquelle",
+        "à laquelle"
+      ],
+      "answer": 2,
+      "explanation": "After a compound preposition ending in de (près de, à côté de, au milieu de, à cause de, en face de), use duquel, de laquelle, desquels, desquelles, not dont. Here: de laquelle.",
+      "textId": null
+    },
+    {
+      "id": "b2-compound_relative_pronouns-066",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "compound_relative_pronouns",
+      "question": "Les arbres au milieu ___ se trouve la cabane sont très vieux.",
+      "options": [
+        "dont",
+        "desquelles",
+        "auxquels",
+        "desquels"
+      ],
+      "answer": 3,
+      "explanation": "After a compound preposition ending in de (près de, à côté de, au milieu de, à cause de, en face de), use duquel, de laquelle, desquels, desquelles, not dont. Here: desquels.",
+      "textId": null
+    },
+    {
+      "id": "b2-compound_relative_pronouns-067",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "compound_relative_pronouns",
+      "question": "Les grèves à cause ___ je suis en retard durent depuis une semaine.",
+      "options": [
+        "desquelles",
+        "dont",
+        "desquels",
+        "auxquelles"
+      ],
+      "answer": 0,
+      "explanation": "After a compound preposition ending in de (près de, à côté de, au milieu de, à cause de, en face de), use duquel, de laquelle, desquels, desquelles, not dont. Here: desquelles.",
+      "textId": null
+    },
+    {
+      "id": "b2-compound_relative_pronouns-068",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "compound_relative_pronouns",
+      "question": "Le film à la fin ___ tout le monde pleure est un classique.",
+      "options": [
+        "dont",
+        "duquel",
+        "de laquelle",
+        "auquel"
+      ],
+      "answer": 1,
+      "explanation": "After a compound preposition ending in de (près de, à côté de, au milieu de, à cause de, en face de), use duquel, de laquelle, desquels, desquelles, not dont. Here: duquel.",
+      "textId": null
+    },
+    {
+      "id": "b2-compound_relative_pronouns-069",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "compound_relative_pronouns",
+      "question": "C’est le livre ___ j’ai besoin.",
+      "options": [
+        "duquel",
+        "auquel",
+        "dont",
+        "lequel"
+      ],
+      "answer": 2,
+      "explanation": "When the verb or adjective simply takes de (parler de, avoir besoin de), use dont.",
+      "textId": null
+    },
+    {
+      "id": "b2-compound_relative_pronouns-070",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "compound_relative_pronouns",
+      "question": "Voici le projet ___ je t’ai parlé.",
+      "options": [
+        "duquel",
+        "auquel",
+        "lequel",
+        "dont"
+      ],
+      "answer": 3,
+      "explanation": "When the verb or adjective simply takes de (parler de, avoir besoin de), use dont.",
+      "textId": null
+    },
+    {
+      "id": "b2-compound_relative_pronouns-071",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "compound_relative_pronouns",
+      "question": "Ce ___ je pense ne te regarde pas.",
+      "options": [
+        "à quoi",
+        "auquel",
+        "à qui",
+        "dont"
+      ],
+      "answer": 0,
+      "explanation": "When the antecedent is ce, rien, quelque chose or a whole idea, use preposition + quoi: ce à quoi je pense.",
+      "textId": null
+    },
+    {
+      "id": "b2-compound_relative_pronouns-072",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "compound_relative_pronouns",
+      "question": "Il n’y a rien sur ___ on puisse compter.",
+      "options": [
+        "lequel",
+        "quoi",
+        "qui",
+        "dont"
+      ],
+      "answer": 1,
+      "explanation": "When the antecedent is ce, rien, quelque chose or a whole idea, use preposition + quoi: ce à quoi je pense.",
+      "textId": null
+    },
+    {
+      "id": "b2-compound_relative_pronouns-073",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "compound_relative_pronouns",
+      "question": "C’est quelque chose à ___ je tiens beaucoup.",
+      "options": [
+        "lequel",
+        "qui",
+        "quoi",
+        "dont"
+      ],
+      "answer": 2,
+      "explanation": "When the antecedent is ce, rien, quelque chose or a whole idea, use preposition + quoi: ce à quoi je pense.",
+      "textId": null
+    },
+    {
+      "id": "b2-compound_relative_pronouns-074",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "compound_relative_pronouns",
+      "question": "Il a réussi, ce à ___ personne ne s’attendait.",
+      "options": [
+        "lequel",
+        "qui",
+        "dont",
+        "quoi"
+      ],
+      "answer": 3,
+      "explanation": "When the antecedent is ce, rien, quelque chose or a whole idea, use preposition + quoi: ce à quoi je pense.",
+      "textId": null
+    },
+    {
+      "id": "b2-compound_relative_pronouns-075",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "compound_relative_pronouns",
+      "question": "La ville dans laquelle je suis né est toute petite. = La ville ___ je suis né est toute petite.",
+      "options": [
+        "où",
+        "que",
+        "dont",
+        "à laquelle"
+      ],
+      "answer": 0,
+      "explanation": "For a place, dans lequel / sur lequel can be replaced by où.",
+      "textId": null
+    },
+    {
+      "id": "b2-compound_relative_pronouns-076",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "compound_relative_pronouns",
+      "question": "Le tiroir dans lequel je range mes clés est cassé. = Le tiroir ___ je range mes clés est cassé.",
+      "options": [
+        "que",
+        "où",
+        "dont",
+        "auquel"
+      ],
+      "answer": 1,
+      "explanation": "For a place, dans lequel / sur lequel can be replaced by où.",
+      "textId": null
+    },
+    {
+      "id": "b2-compound_relative_pronouns-077",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "compound_relative_pronouns",
+      "question": "C’est la chaise sur ___ il était assis.",
+      "options": [
+        "lequel",
+        "lesquelles",
+        "laquelle",
+        "qui"
+      ],
+      "answer": 2,
+      "explanation": "Lequel agrees with the noun it replaces: lequel, laquelle, lesquels, lesquelles. Here: laquelle.",
+      "textId": null
+    },
+    {
+      "id": "b2-compound_relative_pronouns-078",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "compound_relative_pronouns",
+      "question": "Voici les collègues sans ___ rien ne serait possible.",
+      "options": [
+        "laquelle",
+        "lequel",
+        "quoi",
+        "lesquels"
+      ],
+      "answer": 3,
+      "explanation": "Lequel agrees with the noun it replaces: lequel, laquelle, lesquels, lesquelles. Here: lesquels.",
+      "textId": null
+    },
+    {
+      "id": "b2-compound_relative_pronouns-079",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "compound_relative_pronouns",
+      "question": "C’est une entreprise ___ je voudrais travailler.",
+      "options": [
+        "pour laquelle",
+        "à laquelle",
+        "sur laquelle",
+        "contre laquelle"
+      ],
+      "answer": 0,
+      "explanation": "The preposition is the one the verb needs: penser à, compter sur, travailler pour, se battre contre, parler avec.",
+      "textId": null
+    },
+    {
+      "id": "b2-compound_relative_pronouns-080",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "compound_relative_pronouns",
+      "question": "C’est un ami ___ je peux toujours compter.",
+      "options": [
+        "à qui",
+        "sur qui",
+        "pour qui",
+        "de qui"
+      ],
+      "answer": 1,
+      "explanation": "The preposition is the one the verb needs: penser à, compter sur, travailler pour, se battre contre, parler avec.",
+      "textId": null
+    }
+  ]
+}

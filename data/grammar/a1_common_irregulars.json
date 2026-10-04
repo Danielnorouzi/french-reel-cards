@@ -1,0 +1,1285 @@
+{
+  "texts": [],
+  "questions": [
+    {
+      "id": "a1-common_irregulars-001",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "common_irregulars",
+      "question": "Je ___ au travail en bus.",
+      "options": [
+        "vais",
+        "vas",
+        "va",
+        "allons"
+      ],
+      "answer": 0,
+      "explanation": "Aller: je vais, tu vas, il/elle va, nous allons, vous allez, ils/elles vont. Here: vais.",
+      "textId": null
+    },
+    {
+      "id": "a1-common_irregulars-002",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "common_irregulars",
+      "question": "Tu ___ où ?",
+      "options": [
+        "vais",
+        "vas",
+        "va",
+        "allez"
+      ],
+      "answer": 1,
+      "explanation": "Aller: je vais, tu vas, il/elle va, nous allons, vous allez, ils/elles vont. Here: vas.",
+      "textId": null
+    },
+    {
+      "id": "a1-common_irregulars-003",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "common_irregulars",
+      "question": "Elle ___ à la piscine le mardi.",
+      "options": [
+        "vas",
+        "vais",
+        "va",
+        "vont"
+      ],
+      "answer": 2,
+      "explanation": "Aller: je vais, tu vas, il/elle va, nous allons, vous allez, ils/elles vont. Here: va.",
+      "textId": null
+    },
+    {
+      "id": "a1-common_irregulars-004",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "common_irregulars",
+      "question": "Nous ___ au marché ce matin.",
+      "options": [
+        "allez",
+        "vont",
+        "va",
+        "allons"
+      ],
+      "answer": 3,
+      "explanation": "Aller: je vais, tu vas, il/elle va, nous allons, vous allez, ils/elles vont. Here: allons.",
+      "textId": null
+    },
+    {
+      "id": "a1-common_irregulars-005",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "common_irregulars",
+      "question": "Vous ___ bien ?",
+      "options": [
+        "allez",
+        "allons",
+        "vont",
+        "vas"
+      ],
+      "answer": 0,
+      "explanation": "Aller: je vais, tu vas, il/elle va, nous allons, vous allez, ils/elles vont. Here: allez.",
+      "textId": null
+    },
+    {
+      "id": "a1-common_irregulars-006",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "common_irregulars",
+      "question": "Ils ___ à l’école à pied.",
+      "options": [
+        "va",
+        "vont",
+        "allons",
+        "allez"
+      ],
+      "answer": 1,
+      "explanation": "Aller: je vais, tu vas, il/elle va, nous allons, vous allez, ils/elles vont. Here: vont.",
+      "textId": null
+    },
+    {
+      "id": "a1-common_irregulars-007",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "common_irregulars",
+      "question": "Comment ___-tu ?",
+      "options": [
+        "vais",
+        "va",
+        "vas",
+        "allez"
+      ],
+      "answer": 2,
+      "explanation": "Aller: je vais, tu vas, il/elle va, nous allons, vous allez, ils/elles vont. Here: vas.",
+      "textId": null
+    },
+    {
+      "id": "a1-common_irregulars-008",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "common_irregulars",
+      "question": "Mes parents ___ en France cet été.",
+      "options": [
+        "va",
+        "allez",
+        "allons",
+        "vont"
+      ],
+      "answer": 3,
+      "explanation": "Aller: je vais, tu vas, il/elle va, nous allons, vous allez, ils/elles vont. Here: vont.",
+      "textId": null
+    },
+    {
+      "id": "a1-common_irregulars-009",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "common_irregulars",
+      "question": "On ___ au cinéma ce soir ?",
+      "options": [
+        "va",
+        "vas",
+        "vont",
+        "allons"
+      ],
+      "answer": 0,
+      "explanation": "Aller: je vais, tu vas, il/elle va, nous allons, vous allez, ils/elles vont. Here: va.",
+      "textId": null
+    },
+    {
+      "id": "a1-common_irregulars-010",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "common_irregulars",
+      "question": "Ça ___ très bien, merci.",
+      "options": [
+        "vas",
+        "va",
+        "vais",
+        "vont"
+      ],
+      "answer": 1,
+      "explanation": "Aller: je vais, tu vas, il/elle va, nous allons, vous allez, ils/elles vont. Here: va.",
+      "textId": null
+    },
+    {
+      "id": "a1-common_irregulars-011",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "common_irregulars",
+      "question": "Je ___ du sport tous les jours.",
+      "options": [
+        "fait",
+        "faisons",
+        "fais",
+        "font"
+      ],
+      "answer": 2,
+      "explanation": "Faire: je fais, tu fais, il/elle fait, nous faisons, vous faites, ils/elles font. Here: fais.",
+      "textId": null
+    },
+    {
+      "id": "a1-common_irregulars-012",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "common_irregulars",
+      "question": "Tu ___ quoi ce week-end ?",
+      "options": [
+        "fait",
+        "faites",
+        "font",
+        "fais"
+      ],
+      "answer": 3,
+      "explanation": "Faire: je fais, tu fais, il/elle fait, nous faisons, vous faites, ils/elles font. Here: fais.",
+      "textId": null
+    },
+    {
+      "id": "a1-common_irregulars-013",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "common_irregulars",
+      "question": "Il ___ beau aujourd’hui.",
+      "options": [
+        "fait",
+        "fais",
+        "font",
+        "faites"
+      ],
+      "answer": 0,
+      "explanation": "Faire: je fais, tu fais, il/elle fait, nous faisons, vous faites, ils/elles font. Here: fait.",
+      "textId": null
+    },
+    {
+      "id": "a1-common_irregulars-014",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "common_irregulars",
+      "question": "Nous ___ la cuisine ensemble.",
+      "options": [
+        "faites",
+        "faisons",
+        "font",
+        "fait"
+      ],
+      "answer": 1,
+      "explanation": "Faire: je fais, tu fais, il/elle fait, nous faisons, vous faites, ils/elles font. Here: faisons.",
+      "textId": null
+    },
+    {
+      "id": "a1-common_irregulars-015",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "common_irregulars",
+      "question": "Vous ___ quoi dans la vie ?",
+      "options": [
+        "faisez",
+        "faisons",
+        "faites",
+        "font"
+      ],
+      "answer": 2,
+      "explanation": "Faire is irregular with vous: vous faites (never \"faisez\").",
+      "textId": null
+    },
+    {
+      "id": "a1-common_irregulars-016",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "common_irregulars",
+      "question": "Elles ___ leurs devoirs.",
+      "options": [
+        "fait",
+        "faisons",
+        "faites",
+        "font"
+      ],
+      "answer": 3,
+      "explanation": "Faire: je fais, tu fais, il/elle fait, nous faisons, vous faites, ils/elles font. Here: font.",
+      "textId": null
+    },
+    {
+      "id": "a1-common_irregulars-017",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "common_irregulars",
+      "question": "Qu’est-ce que vous ___ ce soir ?",
+      "options": [
+        "faites",
+        "faisez",
+        "fait",
+        "font"
+      ],
+      "answer": 0,
+      "explanation": "Faire is irregular with vous: vous faites (never \"faisez\").",
+      "textId": null
+    },
+    {
+      "id": "a1-common_irregulars-018",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "common_irregulars",
+      "question": "Mon frère ___ du vélo.",
+      "options": [
+        "fais",
+        "fait",
+        "font",
+        "faisons"
+      ],
+      "answer": 1,
+      "explanation": "Faire: je fais, tu fais, il/elle fait, nous faisons, vous faites, ils/elles font. Here: fait.",
+      "textId": null
+    },
+    {
+      "id": "a1-common_irregulars-019",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "common_irregulars",
+      "question": "Les enfants ___ trop de bruit.",
+      "options": [
+        "fait",
+        "faites",
+        "font",
+        "faisons"
+      ],
+      "answer": 2,
+      "explanation": "Faire: je fais, tu fais, il/elle fait, nous faisons, vous faites, ils/elles font. Here: font.",
+      "textId": null
+    },
+    {
+      "id": "a1-common_irregulars-020",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "common_irregulars",
+      "question": "On ___ une pause ?",
+      "options": [
+        "fais",
+        "font",
+        "faisons",
+        "fait"
+      ],
+      "answer": 3,
+      "explanation": "Faire: je fais, tu fais, il/elle fait, nous faisons, vous faites, ils/elles font. Here: fait.",
+      "textId": null
+    },
+    {
+      "id": "a1-common_irregulars-021",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "common_irregulars",
+      "question": "Je ___ du Canada.",
+      "options": [
+        "viens",
+        "vient",
+        "venons",
+        "viennent"
+      ],
+      "answer": 0,
+      "explanation": "Venir: je viens, tu viens, il/elle vient, nous venons, vous venez, ils/elles viennent. Here: viens.",
+      "textId": null
+    },
+    {
+      "id": "a1-common_irregulars-022",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "common_irregulars",
+      "question": "Tu ___ avec nous ?",
+      "options": [
+        "vient",
+        "viens",
+        "venez",
+        "viennent"
+      ],
+      "answer": 1,
+      "explanation": "Venir: je viens, tu viens, il/elle vient, nous venons, vous venez, ils/elles viennent. Here: viens.",
+      "textId": null
+    },
+    {
+      "id": "a1-common_irregulars-023",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "common_irregulars",
+      "question": "Elle ___ de Paris.",
+      "options": [
+        "viens",
+        "viennent",
+        "vient",
+        "venez"
+      ],
+      "answer": 2,
+      "explanation": "Venir: je viens, tu viens, il/elle vient, nous venons, vous venez, ils/elles viennent. Here: vient.",
+      "textId": null
+    },
+    {
+      "id": "a1-common_irregulars-024",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "common_irregulars",
+      "question": "Nous ___ en train.",
+      "options": [
+        "venez",
+        "viennent",
+        "vient",
+        "venons"
+      ],
+      "answer": 3,
+      "explanation": "Venir: je viens, tu viens, il/elle vient, nous venons, vous venez, ils/elles viennent. Here: venons.",
+      "textId": null
+    },
+    {
+      "id": "a1-common_irregulars-025",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "common_irregulars",
+      "question": "Vous ___ d’où ?",
+      "options": [
+        "venez",
+        "venons",
+        "viennent",
+        "viens"
+      ],
+      "answer": 0,
+      "explanation": "Venir: je viens, tu viens, il/elle vient, nous venons, vous venez, ils/elles viennent. Here: venez.",
+      "textId": null
+    },
+    {
+      "id": "a1-common_irregulars-026",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "common_irregulars",
+      "question": "Ils ___ à la fête demain.",
+      "options": [
+        "vient",
+        "viennent",
+        "venons",
+        "venez"
+      ],
+      "answer": 1,
+      "explanation": "Venir: je viens, tu viens, il/elle vient, nous venons, vous venez, ils/elles viennent. Here: viennent.",
+      "textId": null
+    },
+    {
+      "id": "a1-common_irregulars-027",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "common_irregulars",
+      "question": "Mes amis ___ dîner à la maison.",
+      "options": [
+        "vient",
+        "venez",
+        "viennent",
+        "viens"
+      ],
+      "answer": 2,
+      "explanation": "Venir: je viens, tu viens, il/elle vient, nous venons, vous venez, ils/elles viennent. Here: viennent.",
+      "textId": null
+    },
+    {
+      "id": "a1-common_irregulars-028",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "common_irregulars",
+      "question": "D’où ___-tu ?",
+      "options": [
+        "vient",
+        "venez",
+        "viennent",
+        "viens"
+      ],
+      "answer": 3,
+      "explanation": "Venir: je viens, tu viens, il/elle vient, nous venons, vous venez, ils/elles viennent. Here: viens.",
+      "textId": null
+    },
+    {
+      "id": "a1-common_irregulars-029",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "common_irregulars",
+      "question": "Le bus ___ dans cinq minutes.",
+      "options": [
+        "vient",
+        "viens",
+        "viennent",
+        "venons"
+      ],
+      "answer": 0,
+      "explanation": "Venir: je viens, tu viens, il/elle vient, nous venons, vous venez, ils/elles viennent. Here: vient.",
+      "textId": null
+    },
+    {
+      "id": "a1-common_irregulars-030",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "common_irregulars",
+      "question": "Tu ___ à quelle heure ?",
+      "options": [
+        "vient",
+        "viens",
+        "venons",
+        "viennent"
+      ],
+      "answer": 1,
+      "explanation": "Venir: je viens, tu viens, il/elle vient, nous venons, vous venez, ils/elles viennent. Here: viens.",
+      "textId": null
+    },
+    {
+      "id": "a1-common_irregulars-031",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "common_irregulars",
+      "question": "Je ___ t’aider.",
+      "options": [
+        "peut",
+        "pouvons",
+        "peux",
+        "peuvent"
+      ],
+      "answer": 2,
+      "explanation": "Pouvoir: je peux, tu peux, il/elle peut, nous pouvons, vous pouvez, ils/elles peuvent. Here: peux.",
+      "textId": null
+    },
+    {
+      "id": "a1-common_irregulars-032",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "common_irregulars",
+      "question": "Tu ___ répéter, s’il te plaît ?",
+      "options": [
+        "peut",
+        "pouvez",
+        "peuvent",
+        "peux"
+      ],
+      "answer": 3,
+      "explanation": "Pouvoir: je peux, tu peux, il/elle peut, nous pouvons, vous pouvez, ils/elles peuvent. Here: peux.",
+      "textId": null
+    },
+    {
+      "id": "a1-common_irregulars-033",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "common_irregulars",
+      "question": "Elle ___ venir demain.",
+      "options": [
+        "peut",
+        "peux",
+        "peuvent",
+        "pouvez"
+      ],
+      "answer": 0,
+      "explanation": "Pouvoir: je peux, tu peux, il/elle peut, nous pouvons, vous pouvez, ils/elles peuvent. Here: peut.",
+      "textId": null
+    },
+    {
+      "id": "a1-common_irregulars-034",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "common_irregulars",
+      "question": "Nous ___ commencer.",
+      "options": [
+        "pouvez",
+        "pouvons",
+        "peuvent",
+        "peut"
+      ],
+      "answer": 1,
+      "explanation": "Pouvoir: je peux, tu peux, il/elle peut, nous pouvons, vous pouvez, ils/elles peuvent. Here: pouvons.",
+      "textId": null
+    },
+    {
+      "id": "a1-common_irregulars-035",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "common_irregulars",
+      "question": "Vous ___ parler plus lentement ?",
+      "options": [
+        "pouvons",
+        "peuvent",
+        "pouvez",
+        "peux"
+      ],
+      "answer": 2,
+      "explanation": "Pouvoir: je peux, tu peux, il/elle peut, nous pouvons, vous pouvez, ils/elles peuvent. Here: pouvez.",
+      "textId": null
+    },
+    {
+      "id": "a1-common_irregulars-036",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "common_irregulars",
+      "question": "Ils ___ rester ici.",
+      "options": [
+        "peut",
+        "pouvons",
+        "pouvez",
+        "peuvent"
+      ],
+      "answer": 3,
+      "explanation": "Pouvoir: je peux, tu peux, il/elle peut, nous pouvons, vous pouvez, ils/elles peuvent. Here: peuvent.",
+      "textId": null
+    },
+    {
+      "id": "a1-common_irregulars-037",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "common_irregulars",
+      "question": "On ___ entrer ?",
+      "options": [
+        "peut",
+        "peux",
+        "peuvent",
+        "pouvons"
+      ],
+      "answer": 0,
+      "explanation": "Pouvoir: je peux, tu peux, il/elle peut, nous pouvons, vous pouvez, ils/elles peuvent. Here: peut.",
+      "textId": null
+    },
+    {
+      "id": "a1-common_irregulars-038",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "common_irregulars",
+      "question": "Est-ce que je ___ payer par carte ?",
+      "options": [
+        "peut",
+        "peux",
+        "pouvez",
+        "peuvent"
+      ],
+      "answer": 1,
+      "explanation": "Pouvoir: je peux, tu peux, il/elle peut, nous pouvons, vous pouvez, ils/elles peuvent. Here: peux.",
+      "textId": null
+    },
+    {
+      "id": "a1-common_irregulars-039",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "common_irregulars",
+      "question": "Les enfants ___ jouer dehors.",
+      "options": [
+        "peut",
+        "pouvez",
+        "peuvent",
+        "pouvons"
+      ],
+      "answer": 2,
+      "explanation": "Pouvoir: je peux, tu peux, il/elle peut, nous pouvons, vous pouvez, ils/elles peuvent. Here: peuvent.",
+      "textId": null
+    },
+    {
+      "id": "a1-common_irregulars-040",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "common_irregulars",
+      "question": "Tu ___ m’attendre cinq minutes ?",
+      "options": [
+        "peut",
+        "pouvons",
+        "peuvent",
+        "peux"
+      ],
+      "answer": 3,
+      "explanation": "Pouvoir: je peux, tu peux, il/elle peut, nous pouvons, vous pouvez, ils/elles peuvent. Here: peux.",
+      "textId": null
+    },
+    {
+      "id": "a1-common_irregulars-041",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "common_irregulars",
+      "question": "Je ___ un café, s’il vous plaît.",
+      "options": [
+        "veux",
+        "veut",
+        "voulons",
+        "veulent"
+      ],
+      "answer": 0,
+      "explanation": "Vouloir: je veux, tu veux, il/elle veut, nous voulons, vous voulez, ils/elles veulent. Here: veux.",
+      "textId": null
+    },
+    {
+      "id": "a1-common_irregulars-042",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "common_irregulars",
+      "question": "Tu ___ sortir ce soir ?",
+      "options": [
+        "veut",
+        "veux",
+        "voulez",
+        "veulent"
+      ],
+      "answer": 1,
+      "explanation": "Vouloir: je veux, tu veux, il/elle veut, nous voulons, vous voulez, ils/elles veulent. Here: veux.",
+      "textId": null
+    },
+    {
+      "id": "a1-common_irregulars-043",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "common_irregulars",
+      "question": "Il ___ apprendre le français.",
+      "options": [
+        "veux",
+        "veulent",
+        "veut",
+        "voulez"
+      ],
+      "answer": 2,
+      "explanation": "Vouloir: je veux, tu veux, il/elle veut, nous voulons, vous voulez, ils/elles veulent. Here: veut.",
+      "textId": null
+    },
+    {
+      "id": "a1-common_irregulars-044",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "common_irregulars",
+      "question": "Nous ___ visiter Paris.",
+      "options": [
+        "voulez",
+        "veulent",
+        "veut",
+        "voulons"
+      ],
+      "answer": 3,
+      "explanation": "Vouloir: je veux, tu veux, il/elle veut, nous voulons, vous voulez, ils/elles veulent. Here: voulons.",
+      "textId": null
+    },
+    {
+      "id": "a1-common_irregulars-045",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "common_irregulars",
+      "question": "Vous ___ du thé ou du café ?",
+      "options": [
+        "voulez",
+        "voulons",
+        "veulent",
+        "veux"
+      ],
+      "answer": 0,
+      "explanation": "Vouloir: je veux, tu veux, il/elle veut, nous voulons, vous voulez, ils/elles veulent. Here: voulez.",
+      "textId": null
+    },
+    {
+      "id": "a1-common_irregulars-046",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "common_irregulars",
+      "question": "Elles ___ partir tôt.",
+      "options": [
+        "veut",
+        "veulent",
+        "voulons",
+        "voulez"
+      ],
+      "answer": 1,
+      "explanation": "Vouloir: je veux, tu veux, il/elle veut, nous voulons, vous voulez, ils/elles veulent. Here: veulent.",
+      "textId": null
+    },
+    {
+      "id": "a1-common_irregulars-047",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "common_irregulars",
+      "question": "Qu’est-ce que tu ___ manger ?",
+      "options": [
+        "veut",
+        "voulez",
+        "veux",
+        "veulent"
+      ],
+      "answer": 2,
+      "explanation": "Vouloir: je veux, tu veux, il/elle veut, nous voulons, vous voulez, ils/elles veulent. Here: veux.",
+      "textId": null
+    },
+    {
+      "id": "a1-common_irregulars-048",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "common_irregulars",
+      "question": "Mes parents ___ acheter une maison.",
+      "options": [
+        "veut",
+        "voulez",
+        "voulons",
+        "veulent"
+      ],
+      "answer": 3,
+      "explanation": "Vouloir: je veux, tu veux, il/elle veut, nous voulons, vous voulez, ils/elles veulent. Here: veulent.",
+      "textId": null
+    },
+    {
+      "id": "a1-common_irregulars-049",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "common_irregulars",
+      "question": "Elle ne ___ pas venir.",
+      "options": [
+        "veut",
+        "veux",
+        "veulent",
+        "voulez"
+      ],
+      "answer": 0,
+      "explanation": "Vouloir: je veux, tu veux, il/elle veut, nous voulons, vous voulez, ils/elles veulent. Here: veut.",
+      "textId": null
+    },
+    {
+      "id": "a1-common_irregulars-050",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "common_irregulars",
+      "question": "On ___ bien t’aider.",
+      "options": [
+        "veux",
+        "veut",
+        "veulent",
+        "voulons"
+      ],
+      "answer": 1,
+      "explanation": "Vouloir: je veux, tu veux, il/elle veut, nous voulons, vous voulez, ils/elles veulent. Here: veut.",
+      "textId": null
+    },
+    {
+      "id": "a1-common_irregulars-051",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "common_irregulars",
+      "question": "Je ___ partir maintenant.",
+      "options": [
+        "doit",
+        "devons",
+        "dois",
+        "doivent"
+      ],
+      "answer": 2,
+      "explanation": "Devoir: je dois, tu dois, il/elle doit, nous devons, vous devez, ils/elles doivent. Here: dois.",
+      "textId": null
+    },
+    {
+      "id": "a1-common_irregulars-052",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "common_irregulars",
+      "question": "Tu ___ faire tes devoirs.",
+      "options": [
+        "doit",
+        "devez",
+        "doivent",
+        "dois"
+      ],
+      "answer": 3,
+      "explanation": "Devoir: je dois, tu dois, il/elle doit, nous devons, vous devez, ils/elles doivent. Here: dois.",
+      "textId": null
+    },
+    {
+      "id": "a1-common_irregulars-053",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "common_irregulars",
+      "question": "Elle ___ travailler demain.",
+      "options": [
+        "doit",
+        "dois",
+        "doivent",
+        "devez"
+      ],
+      "answer": 0,
+      "explanation": "Devoir: je dois, tu dois, il/elle doit, nous devons, vous devez, ils/elles doivent. Here: doit.",
+      "textId": null
+    },
+    {
+      "id": "a1-common_irregulars-054",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "common_irregulars",
+      "question": "Nous ___ prendre le bus.",
+      "options": [
+        "devez",
+        "devons",
+        "doivent",
+        "doit"
+      ],
+      "answer": 1,
+      "explanation": "Devoir: je dois, tu dois, il/elle doit, nous devons, vous devez, ils/elles doivent. Here: devons.",
+      "textId": null
+    },
+    {
+      "id": "a1-common_irregulars-055",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "common_irregulars",
+      "question": "Vous ___ attendre ici.",
+      "options": [
+        "devons",
+        "doivent",
+        "devez",
+        "dois"
+      ],
+      "answer": 2,
+      "explanation": "Devoir: je dois, tu dois, il/elle doit, nous devons, vous devez, ils/elles doivent. Here: devez.",
+      "textId": null
+    },
+    {
+      "id": "a1-common_irregulars-056",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "common_irregulars",
+      "question": "Ils ___ rentrer avant minuit.",
+      "options": [
+        "doit",
+        "devons",
+        "devez",
+        "doivent"
+      ],
+      "answer": 3,
+      "explanation": "Devoir: je dois, tu dois, il/elle doit, nous devons, vous devez, ils/elles doivent. Here: doivent.",
+      "textId": null
+    },
+    {
+      "id": "a1-common_irregulars-057",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "common_irregulars",
+      "question": "On ___ réserver une table.",
+      "options": [
+        "doit",
+        "dois",
+        "doivent",
+        "devons"
+      ],
+      "answer": 0,
+      "explanation": "Devoir: je dois, tu dois, il/elle doit, nous devons, vous devez, ils/elles doivent. Here: doit.",
+      "textId": null
+    },
+    {
+      "id": "a1-common_irregulars-058",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "common_irregulars",
+      "question": "Les étudiants ___ parler français en classe.",
+      "options": [
+        "doit",
+        "doivent",
+        "devez",
+        "devons"
+      ],
+      "answer": 1,
+      "explanation": "Devoir: je dois, tu dois, il/elle doit, nous devons, vous devez, ils/elles doivent. Here: doivent.",
+      "textId": null
+    },
+    {
+      "id": "a1-common_irregulars-059",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "common_irregulars",
+      "question": "Je ___ le métro tous les matins.",
+      "options": [
+        "prend",
+        "prenons",
+        "prends",
+        "prennent"
+      ],
+      "answer": 2,
+      "explanation": "Prendre: je prends, tu prends, il/elle prend, nous prenons, vous prenez, ils/elles prennent. Here: prends.",
+      "textId": null
+    },
+    {
+      "id": "a1-common_irregulars-060",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "common_irregulars",
+      "question": "Tu ___ un dessert ?",
+      "options": [
+        "prend",
+        "prenez",
+        "prennent",
+        "prends"
+      ],
+      "answer": 3,
+      "explanation": "Prendre: je prends, tu prends, il/elle prend, nous prenons, vous prenez, ils/elles prennent. Here: prends.",
+      "textId": null
+    },
+    {
+      "id": "a1-common_irregulars-061",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "common_irregulars",
+      "question": "Il ___ une douche.",
+      "options": [
+        "prend",
+        "prends",
+        "prennent",
+        "prenez"
+      ],
+      "answer": 0,
+      "explanation": "Prendre: je prends, tu prends, il/elle prend, nous prenons, vous prenez, ils/elles prennent. Here: prend.",
+      "textId": null
+    },
+    {
+      "id": "a1-common_irregulars-062",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "common_irregulars",
+      "question": "Nous ___ le train de huit heures.",
+      "options": [
+        "prenez",
+        "prenons",
+        "prennent",
+        "prend"
+      ],
+      "answer": 1,
+      "explanation": "Prendre: je prends, tu prends, il/elle prend, nous prenons, vous prenez, ils/elles prennent. Here: prenons.",
+      "textId": null
+    },
+    {
+      "id": "a1-common_irregulars-063",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "common_irregulars",
+      "question": "Vous ___ du sucre ?",
+      "options": [
+        "prenons",
+        "prennent",
+        "prenez",
+        "prends"
+      ],
+      "answer": 2,
+      "explanation": "Prendre: je prends, tu prends, il/elle prend, nous prenons, vous prenez, ils/elles prennent. Here: prenez.",
+      "textId": null
+    },
+    {
+      "id": "a1-common_irregulars-064",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "common_irregulars",
+      "question": "Elles ___ des photos.",
+      "options": [
+        "prend",
+        "prenons",
+        "prenez",
+        "prennent"
+      ],
+      "answer": 3,
+      "explanation": "Prendre: je prends, tu prends, il/elle prend, nous prenons, vous prenez, ils/elles prennent. Here: prennent.",
+      "textId": null
+    },
+    {
+      "id": "a1-common_irregulars-065",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "common_irregulars",
+      "question": "On ___ un taxi ?",
+      "options": [
+        "prend",
+        "prends",
+        "prennent",
+        "prenons"
+      ],
+      "answer": 0,
+      "explanation": "Prendre: je prends, tu prends, il/elle prend, nous prenons, vous prenez, ils/elles prennent. Here: prend.",
+      "textId": null
+    },
+    {
+      "id": "a1-common_irregulars-066",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "common_irregulars",
+      "question": "Les touristes ___ le bateau.",
+      "options": [
+        "prend",
+        "prennent",
+        "prenez",
+        "prenons"
+      ],
+      "answer": 1,
+      "explanation": "Prendre: je prends, tu prends, il/elle prend, nous prenons, vous prenez, ils/elles prennent. Here: prennent.",
+      "textId": null
+    },
+    {
+      "id": "a1-common_irregulars-067",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "common_irregulars",
+      "question": "Je ___ parler un peu français.",
+      "options": [
+        "sait",
+        "savons",
+        "sais",
+        "savent"
+      ],
+      "answer": 2,
+      "explanation": "Savoir: je sais, tu sais, il/elle sait, nous savons, vous savez, ils/elles savent. Here: sais.",
+      "textId": null
+    },
+    {
+      "id": "a1-common_irregulars-068",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "common_irregulars",
+      "question": "Tu ___ nager ?",
+      "options": [
+        "sait",
+        "savez",
+        "savent",
+        "sais"
+      ],
+      "answer": 3,
+      "explanation": "Savoir: je sais, tu sais, il/elle sait, nous savons, vous savez, ils/elles savent. Here: sais.",
+      "textId": null
+    },
+    {
+      "id": "a1-common_irregulars-069",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "common_irregulars",
+      "question": "Elle ___ cuisiner.",
+      "options": [
+        "sait",
+        "sais",
+        "savent",
+        "savez"
+      ],
+      "answer": 0,
+      "explanation": "Savoir: je sais, tu sais, il/elle sait, nous savons, vous savez, ils/elles savent. Here: sait.",
+      "textId": null
+    },
+    {
+      "id": "a1-common_irregulars-070",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "common_irregulars",
+      "question": "Nous ne ___ pas où il habite.",
+      "options": [
+        "savez",
+        "savons",
+        "savent",
+        "sait"
+      ],
+      "answer": 1,
+      "explanation": "Savoir: je sais, tu sais, il/elle sait, nous savons, vous savez, ils/elles savent. Here: savons.",
+      "textId": null
+    },
+    {
+      "id": "a1-common_irregulars-071",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "common_irregulars",
+      "question": "Vous ___ quelle heure il est ?",
+      "options": [
+        "savons",
+        "savent",
+        "savez",
+        "sais"
+      ],
+      "answer": 2,
+      "explanation": "Savoir: je sais, tu sais, il/elle sait, nous savons, vous savez, ils/elles savent. Here: savez.",
+      "textId": null
+    },
+    {
+      "id": "a1-common_irregulars-072",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "common_irregulars",
+      "question": "Ils ___ jouer du piano.",
+      "options": [
+        "sait",
+        "savons",
+        "savez",
+        "savent"
+      ],
+      "answer": 3,
+      "explanation": "Savoir: je sais, tu sais, il/elle sait, nous savons, vous savez, ils/elles savent. Here: savent.",
+      "textId": null
+    },
+    {
+      "id": "a1-common_irregulars-073",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "common_irregulars",
+      "question": "Je ne ___ pas.",
+      "options": [
+        "sais",
+        "sait",
+        "savons",
+        "savent"
+      ],
+      "answer": 0,
+      "explanation": "Savoir: je sais, tu sais, il/elle sait, nous savons, vous savez, ils/elles savent. Here: sais.",
+      "textId": null
+    },
+    {
+      "id": "a1-common_irregulars-074",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "common_irregulars",
+      "question": "Vous ___ français ?",
+      "options": [
+        "comprendez",
+        "comprenez",
+        "comprenons",
+        "comprennent"
+      ],
+      "answer": 1,
+      "explanation": "Comprendre follows prendre: vous comprenez.",
+      "textId": null
+    },
+    {
+      "id": "a1-common_irregulars-075",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "common_irregulars",
+      "question": "J’___ le français à l’université.",
+      "options": [
+        "apprend",
+        "apprenons",
+        "apprends",
+        "apprennent"
+      ],
+      "answer": 2,
+      "explanation": "Apprendre follows prendre: j’apprends.",
+      "textId": null
+    },
+    {
+      "id": "a1-common_irregulars-076",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "common_irregulars",
+      "question": "Ils ___ vite.",
+      "options": [
+        "apprend",
+        "apprenez",
+        "apprenons",
+        "apprennent"
+      ],
+      "answer": 3,
+      "explanation": "Apprendre follows prendre: ils apprennent.",
+      "textId": null
+    },
+    {
+      "id": "a1-common_irregulars-077",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "common_irregulars",
+      "question": "Elle ___ bientôt.",
+      "options": [
+        "revient",
+        "reviens",
+        "reviennent",
+        "revenez"
+      ],
+      "answer": 0,
+      "explanation": "Revenir follows venir: elle revient.",
+      "textId": null
+    },
+    {
+      "id": "a1-common_irregulars-078",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "common_irregulars",
+      "question": "Nous ___ les exercices.",
+      "options": [
+        "refaites",
+        "refaisons",
+        "refont",
+        "refait"
+      ],
+      "answer": 1,
+      "explanation": "Refaire follows faire: nous refaisons.",
+      "textId": null
+    },
+    {
+      "id": "a1-common_irregulars-079",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "common_irregulars",
+      "question": "Tu ___ chanteur ?",
+      "options": [
+        "devient",
+        "devenez",
+        "deviens",
+        "deviennent"
+      ],
+      "answer": 2,
+      "explanation": "Devenir follows venir: tu deviens.",
+      "textId": null
+    },
+    {
+      "id": "a1-common_irregulars-080",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "common_irregulars",
+      "question": "Je ne ___ pas, c’est trop rapide.",
+      "options": [
+        "comprend",
+        "comprenons",
+        "comprennent",
+        "comprends"
+      ],
+      "answer": 3,
+      "explanation": "Comprendre follows prendre: je comprends.",
+      "textId": null
+    }
+  ]
+}

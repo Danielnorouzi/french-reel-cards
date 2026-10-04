@@ -1,0 +1,1285 @@
+{
+  "texts": [],
+  "questions": [
+    {
+      "id": "b1-celui_le_mien-001",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "celui_le_mien",
+      "question": "Quel pull préfères-tu ? — ___ en laine.",
+      "options": [
+        "Celui",
+        "Celle",
+        "Ceux",
+        "Celles"
+      ],
+      "answer": 0,
+      "explanation": "Celui (masc. sing.), celle (fem. sing.), ceux (masc. pl.), celles (fem. pl.) replace a noun to mean \"the one(s)\". They agree with the noun they replace. Here: Celui.",
+      "textId": null
+    },
+    {
+      "id": "b1-celui_le_mien-002",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "celui_le_mien",
+      "question": "Quelle robe veux-tu ? — ___ de gauche.",
+      "options": [
+        "Celui",
+        "Celle",
+        "Ceux",
+        "Celles"
+      ],
+      "answer": 1,
+      "explanation": "Celui (masc. sing.), celle (fem. sing.), ceux (masc. pl.), celles (fem. pl.) replace a noun to mean \"the one(s)\". They agree with the noun they replace. Here: Celle.",
+      "textId": null
+    },
+    {
+      "id": "b1-celui_le_mien-003",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "celui_le_mien",
+      "question": "Quels gâteaux prenez-vous ? — ___ au chocolat.",
+      "options": [
+        "Celui",
+        "Celle",
+        "Ceux",
+        "Celles"
+      ],
+      "answer": 2,
+      "explanation": "Celui (masc. sing.), celle (fem. sing.), ceux (masc. pl.), celles (fem. pl.) replace a noun to mean \"the one(s)\". They agree with the noun they replace. Here: Ceux.",
+      "textId": null
+    },
+    {
+      "id": "b1-celui_le_mien-004",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "celui_le_mien",
+      "question": "Quelles chaussures achètes-tu ? — ___ en cuir.",
+      "options": [
+        "Ceux",
+        "Celui",
+        "Celle",
+        "Celles"
+      ],
+      "answer": 3,
+      "explanation": "Celui (masc. sing.), celle (fem. sing.), ceux (masc. pl.), celles (fem. pl.) replace a noun to mean \"the one(s)\". They agree with the noun they replace. Here: Celles.",
+      "textId": null
+    },
+    {
+      "id": "b1-celui_le_mien-005",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "celui_le_mien",
+      "question": "J’aime bien ce film, mais je préfère ___ d’hier.",
+      "options": [
+        "celui",
+        "celle",
+        "ceux",
+        "celles"
+      ],
+      "answer": 0,
+      "explanation": "Celui (masc. sing.), celle (fem. sing.), ceux (masc. pl.), celles (fem. pl.) replace a noun to mean \"the one(s)\". They agree with the noun they replace. Here: celui.",
+      "textId": null
+    },
+    {
+      "id": "b1-celui_le_mien-006",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "celui_le_mien",
+      "question": "Cette voiture est plus rapide que ___ de mon père.",
+      "options": [
+        "celui",
+        "celle",
+        "ceux",
+        "celles"
+      ],
+      "answer": 1,
+      "explanation": "Celui de / celle de + noun = someone’s: la voiture de Paul → celle de Paul.",
+      "textId": null
+    },
+    {
+      "id": "b1-celui_le_mien-007",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "celui_le_mien",
+      "question": "Mon vélo est vieux, mais ___ de Paul est neuf.",
+      "options": [
+        "celle",
+        "ceux",
+        "celui",
+        "celles"
+      ],
+      "answer": 2,
+      "explanation": "Celui de / celle de + noun = someone’s: la voiture de Paul → celle de Paul.",
+      "textId": null
+    },
+    {
+      "id": "b1-celui_le_mien-008",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "celui_le_mien",
+      "question": "Mes notes sont meilleures que ___ de mon frère.",
+      "options": [
+        "ceux",
+        "celui",
+        "celle",
+        "celles"
+      ],
+      "answer": 3,
+      "explanation": "Celui de / celle de + noun = someone’s: la voiture de Paul → celle de Paul.",
+      "textId": null
+    },
+    {
+      "id": "b1-celui_le_mien-009",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "celui_le_mien",
+      "question": "Tes yeux sont comme ___ de ta mère.",
+      "options": [
+        "ceux",
+        "celles",
+        "celui",
+        "celle"
+      ],
+      "answer": 0,
+      "explanation": "Celui de / celle de + noun = someone’s: la voiture de Paul → celle de Paul.",
+      "textId": null
+    },
+    {
+      "id": "b1-celui_le_mien-010",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "celui_le_mien",
+      "question": "Ce n’est pas ma clé, c’est ___ de Marie.",
+      "options": [
+        "celui",
+        "celle",
+        "ceux",
+        "celles"
+      ],
+      "answer": 1,
+      "explanation": "Celui de / celle de + noun = someone’s: la voiture de Paul → celle de Paul.",
+      "textId": null
+    },
+    {
+      "id": "b1-celui_le_mien-011",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "celui_le_mien",
+      "question": "Les enfants de Léa sont plus calmes que ___ de sa sœur.",
+      "options": [
+        "celles",
+        "celui",
+        "ceux",
+        "celle"
+      ],
+      "answer": 2,
+      "explanation": "Celui de / celle de + noun = someone’s: la voiture de Paul → celle de Paul.",
+      "textId": null
+    },
+    {
+      "id": "b1-celui_le_mien-012",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "celui_le_mien",
+      "question": "Notre maison est plus petite que ___ des voisins.",
+      "options": [
+        "celui",
+        "ceux",
+        "celles",
+        "celle"
+      ],
+      "answer": 3,
+      "explanation": "Celui de / celle de + noun = someone’s: la voiture de Paul → celle de Paul.",
+      "textId": null
+    },
+    {
+      "id": "b1-celui_le_mien-013",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "celui_le_mien",
+      "question": "J’ai pris mon parapluie et ___ de ma femme.",
+      "options": [
+        "celui",
+        "celle",
+        "ceux",
+        "celles"
+      ],
+      "answer": 0,
+      "explanation": "Celui de / celle de + noun = someone’s: la voiture de Paul → celle de Paul.",
+      "textId": null
+    },
+    {
+      "id": "b1-celui_le_mien-014",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "celui_le_mien",
+      "question": "Ce livre est ___ que je cherchais.",
+      "options": [
+        "celle",
+        "celui",
+        "ceux",
+        "celles"
+      ],
+      "answer": 1,
+      "explanation": "Celui qui / celui que = the one who, the one that. The pronoun agrees with the noun it replaces. Here: celui.",
+      "textId": null
+    },
+    {
+      "id": "b1-celui_le_mien-015",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "celui_le_mien",
+      "question": "Cette chanson est ___ que je préfère.",
+      "options": [
+        "celui",
+        "ceux",
+        "celle",
+        "celles"
+      ],
+      "answer": 2,
+      "explanation": "Celui qui / celui que = the one who, the one that. The pronoun agrees with the noun it replaces. Here: celle.",
+      "textId": null
+    },
+    {
+      "id": "b1-celui_le_mien-016",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "celui_le_mien",
+      "question": "Ces étudiants sont ___ qui ont réussi l’examen.",
+      "options": [
+        "celles",
+        "celui",
+        "celle",
+        "ceux"
+      ],
+      "answer": 3,
+      "explanation": "Celui qui / celui que = the one who, the one that. The pronoun agrees with the noun it replaces. Here: ceux.",
+      "textId": null
+    },
+    {
+      "id": "b1-celui_le_mien-017",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "celui_le_mien",
+      "question": "Ces photos sont ___ que j’ai prises à Paris.",
+      "options": [
+        "celles",
+        "ceux",
+        "celui",
+        "celle"
+      ],
+      "answer": 0,
+      "explanation": "Celui qui / celui que = the one who, the one that. The pronoun agrees with the noun it replaces. Here: celles.",
+      "textId": null
+    },
+    {
+      "id": "b1-celui_le_mien-018",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "celui_le_mien",
+      "question": "Qui est Paul ? — C’est ___ qui porte une veste noire.",
+      "options": [
+        "celle",
+        "celui",
+        "ceux",
+        "celles"
+      ],
+      "answer": 1,
+      "explanation": "Celui qui / celui que = the one who, the one that. The pronoun agrees with the noun it replaces. Here: celui.",
+      "textId": null
+    },
+    {
+      "id": "b1-celui_le_mien-019",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "celui_le_mien",
+      "question": "Ma sœur, c’est ___ qui parle avec le professeur.",
+      "options": [
+        "celui",
+        "ceux",
+        "celle",
+        "celles"
+      ],
+      "answer": 2,
+      "explanation": "Celui qui / celui que = the one who, the one that. The pronoun agrees with the noun it replaces. Here: celle.",
+      "textId": null
+    },
+    {
+      "id": "b1-celui_le_mien-020",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "celui_le_mien",
+      "question": "Les meilleurs amis sont ___ qui restent dans les moments difficiles.",
+      "options": [
+        "celles",
+        "celui",
+        "celle",
+        "ceux"
+      ],
+      "answer": 3,
+      "explanation": "Celui qui / celui que = the one who, the one that. The pronoun agrees with the noun it replaces. Here: ceux.",
+      "textId": null
+    },
+    {
+      "id": "b1-celui_le_mien-021",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "celui_le_mien",
+      "question": "Parmi ces robes, je choisis ___ dont tu m’as parlé.",
+      "options": [
+        "celle",
+        "celui",
+        "ceux",
+        "celles"
+      ],
+      "answer": 0,
+      "explanation": "Celui qui / celui que = the one who, the one that. The pronoun agrees with the noun it replaces. Here: celle.",
+      "textId": null
+    },
+    {
+      "id": "b1-celui_le_mien-022",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "celui_le_mien",
+      "question": "Ce restaurant est ___ où nous avons fêté ton anniversaire.",
+      "options": [
+        "celle",
+        "celui",
+        "ceux",
+        "celles"
+      ],
+      "answer": 1,
+      "explanation": "Celui qui / celui que = the one who, the one that. The pronoun agrees with the noun it replaces. Here: celui.",
+      "textId": null
+    },
+    {
+      "id": "b1-celui_le_mien-023",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "celui_le_mien",
+      "question": "Quel stylo veux-tu : ___ ou celui-là ?",
+      "options": [
+        "celle-ci",
+        "celui",
+        "celui-ci",
+        "ceci"
+      ],
+      "answer": 2,
+      "explanation": "Add -ci (this one, closer) or -là (that one, further) when you point at something: celui-ci, celle-là.",
+      "textId": null
+    },
+    {
+      "id": "b1-celui_le_mien-024",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "celui_le_mien",
+      "question": "Quelle table préférez-vous : celle-ci ou ___ ?",
+      "options": [
+        "celui-là",
+        "celle",
+        "cela",
+        "celle-là"
+      ],
+      "answer": 3,
+      "explanation": "Add -ci (this one, closer) or -là (that one, further) when you point at something: celui-ci, celle-là.",
+      "textId": null
+    },
+    {
+      "id": "b1-celui_le_mien-025",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "celui_le_mien",
+      "question": "Ces pommes-ci sont rouges, ___ sont vertes.",
+      "options": [
+        "celles-là",
+        "ceux-là",
+        "celles",
+        "cela"
+      ],
+      "answer": 0,
+      "explanation": "Add -ci (this one, closer) or -là (that one, further) when you point at something: celui-ci, celle-là.",
+      "textId": null
+    },
+    {
+      "id": "b1-celui_le_mien-026",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "celui_le_mien",
+      "question": "Ces gants-ci sont trop petits. Je prends ___.",
+      "options": [
+        "celles-là",
+        "ceux-là",
+        "ceux",
+        "cela"
+      ],
+      "answer": 1,
+      "explanation": "Add -ci (this one, closer) or -là (that one, further) when you point at something: celui-ci, celle-là.",
+      "textId": null
+    },
+    {
+      "id": "b1-celui_le_mien-027",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "celui_le_mien",
+      "question": "Je voudrais un gâteau. — Lequel ? — ___, à gauche.",
+      "options": [
+        "Celle-là",
+        "Celui",
+        "Celui-là",
+        "Cela"
+      ],
+      "answer": 2,
+      "explanation": "Add -ci (this one, closer) or -là (that one, further) when you point at something: celui-ci, celle-là.",
+      "textId": null
+    },
+    {
+      "id": "b1-celui_le_mien-028",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "celui_le_mien",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "Je prends celui.",
+        "Je prends le celui de droite.",
+        "Je prends celui droite.",
+        "Je prends celui de droite."
+      ],
+      "answer": 3,
+      "explanation": "Celui, celle, ceux, celles are never used alone. They need -ci / -là, de + noun, or qui / que / dont / où.",
+      "textId": null
+    },
+    {
+      "id": "b1-celui_le_mien-029",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "celui_le_mien",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "J’aime cette veste, mais je préfère celle-là.",
+        "J’aime cette veste, mais je préfère celle.",
+        "J’aime cette veste, mais je préfère la celle.",
+        "J’aime cette veste, mais je préfère celui-là."
+      ],
+      "answer": 0,
+      "explanation": "Celui, celle, ceux, celles are never used alone. They need -ci / -là, de + noun, or qui / que / dont / où.",
+      "textId": null
+    },
+    {
+      "id": "b1-celui_le_mien-030",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "celui_le_mien",
+      "question": "Écoute bien ___ : je ne le répéterai pas.",
+      "options": [
+        "celui",
+        "ceci",
+        "celle",
+        "ceux"
+      ],
+      "answer": 1,
+      "explanation": "Ceci and cela (ça in speech) replace an idea or an unnamed thing, not a specific noun.",
+      "textId": null
+    },
+    {
+      "id": "b1-celui_le_mien-031",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "celui_le_mien",
+      "question": "___ ne m’intéresse pas du tout.",
+      "options": [
+        "Celui",
+        "Celle",
+        "Cela",
+        "Ceux"
+      ],
+      "answer": 2,
+      "explanation": "Ceci and cela (ça in speech) replace an idea or an unnamed thing, not a specific noun.",
+      "textId": null
+    },
+    {
+      "id": "b1-celui_le_mien-032",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "celui_le_mien",
+      "question": "Tu as vu ___ ? C’est incroyable !",
+      "options": [
+        "celui",
+        "celle",
+        "ceux",
+        "ça"
+      ],
+      "answer": 3,
+      "explanation": "Ceci and cela (ça in speech) replace an idea or an unnamed thing, not a specific noun.",
+      "textId": null
+    },
+    {
+      "id": "b1-celui_le_mien-033",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "celui_le_mien",
+      "question": "___ dépend de toi.",
+      "options": [
+        "Ça",
+        "Celui",
+        "Celle",
+        "Ceux"
+      ],
+      "answer": 0,
+      "explanation": "Ceci and cela (ça in speech) replace an idea or an unnamed thing, not a specific noun.",
+      "textId": null
+    },
+    {
+      "id": "b1-celui_le_mien-034",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "celui_le_mien",
+      "question": "Qu’est-ce que c’est que ___ ?",
+      "options": [
+        "celui",
+        "ça",
+        "celle",
+        "ceux"
+      ],
+      "answer": 1,
+      "explanation": "Ceci and cela (ça in speech) replace an idea or an unnamed thing, not a specific noun.",
+      "textId": null
+    },
+    {
+      "id": "b1-celui_le_mien-035",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "celui_le_mien",
+      "question": "C’est ton stylo ? — Oui, c’est ___.",
+      "options": [
+        "la mienne",
+        "les miens",
+        "le mien",
+        "le tien"
+      ],
+      "answer": 2,
+      "explanation": "Le mien, la mienne, les miens, les miennes = mine. It agrees with the thing owned. Here: le mien.",
+      "textId": null
+    },
+    {
+      "id": "b1-celui_le_mien-036",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "celui_le_mien",
+      "question": "C’est ta voiture ? — Oui, c’est ___.",
+      "options": [
+        "le mien",
+        "les miennes",
+        "la tienne",
+        "la mienne"
+      ],
+      "answer": 3,
+      "explanation": "Le mien, la mienne, les miens, les miennes = mine. It agrees with the thing owned. Here: la mienne.",
+      "textId": null
+    },
+    {
+      "id": "b1-celui_le_mien-037",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "celui_le_mien",
+      "question": "Ce sont tes livres ? — Oui, ce sont ___.",
+      "options": [
+        "les miens",
+        "les miennes",
+        "le mien",
+        "les tiens"
+      ],
+      "answer": 0,
+      "explanation": "Le mien, la mienne, les miens, les miennes = mine. It agrees with the thing owned. Here: les miens.",
+      "textId": null
+    },
+    {
+      "id": "b1-celui_le_mien-038",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "celui_le_mien",
+      "question": "Ce sont tes clés ? — Oui, ce sont ___.",
+      "options": [
+        "les miens",
+        "les miennes",
+        "la mienne",
+        "les tiennes"
+      ],
+      "answer": 1,
+      "explanation": "Le mien, la mienne, les miens, les miennes = mine. It agrees with the thing owned. Here: les miennes.",
+      "textId": null
+    },
+    {
+      "id": "b1-celui_le_mien-039",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "celui_le_mien",
+      "question": "Ta maison est grande ; ___ est toute petite.",
+      "options": [
+        "le mien",
+        "les miennes",
+        "la mienne",
+        "la tienne"
+      ],
+      "answer": 2,
+      "explanation": "Le mien, la mienne, les miens, les miennes = mine. It agrees with the thing owned. Here: la mienne.",
+      "textId": null
+    },
+    {
+      "id": "b1-celui_le_mien-040",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "celui_le_mien",
+      "question": "Ton frère est étudiant ; ___ travaille déjà.",
+      "options": [
+        "la mienne",
+        "les miens",
+        "le tien",
+        "le mien"
+      ],
+      "answer": 3,
+      "explanation": "Le mien, la mienne, les miens, les miennes = mine. It agrees with the thing owned. Here: le mien.",
+      "textId": null
+    },
+    {
+      "id": "b1-celui_le_mien-041",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "celui_le_mien",
+      "question": "Tes parents sont jeunes ; ___ sont plus âgés.",
+      "options": [
+        "les miens",
+        "les miennes",
+        "le mien",
+        "les tiens"
+      ],
+      "answer": 0,
+      "explanation": "Le mien, la mienne, les miens, les miennes = mine. It agrees with the thing owned. Here: les miens.",
+      "textId": null
+    },
+    {
+      "id": "b1-celui_le_mien-042",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "celui_le_mien",
+      "question": "J’ai mon billet. Tu as ___ ?",
+      "options": [
+        "la tienne",
+        "le tien",
+        "les tiens",
+        "le mien"
+      ],
+      "answer": 1,
+      "explanation": "Le tien, la tienne, les tiens, les tiennes = yours (tu). It agrees with the thing owned. Here: le tien.",
+      "textId": null
+    },
+    {
+      "id": "b1-celui_le_mien-043",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "celui_le_mien",
+      "question": "Voici ma chambre. Où est ___ ?",
+      "options": [
+        "le tien",
+        "les tiennes",
+        "la tienne",
+        "la mienne"
+      ],
+      "answer": 2,
+      "explanation": "Le tien, la tienne, les tiens, les tiennes = yours (tu). It agrees with the thing owned. Here: la tienne.",
+      "textId": null
+    },
+    {
+      "id": "b1-celui_le_mien-044",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "celui_le_mien",
+      "question": "Mes chaussures sont mouillées. Et ___ ?",
+      "options": [
+        "les tiens",
+        "la tienne",
+        "les miennes",
+        "les tiennes"
+      ],
+      "answer": 3,
+      "explanation": "Le tien, la tienne, les tiens, les tiennes = yours (tu). It agrees with the thing owned. Here: les tiennes.",
+      "textId": null
+    },
+    {
+      "id": "b1-celui_le_mien-045",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "celui_le_mien",
+      "question": "Mes amis sont arrivés. Et ___ ?",
+      "options": [
+        "les tiens",
+        "les tiennes",
+        "le tien",
+        "les miens"
+      ],
+      "answer": 0,
+      "explanation": "Le tien, la tienne, les tiens, les tiennes = yours (tu). It agrees with the thing owned. Here: les tiens.",
+      "textId": null
+    },
+    {
+      "id": "b1-celui_le_mien-046",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "celui_le_mien",
+      "question": "J’ai oublié mon stylo. Tu me prêtes ___ ?",
+      "options": [
+        "la tienne",
+        "le tien",
+        "les tiens",
+        "le mien"
+      ],
+      "answer": 1,
+      "explanation": "Le tien, la tienne, les tiens, les tiennes = yours (tu). It agrees with the thing owned. Here: le tien.",
+      "textId": null
+    },
+    {
+      "id": "b1-celui_le_mien-047",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "celui_le_mien",
+      "question": "Ma mère s’appelle Anne. Et ___ ?",
+      "options": [
+        "le tien",
+        "les tiennes",
+        "la tienne",
+        "la mienne"
+      ],
+      "answer": 2,
+      "explanation": "Le tien, la tienne, les tiens, les tiennes = yours (tu). It agrees with the thing owned. Here: la tienne.",
+      "textId": null
+    },
+    {
+      "id": "b1-celui_le_mien-048",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "celui_le_mien",
+      "question": "Paul a son passeport. Marie a oublié ___.",
+      "options": [
+        "la sienne",
+        "les siens",
+        "le leur",
+        "le sien"
+      ],
+      "answer": 3,
+      "explanation": "Le sien, la sienne, les siens, les siennes = his / hers. It agrees with the thing owned, not with the owner. Here: le sien.",
+      "textId": null
+    },
+    {
+      "id": "b1-celui_le_mien-049",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "celui_le_mien",
+      "question": "J’ai ma voiture, et Paul a ___.",
+      "options": [
+        "la sienne",
+        "le sien",
+        "les siennes",
+        "la leur"
+      ],
+      "answer": 0,
+      "explanation": "Le sien, la sienne, les siens, les siennes = his / hers. It agrees with the thing owned, not with the owner. Here: la sienne.",
+      "textId": null
+    },
+    {
+      "id": "b1-celui_le_mien-050",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "celui_le_mien",
+      "question": "Mes enfants sont grands ; ___ sont encore petits. (ceux de Julie)",
+      "options": [
+        "les siennes",
+        "les siens",
+        "le sien",
+        "les leurs"
+      ],
+      "answer": 1,
+      "explanation": "Le sien, la sienne, les siens, les siennes = his / hers. It agrees with the thing owned, not with the owner. Here: les siens.",
+      "textId": null
+    },
+    {
+      "id": "b1-celui_le_mien-051",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "celui_le_mien",
+      "question": "Je fais mes valises pendant que Luc fait ___.",
+      "options": [
+        "les siens",
+        "la sienne",
+        "les siennes",
+        "les leurs"
+      ],
+      "answer": 2,
+      "explanation": "Le sien, la sienne, les siens, les siennes = his / hers. It agrees with the thing owned, not with the owner. Here: les siennes.",
+      "textId": null
+    },
+    {
+      "id": "b1-celui_le_mien-052",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "celui_le_mien",
+      "question": "Ce manteau n’est pas à moi, c’est ___. (à Marie)",
+      "options": [
+        "la sienne",
+        "les siens",
+        "le mien",
+        "le sien"
+      ],
+      "answer": 3,
+      "explanation": "Le sien, la sienne, les siens, les siennes = his / hers. It agrees with the thing owned, not with the owner. Here: le sien.",
+      "textId": null
+    },
+    {
+      "id": "b1-celui_le_mien-053",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "celui_le_mien",
+      "question": "Cette idée n’est pas de moi, c’est ___. (de Paul)",
+      "options": [
+        "la sienne",
+        "le sien",
+        "les siennes",
+        "la mienne"
+      ],
+      "answer": 0,
+      "explanation": "Le sien, la sienne, les siens, les siennes = his / hers. It agrees with the thing owned, not with the owner. Here: la sienne.",
+      "textId": null
+    },
+    {
+      "id": "b1-celui_le_mien-054",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "celui_le_mien",
+      "question": "Notre jardin est petit, mais ___ est immense. (à vous)",
+      "options": [
+        "la vôtre",
+        "le vôtre",
+        "les vôtres",
+        "le nôtre"
+      ],
+      "answer": 1,
+      "explanation": "Le nôtre, la nôtre, les nôtres = ours. Le vôtre, la vôtre, les vôtres = yours (vous). Here: le vôtre.",
+      "textId": null
+    },
+    {
+      "id": "b1-celui_le_mien-055",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "celui_le_mien",
+      "question": "Votre maison est près du lac ; ___ est en ville. (à nous)",
+      "options": [
+        "le nôtre",
+        "les nôtres",
+        "la nôtre",
+        "la vôtre"
+      ],
+      "answer": 2,
+      "explanation": "Le nôtre, la nôtre, les nôtres = ours. Le vôtre, la vôtre, les vôtres = yours (vous). Here: la nôtre.",
+      "textId": null
+    },
+    {
+      "id": "b1-celui_le_mien-056",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "celui_le_mien",
+      "question": "Vos enfants sont déjà couchés ? ___ regardent encore un film. (à nous)",
+      "options": [
+        "La nôtre",
+        "Le nôtre",
+        "Les vôtres",
+        "Les nôtres"
+      ],
+      "answer": 3,
+      "explanation": "Le nôtre, la nôtre, les nôtres = ours. Le vôtre, la vôtre, les vôtres = yours (vous). Here: Les nôtres.",
+      "textId": null
+    },
+    {
+      "id": "b1-celui_le_mien-057",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "celui_le_mien",
+      "question": "Voici nos billets. Avez-vous ___ ?",
+      "options": [
+        "les vôtres",
+        "la vôtre",
+        "le vôtre",
+        "les nôtres"
+      ],
+      "answer": 0,
+      "explanation": "Le nôtre, la nôtre, les nôtres = ours. Le vôtre, la vôtre, les vôtres = yours (vous). Here: les vôtres.",
+      "textId": null
+    },
+    {
+      "id": "b1-celui_le_mien-058",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "celui_le_mien",
+      "question": "Notre professeur est sympa. Et ___ ? (à vous)",
+      "options": [
+        "la vôtre",
+        "le vôtre",
+        "les vôtres",
+        "le nôtre"
+      ],
+      "answer": 1,
+      "explanation": "Le nôtre, la nôtre, les nôtres = ours. Le vôtre, la vôtre, les vôtres = yours (vous). Here: le vôtre.",
+      "textId": null
+    },
+    {
+      "id": "b1-celui_le_mien-059",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "celui_le_mien",
+      "question": "À votre santé ! — À ___ !",
+      "options": [
+        "le vôtre",
+        "les vôtres",
+        "la vôtre",
+        "la nôtre"
+      ],
+      "answer": 2,
+      "explanation": "À la vôtre ! is the usual reply to a toast (santé is feminine).",
+      "textId": null
+    },
+    {
+      "id": "b1-celui_le_mien-060",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "celui_le_mien",
+      "question": "Nos voisins ont un chien. ___ est plus gros que le nôtre.",
+      "options": [
+        "La leur",
+        "Les leurs",
+        "Le sien",
+        "Le leur"
+      ],
+      "answer": 3,
+      "explanation": "Le leur, la leur, les leurs = theirs. Here: Le leur.",
+      "textId": null
+    },
+    {
+      "id": "b1-celui_le_mien-061",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "celui_le_mien",
+      "question": "Mes parents ont une voiture rouge. ___ est très vieille.",
+      "options": [
+        "La leur",
+        "Le leur",
+        "Les leurs",
+        "La sienne"
+      ],
+      "answer": 0,
+      "explanation": "Le leur, la leur, les leurs = theirs. Here: La leur.",
+      "textId": null
+    },
+    {
+      "id": "b1-celui_le_mien-062",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "celui_le_mien",
+      "question": "Nous avons nos problèmes, ils ont ___.",
+      "options": [
+        "le leur",
+        "les leurs",
+        "la leur",
+        "les siens"
+      ],
+      "answer": 1,
+      "explanation": "Le leur, la leur, les leurs = theirs. Here: les leurs.",
+      "textId": null
+    },
+    {
+      "id": "b1-celui_le_mien-063",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "celui_le_mien",
+      "question": "Notre appartement est au premier étage, ___ est au troisième. (à eux)",
+      "options": [
+        "la leur",
+        "les leurs",
+        "le leur",
+        "le sien"
+      ],
+      "answer": 2,
+      "explanation": "Le leur, la leur, les leurs = theirs. Here: le leur.",
+      "textId": null
+    },
+    {
+      "id": "b1-celui_le_mien-064",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "celui_le_mien",
+      "question": "Nos enfants jouent avec ___. (ceux des voisins)",
+      "options": [
+        "le leur",
+        "la leur",
+        "les siens",
+        "les leurs"
+      ],
+      "answer": 3,
+      "explanation": "Le leur, la leur, les leurs = theirs. Here: les leurs.",
+      "textId": null
+    },
+    {
+      "id": "b1-celui_le_mien-065",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "celui_le_mien",
+      "question": "Je pense à mes examens, et toi, tu penses ___ ?",
+      "options": [
+        "aux tiens",
+        "à les tiens",
+        "au tien",
+        "des tiens"
+      ],
+      "answer": 0,
+      "explanation": "À and de contract with the article of the possessive pronoun: au mien, aux miens, du mien, des miens.",
+      "textId": null
+    },
+    {
+      "id": "b1-celui_le_mien-066",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "celui_le_mien",
+      "question": "J’ai parlé de mon projet, et il a parlé ___.",
+      "options": [
+        "de le sien",
+        "du sien",
+        "au sien",
+        "de sien"
+      ],
+      "answer": 1,
+      "explanation": "À and de contract with the article of the possessive pronoun: au mien, aux miens, du mien, des miens.",
+      "textId": null
+    },
+    {
+      "id": "b1-celui_le_mien-067",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "celui_le_mien",
+      "question": "Elle téléphone à ses parents, et moi ___.",
+      "options": [
+        "à les miens",
+        "au mien",
+        "aux miens",
+        "des miens"
+      ],
+      "answer": 2,
+      "explanation": "À and de contract with the article of the possessive pronoun: au mien, aux miens, du mien, des miens.",
+      "textId": null
+    },
+    {
+      "id": "b1-celui_le_mien-068",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "celui_le_mien",
+      "question": "Tu t’occupes de tes affaires, je m’occupe ___.",
+      "options": [
+        "de les miennes",
+        "aux miennes",
+        "de miennes",
+        "des miennes"
+      ],
+      "answer": 3,
+      "explanation": "À and de contract with the article of the possessive pronoun: au mien, aux miens, du mien, des miens.",
+      "textId": null
+    },
+    {
+      "id": "b1-celui_le_mien-069",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "celui_le_mien",
+      "question": "Mon chien joue avec ___. (ton chien)",
+      "options": [
+        "le tien",
+        "la tienne",
+        "les tiens",
+        "tien"
+      ],
+      "answer": 0,
+      "explanation": "Le tien, la tienne, les tiens, les tiennes = yours (tu). It agrees with the thing owned. Here: le tien.",
+      "textId": null
+    },
+    {
+      "id": "b1-celui_le_mien-070",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "celui_le_mien",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "Ce livre est mien le.",
+        "Ce livre est le mien.",
+        "Ce livre est mon.",
+        "Ce livre est à mien."
+      ],
+      "answer": 1,
+      "explanation": "Le mien, la mienne, les miens, les miennes = mine. It agrees with the thing owned. Here: Ce livre est le mien..",
+      "textId": null
+    },
+    {
+      "id": "b1-celui_le_mien-071",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "celui_le_mien",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "Ma sœur est plus âgée que ta.",
+        "Ma sœur est plus âgée que tienne.",
+        "Ma sœur est plus âgée que la tienne.",
+        "Ma sœur est plus âgée que le tien."
+      ],
+      "answer": 2,
+      "explanation": "Le tien, la tienne, les tiens, les tiennes = yours (tu). It agrees with the thing owned. Here: Ma sœur est plus âgée que la tienne..",
+      "textId": null
+    },
+    {
+      "id": "b1-celui_le_mien-072",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "celui_le_mien",
+      "question": "Ce stylo est à toi ? — Non, il est à ___. (Paul)",
+      "options": [
+        "le sien",
+        "son",
+        "sien",
+        "lui"
+      ],
+      "answer": 3,
+      "explanation": "After être à, use a stressed pronoun (moi, toi, lui, elle…), not a possessive pronoun: il est à lui.",
+      "textId": null
+    },
+    {
+      "id": "b1-celui_le_mien-073",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "celui_le_mien",
+      "question": "À qui est ce sac ? — Il est à ___. (je)",
+      "options": [
+        "moi",
+        "le mien",
+        "mon",
+        "mien"
+      ],
+      "answer": 0,
+      "explanation": "After être à, use a stressed pronoun: il est à moi.",
+      "textId": null
+    },
+    {
+      "id": "b1-celui_le_mien-074",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "celui_le_mien",
+      "question": "Chacun ___ goûts.",
+      "options": [
+        "les siens",
+        "ses",
+        "leurs",
+        "sa"
+      ],
+      "answer": 1,
+      "explanation": "Before a noun you need a possessive adjective (ses), not a pronoun (les siens).",
+      "textId": null
+    },
+    {
+      "id": "b1-celui_le_mien-075",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "celui_le_mien",
+      "question": "J’ai vu deux films : ___ de lundi était meilleur.",
+      "options": [
+        "celle",
+        "lequel",
+        "celui",
+        "cela"
+      ],
+      "answer": 2,
+      "explanation": "Celui (masc. sing.), celle (fem. sing.), ceux (masc. pl.), celles (fem. pl.) replace a noun to mean \"the one(s)\". They agree with the noun they replace. Here: celui.",
+      "textId": null
+    },
+    {
+      "id": "b1-celui_le_mien-076",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "celui_le_mien",
+      "question": "De toutes ces villes, ___ que je préfère est Lyon.",
+      "options": [
+        "celui",
+        "celles",
+        "cela",
+        "celle"
+      ],
+      "answer": 3,
+      "explanation": "Celui qui / celui que = the one who, the one that. The pronoun agrees with the noun it replaces. Here: celle.",
+      "textId": null
+    },
+    {
+      "id": "b1-celui_le_mien-077",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "celui_le_mien",
+      "question": "Tous ___ qui veulent venir sont les bienvenus.",
+      "options": [
+        "ceux",
+        "celui",
+        "celles",
+        "ça"
+      ],
+      "answer": 0,
+      "explanation": "Tous ceux qui = all those who, everyone who.",
+      "textId": null
+    },
+    {
+      "id": "b1-celui_le_mien-078",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "celui_le_mien",
+      "question": "___ qui finit le premier gagne.",
+      "options": [
+        "Ceux",
+        "Celui",
+        "Cela",
+        "Lequel"
+      ],
+      "answer": 1,
+      "explanation": "Celui qui = the one who, whoever.",
+      "textId": null
+    },
+    {
+      "id": "b1-celui_le_mien-079",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "celui_le_mien",
+      "question": "Mon téléphone est en panne. Je peux utiliser ___ ? (à vous)",
+      "options": [
+        "la vôtre",
+        "les vôtres",
+        "le vôtre",
+        "votre"
+      ],
+      "answer": 2,
+      "explanation": "Le nôtre, la nôtre, les nôtres = ours. Le vôtre, la vôtre, les vôtres = yours (vous). Here: le vôtre.",
+      "textId": null
+    },
+    {
+      "id": "b1-celui_le_mien-080",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "celui_le_mien",
+      "question": "Cette valise est plus lourde que ___ de ma sœur.",
+      "options": [
+        "celui",
+        "ceux",
+        "celles",
+        "celle"
+      ],
+      "answer": 3,
+      "explanation": "Celui de / celle de + noun = someone’s: la voiture de Paul → celle de Paul.",
+      "textId": null
+    }
+  ]
+}

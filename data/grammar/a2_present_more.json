@@ -1,0 +1,485 @@
+{
+  "texts": [],
+  "questions": [
+    {
+      "id": "a2-present-051",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "present",
+      "question": "Je ___ mes devoirs avant le dîner.",
+      "options": [
+        "finis",
+        "finit",
+        "finissons",
+        "finissent"
+      ],
+      "answer": 0,
+      "explanation": "Regular -ir verbs like finir, choisir, réussir: -is, -is, -it, -issons, -issez, -issent. Here: finis.",
+      "textId": null
+    },
+    {
+      "id": "a2-present-052",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "present",
+      "question": "Nous ___ le travail à dix-huit heures.",
+      "options": [
+        "finons",
+        "finissons",
+        "finissez",
+        "finissent"
+      ],
+      "answer": 1,
+      "explanation": "Regular -ir verbs like finir, choisir, réussir: -is, -is, -it, -issons, -issez, -issent. Here: finissons.",
+      "textId": null
+    },
+    {
+      "id": "a2-present-053",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "present",
+      "question": "Ils ___ toujours le même restaurant.",
+      "options": [
+        "choisent",
+        "choisit",
+        "choisissent",
+        "choisissons"
+      ],
+      "answer": 2,
+      "explanation": "Regular -ir verbs like finir, choisir, réussir: -is, -is, -it, -issons, -issez, -issent. Here: choisissent.",
+      "textId": null
+    },
+    {
+      "id": "a2-present-054",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "present",
+      "question": "Vous ___ quel dessert ?",
+      "options": [
+        "choisez",
+        "choisissons",
+        "choisissent",
+        "choisissez"
+      ],
+      "answer": 3,
+      "explanation": "Regular -ir verbs like finir, choisir, réussir: -is, -is, -it, -issons, -issez, -issent. Here: choisissez.",
+      "textId": null
+    },
+    {
+      "id": "a2-present-055",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "present",
+      "question": "Tu ___ toujours tes examens.",
+      "options": [
+        "réussis",
+        "réussit",
+        "réussissez",
+        "réussissent"
+      ],
+      "answer": 0,
+      "explanation": "Regular -ir verbs like finir, choisir, réussir: -is, -is, -it, -issons, -issez, -issent. Here: réussis.",
+      "textId": null
+    },
+    {
+      "id": "a2-present-056",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "present",
+      "question": "Les enfants ___ vite.",
+      "options": [
+        "grandent",
+        "grandissent",
+        "grandit",
+        "grandissons"
+      ],
+      "answer": 1,
+      "explanation": "Regular -ir verbs like finir, choisir, réussir: -is, -is, -it, -issons, -issez, -issent. Here: grandissent.",
+      "textId": null
+    },
+    {
+      "id": "a2-present-057",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "present",
+      "question": "Elle ___ avant de répondre.",
+      "options": [
+        "réfléchis",
+        "réfléchissent",
+        "réfléchit",
+        "réfléchissez"
+      ],
+      "answer": 2,
+      "explanation": "Regular -ir verbs like finir, choisir, réussir: -is, -is, -it, -issons, -issez, -issent. Here: réfléchit.",
+      "textId": null
+    },
+    {
+      "id": "a2-present-058",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "present",
+      "question": "Nous ___ les verres avant le repas.",
+      "options": [
+        "remplons",
+        "remplissez",
+        "remplissent",
+        "remplissons"
+      ],
+      "answer": 3,
+      "explanation": "Regular -ir verbs like finir, choisir, réussir: -is, -is, -it, -issons, -issez, -issent. Here: remplissons.",
+      "textId": null
+    },
+    {
+      "id": "a2-present-059",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "present",
+      "question": "J’___ le bus depuis vingt minutes.",
+      "options": [
+        "attends",
+        "attend",
+        "attendons",
+        "attendent"
+      ],
+      "answer": 0,
+      "explanation": "Regular -re verbs like attendre, vendre, répondre: -s, -s, – (no ending), -ons, -ez, -ent. Here: attends.",
+      "textId": null
+    },
+    {
+      "id": "a2-present-060",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "present",
+      "question": "Il ___ sa voiture.",
+      "options": [
+        "vends",
+        "vend",
+        "vendent",
+        "vendez"
+      ],
+      "answer": 1,
+      "explanation": "Regular -re verbs like attendre, vendre, répondre: -s, -s, – (no ending), -ons, -ez, -ent. Here: vend.",
+      "textId": null
+    },
+    {
+      "id": "a2-present-061",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "present",
+      "question": "Nous ___ à toutes les questions.",
+      "options": [
+        "répondez",
+        "répondent",
+        "répondons",
+        "répond"
+      ],
+      "answer": 2,
+      "explanation": "Regular -re verbs like attendre, vendre, répondre: -s, -s, – (no ending), -ons, -ez, -ent. Here: répondons.",
+      "textId": null
+    },
+    {
+      "id": "a2-present-062",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "present",
+      "question": "Vous ___ le bruit ?",
+      "options": [
+        "entendons",
+        "entends",
+        "entendent",
+        "entendez"
+      ],
+      "answer": 3,
+      "explanation": "Regular -re verbs like attendre, vendre, répondre: -s, -s, – (no ending), -ons, -ez, -ent. Here: entendez.",
+      "textId": null
+    },
+    {
+      "id": "a2-present-063",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "present",
+      "question": "Elles ___ à la prochaine station.",
+      "options": [
+        "descendent",
+        "descend",
+        "descendons",
+        "descendez"
+      ],
+      "answer": 0,
+      "explanation": "Regular -re verbs like attendre, vendre, répondre: -s, -s, – (no ending), -ons, -ez, -ent. Here: descendent.",
+      "textId": null
+    },
+    {
+      "id": "a2-present-064",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "present",
+      "question": "Tu ___ souvent tes clés ?",
+      "options": [
+        "perd",
+        "perds",
+        "perdez",
+        "perdent"
+      ],
+      "answer": 1,
+      "explanation": "Regular -re verbs like attendre, vendre, répondre: -s, -s, – (no ending), -ons, -ez, -ent. Here: perds.",
+      "textId": null
+    },
+    {
+      "id": "a2-present-065",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "present",
+      "question": "Je ___ demain matin.",
+      "options": [
+        "part",
+        "partons",
+        "pars",
+        "partent"
+      ],
+      "answer": 2,
+      "explanation": "Partir, sortir, dormir drop the last consonant of the stem in the singular: je pars, je sors, je dors; nous partons, nous sortons, nous dormons. Here: pars.",
+      "textId": null
+    },
+    {
+      "id": "a2-present-066",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "present",
+      "question": "Nous ___ ce soir avec des amis.",
+      "options": [
+        "sortez",
+        "sortent",
+        "sors",
+        "sortons"
+      ],
+      "answer": 3,
+      "explanation": "Partir, sortir, dormir drop the last consonant of the stem in the singular: je pars, je sors, je dors; nous partons, nous sortons, nous dormons. Here: sortons.",
+      "textId": null
+    },
+    {
+      "id": "a2-present-067",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "present",
+      "question": "Le bébé ___ dans sa chambre.",
+      "options": [
+        "dort",
+        "dors",
+        "dorment",
+        "dormez"
+      ],
+      "answer": 0,
+      "explanation": "Partir, sortir, dormir drop the last consonant of the stem in the singular: je pars, je sors, je dors; nous partons, nous sortons, nous dormons. Here: dort.",
+      "textId": null
+    },
+    {
+      "id": "a2-present-068",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "present",
+      "question": "Vous ___ à quelle heure ?",
+      "options": [
+        "partons",
+        "partez",
+        "partent",
+        "pars"
+      ],
+      "answer": 1,
+      "explanation": "Partir, sortir, dormir drop the last consonant of the stem in the singular: je pars, je sors, je dors; nous partons, nous sortons, nous dormons. Here: partez.",
+      "textId": null
+    },
+    {
+      "id": "a2-present-069",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "present",
+      "question": "Ils ___ jusqu’à midi le dimanche.",
+      "options": [
+        "dort",
+        "dormons",
+        "dorment",
+        "dormez"
+      ],
+      "answer": 2,
+      "explanation": "Partir, sortir, dormir drop the last consonant of the stem in the singular: je pars, je sors, je dors; nous partons, nous sortons, nous dormons. Here: dorment.",
+      "textId": null
+    },
+    {
+      "id": "a2-present-070",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "present",
+      "question": "Qu’est-ce que vous ___ ?",
+      "options": [
+        "disez",
+        "disons",
+        "disent",
+        "dites"
+      ],
+      "answer": 3,
+      "explanation": "Dire is irregular with vous: vous dites (never \"disez\").",
+      "textId": null
+    },
+    {
+      "id": "a2-present-071",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "present",
+      "question": "Je ___ un roman en ce moment.",
+      "options": [
+        "lis",
+        "lit",
+        "lisons",
+        "lisent"
+      ],
+      "answer": 0,
+      "explanation": "This verb is irregular in the present. The correct form here is lis.",
+      "textId": null
+    },
+    {
+      "id": "a2-present-072",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "present",
+      "question": "Nous ___ un courriel au directeur.",
+      "options": [
+        "écrivez",
+        "écrivons",
+        "écrivent",
+        "écrit"
+      ],
+      "answer": 1,
+      "explanation": "This verb is irregular in the present. The correct form here is écrivons.",
+      "textId": null
+    },
+    {
+      "id": "a2-present-073",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "present",
+      "question": "Tu ___ ce que je veux dire ?",
+      "options": [
+        "voit",
+        "voyez",
+        "vois",
+        "voient"
+      ],
+      "answer": 2,
+      "explanation": "This verb is irregular in the present. The correct form here is vois.",
+      "textId": null
+    },
+    {
+      "id": "a2-present-074",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "present",
+      "question": "Ils ___ du café le matin.",
+      "options": [
+        "boit",
+        "buvons",
+        "buvez",
+        "boivent"
+      ],
+      "answer": 3,
+      "explanation": "This verb is irregular in the present. The correct form here is boivent.",
+      "textId": null
+    },
+    {
+      "id": "a2-present-075",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "present",
+      "question": "Nous ___ de l’eau à table.",
+      "options": [
+        "buvons",
+        "boivons",
+        "buvez",
+        "boivent"
+      ],
+      "answer": 0,
+      "explanation": "Boire changes its stem with nous and vous: nous buvons, vous buvez.",
+      "textId": null
+    },
+    {
+      "id": "a2-present-076",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "present",
+      "question": "Je ___ la table.",
+      "options": [
+        "met",
+        "mets",
+        "mettons",
+        "mettent"
+      ],
+      "answer": 1,
+      "explanation": "This verb is irregular in the present. The correct form here is mets.",
+      "textId": null
+    },
+    {
+      "id": "a2-present-077",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "present",
+      "question": "Vous ___ bien ce quartier ?",
+      "options": [
+        "connaissons",
+        "connaît",
+        "connaissez",
+        "connaissent"
+      ],
+      "answer": 2,
+      "explanation": "This verb is irregular in the present. The correct form here is connaissez.",
+      "textId": null
+    },
+    {
+      "id": "a2-present-078",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "present",
+      "question": "Elle ___ la fenêtre.",
+      "options": [
+        "ouvres",
+        "ouvrent",
+        "ouvrez",
+        "ouvre"
+      ],
+      "answer": 3,
+      "explanation": "Ouvrir is conjugated like an -er verb in the present: j’ouvre, tu ouvres, elle ouvre.",
+      "textId": null
+    },
+    {
+      "id": "a2-present-079",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "present",
+      "question": "Ils ___ la vérité.",
+      "options": [
+        "disent",
+        "dit",
+        "disons",
+        "dites"
+      ],
+      "answer": 0,
+      "explanation": "This verb is irregular in the present. The correct form here is disent.",
+      "textId": null
+    },
+    {
+      "id": "a2-present-080",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "present",
+      "question": "Je ne ___ personne ici.",
+      "options": [
+        "connaît",
+        "connais",
+        "connaissons",
+        "connaissent"
+      ],
+      "answer": 1,
+      "explanation": "This verb is irregular in the present. The correct form here is connais.",
+      "textId": null
+    }
+  ]
+}

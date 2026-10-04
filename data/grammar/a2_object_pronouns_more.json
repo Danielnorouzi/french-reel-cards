@@ -1,0 +1,485 @@
+{
+  "texts": [],
+  "questions": [
+    {
+      "id": "a2-object_pronouns-051",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "object_pronouns",
+      "question": "Tu connais Paul ? — Oui, je ___ connais bien.",
+      "options": [
+        "le",
+        "lui",
+        "la",
+        "les"
+      ],
+      "answer": 0,
+      "explanation": "Le, la, l’, les replace a direct object (no preposition). The pronoun goes before the conjugated verb: le.",
+      "textId": null
+    },
+    {
+      "id": "a2-object_pronouns-052",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "object_pronouns",
+      "question": "Tu regardes la télé ? — Oui, je ___ regarde tous les soirs.",
+      "options": [
+        "le",
+        "la",
+        "lui",
+        "les"
+      ],
+      "answer": 1,
+      "explanation": "Le, la, l’, les replace a direct object (no preposition). The pronoun goes before the conjugated verb: la.",
+      "textId": null
+    },
+    {
+      "id": "a2-object_pronouns-053",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "object_pronouns",
+      "question": "Vous aimez les chats ? — Oui, nous ___ adorons.",
+      "options": [
+        "leur",
+        "le",
+        "les",
+        "la"
+      ],
+      "answer": 2,
+      "explanation": "Le, la, l’, les replace a direct object (no preposition). The pronoun goes before the conjugated verb: les.",
+      "textId": null
+    },
+    {
+      "id": "a2-object_pronouns-054",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "object_pronouns",
+      "question": "Tu attends le bus ? — Oui, je ___ attends.",
+      "options": [
+        "le",
+        "lui",
+        "les",
+        "l’"
+      ],
+      "answer": 3,
+      "explanation": "Le, la, l’, les replace a direct object (no preposition). The pronoun goes before the conjugated verb: l’.",
+      "textId": null
+    },
+    {
+      "id": "a2-object_pronouns-055",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "object_pronouns",
+      "question": "Tu fais tes devoirs ? — Oui, je ___ fais maintenant.",
+      "options": [
+        "les",
+        "leur",
+        "le",
+        "la"
+      ],
+      "answer": 0,
+      "explanation": "Le, la, l’, les replace a direct object (no preposition). The pronoun goes before the conjugated verb: les.",
+      "textId": null
+    },
+    {
+      "id": "a2-object_pronouns-056",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "object_pronouns",
+      "question": "Elle achète cette robe ? — Oui, elle ___ achète.",
+      "options": [
+        "la",
+        "l’",
+        "lui",
+        "les"
+      ],
+      "answer": 1,
+      "explanation": "Le, la, l’, les replace a direct object (no preposition). The pronoun goes before the conjugated verb: l’.",
+      "textId": null
+    },
+    {
+      "id": "a2-object_pronouns-057",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "object_pronouns",
+      "question": "Tu écris à ta mère ? — Oui, je ___ écris souvent.",
+      "options": [
+        "la",
+        "le",
+        "lui",
+        "leur"
+      ],
+      "answer": 2,
+      "explanation": "Lui (one person) and leur (several people) replace à + person. The pronoun goes before the conjugated verb: lui.",
+      "textId": null
+    },
+    {
+      "id": "a2-object_pronouns-058",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "object_pronouns",
+      "question": "Tu parles à tes voisins ? — Oui, je ___ parle parfois.",
+      "options": [
+        "les",
+        "lui",
+        "la",
+        "leur"
+      ],
+      "answer": 3,
+      "explanation": "Lui (one person) and leur (several people) replace à + person. The pronoun goes before the conjugated verb: leur.",
+      "textId": null
+    },
+    {
+      "id": "a2-object_pronouns-059",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "object_pronouns",
+      "question": "Il téléphone à Julie ? — Oui, il ___ téléphone ce soir.",
+      "options": [
+        "lui",
+        "la",
+        "le",
+        "leur"
+      ],
+      "answer": 0,
+      "explanation": "Lui (one person) and leur (several people) replace à + person. The pronoun goes before the conjugated verb: lui.",
+      "textId": null
+    },
+    {
+      "id": "a2-object_pronouns-060",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "object_pronouns",
+      "question": "Vous répondez aux clients ? — Oui, nous ___ répondons vite.",
+      "options": [
+        "les",
+        "leur",
+        "lui",
+        "le"
+      ],
+      "answer": 1,
+      "explanation": "Lui (one person) and leur (several people) replace à + person. The pronoun goes before the conjugated verb: leur.",
+      "textId": null
+    },
+    {
+      "id": "a2-object_pronouns-061",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "object_pronouns",
+      "question": "Tu donnes un cadeau à ton frère ? — Oui, je ___ donne un livre.",
+      "options": [
+        "le",
+        "la",
+        "lui",
+        "leur"
+      ],
+      "answer": 2,
+      "explanation": "Lui (one person) and leur (several people) replace à + person. The pronoun goes before the conjugated verb: lui.",
+      "textId": null
+    },
+    {
+      "id": "a2-object_pronouns-062",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "object_pronouns",
+      "question": "Elle dit bonjour aux enfants ? — Oui, elle ___ dit bonjour.",
+      "options": [
+        "les",
+        "lui",
+        "la",
+        "leur"
+      ],
+      "answer": 3,
+      "explanation": "Lui (one person) and leur (several people) replace à + person. The pronoun goes before the conjugated verb: leur.",
+      "textId": null
+    },
+    {
+      "id": "a2-object_pronouns-063",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "object_pronouns",
+      "question": "Tu ___ entends ? Je parle assez fort ?",
+      "options": [
+        "m’",
+        "me",
+        "moi",
+        "je"
+      ],
+      "answer": 0,
+      "explanation": "Me, te, nous, vous are used for both direct and indirect objects, and go before the verb. Me and te become m’ and t’ before a vowel. Here: m’.",
+      "textId": null
+    },
+    {
+      "id": "a2-object_pronouns-064",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "object_pronouns",
+      "question": "Je ___ appelle ce soir, d’accord ?",
+      "options": [
+        "te",
+        "t’",
+        "toi",
+        "tu"
+      ],
+      "answer": 1,
+      "explanation": "Me, te, nous, vous are used for both direct and indirect objects, and go before the verb. Me and te become m’ and t’ before a vowel. Here: t’.",
+      "textId": null
+    },
+    {
+      "id": "a2-object_pronouns-065",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "object_pronouns",
+      "question": "Le professeur ___ donne beaucoup de devoirs. (à nous)",
+      "options": [
+        "leur",
+        "se",
+        "nous",
+        "notre"
+      ],
+      "answer": 2,
+      "explanation": "Me, te, nous, vous are used for both direct and indirect objects, and go before the verb. Me and te become m’ and t’ before a vowel. Here: nous.",
+      "textId": null
+    },
+    {
+      "id": "a2-object_pronouns-066",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "object_pronouns",
+      "question": "Je ___ remercie, madame.",
+      "options": [
+        "votre",
+        "vos",
+        "lui",
+        "vous"
+      ],
+      "answer": 3,
+      "explanation": "Me, te, nous, vous are used for both direct and indirect objects, and go before the verb. Me and te become m’ and t’ before a vowel. Here: vous.",
+      "textId": null
+    },
+    {
+      "id": "a2-object_pronouns-067",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "object_pronouns",
+      "question": "Il ___ regarde bizarrement. (moi)",
+      "options": [
+        "me",
+        "moi",
+        "m’",
+        "se"
+      ],
+      "answer": 0,
+      "explanation": "Me, te, nous, vous are used for both direct and indirect objects, and go before the verb. Me and te become m’ and t’ before a vowel. Here: me.",
+      "textId": null
+    },
+    {
+      "id": "a2-object_pronouns-068",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "object_pronouns",
+      "question": "Tu ___ aides, s’il te plaît ? J’ai besoin de toi.",
+      "options": [
+        "me",
+        "m’",
+        "moi",
+        "t’"
+      ],
+      "answer": 1,
+      "explanation": "Me, te, nous, vous are used for both direct and indirect objects, and go before the verb. Me and te become m’ and t’ before a vowel. Here: m’.",
+      "textId": null
+    },
+    {
+      "id": "a2-object_pronouns-069",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "object_pronouns",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "Je le ne vois pas.",
+        "Je ne vois le pas.",
+        "Je ne le vois pas.",
+        "Je ne vois pas le."
+      ],
+      "answer": 2,
+      "explanation": "In the negative, ne goes before the object pronoun and pas after the verb: je ne le vois pas.",
+      "textId": null
+    },
+    {
+      "id": "a2-object_pronouns-070",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "object_pronouns",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "Elle lui ne parle plus.",
+        "Elle ne parle lui plus.",
+        "Elle ne parle plus lui.",
+        "Elle ne lui parle plus."
+      ],
+      "answer": 3,
+      "explanation": "In the negative, ne goes before the object pronoun and pas after the verb: je ne le vois pas.",
+      "textId": null
+    },
+    {
+      "id": "a2-object_pronouns-071",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "object_pronouns",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "Nous ne les connaissons pas.",
+        "Nous les ne connaissons pas.",
+        "Nous ne connaissons les pas.",
+        "Nous ne connaissons pas les."
+      ],
+      "answer": 0,
+      "explanation": "In the negative, ne goes before the object pronoun and pas after the verb: je ne le vois pas.",
+      "textId": null
+    },
+    {
+      "id": "a2-object_pronouns-072",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "object_pronouns",
+      "question": "Ce film ? Je ___ ai vu hier.",
+      "options": [
+        "le",
+        "l’",
+        "lui",
+        "les"
+      ],
+      "answer": 1,
+      "explanation": "In the passé composé, the object pronoun goes before the auxiliary: je l’ai vu.",
+      "textId": null
+    },
+    {
+      "id": "a2-object_pronouns-073",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "object_pronouns",
+      "question": "Tes clés ? Je ___ ai trouvées.",
+      "options": [
+        "leur",
+        "l’",
+        "les",
+        "la"
+      ],
+      "answer": 2,
+      "explanation": "In the passé composé, the object pronoun goes before the auxiliary: je l’ai vu.",
+      "textId": null
+    },
+    {
+      "id": "a2-object_pronouns-074",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "object_pronouns",
+      "question": "Marie ? Je ___ ai téléphoné ce matin.",
+      "options": [
+        "l’",
+        "la",
+        "leur",
+        "lui"
+      ],
+      "answer": 3,
+      "explanation": "In the passé composé, the object pronoun goes before the auxiliary: je l’ai vu.",
+      "textId": null
+    },
+    {
+      "id": "a2-object_pronouns-075",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "object_pronouns",
+      "question": "Mes parents ? Je ___ ai écrit hier.",
+      "options": [
+        "leur",
+        "les",
+        "lui",
+        "l’"
+      ],
+      "answer": 0,
+      "explanation": "In the passé composé, the object pronoun goes before the auxiliary: je l’ai vu.",
+      "textId": null
+    },
+    {
+      "id": "a2-object_pronouns-076",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "object_pronouns",
+      "question": "C’est une belle photo. Regarde-___ !",
+      "options": [
+        "le",
+        "la",
+        "lui",
+        "leur"
+      ],
+      "answer": 1,
+      "explanation": "In a positive command, the pronoun goes after the verb with a hyphen, and me becomes moi: regarde-le, écoute-moi.",
+      "textId": null
+    },
+    {
+      "id": "a2-object_pronouns-077",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "object_pronouns",
+      "question": "Ton frère a besoin d’aide. Aide-___ !",
+      "options": [
+        "lui",
+        "la",
+        "le",
+        "leur"
+      ],
+      "answer": 2,
+      "explanation": "In a positive command, the pronoun goes after the verb with a hyphen, and me becomes moi: regarde-le, écoute-moi.",
+      "textId": null
+    },
+    {
+      "id": "a2-object_pronouns-078",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "object_pronouns",
+      "question": "Écoute-___, c’est important ! (à moi)",
+      "options": [
+        "me",
+        "m’",
+        "je",
+        "moi"
+      ],
+      "answer": 3,
+      "explanation": "In a positive command, the pronoun goes after the verb with a hyphen, and me becomes moi: regarde-le, écoute-moi.",
+      "textId": null
+    },
+    {
+      "id": "a2-object_pronouns-079",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "object_pronouns",
+      "question": "Tes grands-parents attendent. Téléphone-___ !",
+      "options": [
+        "leur",
+        "les",
+        "lui",
+        "la"
+      ],
+      "answer": 0,
+      "explanation": "In a positive command, the pronoun goes after the verb with a hyphen, and me becomes moi: regarde-le, écoute-moi.",
+      "textId": null
+    },
+    {
+      "id": "a2-object_pronouns-080",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "object_pronouns",
+      "question": "Ces chaussures sont jolies. Achète-___ !",
+      "options": [
+        "leur",
+        "les",
+        "le",
+        "la"
+      ],
+      "answer": 1,
+      "explanation": "In a positive command, the pronoun goes after the verb with a hyphen, and me becomes moi: regarde-le, écoute-moi.",
+      "textId": null
+    }
+  ]
+}

@@ -1,0 +1,1285 @@
+{
+  "texts": [],
+  "questions": [
+    {
+      "id": "b2-subjonctif_passe-001",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_passe",
+      "question": "Je suis content que tu ___ ton examen.",
+      "options": [
+        "aies réussi",
+        "as réussi",
+        "avais réussi",
+        "auras réussi"
+      ],
+      "answer": 0,
+      "explanation": "The subjonctif passé is the present subjunctive of avoir (aie, aies, ait, ayons, ayez, aient) + past participle. Here: aies réussi.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_passe-002",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_passe",
+      "question": "Je regrette qu’il ___ ça.",
+      "options": [
+        "a dit",
+        "ait dit",
+        "avait dit",
+        "aura dit"
+      ],
+      "answer": 1,
+      "explanation": "The subjonctif passé is the present subjunctive of avoir (aie, aies, ait, ayons, ayez, aient) + past participle. Here: ait dit.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_passe-003",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_passe",
+      "question": "C’est dommage que vous ___ le début du film.",
+      "options": [
+        "avez raté",
+        "aviez raté",
+        "ayez raté",
+        "aurez raté"
+      ],
+      "answer": 2,
+      "explanation": "The subjonctif passé is the present subjunctive of avoir (aie, aies, ait, ayons, ayez, aient) + past participle. Here: ayez raté.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_passe-004",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_passe",
+      "question": "Je doute qu’ils ___ la vérité.",
+      "options": [
+        "ont dit",
+        "avaient dit",
+        "auront dit",
+        "aient dit"
+      ],
+      "answer": 3,
+      "explanation": "The subjonctif passé is the present subjunctive of avoir (aie, aies, ait, ayons, ayez, aient) + past participle. Here: aient dit.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_passe-005",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_passe",
+      "question": "Elle est heureuse que nous ___ à son anniversaire.",
+      "options": [
+        "ayons pensé",
+        "avons pensé",
+        "avions pensé",
+        "aurons pensé"
+      ],
+      "answer": 0,
+      "explanation": "The subjonctif passé is the present subjunctive of avoir (aie, aies, ait, ayons, ayez, aient) + past participle. Here: ayons pensé.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_passe-006",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_passe",
+      "question": "Je ne crois pas qu’elle ___ ce message.",
+      "options": [
+        "a reçu",
+        "ait reçu",
+        "avait reçu",
+        "aura reçu"
+      ],
+      "answer": 1,
+      "explanation": "The subjonctif passé is the present subjunctive of avoir (aie, aies, ait, ayons, ayez, aient) + past participle. Here: ait reçu.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_passe-007",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_passe",
+      "question": "Je suis surpris que tu ___ ce livre.",
+      "options": [
+        "as aimé",
+        "avais aimé",
+        "aies aimé",
+        "auras aimé"
+      ],
+      "answer": 2,
+      "explanation": "The subjonctif passé is the present subjunctive of avoir (aie, aies, ait, ayons, ayez, aient) + past participle. Here: aies aimé.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_passe-008",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_passe",
+      "question": "Il est possible qu’il ___ son train.",
+      "options": [
+        "a manqué",
+        "avait manqué",
+        "aura manqué",
+        "ait manqué"
+      ],
+      "answer": 3,
+      "explanation": "The subjonctif passé is the present subjunctive of avoir (aie, aies, ait, ayons, ayez, aient) + past participle. Here: ait manqué.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_passe-009",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_passe",
+      "question": "Je suis désolé que tu ___ si longtemps.",
+      "options": [
+        "aies attendu",
+        "as attendu",
+        "avais attendu",
+        "auras attendu"
+      ],
+      "answer": 0,
+      "explanation": "The subjonctif passé is the present subjunctive of avoir (aie, aies, ait, ayons, ayez, aient) + past participle. Here: aies attendu.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_passe-010",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_passe",
+      "question": "Ça m’étonne qu’ils ___ ce prix.",
+      "options": [
+        "ont accepté",
+        "aient accepté",
+        "avaient accepté",
+        "auront accepté"
+      ],
+      "answer": 1,
+      "explanation": "The subjonctif passé is the present subjunctive of avoir (aie, aies, ait, ayons, ayez, aient) + past participle. Here: aient accepté.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_passe-011",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_passe",
+      "question": "Nous sommes ravis que vous ___ venir.",
+      "options": [
+        "avez pu",
+        "aviez pu",
+        "ayez pu",
+        "aurez pu"
+      ],
+      "answer": 2,
+      "explanation": "The subjonctif passé is the present subjunctive of avoir (aie, aies, ait, ayons, ayez, aient) + past participle. Here: ayez pu.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_passe-012",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_passe",
+      "question": "Je ne pense pas qu’il ___ la question.",
+      "options": [
+        "a compris",
+        "avait compris",
+        "aura compris",
+        "ait compris"
+      ],
+      "answer": 3,
+      "explanation": "The subjonctif passé is the present subjunctive of avoir (aie, aies, ait, ayons, ayez, aient) + past participle. Here: ait compris.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_passe-013",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_passe",
+      "question": "Il se peut que j’___ mes clés au bureau.",
+      "options": [
+        "aie oublié",
+        "ai oublié",
+        "avais oublié",
+        "aurai oublié"
+      ],
+      "answer": 0,
+      "explanation": "The subjonctif passé is the present subjunctive of avoir (aie, aies, ait, ayons, ayez, aient) + past participle. Here: aie oublié.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_passe-014",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_passe",
+      "question": "Je suis fier que nous ___ ce match.",
+      "options": [
+        "avons gagné",
+        "ayons gagné",
+        "avions gagné",
+        "aurons gagné"
+      ],
+      "answer": 1,
+      "explanation": "The subjonctif passé is the present subjunctive of avoir (aie, aies, ait, ayons, ayez, aient) + past participle. Here: ayons gagné.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_passe-015",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_passe",
+      "question": "Elle regrette que tu n’___ rien ___.",
+      "options": [
+        "as / dit",
+        "avais / dit",
+        "aies / dit",
+        "es / dit"
+      ],
+      "answer": 2,
+      "explanation": "The subjonctif passé is the present subjunctive of avoir (aie, aies, ait, ayons, ayez, aient) + past participle. Here: aies / dit.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_passe-016",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_passe",
+      "question": "Je suis content que tu ___ hier. (à Paul)",
+      "options": [
+        "es venu",
+        "étais venu",
+        "aies venu",
+        "sois venu"
+      ],
+      "answer": 3,
+      "explanation": "Verbs that take être use the present subjunctive of être (sois, sois, soit, soyons, soyez, soient) + past participle, which agrees with the subject. Here: sois venu.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_passe-017",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_passe",
+      "question": "Je regrette qu’elle ___ si tôt.",
+      "options": [
+        "soit partie",
+        "est partie",
+        "était partie",
+        "ait parti"
+      ],
+      "answer": 0,
+      "explanation": "Verbs that take être use the present subjunctive of être (sois, sois, soit, soyons, soyez, soient) + past participle, which agrees with the subject. Here: soit partie.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_passe-018",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_passe",
+      "question": "C’est dommage qu’ils ne ___ pas ___.",
+      "options": [
+        "sont / restés",
+        "soient / restés",
+        "étaient / restés",
+        "aient / resté"
+      ],
+      "answer": 1,
+      "explanation": "Verbs that take être use the present subjunctive of être (sois, sois, soit, soyons, soyez, soient) + past participle, which agrees with the subject. Here: soient / restés.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_passe-019",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_passe",
+      "question": "Je doute qu’elles ___ à l’heure.",
+      "options": [
+        "sont arrivées",
+        "étaient arrivées",
+        "soient arrivées",
+        "aient arrivé"
+      ],
+      "answer": 2,
+      "explanation": "Verbs that take être use the present subjunctive of être (sois, sois, soit, soyons, soyez, soient) + past participle, which agrees with the subject. Here: soient arrivées.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_passe-020",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_passe",
+      "question": "Je suis heureux que vous ___ chez nous, mes amis.",
+      "options": [
+        "êtes passés",
+        "étiez passés",
+        "ayez passé",
+        "soyez passés"
+      ],
+      "answer": 3,
+      "explanation": "Verbs that take être use the present subjunctive of être (sois, sois, soit, soyons, soyez, soient) + past participle, which agrees with the subject. Here: soyez passés.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_passe-021",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_passe",
+      "question": "Il est possible que nous ___ trop tard. (masculin)",
+      "options": [
+        "soyons arrivés",
+        "sommes arrivés",
+        "étions arrivés",
+        "ayons arrivé"
+      ],
+      "answer": 0,
+      "explanation": "Verbs that take être use the present subjunctive of être (sois, sois, soit, soyons, soyez, soient) + past participle, which agrees with the subject. Here: soyons arrivés.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_passe-022",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_passe",
+      "question": "Ça m’étonne qu’elle ne ___ pas ___ te voir.",
+      "options": [
+        "est / venue",
+        "soit / venue",
+        "était / venue",
+        "ait / venu"
+      ],
+      "answer": 1,
+      "explanation": "Verbs that take être use the present subjunctive of être (sois, sois, soit, soyons, soyez, soient) + past participle, which agrees with the subject. Here: soit / venue.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_passe-023",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_passe",
+      "question": "Je ne crois pas qu’il ___ hier soir.",
+      "options": [
+        "est sorti",
+        "était sorti",
+        "soit sorti",
+        "ait sorti"
+      ],
+      "answer": 2,
+      "explanation": "Verbs that take être use the present subjunctive of être (sois, sois, soit, soyons, soyez, soient) + past participle, which agrees with the subject. Here: soit sorti.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_passe-024",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_passe",
+      "question": "J’ai peur qu’elle ___ dans l’escalier.",
+      "options": [
+        "est tombée",
+        "était tombée",
+        "ait tombé",
+        "soit tombée"
+      ],
+      "answer": 3,
+      "explanation": "Verbs that take être use the present subjunctive of être (sois, sois, soit, soyons, soyez, soient) + past participle, which agrees with the subject. Here: soit tombée.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_passe-025",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_passe",
+      "question": "Je suis triste que mon chat ___.",
+      "options": [
+        "soit mort",
+        "est mort",
+        "était mort",
+        "ait mort"
+      ],
+      "answer": 0,
+      "explanation": "Verbs that take être use the present subjunctive of être (sois, sois, soit, soyons, soyez, soient) + past participle, which agrees with the subject. Here: soit mort.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_passe-026",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_passe",
+      "question": "Je suis surpris qu’il ___ si tôt.",
+      "options": [
+        "s’est levé",
+        "se soit levé",
+        "s’était levé",
+        "s’ait levé"
+      ],
+      "answer": 1,
+      "explanation": "Reflexive verbs take être in the subjonctif passé. Here: se soit levé.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_passe-027",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_passe",
+      "question": "C’est dommage qu’ils ___.",
+      "options": [
+        "se sont disputés",
+        "s’étaient disputés",
+        "se soient disputés",
+        "s’aient disputé"
+      ],
+      "answer": 2,
+      "explanation": "Reflexive verbs take être in the subjonctif passé. Here: se soient disputés.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_passe-028",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_passe",
+      "question": "Je doute qu’elle ___ de moi.",
+      "options": [
+        "s’est souvenue",
+        "s’était souvenue",
+        "s’ait souvenu",
+        "se soit souvenue"
+      ],
+      "answer": 3,
+      "explanation": "Reflexive verbs take être in the subjonctif passé. Here: se soit souvenue.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_passe-029",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_passe",
+      "question": "Je suis content que vous ___ à la fête, les enfants.",
+      "options": [
+        "vous soyez amusés",
+        "vous êtes amusés",
+        "vous étiez amusés",
+        "vous ayez amusé"
+      ],
+      "answer": 0,
+      "explanation": "Reflexive verbs take être in the subjonctif passé. Here: vous soyez amusés.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_passe-030",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_passe",
+      "question": "J’ai peur que nous ___ de route. (masculin)",
+      "options": [
+        "nous sommes trompés",
+        "nous soyons trompés",
+        "nous étions trompés",
+        "nous ayons trompé"
+      ],
+      "answer": 1,
+      "explanation": "Reflexive verbs take être in the subjonctif passé. Here: nous soyons trompés.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_passe-031",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_passe",
+      "question": "Il est possible qu’elle ___.",
+      "options": [
+        "s’est perdue",
+        "s’était perdue",
+        "se soit perdue",
+        "s’ait perdu"
+      ],
+      "answer": 2,
+      "explanation": "Reflexive verbs take être in the subjonctif passé. Here: se soit perdue.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_passe-032",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_passe",
+      "question": "Hier, il a neigé. Je suis content qu’il ___ hier.",
+      "options": [
+        "neige",
+        "neigera",
+        "neigeait",
+        "ait neigé"
+      ],
+      "answer": 3,
+      "explanation": "Use the subjonctif passé when the action of the subordinate clause is finished before the main verb. Use the present subjunctive when it happens at the same time or later.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_passe-033",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_passe",
+      "question": "Demain, il neigera peut-être. Je voudrais qu’il ___ demain.",
+      "options": [
+        "neige",
+        "ait neigé",
+        "a neigé",
+        "neigeait"
+      ],
+      "answer": 0,
+      "explanation": "Use the subjonctif passé when the action of the subordinate clause is finished before the main verb. Use the present subjunctive when it happens at the same time or later.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_passe-034",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_passe",
+      "question": "Il a déjà fini. Je suis surpris qu’il ___ si vite.",
+      "options": [
+        "finisse",
+        "ait fini",
+        "finit",
+        "finira"
+      ],
+      "answer": 1,
+      "explanation": "Use the subjonctif passé when the action of the subordinate clause is finished before the main verb. Use the present subjunctive when it happens at the same time or later.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_passe-035",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_passe",
+      "question": "Il doit travailler demain. Il faut qu’il ___ tôt demain matin.",
+      "options": [
+        "se soit levé",
+        "s’est levé",
+        "se lève",
+        "se levait"
+      ],
+      "answer": 2,
+      "explanation": "Use the subjonctif passé when the action of the subordinate clause is finished before the main verb. Use the present subjunctive when it happens at the same time or later.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_passe-036",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_passe",
+      "question": "Elle est partie hier. Je regrette qu’elle ___.",
+      "options": [
+        "parte",
+        "part",
+        "partira",
+        "soit partie"
+      ],
+      "answer": 3,
+      "explanation": "Use the subjonctif passé when the action of the subordinate clause is finished before the main verb. Use the present subjunctive when it happens at the same time or later.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_passe-037",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_passe",
+      "question": "Elle part demain. Je regrette qu’elle ___.",
+      "options": [
+        "parte",
+        "soit partie",
+        "est partie",
+        "partait"
+      ],
+      "answer": 0,
+      "explanation": "Use the subjonctif passé when the action of the subordinate clause is finished before the main verb. Use the present subjunctive when it happens at the same time or later.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_passe-038",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_passe",
+      "question": "Tu as menti la semaine dernière. Je n’aime pas que tu ___.",
+      "options": [
+        "mentes",
+        "aies menti",
+        "mens",
+        "mentiras"
+      ],
+      "answer": 1,
+      "explanation": "Use the subjonctif passé when the action of the subordinate clause is finished before the main verb. Use the present subjunctive when it happens at the same time or later.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_passe-039",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_passe",
+      "question": "Tu vas venir ? Je suis ravi que tu ___ ce week-end.",
+      "options": [
+        "sois venu",
+        "es venu",
+        "viennes",
+        "venais"
+      ],
+      "answer": 2,
+      "explanation": "Use the subjonctif passé when the action of the subordinate clause is finished before the main verb. Use the present subjunctive when it happens at the same time or later.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_passe-040",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_passe",
+      "question": "Ils ont gagné hier. Je suis fier qu’ils ___.",
+      "options": [
+        "gagnent",
+        "gagneront",
+        "gagnaient",
+        "aient gagné"
+      ],
+      "answer": 3,
+      "explanation": "Use the subjonctif passé when the action of the subordinate clause is finished before the main verb. Use the present subjunctive when it happens at the same time or later.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_passe-041",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_passe",
+      "question": "Tu n’as pas appelé hier. Je regrette que tu n’___ pas ___.",
+      "options": [
+        "aies / appelé",
+        "es / appelé",
+        "as / appelé",
+        "avais / appelé"
+      ],
+      "answer": 0,
+      "explanation": "Use the subjonctif passé when the action of the subordinate clause is finished before the main verb. Use the present subjunctive when it happens at the same time or later.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_passe-042",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_passe",
+      "question": "Bien qu’il ___ toute la nuit, il est en forme ce matin.",
+      "options": [
+        "a travaillé",
+        "ait travaillé",
+        "avait travaillé",
+        "aura travaillé"
+      ],
+      "answer": 1,
+      "explanation": "After bien que, avant que, sans que, jusqu’à ce que, a completed action takes the subjonctif passé. Here: ait travaillé.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_passe-043",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_passe",
+      "question": "Bien qu’elle ___ en France, elle ne parle pas français.",
+      "options": [
+        "est née",
+        "était née",
+        "soit née",
+        "ait né"
+      ],
+      "answer": 2,
+      "explanation": "After bien que, avant que, sans que, jusqu’à ce que, a completed action takes the subjonctif passé. Here: soit née.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_passe-044",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_passe",
+      "question": "Il est parti sans que nous l’___.",
+      "options": [
+        "avons vu",
+        "avions vu",
+        "aurons vu",
+        "ayons vu"
+      ],
+      "answer": 3,
+      "explanation": "After bien que, avant que, sans que, jusqu’à ce que, a completed action takes the subjonctif passé. Here: ayons vu.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_passe-045",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_passe",
+      "question": "Je ne partirai pas avant que tu ___ ton travail.",
+      "options": [
+        "aies fini",
+        "as fini",
+        "avais fini",
+        "auras fini"
+      ],
+      "answer": 0,
+      "explanation": "After bien que, avant que, sans que, jusqu’à ce que, a completed action takes the subjonctif passé. Here: aies fini.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_passe-046",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_passe",
+      "question": "Attends jusqu’à ce qu’il ___.",
+      "options": [
+        "a terminé",
+        "ait terminé",
+        "avait terminé",
+        "aura terminé"
+      ],
+      "answer": 1,
+      "explanation": "After bien que, avant que, sans que, jusqu’à ce que, a completed action takes the subjonctif passé. Here: ait terminé.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_passe-047",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_passe",
+      "question": "Bien que nous ___ tôt, nous avons raté l’avion. (masculin)",
+      "options": [
+        "sommes partis",
+        "étions partis",
+        "soyons partis",
+        "ayons parti"
+      ],
+      "answer": 2,
+      "explanation": "After bien que, avant que, sans que, jusqu’à ce que, a completed action takes the subjonctif passé. Here: soyons partis.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_passe-048",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_passe",
+      "question": "Quoiqu’il ___ beaucoup d’efforts, il n’a pas réussi.",
+      "options": [
+        "a fait",
+        "avait fait",
+        "aura fait",
+        "ait fait"
+      ],
+      "answer": 3,
+      "explanation": "After bien que, avant que, sans que, jusqu’à ce que, a completed action takes the subjonctif passé. Here: ait fait.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_passe-049",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_passe",
+      "question": "Il a tout rangé avant que ses parents ne ___.",
+      "options": [
+        "soient rentrés",
+        "sont rentrés",
+        "étaient rentrés",
+        "aient rentré"
+      ],
+      "answer": 0,
+      "explanation": "After bien que, avant que, sans que, jusqu’à ce que, a completed action takes the subjonctif passé. Here: soient rentrés.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_passe-050",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_passe",
+      "question": "Elle a réussi sans que personne ne l’___.",
+      "options": [
+        "a aidée",
+        "ait aidée",
+        "avait aidée",
+        "aura aidée"
+      ],
+      "answer": 1,
+      "explanation": "After bien que, avant que, sans que, jusqu’à ce que, a completed action takes the subjonctif passé. Here: ait aidée.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_passe-051",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_passe",
+      "question": "C’est le meilleur livre que j’___ jamais ___.",
+      "options": [
+        "ai / lu",
+        "avais / lu",
+        "aie / lu",
+        "aurai / lu"
+      ],
+      "answer": 2,
+      "explanation": "After a superlative or le seul / le premier, a completed action takes the subjonctif passé: le meilleur film que j’aie vu.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_passe-052",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_passe",
+      "question": "C’est la plus belle ville que nous ___.",
+      "options": [
+        "avons visitée",
+        "avions visitée",
+        "aurons visitée",
+        "ayons visitée"
+      ],
+      "answer": 3,
+      "explanation": "After a superlative or le seul / le premier, a completed action takes the subjonctif passé: le meilleur film que j’aie vu.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_passe-053",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_passe",
+      "question": "C’est le seul ami qui ___ me voir à l’hôpital.",
+      "options": [
+        "soit venu",
+        "est venu",
+        "était venu",
+        "ait venu"
+      ],
+      "answer": 0,
+      "explanation": "After a superlative or le seul / le premier, a completed action takes the subjonctif passé: le meilleur film que j’aie vu.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_passe-054",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_passe",
+      "question": "C’est le plus long voyage qu’ils ___.",
+      "options": [
+        "ont fait",
+        "aient fait",
+        "avaient fait",
+        "auront fait"
+      ],
+      "answer": 1,
+      "explanation": "After a superlative or le seul / le premier, a completed action takes the subjonctif passé: le meilleur film que j’aie vu.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_passe-055",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_passe",
+      "question": "C’est la chose la plus drôle qu’il ___.",
+      "options": [
+        "a dite",
+        "avait dite",
+        "ait dite",
+        "aura dite"
+      ],
+      "answer": 2,
+      "explanation": "After a superlative or le seul / le premier, a completed action takes the subjonctif passé: le meilleur film que j’aie vu.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_passe-056",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_passe",
+      "question": "C’est le pire film que j’___.",
+      "options": [
+        "ai vu",
+        "avais vu",
+        "aurai vu",
+        "aie vu"
+      ],
+      "answer": 3,
+      "explanation": "After a superlative or le seul / le premier, a completed action takes the subjonctif passé: le meilleur film que j’aie vu.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_passe-057",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_passe",
+      "question": "Tu es la seule personne qui m’___.",
+      "options": [
+        "ait cru",
+        "a cru",
+        "avait cru",
+        "aura cru"
+      ],
+      "answer": 0,
+      "explanation": "After a superlative or le seul / le premier, a completed action takes the subjonctif passé: le meilleur film que j’aie vu.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_passe-058",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_passe",
+      "question": "Je pense qu’il ___ son train.",
+      "options": [
+        "ait raté",
+        "a raté",
+        "aie raté",
+        "avoir raté"
+      ],
+      "answer": 1,
+      "explanation": "Verbs of certainty (penser que, être sûr que) take the indicative, so a completed action is in the passé composé, not the subjonctif passé.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_passe-059",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_passe",
+      "question": "Je suis sûr qu’elle ___ la porte.",
+      "options": [
+        "ait fermé",
+        "aie fermé",
+        "a fermé",
+        "avoir fermé"
+      ],
+      "answer": 2,
+      "explanation": "Verbs of certainty (penser que, être sûr que) take the indicative, so a completed action is in the passé composé, not the subjonctif passé.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_passe-060",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_passe",
+      "question": "Je crois qu’ils ___ hier.",
+      "options": [
+        "soient arrivés",
+        "soit arrivé",
+        "être arrivés",
+        "sont arrivés"
+      ],
+      "answer": 3,
+      "explanation": "Verbs of certainty (penser que, être sûr que) take the indicative, so a completed action is in the passé composé, not the subjonctif passé.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_passe-061",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_passe",
+      "question": "Il est évident que tu ___ beaucoup ___.",
+      "options": [
+        "as / travaillé",
+        "aies / travaillé",
+        "ait / travaillé",
+        "avoir / travaillé"
+      ],
+      "answer": 0,
+      "explanation": "Verbs of certainty (penser que, être sûr que) take the indicative, so a completed action is in the passé composé, not the subjonctif passé.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_passe-062",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_passe",
+      "question": "Je sais qu’elle ___ la vérité.",
+      "options": [
+        "ait dit",
+        "a dit",
+        "aie dit",
+        "avoir dit"
+      ],
+      "answer": 1,
+      "explanation": "Verbs of certainty (penser que, être sûr que) take the indicative, so a completed action is in the passé composé, not the subjonctif passé.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_passe-063",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_passe",
+      "question": "J’espère que tu ___ un bon voyage.",
+      "options": [
+        "aies fait",
+        "ait fait",
+        "as fait",
+        "avoir fait"
+      ],
+      "answer": 2,
+      "explanation": "Espérer que takes the indicative: j’espère que tu as fait un bon voyage.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_passe-064",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_passe",
+      "question": "Je suis content ___ mon examen.",
+      "options": [
+        "que j’aie réussi",
+        "que j’ai réussi",
+        "avoir réussi",
+        "d’avoir réussi"
+      ],
+      "answer": 3,
+      "explanation": "With the same subject in both clauses, use the infinitif passé instead: je suis content d’avoir réussi.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_passe-065",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_passe",
+      "question": "Elle regrette ___ si tôt.",
+      "options": [
+        "d’être partie",
+        "qu’elle soit partie",
+        "qu’elle est partie",
+        "être partie"
+      ],
+      "answer": 0,
+      "explanation": "With the same subject in both clauses, use the infinitif passé instead: je suis content d’avoir réussi.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_passe-066",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_passe",
+      "question": "Nous sommes désolés ___ en retard.",
+      "options": [
+        "que nous soyons arrivés",
+        "d’être arrivés",
+        "que nous sommes arrivés",
+        "être arrivés"
+      ],
+      "answer": 1,
+      "explanation": "With the same subject in both clauses, use the infinitif passé instead: je suis content d’avoir réussi.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_passe-067",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_passe",
+      "question": "Il a peur ___ ses clés.",
+      "options": [
+        "qu’il ait perdu",
+        "qu’il a perdu",
+        "d’avoir perdu",
+        "avoir perdu"
+      ],
+      "answer": 2,
+      "explanation": "With the same subject in both clauses, use the infinitif passé instead: je suis content d’avoir réussi.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_passe-068",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_passe",
+      "question": "Que tu ___ ou non, cela ne change rien.",
+      "options": [
+        "as menti",
+        "avais menti",
+        "auras menti",
+        "aies menti"
+      ],
+      "answer": 3,
+      "explanation": "Que … ou non (whether or not) takes the subjunctive.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_passe-069",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_passe",
+      "question": "Je ne suis pas sûr qu’il ___ mon message.",
+      "options": [
+        "ait lu",
+        "a lu",
+        "avait lu",
+        "aura lu"
+      ],
+      "answer": 0,
+      "explanation": "The subjonctif passé is the present subjunctive of avoir (aie, aies, ait, ayons, ayez, aient) + past participle. Here: ait lu.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_passe-070",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_passe",
+      "question": "Je crains qu’ils n’___ notre rendez-vous.",
+      "options": [
+        "ont oublié",
+        "aient oublié",
+        "avaient oublié",
+        "auront oublié"
+      ],
+      "answer": 1,
+      "explanation": "The subjonctif passé is the present subjunctive of avoir (aie, aies, ait, ayons, ayez, aient) + past participle. Here: aient oublié.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_passe-071",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_passe",
+      "question": "Il est normal que tu ___ fatigué après ce match.",
+      "options": [
+        "as été",
+        "avais été",
+        "aies été",
+        "sois été"
+      ],
+      "answer": 2,
+      "explanation": "The subjonctif passé is the present subjunctive of avoir (aie, aies, ait, ayons, ayez, aient) + past participle. Here: aies été.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_passe-072",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_passe",
+      "question": "Je suis étonné que vous n’___ rien ___.",
+      "options": [
+        "avez / remarqué",
+        "aviez / remarqué",
+        "êtes / remarqué",
+        "ayez / remarqué"
+      ],
+      "answer": 3,
+      "explanation": "The subjonctif passé is the present subjunctive of avoir (aie, aies, ait, ayons, ayez, aient) + past participle. Here: ayez / remarqué.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_passe-073",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_passe",
+      "question": "Il est dommage qu’elle n’___ pas ___ nous rejoindre.",
+      "options": [
+        "ait / pu",
+        "a / pu",
+        "avait / pu",
+        "est / pu"
+      ],
+      "answer": 0,
+      "explanation": "The subjonctif passé is the present subjunctive of avoir (aie, aies, ait, ayons, ayez, aient) + past participle. Here: ait / pu.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_passe-074",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_passe",
+      "question": "Je ne pense pas qu’ils ___ avant nous.",
+      "options": [
+        "sont arrivés",
+        "soient arrivés",
+        "étaient arrivés",
+        "aient arrivé"
+      ],
+      "answer": 1,
+      "explanation": "Verbs that take être use the present subjunctive of être (sois, sois, soit, soyons, soyez, soient) + past participle, which agrees with the subject. Here: soient arrivés.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_passe-075",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_passe",
+      "question": "Il est possible qu’elle ___ d’avis.",
+      "options": [
+        "a changé",
+        "avait changé",
+        "ait changé",
+        "aura changé"
+      ],
+      "answer": 2,
+      "explanation": "The subjonctif passé is the present subjunctive of avoir (aie, aies, ait, ayons, ayez, aient) + past participle. Here: ait changé.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_passe-076",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_passe",
+      "question": "Je suis heureuse que tu ___ à moi.",
+      "options": [
+        "as pensé",
+        "avais pensé",
+        "auras pensé",
+        "aies pensé"
+      ],
+      "answer": 3,
+      "explanation": "The subjonctif passé is the present subjunctive of avoir (aie, aies, ait, ayons, ayez, aient) + past participle. Here: aies pensé.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_passe-077",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_passe",
+      "question": "Il est regrettable que le gouvernement n’___ rien ___.",
+      "options": [
+        "ait / fait",
+        "a / fait",
+        "avait / fait",
+        "est / fait"
+      ],
+      "answer": 0,
+      "explanation": "The subjonctif passé is the present subjunctive of avoir (aie, aies, ait, ayons, ayez, aient) + past participle. Here: ait / fait.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_passe-078",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_passe",
+      "question": "Pourvu qu’il n’___ pas ___ les billets !",
+      "options": [
+        "a / oublié",
+        "ait / oublié",
+        "avait / oublié",
+        "est / oublié"
+      ],
+      "answer": 1,
+      "explanation": "After bien que, avant que, sans que, jusqu’à ce que, a completed action takes the subjonctif passé. Here: ait / oublié.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_passe-079",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_passe",
+      "question": "Je ne crois pas qu’elle ___ avant minuit.",
+      "options": [
+        "s’est couchée",
+        "s’était couchée",
+        "se soit couchée",
+        "s’ait couché"
+      ],
+      "answer": 2,
+      "explanation": "Reflexive verbs take être in the subjonctif passé. Here: se soit couchée.",
+      "textId": null
+    },
+    {
+      "id": "b2-subjonctif_passe-080",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "subjonctif_passe",
+      "question": "Je suis soulagé que tout ___ bien ___.",
+      "options": [
+        "s’est / passé",
+        "s’était / passé",
+        "s’ait / passé",
+        "se soit / passé"
+      ],
+      "answer": 3,
+      "explanation": "Reflexive verbs take être in the subjonctif passé. Here: se soit / passé.",
+      "textId": null
+    }
+  ]
+}

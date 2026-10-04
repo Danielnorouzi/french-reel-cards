@@ -1,0 +1,485 @@
+{
+  "texts": [],
+  "questions": [
+    {
+      "id": "b2-conditionnel_passe-051",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "conditionnel_passe",
+      "question": "Complète au conditionnel passé : Sans ton aide, elle ne ___ jamais ___.",
+      "options": [
+        "serait / arrivée",
+        "aurait / arrivé",
+        "serait / arrivé",
+        "était / arrivée"
+      ],
+      "answer": 0,
+      "explanation": "Verbs that take être form the conditionnel passé with the conditional of être (serais, serait…) + past participle, which agrees with the subject. Here: serait / arrivée.",
+      "textId": null
+    },
+    {
+      "id": "b2-conditionnel_passe-052",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "conditionnel_passe",
+      "question": "Complète au conditionnel passé : Si nous avions su, nous ___ plus tôt. (masculin)",
+      "options": [
+        "aurions parti",
+        "serions partis",
+        "serions parti",
+        "étions partis"
+      ],
+      "answer": 1,
+      "explanation": "Verbs that take être form the conditionnel passé with the conditional of être (serais, serait…) + past participle, which agrees with the subject. Here: serions partis.",
+      "textId": null
+    },
+    {
+      "id": "b2-conditionnel_passe-053",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "conditionnel_passe",
+      "question": "Complète au conditionnel passé : À ta place, je ___ à la maison. (Paul parle)",
+      "options": [
+        "aurais resté",
+        "serais restée",
+        "serais resté",
+        "étais resté"
+      ],
+      "answer": 2,
+      "explanation": "Verbs that take être form the conditionnel passé with the conditional of être (serais, serait…) + past participle, which agrees with the subject. Here: serais resté.",
+      "textId": null
+    },
+    {
+      "id": "b2-conditionnel_passe-054",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "conditionnel_passe",
+      "question": "Complète au conditionnel passé : Avec un GPS, ils ne ___ pas ___.",
+      "options": [
+        "s’auraient / perdu",
+        "se seraient / perdu",
+        "s’étaient / perdus",
+        "se seraient / perdus"
+      ],
+      "answer": 3,
+      "explanation": "Reflexive verbs take être in the conditionnel passé: je me serais levé. Here: se seraient / perdus.",
+      "textId": null
+    },
+    {
+      "id": "b2-conditionnel_passe-055",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "conditionnel_passe",
+      "question": "Complète au conditionnel passé : Sans réveil, je ne ___ pas ___. (Julie parle)",
+      "options": [
+        "me serais / réveillée",
+        "m’aurais / réveillé",
+        "me serais / réveillé",
+        "m’étais / réveillée"
+      ],
+      "answer": 0,
+      "explanation": "Reflexive verbs take être in the conditionnel passé: je me serais levé. Here: me serais / réveillée.",
+      "textId": null
+    },
+    {
+      "id": "b2-conditionnel_passe-056",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "conditionnel_passe",
+      "question": "Complète au conditionnel passé : Elles ___ avec nous si elles avaient pu.",
+      "options": [
+        "auraient venu",
+        "seraient venues",
+        "seraient venus",
+        "étaient venues"
+      ],
+      "answer": 1,
+      "explanation": "Verbs that take être form the conditionnel passé with the conditional of être (serais, serait…) + past participle, which agrees with the subject. Here: seraient venues.",
+      "textId": null
+    },
+    {
+      "id": "b2-conditionnel_passe-057",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "conditionnel_passe",
+      "question": "Complète au conditionnel passé : J’___ t’appeler, je suis désolé.",
+      "options": [
+        "aurai dû",
+        "avais dû",
+        "aurais dû",
+        "devrais"
+      ],
+      "answer": 2,
+      "explanation": "J’aurais dû / j’aurais pu / j’aurais aimé + infinitive express a regret about the past: I should have, I could have, I would have liked to. Here: aurais dû.",
+      "textId": null
+    },
+    {
+      "id": "b2-conditionnel_passe-058",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "conditionnel_passe",
+      "question": "Complète au conditionnel passé : J’___ être là pour ton anniversaire la semaine dernière.",
+      "options": [
+        "aurai aimé",
+        "avais aimé",
+        "aimerai",
+        "aurais aimé"
+      ],
+      "answer": 3,
+      "explanation": "J’aurais dû / j’aurais pu / j’aurais aimé + infinitive express a regret about the past: I should have, I could have, I would have liked to. Here: aurais aimé.",
+      "textId": null
+    },
+    {
+      "id": "b2-conditionnel_passe-059",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "conditionnel_passe",
+      "question": "Complète au conditionnel passé : Nous ___ réserver plus tôt : tout est complet.",
+      "options": [
+        "aurions dû",
+        "aurons dû",
+        "avions dû",
+        "devrons"
+      ],
+      "answer": 0,
+      "explanation": "J’aurais dû / j’aurais pu / j’aurais aimé + infinitive express a regret about the past: I should have, I could have, I would have liked to. Here: aurions dû.",
+      "textId": null
+    },
+    {
+      "id": "b2-conditionnel_passe-060",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "conditionnel_passe",
+      "question": "Complète au conditionnel passé : J’___ devenir musicien, mais j’ai choisi la médecine.",
+      "options": [
+        "aurai pu",
+        "aurais pu",
+        "avais pu",
+        "pourrai"
+      ],
+      "answer": 1,
+      "explanation": "J’aurais dû / j’aurais pu / j’aurais aimé + infinitive express a regret about the past: I should have, I could have, I would have liked to. Here: aurais pu.",
+      "textId": null
+    },
+    {
+      "id": "b2-conditionnel_passe-061",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "conditionnel_passe",
+      "question": "Complète au conditionnel passé : Elle ___ voyager davantage quand elle était jeune.",
+      "options": [
+        "aura voulu",
+        "avait voulu",
+        "aurait voulu",
+        "voudra"
+      ],
+      "answer": 2,
+      "explanation": "J’aurais dû / j’aurais pu / j’aurais aimé + infinitive express a regret about the past: I should have, I could have, I would have liked to. Here: aurait voulu.",
+      "textId": null
+    },
+    {
+      "id": "b2-conditionnel_passe-062",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "conditionnel_passe",
+      "question": "Complète au conditionnel passé : Je n’___ pas ___ dire ça, je regrette.",
+      "options": [
+        "aurai / dû",
+        "avais / dû",
+        "ai / dû",
+        "aurais / dû"
+      ],
+      "answer": 3,
+      "explanation": "J’aurais dû / j’aurais pu / j’aurais aimé + infinitive express a regret about the past: I should have, I could have, I would have liked to. Here: aurais / dû.",
+      "textId": null
+    },
+    {
+      "id": "b2-conditionnel_passe-063",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "conditionnel_passe",
+      "question": "Complète au conditionnel passé : Tu ___ me prévenir !",
+      "options": [
+        "aurais pu",
+        "auras pu",
+        "avais pu",
+        "pourras"
+      ],
+      "answer": 0,
+      "explanation": "Tu aurais pu / tu aurais dû + infinitive expresses a reproach: you could have, you should have. Here: aurais pu.",
+      "textId": null
+    },
+    {
+      "id": "b2-conditionnel_passe-064",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "conditionnel_passe",
+      "question": "Complète au conditionnel passé : Vous ___ faire attention !",
+      "options": [
+        "aurez dû",
+        "auriez dû",
+        "aviez dû",
+        "devrez"
+      ],
+      "answer": 1,
+      "explanation": "Tu aurais pu / tu aurais dû + infinitive expresses a reproach: you could have, you should have. Here: auriez dû.",
+      "textId": null
+    },
+    {
+      "id": "b2-conditionnel_passe-065",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "conditionnel_passe",
+      "question": "Complète au conditionnel passé : Tu ___ au moins dire merci.",
+      "options": [
+        "auras pu",
+        "peux",
+        "aurais pu",
+        "pourras"
+      ],
+      "answer": 2,
+      "explanation": "Tu aurais pu / tu aurais dû + infinitive expresses a reproach: you could have, you should have. Here: aurais pu.",
+      "textId": null
+    },
+    {
+      "id": "b2-conditionnel_passe-066",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "conditionnel_passe",
+      "question": "Complète au conditionnel passé : Il ___ nous le dire avant !",
+      "options": [
+        "aura dû",
+        "avait dû",
+        "devra",
+        "aurait dû"
+      ],
+      "answer": 3,
+      "explanation": "Tu aurais pu / tu aurais dû + infinitive expresses a reproach: you could have, you should have. Here: aurait dû.",
+      "textId": null
+    },
+    {
+      "id": "b2-conditionnel_passe-067",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "conditionnel_passe",
+      "question": "Complète au conditionnel passé : Tu n’___ pas ___ lui parler sur ce ton.",
+      "options": [
+        "aurais / dû",
+        "auras / dû",
+        "avais / dû",
+        "as / dû"
+      ],
+      "answer": 0,
+      "explanation": "Tu aurais pu / tu aurais dû + infinitive expresses a reproach: you could have, you should have. Here: aurais / dû.",
+      "textId": null
+    },
+    {
+      "id": "b2-conditionnel_passe-068",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "conditionnel_passe",
+      "question": "Complète au conditionnel passé : Selon la police, le voleur ___ par la fenêtre.",
+      "options": [
+        "sera entré",
+        "serait entré",
+        "aurait entré",
+        "entrera"
+      ],
+      "answer": 1,
+      "explanation": "In news reports, the conditionnel passé gives information that is not confirmed: l’accident aurait fait trois blessés (reportedly).",
+      "textId": null
+    },
+    {
+      "id": "b2-conditionnel_passe-069",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "conditionnel_passe",
+      "question": "Complète au conditionnel passé : D’après les journaux, l’incendie ___ dix maisons.",
+      "options": [
+        "aura détruit",
+        "serait détruit",
+        "aurait détruit",
+        "détruira"
+      ],
+      "answer": 2,
+      "explanation": "In news reports, the conditionnel passé gives information that is not confirmed: l’accident aurait fait trois blessés (reportedly).",
+      "textId": null
+    },
+    {
+      "id": "b2-conditionnel_passe-070",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "conditionnel_passe",
+      "question": "Complète au conditionnel passé : Le ministre ___ sa démission hier soir, mais ce n’est pas confirmé.",
+      "options": [
+        "aura présenté",
+        "présentera",
+        "présente",
+        "aurait présenté"
+      ],
+      "answer": 3,
+      "explanation": "In news reports, the conditionnel passé gives information that is not confirmed: l’accident aurait fait trois blessés (reportedly).",
+      "textId": null
+    },
+    {
+      "id": "b2-conditionnel_passe-071",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "conditionnel_passe",
+      "question": "Complète au conditionnel passé : Selon certains témoins, deux personnes ___ blessées.",
+      "options": [
+        "auraient été",
+        "auront été",
+        "auraient étés",
+        "seront"
+      ],
+      "answer": 0,
+      "explanation": "In news reports, the conditionnel passé gives information that is not confirmed: l’accident aurait fait trois blessés (reportedly).",
+      "textId": null
+    },
+    {
+      "id": "b2-conditionnel_passe-072",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "conditionnel_passe",
+      "question": "Si j’___, je serais venu plus tôt.",
+      "options": [
+        "aurais su",
+        "avais su",
+        "ai su",
+        "saurais"
+      ],
+      "answer": 1,
+      "explanation": "In the si clause of a past hypothesis, use the plus-que-parfait, never the conditional: si j’avais su, je serais venu.",
+      "textId": null
+    },
+    {
+      "id": "b2-conditionnel_passe-073",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "conditionnel_passe",
+      "question": "Si tu m’___, je t’aurais aidé.",
+      "options": [
+        "aurais appelé",
+        "as appelé",
+        "avais appelé",
+        "appellerais"
+      ],
+      "answer": 2,
+      "explanation": "In the si clause of a past hypothesis, use the plus-que-parfait, never the conditional: si j’avais su, je serais venu.",
+      "textId": null
+    },
+    {
+      "id": "b2-conditionnel_passe-074",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "conditionnel_passe",
+      "question": "Si elle ___ à l’heure, elle n’aurait pas raté son train.",
+      "options": [
+        "serait partie",
+        "est partie",
+        "partirait",
+        "était partie"
+      ],
+      "answer": 3,
+      "explanation": "In the si clause of a past hypothesis, use the plus-que-parfait, never the conditional: si j’avais su, je serais venu.",
+      "textId": null
+    },
+    {
+      "id": "b2-conditionnel_passe-075",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "conditionnel_passe",
+      "question": "Si nous ___ plus d’argent, nous aurions acheté cette maison.",
+      "options": [
+        "avions eu",
+        "aurions eu",
+        "avons eu",
+        "aurions"
+      ],
+      "answer": 0,
+      "explanation": "In the si clause of a past hypothesis, use the plus-que-parfait, never the conditional: si j’avais su, je serais venu.",
+      "textId": null
+    },
+    {
+      "id": "b2-conditionnel_passe-076",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "conditionnel_passe",
+      "question": "S’ils ___, ils auraient réussi.",
+      "options": [
+        "auraient travaillé",
+        "avaient travaillé",
+        "ont travaillé",
+        "travailleraient"
+      ],
+      "answer": 1,
+      "explanation": "In the si clause of a past hypothesis, use the plus-que-parfait, never the conditional: si j’avais su, je serais venu.",
+      "textId": null
+    },
+    {
+      "id": "b2-conditionnel_passe-077",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "conditionnel_passe",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "Si j’aurais su, je ne serais pas venu.",
+        "Si j’avais su, je ne suis pas venu.",
+        "Si j’avais su, je ne serais pas venu.",
+        "Si j’aurais su, je n’étais pas venu."
+      ],
+      "answer": 2,
+      "explanation": "In the si clause of a past hypothesis, use the plus-que-parfait, never the conditional: si j’avais su, je serais venu.",
+      "textId": null
+    },
+    {
+      "id": "b2-conditionnel_passe-078",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "conditionnel_passe",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "Tu aurais me le dû dire.",
+        "Tu aurais dû le me dire.",
+        "Tu dû aurais me le dire.",
+        "Tu aurais dû me le dire."
+      ],
+      "answer": 3,
+      "explanation": "Tu aurais pu / tu aurais dû + infinitive expresses a reproach: you could have, you should have. Here: Tu aurais dû me le dire..",
+      "textId": null
+    },
+    {
+      "id": "b2-conditionnel_passe-079",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "conditionnel_passe",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "Je n’aurais jamais cru ça.",
+        "Je n’aurais cru jamais ça.",
+        "J’aurais ne jamais cru ça.",
+        "Je ne jamais aurais cru ça."
+      ],
+      "answer": 0,
+      "explanation": "In the conditionnel passé, ne … jamais goes around the auxiliary: je n’aurais jamais cru.",
+      "textId": null
+    },
+    {
+      "id": "b2-conditionnel_passe-080",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "conditionnel_passe",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "Elle s’aurait excusé si elle avait eu tort.",
+        "Elle se serait excusée si elle avait eu tort.",
+        "Elle se serait excusée si elle aurait eu tort.",
+        "Elle serait s’excusée si elle avait eu tort."
+      ],
+      "answer": 1,
+      "explanation": "Reflexive verbs take être in the conditionnel passé: je me serais levé. Here: Elle se serait excusée si elle avait eu tort..",
+      "textId": null
+    }
+  ]
+}

@@ -1,0 +1,1285 @@
+{
+  "texts": [],
+  "questions": [
+    {
+      "id": "b2-futur_anterieur-001",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "futur_anterieur",
+      "question": "Complète au futur antérieur : Dans une heure, j’___ mon travail.",
+      "options": [
+        "aurai fini",
+        "aurais fini",
+        "avais fini",
+        "ai fini"
+      ],
+      "answer": 0,
+      "explanation": "The futur antérieur is the future of avoir (aurai, auras, aura, aurons, aurez, auront) + past participle. Here: aurai fini.",
+      "textId": null
+    },
+    {
+      "id": "b2-futur_anterieur-002",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "futur_anterieur",
+      "question": "Complète au futur antérieur : À midi, nous ___ tous les invités.",
+      "options": [
+        "aurions appelé",
+        "aurons appelé",
+        "avions appelé",
+        "avons appelé"
+      ],
+      "answer": 1,
+      "explanation": "The futur antérieur is the future of avoir (aurai, auras, aura, aurons, aurez, auront) + past participle. Here: aurons appelé.",
+      "textId": null
+    },
+    {
+      "id": "b2-futur_anterieur-003",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "futur_anterieur",
+      "question": "Complète au futur antérieur : Demain soir, tu ___ ton examen.",
+      "options": [
+        "aurais passé",
+        "avais passé",
+        "auras passé",
+        "as passé"
+      ],
+      "answer": 2,
+      "explanation": "The futur antérieur is the future of avoir (aurai, auras, aura, aurons, aurez, auront) + past participle. Here: auras passé.",
+      "textId": null
+    },
+    {
+      "id": "b2-futur_anterieur-004",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "futur_anterieur",
+      "question": "Complète au futur antérieur : D’ici lundi, elle ___ sa décision.",
+      "options": [
+        "aurait pris",
+        "avait pris",
+        "a pris",
+        "aura pris"
+      ],
+      "answer": 3,
+      "explanation": "The futur antérieur is the future of avoir (aurai, auras, aura, aurons, aurez, auront) + past participle. Here: aura pris.",
+      "textId": null
+    },
+    {
+      "id": "b2-futur_anterieur-005",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "futur_anterieur",
+      "question": "Complète au futur antérieur : Avant la fin de l’année, ils ___ leur maison.",
+      "options": [
+        "auront vendu",
+        "auraient vendu",
+        "avaient vendu",
+        "ont vendu"
+      ],
+      "answer": 0,
+      "explanation": "The futur antérieur is the future of avoir (aurai, auras, aura, aurons, aurez, auront) + past participle. Here: auront vendu.",
+      "textId": null
+    },
+    {
+      "id": "b2-futur_anterieur-006",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "futur_anterieur",
+      "question": "Complète au futur antérieur : Dans dix ans, vous ___ beaucoup de choses.",
+      "options": [
+        "auriez appris",
+        "aurez appris",
+        "aviez appris",
+        "avez appris"
+      ],
+      "answer": 1,
+      "explanation": "The futur antérieur is the future of avoir (aurai, auras, aura, aurons, aurez, auront) + past participle. Here: aurez appris.",
+      "textId": null
+    },
+    {
+      "id": "b2-futur_anterieur-007",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "futur_anterieur",
+      "question": "Complète au futur antérieur : Bientôt, il ___ tout son argent.",
+      "options": [
+        "aurait dépensé",
+        "avait dépensé",
+        "aura dépensé",
+        "a dépensé"
+      ],
+      "answer": 2,
+      "explanation": "The futur antérieur is the future of avoir (aurai, auras, aura, aurons, aurez, auront) + past participle. Here: aura dépensé.",
+      "textId": null
+    },
+    {
+      "id": "b2-futur_anterieur-008",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "futur_anterieur",
+      "question": "Complète au futur antérieur : À cette heure-là, nous ___.",
+      "options": [
+        "aurions dîné",
+        "avions dîné",
+        "avons dîné",
+        "aurons dîné"
+      ],
+      "answer": 3,
+      "explanation": "The futur antérieur is the future of avoir (aurai, auras, aura, aurons, aurez, auront) + past participle. Here: aurons dîné.",
+      "textId": null
+    },
+    {
+      "id": "b2-futur_anterieur-009",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "futur_anterieur",
+      "question": "Complète au futur antérieur : Demain à cette heure, j’___ la réponse.",
+      "options": [
+        "aurai reçu",
+        "aurais reçu",
+        "avais reçu",
+        "ai reçu"
+      ],
+      "answer": 0,
+      "explanation": "The futur antérieur is the future of avoir (aurai, auras, aura, aurons, aurez, auront) + past participle. Here: aurai reçu.",
+      "textId": null
+    },
+    {
+      "id": "b2-futur_anterieur-010",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "futur_anterieur",
+      "question": "Complète au futur antérieur : D’ici là, tu ___ d’avis.",
+      "options": [
+        "aurais changé",
+        "auras changé",
+        "avais changé",
+        "as changé"
+      ],
+      "answer": 1,
+      "explanation": "The futur antérieur is the future of avoir (aurai, auras, aura, aurons, aurez, auront) + past participle. Here: auras changé.",
+      "textId": null
+    },
+    {
+      "id": "b2-futur_anterieur-011",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "futur_anterieur",
+      "question": "Complète au futur antérieur : En juin, elle ___ ses études.",
+      "options": [
+        "aurait terminé",
+        "avait terminé",
+        "aura terminé",
+        "a terminé"
+      ],
+      "answer": 2,
+      "explanation": "The futur antérieur is the future of avoir (aurai, auras, aura, aurons, aurez, auront) + past participle. Here: aura terminé.",
+      "textId": null
+    },
+    {
+      "id": "b2-futur_anterieur-012",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "futur_anterieur",
+      "question": "Complète au futur antérieur : Avant ce soir, ils ___ une solution.",
+      "options": [
+        "auraient trouvé",
+        "avaient trouvé",
+        "ont trouvé",
+        "auront trouvé"
+      ],
+      "answer": 3,
+      "explanation": "The futur antérieur is the future of avoir (aurai, auras, aura, aurons, aurez, auront) + past participle. Here: auront trouvé.",
+      "textId": null
+    },
+    {
+      "id": "b2-futur_anterieur-013",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "futur_anterieur",
+      "question": "Complète au futur antérieur : À huit heures, je ___. (Paul parle)",
+      "options": [
+        "serai parti",
+        "serais parti",
+        "étais parti",
+        "aurai parti"
+      ],
+      "answer": 0,
+      "explanation": "Verbs that take être use the future of être (serai, seras, sera, serons, serez, seront) + past participle, which agrees with the subject. Here: serai parti.",
+      "textId": null
+    },
+    {
+      "id": "b2-futur_anterieur-014",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "futur_anterieur",
+      "question": "Complète au futur antérieur : Demain matin, elle ___ à Paris.",
+      "options": [
+        "serait arrivée",
+        "sera arrivée",
+        "était arrivée",
+        "aura arrivé"
+      ],
+      "answer": 1,
+      "explanation": "Verbs that take être use the future of être (serai, seras, sera, serons, serez, seront) + past participle, which agrees with the subject. Here: sera arrivée.",
+      "textId": null
+    },
+    {
+      "id": "b2-futur_anterieur-015",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "futur_anterieur",
+      "question": "Complète au futur antérieur : Dans une semaine, nous ___ chez nous. (masculin)",
+      "options": [
+        "serions rentrés",
+        "étions rentrés",
+        "serons rentrés",
+        "aurons rentré"
+      ],
+      "answer": 2,
+      "explanation": "Verbs that take être use the future of être (serai, seras, sera, serons, serez, seront) + past participle, which agrees with the subject. Here: serons rentrés.",
+      "textId": null
+    },
+    {
+      "id": "b2-futur_anterieur-016",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "futur_anterieur",
+      "question": "Complète au futur antérieur : Avant minuit, ils ___.",
+      "options": [
+        "seraient revenus",
+        "étaient revenus",
+        "auront revenu",
+        "seront revenus"
+      ],
+      "answer": 3,
+      "explanation": "Verbs that take être use the future of être (serai, seras, sera, serons, serez, seront) + past participle, which agrees with the subject. Here: seront revenus.",
+      "textId": null
+    },
+    {
+      "id": "b2-futur_anterieur-017",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "futur_anterieur",
+      "question": "Complète au futur antérieur : D’ici ce soir, vous ___ à la gare, mesdames.",
+      "options": [
+        "serez arrivées",
+        "seriez arrivées",
+        "étiez arrivées",
+        "aurez arrivé"
+      ],
+      "answer": 0,
+      "explanation": "Verbs that take être use the future of être (serai, seras, sera, serons, serez, seront) + past participle, which agrees with the subject. Here: serez arrivées.",
+      "textId": null
+    },
+    {
+      "id": "b2-futur_anterieur-018",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "futur_anterieur",
+      "question": "Complète au futur antérieur : À cette heure-là, tu ___ depuis longtemps, Marie.",
+      "options": [
+        "serais partie",
+        "seras partie",
+        "étais partie",
+        "auras parti"
+      ],
+      "answer": 1,
+      "explanation": "Verbs that take être use the future of être (serai, seras, sera, serons, serez, seront) + past participle, which agrees with the subject. Here: seras partie.",
+      "textId": null
+    },
+    {
+      "id": "b2-futur_anterieur-019",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "futur_anterieur",
+      "question": "Complète au futur antérieur : Dans vingt ans, cette génération ___ adulte.",
+      "options": [
+        "serait devenue",
+        "était devenue",
+        "sera devenue",
+        "aura devenu"
+      ],
+      "answer": 2,
+      "explanation": "Verbs that take être use the future of être (serai, seras, sera, serons, serez, seront) + past participle, which agrees with the subject. Here: sera devenue.",
+      "textId": null
+    },
+    {
+      "id": "b2-futur_anterieur-020",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "futur_anterieur",
+      "question": "Complète au futur antérieur : Avant l’hiver, les oiseaux ___ vers le sud.",
+      "options": [
+        "seraient partis",
+        "étaient partis",
+        "auront parti",
+        "seront partis"
+      ],
+      "answer": 3,
+      "explanation": "Verbs that take être use the future of être (serai, seras, sera, serons, serez, seront) + past participle, which agrees with the subject. Here: seront partis.",
+      "textId": null
+    },
+    {
+      "id": "b2-futur_anterieur-021",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "futur_anterieur",
+      "question": "Complète au futur antérieur : À sept heures, je ___ depuis longtemps. (Julie parle)",
+      "options": [
+        "me serai levée",
+        "me serais levée",
+        "m’étais levée",
+        "m’aurai levé"
+      ],
+      "answer": 0,
+      "explanation": "Reflexive verbs take être in the futur antérieur. Here: me serai levée.",
+      "textId": null
+    },
+    {
+      "id": "b2-futur_anterieur-022",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "futur_anterieur",
+      "question": "Complète au futur antérieur : D’ici là, ils ___.",
+      "options": [
+        "se seraient réconciliés",
+        "se seront réconciliés",
+        "s’étaient réconciliés",
+        "s’auront réconcilié"
+      ],
+      "answer": 1,
+      "explanation": "Reflexive verbs take être in the futur antérieur. Here: se seront réconciliés.",
+      "textId": null
+    },
+    {
+      "id": "b2-futur_anterieur-023",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "futur_anterieur",
+      "question": "Complète au futur antérieur : Quand tu arriveras, nous ___ à table. (masculin)",
+      "options": [
+        "nous serions mis",
+        "nous étions mis",
+        "nous serons mis",
+        "nous aurons mis"
+      ],
+      "answer": 2,
+      "explanation": "Reflexive verbs take être in the futur antérieur. Here: nous serons mis.",
+      "textId": null
+    },
+    {
+      "id": "b2-futur_anterieur-024",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "futur_anterieur",
+      "question": "Complète au futur antérieur : Dans un mois, elle ___ à sa nouvelle vie.",
+      "options": [
+        "se serait habituée",
+        "s’était habituée",
+        "s’aura habitué",
+        "se sera habituée"
+      ],
+      "answer": 3,
+      "explanation": "Reflexive verbs take être in the futur antérieur. Here: se sera habituée.",
+      "textId": null
+    },
+    {
+      "id": "b2-futur_anterieur-025",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "futur_anterieur",
+      "question": "Quand tu ___ tes devoirs, tu pourras sortir.",
+      "options": [
+        "auras fini",
+        "finissais",
+        "aurais fini",
+        "avais fini"
+      ],
+      "answer": 0,
+      "explanation": "The futur antérieur marks a future action that will be finished before another future action. After quand, dès que, une fois que, aussitôt que, lorsque, the earlier action is in the futur antérieur.",
+      "textId": null
+    },
+    {
+      "id": "b2-futur_anterieur-026",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "futur_anterieur",
+      "question": "Dès que j’___ mon diplôme, je chercherai du travail.",
+      "options": [
+        "aurais obtenu",
+        "aurai obtenu",
+        "avais obtenu",
+        "obtenais"
+      ],
+      "answer": 1,
+      "explanation": "The futur antérieur marks a future action that will be finished before another future action. After quand, dès que, une fois que, aussitôt que, lorsque, the earlier action is in the futur antérieur.",
+      "textId": null
+    },
+    {
+      "id": "b2-futur_anterieur-027",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "futur_anterieur",
+      "question": "Une fois que vous ___ ce formulaire, vous le signerez.",
+      "options": [
+        "auriez rempli",
+        "aviez rempli",
+        "aurez rempli",
+        "remplissiez"
+      ],
+      "answer": 2,
+      "explanation": "The futur antérieur marks a future action that will be finished before another future action. After quand, dès que, une fois que, aussitôt que, lorsque, the earlier action is in the futur antérieur.",
+      "textId": null
+    },
+    {
+      "id": "b2-futur_anterieur-028",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "futur_anterieur",
+      "question": "Aussitôt qu’elle ___, nous partirons.",
+      "options": [
+        "serait arrivée",
+        "était arrivée",
+        "arrivait",
+        "sera arrivée"
+      ],
+      "answer": 3,
+      "explanation": "The futur antérieur marks a future action that will be finished before another future action. After quand, dès que, une fois que, aussitôt que, lorsque, the earlier action is in the futur antérieur.",
+      "textId": null
+    },
+    {
+      "id": "b2-futur_anterieur-029",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "futur_anterieur",
+      "question": "Quand nous ___, nous ferons une promenade.",
+      "options": [
+        "aurons mangé",
+        "aurions mangé",
+        "avions mangé",
+        "mangions"
+      ],
+      "answer": 0,
+      "explanation": "The futur antérieur marks a future action that will be finished before another future action. After quand, dès que, une fois que, aussitôt que, lorsque, the earlier action is in the futur antérieur.",
+      "textId": null
+    },
+    {
+      "id": "b2-futur_anterieur-030",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "futur_anterieur",
+      "question": "Lorsque tu ___ ce livre, tu me le prêteras.",
+      "options": [
+        "aurais lu",
+        "auras lu",
+        "avais lu",
+        "lisais"
+      ],
+      "answer": 1,
+      "explanation": "The futur antérieur marks a future action that will be finished before another future action. After quand, dès que, une fois que, aussitôt que, lorsque, the earlier action is in the futur antérieur.",
+      "textId": null
+    },
+    {
+      "id": "b2-futur_anterieur-031",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "futur_anterieur",
+      "question": "Dès qu’ils ___, je te préviendrai.",
+      "options": [
+        "seraient partis",
+        "étaient partis",
+        "seront partis",
+        "partaient"
+      ],
+      "answer": 2,
+      "explanation": "The futur antérieur marks a future action that will be finished before another future action. After quand, dès que, une fois que, aussitôt que, lorsque, the earlier action is in the futur antérieur.",
+      "textId": null
+    },
+    {
+      "id": "b2-futur_anterieur-032",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "futur_anterieur",
+      "question": "Je t’appellerai quand j’___ une décision.",
+      "options": [
+        "aurais pris",
+        "avais pris",
+        "prenais",
+        "aurai pris"
+      ],
+      "answer": 3,
+      "explanation": "The futur antérieur marks a future action that will be finished before another future action. After quand, dès que, une fois que, aussitôt que, lorsque, the earlier action is in the futur antérieur.",
+      "textId": null
+    },
+    {
+      "id": "b2-futur_anterieur-033",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "futur_anterieur",
+      "question": "Tu comprendras quand tu ___ des enfants.",
+      "options": [
+        "auras eu",
+        "aurais eu",
+        "avais eu",
+        "avais"
+      ],
+      "answer": 0,
+      "explanation": "The futur antérieur marks a future action that will be finished before another future action. After quand, dès que, une fois que, aussitôt que, lorsque, the earlier action is in the futur antérieur.",
+      "textId": null
+    },
+    {
+      "id": "b2-futur_anterieur-034",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "futur_anterieur",
+      "question": "Une fois que la pluie ___, nous sortirons.",
+      "options": [
+        "aurait cessé",
+        "aura cessé",
+        "avait cessé",
+        "cessait"
+      ],
+      "answer": 1,
+      "explanation": "The futur antérieur marks a future action that will be finished before another future action. After quand, dès que, une fois que, aussitôt que, lorsque, the earlier action is in the futur antérieur.",
+      "textId": null
+    },
+    {
+      "id": "b2-futur_anterieur-035",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "futur_anterieur",
+      "question": "Nous commencerons la réunion dès que tout le monde ___.",
+      "options": [
+        "serait arrivé",
+        "était arrivé",
+        "sera arrivé",
+        "arrivait"
+      ],
+      "answer": 2,
+      "explanation": "The futur antérieur marks a future action that will be finished before another future action. After quand, dès que, une fois que, aussitôt que, lorsque, the earlier action is in the futur antérieur.",
+      "textId": null
+    },
+    {
+      "id": "b2-futur_anterieur-036",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "futur_anterieur",
+      "question": "Quand il ___ assez d’argent, il achètera une voiture.",
+      "options": [
+        "aurait économisé",
+        "avait économisé",
+        "économisait",
+        "aura économisé"
+      ],
+      "answer": 3,
+      "explanation": "The futur antérieur marks a future action that will be finished before another future action. After quand, dès que, une fois que, aussitôt que, lorsque, the earlier action is in the futur antérieur.",
+      "textId": null
+    },
+    {
+      "id": "b2-futur_anterieur-037",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "futur_anterieur",
+      "question": "Je te rendrai ton livre dès que je l’___.",
+      "options": [
+        "aurai terminé",
+        "aurais terminé",
+        "avais terminé",
+        "terminais"
+      ],
+      "answer": 0,
+      "explanation": "The futur antérieur marks a future action that will be finished before another future action. After quand, dès que, une fois que, aussitôt que, lorsque, the earlier action is in the futur antérieur.",
+      "textId": null
+    },
+    {
+      "id": "b2-futur_anterieur-038",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "futur_anterieur",
+      "question": "Quand vous ___, vous verrez les choses autrement.",
+      "options": [
+        "vous seriez reposés",
+        "vous serez reposés",
+        "vous étiez reposés",
+        "vous reposiez"
+      ],
+      "answer": 1,
+      "explanation": "The futur antérieur marks a future action that will be finished before another future action. After quand, dès que, une fois que, aussitôt que, lorsque, the earlier action is in the futur antérieur.",
+      "textId": null
+    },
+    {
+      "id": "b2-futur_anterieur-039",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "futur_anterieur",
+      "question": "Dès que le film ___, nous irons dîner.",
+      "options": [
+        "serait terminé",
+        "était terminé",
+        "sera terminé",
+        "terminait"
+      ],
+      "answer": 2,
+      "explanation": "The futur antérieur marks a future action that will be finished before another future action. After quand, dès que, une fois que, aussitôt que, lorsque, the earlier action is in the futur antérieur.",
+      "textId": null
+    },
+    {
+      "id": "b2-futur_anterieur-040",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "futur_anterieur",
+      "question": "Quand elle ___ son permis, elle pourra conduire.",
+      "options": [
+        "aurait passé",
+        "avait passé",
+        "passait",
+        "aura passé"
+      ],
+      "answer": 3,
+      "explanation": "The futur antérieur marks a future action that will be finished before another future action. After quand, dès que, une fois que, aussitôt que, lorsque, the earlier action is in the futur antérieur.",
+      "textId": null
+    },
+    {
+      "id": "b2-futur_anterieur-041",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "futur_anterieur",
+      "question": "Quand j’aurai fini, je t’___.",
+      "options": [
+        "appellerai",
+        "aurai appelé",
+        "appellerais",
+        "appelais"
+      ],
+      "answer": 0,
+      "explanation": "The action that comes second is in the futur simple; the one finished first is in the futur antérieur.",
+      "textId": null
+    },
+    {
+      "id": "b2-futur_anterieur-042",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "futur_anterieur",
+      "question": "Dès qu’il sera rentré, nous ___.",
+      "options": [
+        "aurons dîné",
+        "dînerons",
+        "dînerions",
+        "dînions"
+      ],
+      "answer": 1,
+      "explanation": "The action that comes second is in the futur simple; the one finished first is in the futur antérieur.",
+      "textId": null
+    },
+    {
+      "id": "b2-futur_anterieur-043",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "futur_anterieur",
+      "question": "Une fois que tu auras lu ce livre, tu ___ mieux.",
+      "options": [
+        "auras compris",
+        "comprendrais",
+        "comprendras",
+        "comprenais"
+      ],
+      "answer": 2,
+      "explanation": "The action that comes second is in the futur simple; the one finished first is in the futur antérieur.",
+      "textId": null
+    },
+    {
+      "id": "b2-futur_anterieur-044",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "futur_anterieur",
+      "question": "Quand ils auront déménagé, ils nous ___.",
+      "options": [
+        "auront invité",
+        "inviteraient",
+        "invitaient",
+        "inviteront"
+      ],
+      "answer": 3,
+      "explanation": "The action that comes second is in the futur simple; the one finished first is in the futur antérieur.",
+      "textId": null
+    },
+    {
+      "id": "b2-futur_anterieur-045",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "futur_anterieur",
+      "question": "Aussitôt que j’aurai reçu ton message, je te ___.",
+      "options": [
+        "répondrai",
+        "aurai répondu",
+        "répondrais",
+        "répondais"
+      ],
+      "answer": 0,
+      "explanation": "The action that comes second is in the futur simple; the one finished first is in the futur antérieur.",
+      "textId": null
+    },
+    {
+      "id": "b2-futur_anterieur-046",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "futur_anterieur",
+      "question": "Lorsque vous aurez terminé, vous ___ partir.",
+      "options": [
+        "aurez pu",
+        "pourrez",
+        "pourriez",
+        "pouviez"
+      ],
+      "answer": 1,
+      "explanation": "The action that comes second is in the futur simple; the one finished first is in the futur antérieur.",
+      "textId": null
+    },
+    {
+      "id": "b2-futur_anterieur-047",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "futur_anterieur",
+      "question": "Dès que nous serons arrivés, nous vous ___.",
+      "options": [
+        "aurons téléphoné",
+        "téléphonerions",
+        "téléphonerons",
+        "téléphonions"
+      ],
+      "answer": 2,
+      "explanation": "The action that comes second is in the futur simple; the one finished first is in the futur antérieur.",
+      "textId": null
+    },
+    {
+      "id": "b2-futur_anterieur-048",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "futur_anterieur",
+      "question": "Quand tu auras rangé ta chambre, tu ___ jouer.",
+      "options": [
+        "seras allé",
+        "irais",
+        "allais",
+        "iras"
+      ],
+      "answer": 3,
+      "explanation": "The action that comes second is in the futur simple; the one finished first is in the futur antérieur.",
+      "textId": null
+    },
+    {
+      "id": "b2-futur_anterieur-049",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "futur_anterieur",
+      "question": "D’ici 2050, la population mondiale ___ considérablement.",
+      "options": [
+        "aura augmenté",
+        "augmentait",
+        "a augmenté",
+        "avait augmenté"
+      ],
+      "answer": 0,
+      "explanation": "With d’ici, dans + time, avant + time, the futur antérieur says something will already be done by then.",
+      "textId": null
+    },
+    {
+      "id": "b2-futur_anterieur-050",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "futur_anterieur",
+      "question": "Dans deux heures, le train ___.",
+      "options": [
+        "partait",
+        "sera parti",
+        "est parti",
+        "était parti"
+      ],
+      "answer": 1,
+      "explanation": "With d’ici, dans + time, avant + time, the futur antérieur says something will already be done by then.",
+      "textId": null
+    },
+    {
+      "id": "b2-futur_anterieur-051",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "futur_anterieur",
+      "question": "D’ici la fin du mois, j’___ tout mon budget.",
+      "options": [
+        "dépensais",
+        "ai dépensé",
+        "aurai dépensé",
+        "avais dépensé"
+      ],
+      "answer": 2,
+      "explanation": "With d’ici, dans + time, avant + time, the futur antérieur says something will already be done by then.",
+      "textId": null
+    },
+    {
+      "id": "b2-futur_anterieur-052",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "futur_anterieur",
+      "question": "Avant ce soir, la neige ___.",
+      "options": [
+        "fondait",
+        "a fondu",
+        "avait fondu",
+        "aura fondu"
+      ],
+      "answer": 3,
+      "explanation": "With d’ici, dans + time, avant + time, the futur antérieur says something will already be done by then.",
+      "textId": null
+    },
+    {
+      "id": "b2-futur_anterieur-053",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "futur_anterieur",
+      "question": "Dans un an, tu ___ tout ça.",
+      "options": [
+        "auras oublié",
+        "oubliais",
+        "as oublié",
+        "avais oublié"
+      ],
+      "answer": 0,
+      "explanation": "With d’ici, dans + time, avant + time, the futur antérieur says something will already be done by then.",
+      "textId": null
+    },
+    {
+      "id": "b2-futur_anterieur-054",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "futur_anterieur",
+      "question": "D’ici demain, ils ___ le problème.",
+      "options": [
+        "résolvaient",
+        "auront résolu",
+        "ont résolu",
+        "avaient résolu"
+      ],
+      "answer": 1,
+      "explanation": "With d’ici, dans + time, avant + time, the futur antérieur says something will already be done by then.",
+      "textId": null
+    },
+    {
+      "id": "b2-futur_anterieur-055",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "futur_anterieur",
+      "question": "Avant la fin de la journée, nous ___ une réponse.",
+      "options": [
+        "recevions",
+        "avons reçu",
+        "aurons reçu",
+        "avions reçu"
+      ],
+      "answer": 2,
+      "explanation": "With d’ici, dans + time, avant + time, the futur antérieur says something will already be done by then.",
+      "textId": null
+    },
+    {
+      "id": "b2-futur_anterieur-056",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "futur_anterieur",
+      "question": "Il n’est pas là : il ___ notre rendez-vous.",
+      "options": [
+        "oubliera",
+        "oubliait",
+        "oublierait",
+        "aura oublié"
+      ],
+      "answer": 3,
+      "explanation": "The futur antérieur can express a guess about the past: il aura oublié = he must have forgotten.",
+      "textId": null
+    },
+    {
+      "id": "b2-futur_anterieur-057",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "futur_anterieur",
+      "question": "Elle est en retard : elle ___ son bus.",
+      "options": [
+        "aura raté",
+        "ratera",
+        "ratait",
+        "raterait"
+      ],
+      "answer": 0,
+      "explanation": "The futur antérieur can express a guess about the past: il aura oublié = he must have forgotten.",
+      "textId": null
+    },
+    {
+      "id": "b2-futur_anterieur-058",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "futur_anterieur",
+      "question": "Ils ne répondent pas : ils ___.",
+      "options": [
+        "sortiront",
+        "seront sortis",
+        "sortaient",
+        "sortiraient"
+      ],
+      "answer": 1,
+      "explanation": "The futur antérieur can express a guess about the past: il aura oublié = he must have forgotten.",
+      "textId": null
+    },
+    {
+      "id": "b2-futur_anterieur-059",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "futur_anterieur",
+      "question": "Tu ne trouves pas tes clés ? Tu les ___ au bureau.",
+      "options": [
+        "laisseras",
+        "laissais",
+        "auras laissées",
+        "laisserais"
+      ],
+      "answer": 2,
+      "explanation": "The futur antérieur can express a guess about the past: il aura oublié = he must have forgotten.",
+      "textId": null
+    },
+    {
+      "id": "b2-futur_anterieur-060",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "futur_anterieur",
+      "question": "La lumière est éteinte : ils ___.",
+      "options": [
+        "se coucheront",
+        "se couchaient",
+        "se coucheraient",
+        "se seront couchés"
+      ],
+      "answer": 3,
+      "explanation": "The futur antérieur can express a guess about the past: il aura oublié = he must have forgotten.",
+      "textId": null
+    },
+    {
+      "id": "b2-futur_anterieur-061",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "futur_anterieur",
+      "question": "Il n’a pas appelé : il ___ un empêchement.",
+      "options": [
+        "aura eu",
+        "aura",
+        "avait",
+        "aurait"
+      ],
+      "answer": 0,
+      "explanation": "The futur antérieur can express a guess about the past: il aura oublié = he must have forgotten.",
+      "textId": null
+    },
+    {
+      "id": "b2-futur_anterieur-062",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "futur_anterieur",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "Je n’aurai fini pas avant midi.",
+        "Je n’aurai pas fini avant midi.",
+        "J’aurai ne pas fini avant midi.",
+        "Je ne pas aurai fini avant midi."
+      ],
+      "answer": 1,
+      "explanation": "In the futur antérieur, ne … pas goes around the auxiliary: je n’aurai pas fini.",
+      "textId": null
+    },
+    {
+      "id": "b2-futur_anterieur-063",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "futur_anterieur",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "Ils ne seront arrivés pas encore.",
+        "Ils seront ne pas encore arrivés.",
+        "Ils ne seront pas encore arrivés.",
+        "Ils ne pas encore seront arrivés."
+      ],
+      "answer": 2,
+      "explanation": "In the futur antérieur, ne … pas goes around the auxiliary: je n’aurai pas fini.",
+      "textId": null
+    },
+    {
+      "id": "b2-futur_anterieur-064",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "futur_anterieur",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "Quand j’aurais fini, je sortirai.",
+        "Quand j’ai fini, je sortirais.",
+        "Quand j’aurai fini, je sortais.",
+        "Quand j’aurai fini, je sortirai."
+      ],
+      "answer": 3,
+      "explanation": "The futur antérieur marks a future action that will be finished before another future action. After quand, dès que, une fois que, aussitôt que, lorsque, the earlier action is in the futur antérieur.",
+      "textId": null
+    },
+    {
+      "id": "b2-futur_anterieur-065",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "futur_anterieur",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "Dès qu’elle sera rentrée, elle t’appellera.",
+        "Dès qu’elle serait rentrée, elle t’appellera.",
+        "Dès qu’elle aura rentré, elle t’appellera.",
+        "Dès qu’elle sera rentrée, elle t’appelait."
+      ],
+      "answer": 0,
+      "explanation": "The futur antérieur marks a future action that will be finished before another future action. After quand, dès que, une fois que, aussitôt que, lorsque, the earlier action is in the futur antérieur.",
+      "textId": null
+    },
+    {
+      "id": "b2-futur_anterieur-066",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "futur_anterieur",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "Tu pourras jouer quand tu aurais rangé ta chambre.",
+        "Tu pourras jouer quand tu auras rangé ta chambre.",
+        "Tu pourrais jouer quand tu auras rangé ta chambre.",
+        "Tu pourras jouer quand tu avais rangé ta chambre."
+      ],
+      "answer": 1,
+      "explanation": "The futur antérieur marks a future action that will be finished before another future action. After quand, dès que, une fois que, aussitôt que, lorsque, the earlier action is in the futur antérieur.",
+      "textId": null
+    },
+    {
+      "id": "b2-futur_anterieur-067",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "futur_anterieur",
+      "question": "Complète au futur antérieur : Dans cinq minutes, le gâteau ___ de cuire.",
+      "options": [
+        "aurait fini",
+        "avait fini",
+        "aura fini",
+        "a fini"
+      ],
+      "answer": 2,
+      "explanation": "The futur antérieur is the future of avoir (aurai, auras, aura, aurons, aurez, auront) + past participle. Here: aura fini.",
+      "textId": null
+    },
+    {
+      "id": "b2-futur_anterieur-068",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "futur_anterieur",
+      "question": "Complète au futur antérieur : À ton retour, j’___ toute la maison.",
+      "options": [
+        "aurais rangé",
+        "avais rangé",
+        "ai rangé",
+        "aurai rangé"
+      ],
+      "answer": 3,
+      "explanation": "The futur antérieur is the future of avoir (aurai, auras, aura, aurons, aurez, auront) + past participle. Here: aurai rangé.",
+      "textId": null
+    },
+    {
+      "id": "b2-futur_anterieur-069",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "futur_anterieur",
+      "question": "Complète au futur antérieur : D’ici une semaine, nous ___ les résultats.",
+      "options": [
+        "aurons obtenu",
+        "aurions obtenu",
+        "avions obtenu",
+        "avons obtenu"
+      ],
+      "answer": 0,
+      "explanation": "The futur antérieur is the future of avoir (aurai, auras, aura, aurons, aurez, auront) + past participle. Here: aurons obtenu.",
+      "textId": null
+    },
+    {
+      "id": "b2-futur_anterieur-070",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "futur_anterieur",
+      "question": "Complète au futur antérieur : Avant demain, tu ___ ton erreur.",
+      "options": [
+        "aurais compris",
+        "auras compris",
+        "avais compris",
+        "as compris"
+      ],
+      "answer": 1,
+      "explanation": "The futur antérieur is the future of avoir (aurai, auras, aura, aurons, aurez, auront) + past participle. Here: auras compris.",
+      "textId": null
+    },
+    {
+      "id": "b2-futur_anterieur-071",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "futur_anterieur",
+      "question": "Complète au futur antérieur : Dans un mois, elles ___ en vacances.",
+      "options": [
+        "seraient parties",
+        "étaient parties",
+        "seront parties",
+        "auront parti"
+      ],
+      "answer": 2,
+      "explanation": "Verbs that take être use the future of être (serai, seras, sera, serons, serez, seront) + past participle, which agrees with the subject. Here: seront parties.",
+      "textId": null
+    },
+    {
+      "id": "b2-futur_anterieur-072",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "futur_anterieur",
+      "question": "Complète au futur antérieur : À la fin du mois, il ___ trois livres.",
+      "options": [
+        "aurait écrit",
+        "avait écrit",
+        "a écrit",
+        "aura écrit"
+      ],
+      "answer": 3,
+      "explanation": "The futur antérieur is the future of avoir (aurai, auras, aura, aurons, aurez, auront) + past participle. Here: aura écrit.",
+      "textId": null
+    },
+    {
+      "id": "b2-futur_anterieur-073",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "futur_anterieur",
+      "question": "Complète au futur antérieur : Demain, à cette heure-ci, vous ___ votre avion.",
+      "options": [
+        "aurez pris",
+        "auriez pris",
+        "aviez pris",
+        "avez pris"
+      ],
+      "answer": 0,
+      "explanation": "The futur antérieur is the future of avoir (aurai, auras, aura, aurons, aurez, auront) + past participle. Here: aurez pris.",
+      "textId": null
+    },
+    {
+      "id": "b2-futur_anterieur-074",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "futur_anterieur",
+      "question": "Complète au futur antérieur : D’ici peu, tout le monde ___ la nouvelle.",
+      "options": [
+        "aurait appris",
+        "aura appris",
+        "avait appris",
+        "a appris"
+      ],
+      "answer": 1,
+      "explanation": "The futur antérieur is the future of avoir (aurai, auras, aura, aurons, aurez, auront) + past participle. Here: aura appris.",
+      "textId": null
+    },
+    {
+      "id": "b2-futur_anterieur-075",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "futur_anterieur",
+      "question": "Complète au futur antérieur : Avant la nuit, nous ___ au sommet. (masculin)",
+      "options": [
+        "serions arrivés",
+        "étions arrivés",
+        "serons arrivés",
+        "aurons arrivé"
+      ],
+      "answer": 2,
+      "explanation": "Verbs that take être use the future of être (serai, seras, sera, serons, serez, seront) + past participle, which agrees with the subject. Here: serons arrivés.",
+      "textId": null
+    },
+    {
+      "id": "b2-futur_anterieur-076",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "futur_anterieur",
+      "question": "Complète au futur antérieur : Dans quelques années, ce quartier ___.",
+      "options": [
+        "aurait changé",
+        "avait changé",
+        "a changé",
+        "aura changé"
+      ],
+      "answer": 3,
+      "explanation": "The futur antérieur is the future of avoir (aurai, auras, aura, aurons, aurez, auront) + past participle. Here: aura changé.",
+      "textId": null
+    },
+    {
+      "id": "b2-futur_anterieur-077",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "futur_anterieur",
+      "question": "Complète au futur antérieur : À ce moment-là, je ___ mes valises.",
+      "options": [
+        "aurai fait",
+        "aurais fait",
+        "avais fait",
+        "ai fait"
+      ],
+      "answer": 0,
+      "explanation": "The futur antérieur is the future of avoir (aurai, auras, aura, aurons, aurez, auront) + past participle. Here: aurai fait.",
+      "textId": null
+    },
+    {
+      "id": "b2-futur_anterieur-078",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "futur_anterieur",
+      "question": "Complète au futur antérieur : Quand tu liras cette lettre, je ___ déjà ___. (Paul parle)",
+      "options": [
+        "serais / parti",
+        "serai / parti",
+        "étais / parti",
+        "aurai / parti"
+      ],
+      "answer": 1,
+      "explanation": "Verbs that take être use the future of être (serai, seras, sera, serons, serez, seront) + past participle, which agrees with the subject. Here: serai / parti.",
+      "textId": null
+    },
+    {
+      "id": "b2-futur_anterieur-079",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "futur_anterieur",
+      "question": "Complète au futur antérieur : D’ici la fin de la semaine, elle ___ de son voyage.",
+      "options": [
+        "serait revenue",
+        "était revenue",
+        "sera revenue",
+        "aura revenu"
+      ],
+      "answer": 2,
+      "explanation": "Verbs that take être use the future of être (serai, seras, sera, serons, serez, seront) + past participle, which agrees with the subject. Here: sera revenue.",
+      "textId": null
+    },
+    {
+      "id": "b2-futur_anterieur-080",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "futur_anterieur",
+      "question": "Complète au futur antérieur : Bientôt, vous ___ à votre nouveau travail. (masculin pluriel)",
+      "options": [
+        "vous seriez habitués",
+        "vous étiez habitués",
+        "vous aurez habitué",
+        "vous serez habitués"
+      ],
+      "answer": 3,
+      "explanation": "Reflexive verbs take être in the futur antérieur. Here: vous serez habitués.",
+      "textId": null
+    }
+  ]
+}

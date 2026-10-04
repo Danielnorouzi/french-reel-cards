@@ -175,6 +175,11 @@
       </div>
       <div class="chips" id="set-chips"></div>
       <div class="stats" id="stats"></div>
+      <button class="starter" id="open-starter">
+        <span class="starter-art" aria-hidden="true"><i>A1</i><i>B1</i><i>C1</i></span>
+        <span class="starter-main"><b>Starter decks</b><small id="starter-sub">Words to know from A1 to C1</small></span>
+        <svg class="chev" viewBox="0 0 24 24"><path d="m9 6 6 6-6 6"/></svg>
+      </button>
       <div class="list inset" id="library-list"></div>
       <div id="library-empty" class="empty small" hidden><p>No cards yet. Add a reel to get started.</p></div>
       <div class="list inset settings">
@@ -187,59 +192,123 @@
     </main>
   </section>
 
-  <!-- VERBS (conjugation) -->
-  <section class="view" id="view-grammar" data-title="Grammar" hidden>
-    <header class="navbar"><div class="navbar-title" id="grammar-nav-title">Grammar</div></header>
+  <!-- LEARN: grammar practice, level vocab decks, verb conjugation -->
+  <section class="view" id="view-grammar" data-title="Learn" hidden>
+    <header class="navbar"><div class="navbar-title" id="grammar-nav-title">Learn</div></header>
     <main class="content">
-      <h1 class="large-title gram-chrome">Grammar</h1>
-      <div class="segmented gram-seg gram-chrome" id="gram-seg" role="tablist" aria-label="Grammar section">
-        <button data-pane="practice" role="tab">Practice</button>
+      <h1 class="large-title gram-chrome">Learn</h1>
+      <div class="segmented gram-seg gram-chrome" id="gram-seg" role="tablist" aria-label="Learn section">
+        <button data-pane="practice" role="tab">Grammar</button>
+        <button data-pane="vocab" role="tab">Vocab</button>
         <button data-pane="verbs" role="tab">Verbs</button>
       </div>
 
-      <!-- PRACTICE -->
+      <!-- GRAMMAR PRACTICE -->
       <div id="pane-practice">
         <div id="gram-home">
-          <div class="card rec-card" id="rec-card">
-            <div class="rec-top"><span class="rec-label">Recommended for you</span><span class="lvl-badge" id="rec-level"></span></div>
-            <h2 class="rec-title" id="rec-title">Loading…</h2>
-            <p class="rec-hint" id="rec-hint"></p>
-            <div class="meter"><i id="rec-bar"></i></div>
-            <div class="rec-meta"><span id="rec-count"></span><span id="rec-acc"></span></div>
-            <p class="rec-reason" id="rec-reason"></p>
-            <button class="btn btn-primary btn-large" id="rec-start" disabled>Start · 10 questions</button>
+          <div class="glass-stage learn-stage g-grammar" id="rec-card">
+            <div class="blob b1"></div><div class="blob b2"></div><div class="blob b3"></div>
+            <div class="glass-card learn-glass">
+              <div class="lg-top"><span class="lg-label">Recommended for you</span><span class="lg-level" id="rec-level"></span></div>
+              <div class="lg-main">
+                <div class="pring lg-ring" id="rec-ring" style="--p:0"><b id="rec-pct">0%</b></div>
+                <div class="lg-text">
+                  <h2 id="rec-title">Loading…</h2>
+                  <p id="rec-hint"></p>
+                </div>
+              </div>
+              <p class="lg-reason" id="rec-reason"></p>
+              <div class="lg-actions">
+                <button class="glass-btn primary" id="rec-start" disabled>Start</button>
+                <button class="glass-btn" id="rec-lesson" aria-label="Read the rule first">Rule</button>
+              </div>
+              <div class="glass-pills">
+                <div class="glass-pill"><b id="gs-mastered">0</b><span>topics mastered</span></div>
+                <div class="glass-pill"><b id="gs-acc">–</b><span>accuracy</span></div>
+                <div class="glass-pill"><b id="gs-today">0</b><span>answers today</span></div>
+              </div>
+            </div>
           </div>
+
+          <div class="level-path" id="gram-levels" role="radiogroup" aria-label="Level"></div>
+
+          <div class="quick-row">
+            <button class="quick" id="quick-mixed"><span class="quick-icon mix"><svg viewBox="0 0 24 24"><path d="M4 7h3.5c5 0 5 10 10 10H20M4 17h3.5c1.6 0 2.7-1 3.6-2.3M20 7h-2.5c-1.6 0-2.7 1-3.6 2.3M17.500 4.500 20 7l-2.500 2.500M17.500 14.500 20 17l-2.500 2.500"/></svg></span><span class="quick-main"><b>Level mix</b><small id="quick-mixed-sub">All topics together</small></span></button>
+            <button class="quick" id="quick-mistakes"><span class="quick-icon fix"><svg viewBox="0 0 24 24"><path d="M4 12a8 8 0 1 1 2.6 5.9M4 19v-4.500h4.500"/></svg></span><span class="quick-main"><b>Fix mistakes</b><small id="quick-mistakes-sub">Nothing to fix</small></span></button>
+          </div>
+
           <div class="topics-head">
-            <h3 class="section-title">Topics</h3>
-            <div class="segmented lvl-seg" id="gram-levels" role="radiogroup" aria-label="Level"></div>
+            <h3 class="section-title" id="gram-topics-title">Topics</h3>
+            <span class="topics-meta" id="gram-topics-meta"></span>
           </div>
-          <div class="list inset gram-topics" id="gram-topics"></div>
-          <p class="footnote">A topic is mastered when 80% of its questions were last answered right. Works offline.</p>
+          <div class="topic-list" id="gram-topics"></div>
+          <div class="cat-legend" id="cat-legend"></div>
+          <p class="footnote">A topic is mastered when 80% of its questions were last answered right. Everything works offline.</p>
         </div>
 
         <div id="gram-quiz" hidden>
           <div class="quiz-top">
             <button class="nav-btn" id="quiz-end">End</button>
-            <div class="meter quiz-meter"><i id="quiz-bar"></i></div>
-            <span class="quiz-count" id="quiz-count"></span>
+            <div class="quiz-dots" id="quiz-dots" aria-hidden="true"></div>
+            <span class="quiz-streak" id="quiz-streak" hidden></span>
           </div>
-          <div class="quiz-topic" id="quiz-topic"></div>
-          <div class="card quiz-q" id="quiz-q"></div>
+          <div class="glass-stage quiz-stage" id="quiz-stage">
+            <div class="blob b1"></div><div class="blob b2"></div>
+            <div class="glass-card quiz-glass">
+              <div class="quiz-topic"><span id="quiz-topic"></span><span id="quiz-count"></span></div>
+              <div class="quiz-q" id="quiz-q"></div>
+            </div>
+          </div>
           <div class="quiz-options" id="quiz-options"></div>
-          <div class="quiz-feedback" id="quiz-feedback" hidden><b id="quiz-verdict"></b><p id="quiz-expl"></p></div>
+          <div class="quiz-feedback" id="quiz-feedback" hidden>
+            <b id="quiz-verdict"></b><p id="quiz-expl"></p>
+            <button class="feedback-link" id="quiz-rule">See the rule</button>
+          </div>
           <button class="btn btn-primary btn-large quiz-next" id="quiz-next" hidden>Continue</button>
         </div>
 
         <div id="gram-done" hidden>
           <div class="card mascot-card done-card gram-done-card">
             <div class="mascot" id="gram-done-mascot" aria-hidden="true"></div>
-            <div class="gram-score" id="gram-score"></div>
-            <p id="gram-done-text"></p>
+            <div class="score-row">
+              <div class="pring score-ring" id="gram-score-ring" style="--p:0"><b id="gram-score"></b></div>
+              <div class="score-text"><h2 id="gram-done-title"></h2><p id="gram-done-text"></p></div>
+            </div>
             <button class="btn btn-primary btn-large" id="gram-again">Practice Again</button>
             <button class="btn btn-secondary" id="gram-next-topic" hidden></button>
             <button class="btn-link" id="gram-back">All Topics</button>
           </div>
+          <div id="gram-missed" hidden>
+            <h3 class="section-title">Worth another look</h3>
+            <div class="list inset missed-list" id="gram-missed-list"></div>
+          </div>
         </div>
+      </div>
+
+      <!-- VOCAB: words to know at each level -->
+      <div id="pane-vocab" hidden>
+        <div class="glass-stage learn-stage g-vocab">
+          <div class="blob b1"></div><div class="blob b2"></div><div class="blob b3"></div>
+          <div class="glass-card learn-glass">
+            <div class="lg-top"><span class="lg-label">Words to know</span><span class="lg-level" id="vocab-level-badge"></span></div>
+            <div class="lg-main">
+              <div class="pring lg-ring" id="vocab-ring" style="--p:0"><b id="vocab-pct">0%</b></div>
+              <div class="lg-text">
+                <h2 id="vocab-title">Loading…</h2>
+                <p id="vocab-sub"></p>
+              </div>
+            </div>
+            <div class="glass-pills">
+              <div class="glass-pill"><b id="vs-added">0</b><span>in your cards</span></div>
+              <div class="glass-pill"><b id="vs-learned">0</b><span>mastered</span></div>
+              <div class="glass-pill"><b id="vs-due">0</b><span>due now</span></div>
+            </div>
+          </div>
+        </div>
+        <div class="level-path" id="vocab-levels" role="radiogroup" aria-label="Level"></div>
+        <div class="topics-head"><h3 class="section-title">Decks</h3><span class="topics-meta" id="vocab-meta"></span></div>
+        <div class="deck-grid" id="vocab-themes"></div>
+        <p class="footnote">Tap a deck to see its words and add them to your cards. Added decks become sets you can review in the Review tab.</p>
       </div>
 
       <!-- VERBS -->
@@ -367,9 +436,9 @@
       <svg viewBox="0 0 24 24"><path d="M5 4v16M10 4v16M15 5l4 15"/></svg>
       <span>Library</span>
     </button>
-    <button class="tab" data-view="grammar" role="tab" aria-label="Grammar">
+    <button class="tab" data-view="grammar" role="tab" aria-label="Learn">
       <svg viewBox="0 0 24 24"><path d="M4 5.5A1.5 1.5 0 0 1 5.5 4H11v16H5.5A1.5 1.5 0 0 1 4 18.5zM20 5.5A1.5 1.5 0 0 0 18.5 4H13v16h5.5a1.5 1.5 0 0 0 1.5-1.5z"/><path d="M6.5 8h2.5M6.5 11h2.5M15 8h2.5M15 11h2.5"/></svg>
-      <span>Grammar</span>
+      <span>Learn</span>
     </button>
     <button class="tab" data-view="profile" role="tab" aria-label="Profile">
       <img class="tab-avatar" id="tab-avatar" src="avatars/dog.webp" alt="" width="28" height="28">

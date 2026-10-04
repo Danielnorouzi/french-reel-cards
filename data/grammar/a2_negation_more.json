@@ -1,0 +1,485 @@
+{
+  "texts": [],
+  "questions": [
+    {
+      "id": "a2-negation-051",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "negation",
+      "question": "Tu fumes encore ? — Non, je ne fume ___.",
+      "options": [
+        "plus",
+        "pas encore",
+        "personne",
+        "que"
+      ],
+      "answer": 0,
+      "explanation": "Ne … plus = no longer, not any more. It is the opposite of encore, toujours (still).",
+      "textId": null
+    },
+    {
+      "id": "a2-negation-052",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "negation",
+      "question": "Tu vas souvent à la piscine ? — Non, je n’y vais ___.",
+      "options": [
+        "rien",
+        "jamais",
+        "personne",
+        "que"
+      ],
+      "answer": 1,
+      "explanation": "Ne … jamais = never. It is the opposite of toujours, souvent, parfois.",
+      "textId": null
+    },
+    {
+      "id": "a2-negation-053",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "negation",
+      "question": "Tu vois quelque chose ? — Non, je ne vois ___.",
+      "options": [
+        "personne",
+        "jamais",
+        "rien",
+        "plus"
+      ],
+      "answer": 2,
+      "explanation": "Ne … rien = nothing, not anything. It is the opposite of quelque chose, tout.",
+      "textId": null
+    },
+    {
+      "id": "a2-negation-054",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "negation",
+      "question": "Tu connais quelqu’un ici ? — Non, je ne connais ___.",
+      "options": [
+        "rien",
+        "jamais",
+        "pas encore",
+        "personne"
+      ],
+      "answer": 3,
+      "explanation": "Ne … personne = nobody, not anyone. It is the opposite of quelqu’un, tout le monde.",
+      "textId": null
+    },
+    {
+      "id": "a2-negation-055",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "negation",
+      "question": "Tu as déjà fini ? — Non, je n’ai ___ fini.",
+      "options": [
+        "pas encore",
+        "plus",
+        "personne",
+        "rien"
+      ],
+      "answer": 0,
+      "explanation": "Ne … pas encore = not yet. It is the opposite of déjà.",
+      "textId": null
+    },
+    {
+      "id": "a2-negation-056",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "negation",
+      "question": "Il habite toujours à Lyon ? — Non, il n’y habite ___.",
+      "options": [
+        "rien",
+        "plus",
+        "personne",
+        "que"
+      ],
+      "answer": 1,
+      "explanation": "Ne … plus = no longer, not any more. It is the opposite of encore, toujours (still).",
+      "textId": null
+    },
+    {
+      "id": "a2-negation-057",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "negation",
+      "question": "Tu veux quelque chose à boire ? — Non merci, je ne veux ___.",
+      "options": [
+        "personne",
+        "jamais",
+        "rien",
+        "pas encore"
+      ],
+      "answer": 2,
+      "explanation": "Ne … rien = nothing, not anything. It is the opposite of quelque chose, tout.",
+      "textId": null
+    },
+    {
+      "id": "a2-negation-058",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "negation",
+      "question": "Elle est toujours en retard ? — Non, elle n’est ___ en retard.",
+      "options": [
+        "rien",
+        "personne",
+        "que",
+        "jamais"
+      ],
+      "answer": 3,
+      "explanation": "Ne … jamais = never. It is the opposite of toujours, souvent, parfois.",
+      "textId": null
+    },
+    {
+      "id": "a2-negation-059",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "negation",
+      "question": "Il y a quelqu’un dans la salle ? — Non, il n’y a ___.",
+      "options": [
+        "personne",
+        "rien",
+        "jamais",
+        "pas encore"
+      ],
+      "answer": 0,
+      "explanation": "Ne … personne = nobody, not anyone. It is the opposite of quelqu’un, tout le monde.",
+      "textId": null
+    },
+    {
+      "id": "a2-negation-060",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "negation",
+      "question": "Le train est déjà parti ? — Non, il n’est ___ parti.",
+      "options": [
+        "personne",
+        "pas encore",
+        "rien",
+        "que"
+      ],
+      "answer": 1,
+      "explanation": "Ne … pas encore = not yet. It is the opposite of déjà.",
+      "textId": null
+    },
+    {
+      "id": "a2-negation-061",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "negation",
+      "question": "Je n’ai ___ dix euros sur moi, pas plus.",
+      "options": [
+        "pas",
+        "jamais",
+        "que",
+        "rien"
+      ],
+      "answer": 2,
+      "explanation": "Ne … que = only. It is a restriction, not a real negation, so the article does not change.",
+      "textId": null
+    },
+    {
+      "id": "a2-negation-062",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "negation",
+      "question": "Elle ne mange ___ des légumes : elle est végétarienne.",
+      "options": [
+        "pas",
+        "rien",
+        "personne",
+        "que"
+      ],
+      "answer": 3,
+      "explanation": "Ne … que = only. It is a restriction, not a real negation, so the article does not change.",
+      "textId": null
+    },
+    {
+      "id": "a2-negation-063",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "negation",
+      "question": "Il ne travaille ___ le matin, jamais l’après-midi.",
+      "options": [
+        "que",
+        "pas",
+        "rien",
+        "personne"
+      ],
+      "answer": 0,
+      "explanation": "Ne … que = only. It is a restriction, not a real negation, so the article does not change.",
+      "textId": null
+    },
+    {
+      "id": "a2-negation-064",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "negation",
+      "question": "Je ne bois ___ de café le soir, sinon je ne dors pas.",
+      "options": [
+        "rien",
+        "jamais",
+        "personne",
+        "que"
+      ],
+      "answer": 1,
+      "explanation": "Ne … jamais = never. It is the opposite of toujours, souvent, parfois.",
+      "textId": null
+    },
+    {
+      "id": "a2-negation-065",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "negation",
+      "question": "Nous n’avons ___ de pain, il faut en acheter.",
+      "options": [
+        "personne",
+        "rien",
+        "plus",
+        "que"
+      ],
+      "answer": 2,
+      "explanation": "Ne … plus = no longer, not any more. It is the opposite of encore, toujours (still).",
+      "textId": null
+    },
+    {
+      "id": "a2-negation-066",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "negation",
+      "question": "Je ne comprends ___ à cet exercice.",
+      "options": [
+        "personne",
+        "pas encore",
+        "que",
+        "rien"
+      ],
+      "answer": 3,
+      "explanation": "Ne … rien = nothing, not anything. It is the opposite of quelque chose, tout.",
+      "textId": null
+    },
+    {
+      "id": "a2-negation-067",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "negation",
+      "question": "___ ne veut venir avec moi.",
+      "options": [
+        "Personne",
+        "Rien",
+        "Jamais",
+        "Pas"
+      ],
+      "answer": 0,
+      "explanation": "Personne and rien can be the subject. They are still followed by ne: personne ne…, rien ne…",
+      "textId": null
+    },
+    {
+      "id": "a2-negation-068",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "negation",
+      "question": "___ ne marche dans cette maison !",
+      "options": [
+        "Personne",
+        "Rien",
+        "Jamais",
+        "Pas"
+      ],
+      "answer": 1,
+      "explanation": "Personne and rien can be the subject. They are still followed by ne: personne ne…, rien ne…",
+      "textId": null
+    },
+    {
+      "id": "a2-negation-069",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "negation",
+      "question": "___ n’est parfait.",
+      "options": [
+        "Rien de",
+        "Jamais",
+        "Personne",
+        "Pas"
+      ],
+      "answer": 2,
+      "explanation": "Personne and rien can be the subject. They are still followed by ne: personne ne…, rien ne…",
+      "textId": null
+    },
+    {
+      "id": "a2-negation-070",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "negation",
+      "question": "___ n’a changé depuis dix ans.",
+      "options": [
+        "Personne de",
+        "Jamais",
+        "Plus",
+        "Rien"
+      ],
+      "answer": 3,
+      "explanation": "Personne and rien can be the subject. They are still followed by ne: personne ne…, rien ne…",
+      "textId": null
+    },
+    {
+      "id": "a2-negation-071",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "negation",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "Je n’ai rien mangé.",
+        "Je n’ai mangé rien.",
+        "Je ne rien ai mangé.",
+        "J’ai ne rien mangé."
+      ],
+      "answer": 0,
+      "explanation": "In the passé composé, ne and pas (plus, jamais, rien) go around the auxiliary: je n’ai pas vu. But personne goes after the past participle.",
+      "textId": null
+    },
+    {
+      "id": "a2-negation-072",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "negation",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "Je n’ai personne vu.",
+        "Je n’ai vu personne.",
+        "Je ne personne ai vu.",
+        "J’ai ne vu personne."
+      ],
+      "answer": 1,
+      "explanation": "In the passé composé, ne and pas (plus, jamais, rien) go around the auxiliary: je n’ai pas vu. But personne goes after the past participle.",
+      "textId": null
+    },
+    {
+      "id": "a2-negation-073",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "negation",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "Elle n’est allée jamais à Paris.",
+        "Elle ne jamais est allée à Paris.",
+        "Elle n’est jamais allée à Paris.",
+        "Elle est n’allée jamais à Paris."
+      ],
+      "answer": 2,
+      "explanation": "In the passé composé, ne and pas (plus, jamais, rien) go around the auxiliary: je n’ai pas vu. But personne goes after the past participle.",
+      "textId": null
+    },
+    {
+      "id": "a2-negation-074",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "negation",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "Nous n’avons mangé pas encore.",
+        "Nous ne pas encore avons mangé.",
+        "Nous avons ne pas encore mangé.",
+        "Nous n’avons pas encore mangé."
+      ],
+      "answer": 3,
+      "explanation": "In the passé composé, ne and pas (plus, jamais, rien) go around the auxiliary: je n’ai pas vu. But personne goes after the past participle.",
+      "textId": null
+    },
+    {
+      "id": "a2-negation-075",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "negation",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "Il préfère ne pas sortir ce soir.",
+        "Il préfère ne sortir pas ce soir.",
+        "Il préfère pas ne sortir ce soir.",
+        "Il ne préfère sortir pas ce soir."
+      ],
+      "answer": 0,
+      "explanation": "To make an infinitive negative, put ne pas together in front of it: ne pas fumer.",
+      "textId": null
+    },
+    {
+      "id": "a2-negation-076",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "negation",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "Merci de ne fumer pas ici.",
+        "Merci de ne pas fumer ici.",
+        "Merci de pas ne fumer ici.",
+        "Merci ne de pas fumer ici."
+      ],
+      "answer": 1,
+      "explanation": "To make an infinitive negative, put ne pas together in front of it: ne pas fumer.",
+      "textId": null
+    },
+    {
+      "id": "a2-negation-077",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "negation",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "Je ne vais venir pas demain.",
+        "Je vais ne pas venir demain.",
+        "Je ne vais pas venir demain.",
+        "Je vais ne venir pas demain."
+      ],
+      "answer": 2,
+      "explanation": "With aller + infinitive, ne … pas goes around the conjugated verb aller: je ne vais pas venir.",
+      "textId": null
+    },
+    {
+      "id": "a2-negation-078",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "negation",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "Tu ne peux entrer pas.",
+        "Tu peux ne entrer pas.",
+        "Tu pas ne peux entrer.",
+        "Tu ne peux pas entrer."
+      ],
+      "answer": 3,
+      "explanation": "With pouvoir, vouloir, devoir + infinitive, ne … pas goes around the conjugated verb: tu ne peux pas entrer.",
+      "textId": null
+    },
+    {
+      "id": "a2-negation-079",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "negation",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "Je ne me lève pas tôt.",
+        "Je me ne lève pas tôt.",
+        "Je ne lève me pas tôt.",
+        "Je me lève ne pas tôt."
+      ],
+      "answer": 0,
+      "explanation": "With a reflexive verb, ne goes before the reflexive pronoun: je ne me lève pas.",
+      "textId": null
+    },
+    {
+      "id": "a2-negation-080",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "negation",
+      "question": "Choisis la phrase correcte :",
+      "options": [
+        "Je le ne connais pas.",
+        "Je ne le connais pas.",
+        "Je ne connais le pas.",
+        "Je ne connais pas le."
+      ],
+      "answer": 1,
+      "explanation": "Ne goes before an object pronoun: je ne le connais pas.",
+      "textId": null
+    }
+  ]
+}
