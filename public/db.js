@@ -47,5 +47,34 @@ export const db = {
     });
   },
   getMeta: key => tx('meta', 'readonly', s => req2p(s.get(key))),
-  setMeta: (key, val) => tx('meta', 'readwrite', s => req2p(s.put(val, key)))
+  setMeta: (key, val) => tx('meta', 'readwrite', s => req2p(s.put(val, key))),
+
+  // ---- backup and restore (see backup.js) ----
+  // Everything a backup carries: all cards plus the listed settings.
+  async snapshot(keys) {
+    const d = await open();
+    return new Promise((resolve, reject) => {
+      const t = d.transaction(['cards', 'meta'], 'readonly');
+      const out = { cards: [], meta: {} };
+      t.objectStore('cards').getAll().onsuccess = e => { out.cards = e.target.result; };
+      for (const k of keys) t.objectStore('meta').get(k).onsuccess = e => { if (e.target.result !== undefined) out.meta[k] = e.target.result; };
+      t.oncomplete = () => resolve(out);
+      t.onerror = t.onabort = () => reject(t.error);
+    });
+  },
+  // Replaces the cards and the listed settings in ONE transaction: it either all happens or nothing changes.
+  // `extra` holds other settings to write (or remove, when the value is undefined) in the same step.
+  async replaceAll({ cards, meta }, keys, extra = {}) {
+    const d = await open();
+    return new Promise((resolve, reject) => {
+      const t = d.transaction(['cards', 'meta'], 'readwrite');
+      const c = t.objectStore('cards'), m = t.objectStore('meta');
+      c.clear();
+      for (const card of cards) c.put(card);
+      for (const k of keys) { if (meta[k] === undefined) m.delete(k); else m.put(meta[k], k); }
+      for (const [k, v] of Object.entries(extra)) { if (v === undefined) m.delete(k); else m.put(v, k); }
+      t.oncomplete = () => resolve();
+      t.onerror = t.onabort = () => reject(t.error);
+    });
+  }
 };

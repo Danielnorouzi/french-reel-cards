@@ -1017,3 +1017,16 @@ body.selecting .starter { display: none; }
   .topic, .deck, .opt { animation: none; }
   .pring { transition: none; }
 }
+
+/* ---------- backup & restore ---------- */
+.bk-card { background: var(--card); border-radius: 16px; box-shadow: var(--shadow); padding: 14px 16px 16px; margin: 4px 0 12px; }
+.bk-title { display: block; font-size: 17px; font-weight: 600; }
+.bk-sub { display: block; font-size: 13px; color: var(--label-2); margin-top: 2px; overflow-wrap: anywhere; }
+.bk-nums { display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px 8px; margin-top: 14px; }
+.bk-nums b { display: block; font-size: 22px; font-weight: 700; letter-spacing: 0.2px; font-variant-numeric: tabular-nums; }
+.bk-nums span { font-size: 12px; color: var(--label-2); font-weight: 500; }
+.bk-fields { margin-bottom: 0; }
+.bk-actions { display: flex; flex-direction: column; gap: 10px; margin: 16px 0 4px; }
+.bk-actions .btn:disabled { opacity: 0.5; }
+.bk-error { font-size: 14px; color: var(--red); margin: 10px 16px 0; line-height: 1.4; }
+.settings .row-main .row-sub { font-size: 13px; }

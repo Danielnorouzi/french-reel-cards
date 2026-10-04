@@ -1,7 +1,7 @@
 // Offline support. Each release is cached as ONE complete set of files, so the app never mixes
 // a new page with an old stylesheet. Bump VERSION with every release.
-const VERSION = 'reel-cards-v11';
-const SHELL = ['./', 'index.html', 'styles.css', 'app.js', 'db.js', 'sm2.js', 'anki.js', 'grammar.js', 'grammar.json', 'vocab.json', 'manifest.webmanifest',
+const VERSION = 'reel-cards-v12';
+const SHELL = ['./', 'index.html', 'styles.css', 'app.js', 'db.js', 'sm2.js', 'anki.js', 'backup.js', 'grammar.js', 'grammar.json', 'vocab.json', 'manifest.webmanifest',
   'icons/apple-touch-icon.png', 'icons/icon-192.png', 'icons/icon-512.png',
   'avatars/dog.webp', 'avatars/penguin.webp', 'avatars/seal.webp', 'avatars/bunny.webp', 'avatars/panda.webp', 'avatars/duck.webp',
   'art/coffee.webp', 'art/standing.webp', 'art/sleeping.webp', 'art/cool.webp', 'art/belly.webp'];

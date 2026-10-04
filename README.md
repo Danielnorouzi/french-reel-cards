@@ -35,6 +35,18 @@ Learn: Grammar quizzes (A1–C1, picked for your level) + Vocab decks by level +
 , built by `scripts/build-data.mjs`): about 385,000 French word forms, each mapped to its dictionary form, part of speech, noun gender, and a short English meaning.
 * **App** (`public/`): vanilla JS, no build step. The system font, frosted bars, a bottom tab bar, and automatic light/dark mode. A service worker caches the app so reviewing works offline.
 
+## Backup and moving your data
+
+Everything you make lives in the browser's storage for one address, so a new phone, a new browser, or a move from one address to another (say Render to your own server) starts empty. **Profile → Back Up This Phone** saves one file with all of it:
+
+* every card with its review schedule (ease, interval, due date), and your sets
+* the activity log behind the streak, heatmap and all-time stats
+* grammar progress, your profile, and settings such as review direction
+
+**Profile → Restore from a Backup** reads the file on the other side. It shows what is in the file next to what is on the phone, then either **merges** (adds new words, keeps whichever copy of a shared word was reviewed more recently, joins sets with the same name, never counts a day or a grammar answer twice) or **replaces** everything. The last restore can be undone from the same screen.
+
+A backup can be locked with a password: AES-256-GCM with a key from PBKDF2-SHA256 (600,000 rounds), done in the browser. A forgotten password cannot be recovered. Password locking needs an https address (or localhost). The Shortcut inbox code is not in a backup, because it belongs to one phone and one address. Code: `public/backup.js`; tests: `test/backup.test.js`.
+
 ## Run locally
 
 Requires Node 20+, `ffmpeg`, and `tesseract` with French data (`tesseract-ocr-fra`).

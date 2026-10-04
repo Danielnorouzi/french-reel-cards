@@ -1,6 +1,7 @@
 import { db } from './db.js';
 import { schedule, preview, newCardState, formatInterval } from './sm2.js';
 import { toAnkiCsv, article, frontText, posLabel } from './anki.js';
+import { BACKUP_KEYS, MAX_BACKUP_BYTES, BackupError, buildBackup, backupFileName, backupToText, lockBackup, unlockBackup, readBackup, sanitizeData, summarize, isEmptyData, mergeData } from './backup.js';
 import { recommend, topicProgress, levelProgress, mistakes, pickQuestions, pickMixed, pickMistakes, shuffleOptions, record, levelCode, nearestLevel, MASTERED } from './grammar.js';
 
 const $ = sel => document.querySelector(sel);
@@ -1708,6 +1709,7 @@ function renderProfile() {
   $('#pf-name').value = p.name; $('#pf-age').value = p.age; $('#pf-native').value = p.native;
   $('#pf-level').value = p.level; $('#pf-goal').value = String(goal); $('#pf-location').value = p.location; $('#pf-why').value = p.why;
   renderHeatmap();
+  renderBackupRow();
 }
 
 // GitHub-style grid: one column per week (Sun→Sat), newest week on the right, sized to fit the phone.
@@ -1804,6 +1806,193 @@ async function exportCsv() {
 }
 $('#export-btn').addEventListener('click', exportCsv);
 $('#export-btn-2').addEventListener('click', exportCsv);
+
+// ---------------------------------------------------------------- backup & restore
+// One file carries the cards, sets, review schedule, activity (streak, heatmap, stats),
+// grammar progress, profile and settings. The file format and the merge rules live in backup.js.
+const fmtDate = t => new Date(t).toLocaleDateString(undefined, { day: 'numeric', month: 'short', year: 'numeric' });
+function daysAgo(t) {
+  const a = new Date(t), b = new Date(); a.setHours(12, 0, 0, 0); b.setHours(12, 0, 0, 0);
+  const n = Math.round((b - a) / 86_400_000);
+  return n <= 0 ? 'today' : n === 1 ? 'yesterday' : `${n} days ago`;
+}
+async function renderBackupRow() {
+  const last = await db.getMeta('lastBackup');
+  $('#backup-last').textContent = last?.at ? `Last backup: ${daysAgo(last.at)}` : 'Never backed up';
+}
+const summaryCard = (title, sub, s) => `
+  <div class="bk-card"><b class="bk-title">${esc(title)}</b>${sub ? `<span class="bk-sub">${esc(sub)}</span>` : ''}
+    <div class="bk-nums">
+      <div><b>${s.cards.toLocaleString()}</b><span>card${s.cards === 1 ? '' : 's'}</span></div>
+      <div><b>${s.sets.toLocaleString()}</b><span>set${s.sets === 1 ? '' : 's'}</span></div>
+      <div><b>${s.mastered.toLocaleString()}</b><span>mastered</span></div>
+      <div><b>${s.daysStudied.toLocaleString()}</b><span>day${s.daysStudied === 1 ? '' : 's'} studied</span></div>
+      <div><b>${s.reviews.toLocaleString()}</b><span>review${s.reviews === 1 ? '' : 's'}</span></div>
+      <div><b>${s.grammarAnswers.toLocaleString()}</b><span>quiz answers</span></div>
+    </div></div>`;
+
+// Hands a file to the iOS share sheet (Save to Files, AirDrop, Mail…) or downloads it elsewhere.
+// Must be called straight from a tap. Returns false when the person cancelled.
+async function saveFile(file, title) {
+  if (navigator.canShare?.({ files: [file] })) {
+    try { await navigator.share({ files: [file], title }); return true; }
+    catch (e) { if (e.name === 'AbortError') return false; }
+  }
+  const a = Object.assign(document.createElement('a'), { href: URL.createObjectURL(file), download: file.name });
+  document.body.append(a); a.click(); a.remove();
+  setTimeout(() => URL.revokeObjectURL(a.href), 5000);
+  return true;
+}
+
+async function openBackup() {
+  haptic();
+  const backup = buildBackup(await db.snapshot(BACKUP_KEYS), { from: location.host });
+  const name = backupFileName(backup.createdAt);
+  openSheet('Back Up', `
+    ${summaryCard('What this backup holds', profile.name ? `${profile.name}’s cards, progress and profile` : 'Your cards, progress and profile', backup.summary)}
+    <h3>Password (optional)</h3>
+    <div class="list inset about bk-fields">
+      <label class="row field-row"><span class="row-main">Password</span><input id="bk-pass" type="password" autocomplete="new-password" autocapitalize="off" placeholder="None"></label>
+      <label class="row field-row" id="bk-pass2-row" hidden><span class="row-main">Repeat it</span><input id="bk-pass2" type="password" autocomplete="new-password" autocapitalize="off" placeholder="Same password"></label>
+    </div>
+    <p class="bk-error" id="bk-error" hidden></p>
+    <p class="note">With a password the file is locked (AES-256) and cannot be read without it. A forgotten password cannot be recovered, so leave this empty if you would rather not risk it.</p>
+    <div class="bk-actions"><button class="btn btn-primary" id="bk-save">Save Backup File</button></div>
+    <p class="note">Keep the file somewhere safe, such as Files, iCloud Drive or an email to yourself. To move to another phone or address, open the app there and choose Profile → Restore from a Backup.</p>`);
+  const pass = $('#bk-pass'), pass2 = $('#bk-pass2'), btn = $('#bk-save'), err = $('#bk-error');
+  let ready = null; // a locked file, built on the first tap and saved on the second
+  const fail = msg => { err.textContent = msg; err.hidden = false; };
+  const reset = () => {
+    ready = null; err.hidden = true;
+    $('#bk-pass2-row').hidden = !pass.value;
+    btn.textContent = pass.value ? 'Lock Backup' : 'Save Backup File';
+  };
+  pass.addEventListener('input', reset);
+  pass2.addEventListener('input', reset);
+  btn.addEventListener('click', async () => {
+    haptic();
+    let file = ready;
+    if (!file && pass.value) {
+      if (pass.value.length < 4) return fail('Use at least 4 characters.');
+      if (pass.value !== pass2.value) return fail('The two passwords do not match.');
+      btn.disabled = true; btn.textContent = 'Locking…';
+      try {
+        ready = new File([backupToText(await lockBackup(backup, pass.value))], name, { type: 'application/json' });
+        btn.textContent = 'Save Locked Backup';   // the share sheet needs a fresh tap after the slow locking step
+      } catch (e) { fail(e.message || 'Could not lock the backup.'); btn.textContent = 'Lock Backup'; }
+      btn.disabled = false;
+      return;
+    }
+    file ||= new File([backupToText(backup)], name, { type: 'application/json' });
+    if (!await saveFile(file, 'Reel Cards backup')) return;
+    await db.setMeta('lastBackup', { at: Date.now(), cards: backup.summary.cards });
+    renderBackupRow();
+    closeSheet();
+    toast(`Backup saved: ${backup.summary.cards} card${backup.summary.cards === 1 ? '' : 's'}`);
+  });
+}
+$('#open-backup').addEventListener('click', openBackup);
+
+async function openRestore() {
+  haptic();
+  const before = await db.getMeta('beforeRestore');
+  openSheet('Restore', `
+    <p class="note" style="margin-top:4px">Choose a backup file made with Back Up This Phone. You will see what is inside before anything changes.</p>
+    <div class="bk-actions">
+      <label class="btn btn-primary" for="restore-file">Choose Backup File</label>
+      ${before ? '<button class="btn btn-secondary" id="rs-undo">Undo Last Restore</button>' : ''}
+    </div>
+    <p class="bk-error" id="bk-error" hidden></p>
+    ${before ? `<p class="note">Undo puts back the ${before.data.cards.length} card${before.data.cards.length === 1 ? '' : 's'} and stats that were on this phone before the restore on ${fmtDate(before.at)}.</p>` : ''}
+    <input type="file" id="restore-file" accept=".json,application/json,text/plain" hidden>`);
+  $('#restore-file').addEventListener('change', async e => {
+    const f = e.target.files[0];
+    e.target.value = '';
+    if (!f) return;
+    try {
+      if (f.size > MAX_BACKUP_BYTES) throw new BackupError('That file is too large to be a Reel Cards backup.');
+      const read = readBackup(await f.text());
+      if (read.locked) askPassword(read.file); else showRestoreChoice(read.backup);
+    } catch (err) {
+      const el = $('#bk-error');
+      if (el) { el.textContent = err instanceof BackupError ? err.message : 'Could not read that file.'; el.hidden = false; }
+    }
+  });
+  $('#rs-undo')?.addEventListener('click', async e => {
+    const b = e.currentTarget;
+    if (!b.dataset.confirm) { b.dataset.confirm = '1'; b.textContent = 'Tap again to undo'; haptic(); return; }
+    await db.replaceAll(before.data, BACKUP_KEYS, { beforeRestore: undefined });
+    reloadAfterRestore('Restore undone');
+  });
+}
+$('#open-restore').addEventListener('click', openRestore);
+
+function askPassword(file) {
+  openSheet('Restore', `
+    <p class="note" style="margin-top:4px">This backup from ${fmtDate(file.createdAt)} is locked with a password.</p>
+    <form id="rs-unlock">
+      <div class="list inset about bk-fields" style="margin-top:14px">
+        <label class="row field-row"><span class="row-main">Password</span><input id="rs-pass" type="password" autocomplete="off" autocapitalize="off" placeholder="Enter password"></label>
+      </div>
+      <p class="bk-error" id="bk-error" hidden></p>
+      <div class="bk-actions"><button class="btn btn-primary" id="rs-open">Unlock</button></div>
+    </form>`);
+  setTimeout(() => $('#rs-pass')?.focus(), 350);
+  $('#rs-unlock').addEventListener('submit', async e => {
+    e.preventDefault();
+    const btn = $('#rs-open'), err = $('#bk-error');
+    err.hidden = true; btn.disabled = true; btn.textContent = 'Unlocking…';
+    try { showRestoreChoice(await unlockBackup(file, $('#rs-pass').value)); }
+    catch (x) {
+      err.textContent = x instanceof BackupError ? x.message : 'Could not open that backup.'; err.hidden = false;
+      btn.disabled = false; btn.textContent = 'Unlock';
+    }
+  });
+}
+
+async function showRestoreChoice(backup) {
+  const mine = sanitizeData(await db.snapshot(BACKUP_KEYS));
+  const empty = isEmptyData(mine);
+  const from = [backup.createdAt ? fmtDate(backup.createdAt) : '', backup.from, backup.summary.name].filter(Boolean).join(' · ');
+  const merged = empty ? null : mergeData(mine, backup.data);
+  openSheet('Restore', `
+    ${summaryCard('In the backup', from, backup.summary)}
+    ${empty ? '' : summaryCard('On this phone now', '', summarize(mine))}
+    <div class="bk-actions">
+      ${empty ? '<button class="btn btn-primary" data-mode="replace" data-sure="1">Restore This Backup</button>' : `
+      <button class="btn btn-primary" data-mode="merge" data-sure="1">Merge with This Phone</button>
+      <button class="btn btn-danger" data-mode="replace">Replace This Phone</button>`}
+    </div>
+    <p class="bk-error" id="bk-error" hidden></p>
+    ${empty ? '<p class="note">Your cards, review schedule, streak, stats, grammar progress and profile come back exactly as they were.</p>' : `
+    <p class="note"><b>Merge</b> keeps everything on this phone and adds the backup: ${merged.report.added} new card${merged.report.added === 1 ? '' : 's'}, ${merged.report.updated} updated with newer progress. Nothing is counted twice.</p>
+    <p class="note"><b>Replace</b> removes what is on this phone and puts the backup in its place.</p>
+    <p class="note">Either way you can undo it afterwards from this screen.</p>`}`);
+  for (const b of $$('#sheet-body [data-mode]')) b.addEventListener('click', async () => {
+    haptic();
+    if (!b.dataset.sure) { b.dataset.sure = '1'; b.textContent = `Tap again to replace ${mine.cards.length} card${mine.cards.length === 1 ? '' : 's'}`; return; }
+    for (const x of $$('#sheet-body [data-mode]')) x.disabled = true;
+    try {
+      const data = b.dataset.mode === 'merge' ? merged.data : backup.data;
+      // the previous state is kept in the same step, so a restore can always be undone
+      await db.replaceAll(data, BACKUP_KEYS, { beforeRestore: empty ? undefined : { at: Date.now(), data: mine } });
+      reloadAfterRestore(b.dataset.mode === 'merge' ? `Merged: ${merged.report.added} new, ${merged.report.updated} updated` : `Restored ${data.cards.length} card${data.cards.length === 1 ? '' : 's'}`);
+    } catch {
+      $('#bk-error').textContent = 'Could not restore. Nothing on this phone was changed.'; $('#bk-error').hidden = false;
+      for (const x of $$('#sheet-body [data-mode]')) x.disabled = false;
+    }
+  });
+}
+
+// Every screen keeps its own copy of the data, so the simplest correct refresh is to start the app again.
+function reloadAfterRestore(message) {
+  try { sessionStorage.setItem('rc-flash', message); } catch {}
+  location.replace(`${location.pathname}?tab=profile`);
+}
+try {
+  const flash = sessionStorage.getItem('rc-flash');
+  if (flash) { sessionStorage.removeItem('rc-flash'); setTimeout(() => toast(flash), 700); }
+} catch {}
 
 // ---------------------------------------------------------------- boot
 document.addEventListener('visibilitychange', () => {
